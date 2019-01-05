@@ -1,0 +1,31 @@
+# THIS IS ONLY FOR THE gitattributes REPOSITORY.
+# Handle line endings automatically for files detected as text
+# and leave all files detected as binary untouched.
+* text=auto
+
+
+# Declare files that will always have CRLF line endings on checkout.
+*.cfm text eol=crlf
+
+
+# These files are text and should be normalized (Convert crlf => lf)
+*.md      text
+*.txt     text
+*.xml     text
+*.gitattributes text
+
+
+# Some binary file types for completeness
+# (binary is a macro for -text -diff)
+*.dll     binary
+*.gif     binary
+*.jpg     binary
+*.png     binary
+
+
+# handle swf's and swc's as binaries #
+## stackoverflow.com/questions/1529178/git-flash-builder-workflow-how-do-i-set-it-up-so-git-works-smoothly
+
+*.swf -crlf -diff -merge
+*.swc -crlf -diff -merge
+*.fla -crlf -diff -merge

@@ -1296,9 +1296,14 @@ staticData = {
 	weblink="",
 	catids="-6-",
 	instaid="k_evinn1"
+},
+"UC4yHZ2ki_ja39O2yw2YcfFg"	= {
+	name="Pyro 4 Swiss",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid=""
 }
-
-
 
 
 

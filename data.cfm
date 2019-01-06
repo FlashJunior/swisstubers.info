@@ -975,13 +975,6 @@ staticData = {
 	catids="-4-6-",
 	instaid=""
 },
-"UCCRaD69AaGoytnOL_t0gy7A"	= {
-	name="Comewithus2",			realname="Steffi Rickenbacher + Lui Eigenmann",
-	ytlink="",
-	weblink="",
-	catids="-1-6-",
-	instaid="comewithus_2"
-},
 "UCwAZ_nA7qn3vM7AOfeuGtBQ"	= {
 	name="Sibuna",			realname="Tina",
 	ytlink="",
@@ -1303,6 +1296,13 @@ staticData = {
 	weblink="",
 	catids="-6-",
 	instaid=""
+},
+"UCTB7mdyAxm8jF97cSuVxDpA"	= {
+	name="Dabu Fantastic",			realname="Andreas Christen + David Bucher",
+	ytlink="",
+	weblink="http://dabufantastic.ch",
+	catids="-8-",
+	instaid="dabufantastic"
 }
 
 
@@ -1324,6 +1324,7 @@ catArr = [
 ];
 
 /*
+	Nicht mehr aktiv:
 	"UCuBPFpQiBA3JIcf04EW-BDA"	= {
 		name="Tama Gotcha!",		realname="",
 		ytlink="",
@@ -1331,14 +1332,21 @@ catArr = [
 		catids="-6-",
 		instaid="tamavakeesan"
 	},
-
-
 	"UCXBDJcHUcmllf5KBnMgAYGw"	= {
 		name="Dr Loosli",			realname="Raphael Loosli",
 		ytlink="",
 		weblink="",
 		catids="-5-6-",
 		instaid="dr_loosli"
+	},
+
+	Zu wenige schweizerdeutsche Inhalte. Diverse negative Kommentare aus Community.
+	"UCCRaD69AaGoytnOL_t0gy7A"	= {
+		name="Comewithus2",			realname="Steffi Rickenbacher + Lui Eigenmann",
+		ytlink="",
+		weblink="",
+		catids="-1-6-",
+		instaid="comewithus_2"
 	},
 
 */

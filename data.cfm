@@ -1363,9 +1363,23 @@ staticData = {
 "UCbhDgbUaz5ewSsPMbleH3_Q"	= {
 	name="Ben Vatter",			realname="",
 	ytlink="",
-	weblink="https://www.benvatter.ch/",
+	weblink="https://www.benvatter.ch",
 	catids="-6-8-",
 	instaid=""
+},
+"UCma9AvfSLu-FA8MiTI0RNVw"	= {
+	name="AlpenwelleTV",			realname="",
+	ytlink="https://www.youtube.com/AlpenwelleTV",
+	weblink="https://www.alpen-welle.ch",
+	catids="-8-",
+	instaid=""
+},
+"UCvuahW9sp03KGfjRUpiK4eQ"	= {
+	name="Andy Krainer",			realname="Andreas",
+	ytlink="",
+	weblink="http://www.andy-krainer.ch",
+	catids="-8-",
+	instaid="andykrainer_official"
 }
 
 

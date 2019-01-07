@@ -1415,6 +1415,13 @@ staticData = {
 	weblink="http://www.serej.ch",
 	catids="-8-",
 	instaid=""
+},
+"UCJ1UM2kHsiLPcl0NemPJYlw"	= {
+	name="Boys on Pills",			realname="Baze, Elwont aka Jonny Bunko, DJ Kermit, J-Steel",
+	ytlink="https://www.youtube.com/BoysOnPills",
+	weblink="https://www.facebook.com/boysonpills/",
+	catids="-8-",
+	instaid=""
 }
 
 

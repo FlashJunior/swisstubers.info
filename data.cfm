@@ -1380,6 +1380,41 @@ staticData = {
 	weblink="http://www.andy-krainer.ch",
 	catids="-8-",
 	instaid="andykrainer_official"
+},
+"UCZa_rf6y8z442aGYKYpVArw"	= {
+	name="Dachs",			realname="",
+	ytlink="",
+	weblink="https://www.dachsmusic.ch",
+	catids="-8-",
+	instaid="dachsmusic"
+},
+"UCbM_9KX2NGACuHvGP2LpZCg"	= {
+	name="MinKing",			realname="",
+	ytlink="",
+	weblink="https://minking.ch",
+	catids="-8-",
+	instaid=""
+},
+"UCcpH6cLpZNdYkCv_jiaWIIA"	= {
+	name="Trummer",			realname="",
+	ytlink="",
+	weblink="http://trummeronline.ch",
+	catids="-8-",
+	instaid="trummeronline"
+},
+"UCv8c4VvKK2Lrm3eYL-rwutg"	= {
+	name="EquipeMusic",			realname="",
+	ytlink="https://www.youtube.com/equipemusic",
+	weblink="http://www.equipemusic.ch",
+	catids="-8-",
+	instaid=""
+},
+"UC9XMXSvNxGsKMbe5QdS0D6Q"	= {
+	name="SerejTV",			realname="",
+	ytlink="",
+	weblink="http://www.serej.ch",
+	catids="-8-",
+	instaid=""
 }
 
 

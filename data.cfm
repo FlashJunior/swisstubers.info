@@ -1303,6 +1303,69 @@ staticData = {
 	weblink="http://dabufantastic.ch",
 	catids="-8-",
 	instaid="dabufantastic"
+},
+"UCgKdJa3jLABiNkexYHaTkzg"	= {
+	name="Trauffer",			realname="Marc A. Trauffer",
+	ytlink="https://www.youtube.com/TraufferVEVO",
+	weblink="http://www.trauffermusic.ch",
+	catids="-8-",
+	instaid="trauffer_official"
+},
+"UCK0mkfVi-BxhbQTNvZs5t1Q"	= {
+	name="Schwiizergoofe",			realname="Nikol Camenzind",
+	ytlink="https://www.youtube.com/SchwiizergoofeTV",
+	weblink="http://www.schwiizergoofe.ch",
+	catids="-8-",
+	instaid="schwiizergoofe"
+},
+"UCxevfQbf-z0J01OSnbUNjbw"	= {
+	name="Heinz de Specht",			realname="Christian Weiss, Daniel Schaub, Roman Riklin",
+	ytlink="https://www.youtube.com/heinzdespecht",
+	weblink="https://www.heinzdespecht.ch",
+	catids="-8-",
+	instaid="heinzdespecht"
+},
+"UCjrbBT41Yd4URIhUqTah3-g"	= {
+	name="Grüezi TV",			realname="",
+	ytlink="",
+	weblink="https://www.gruezimusic.ch",
+	catids="-8-",
+	instaid=""
+},
+"UCyinoUo87Yvl8ceMUf5fQ4w"	= {
+	name="JeansForJesus",			realname="Michael Egger, Philippe Gertsch, Demian Jakob, Marcel Kägi",
+	ytlink="",
+	weblink="https://www.jeansforjesus.net",
+	catids="-8-",
+	instaid="jeans4jesus"
+},
+"UC5Yi45Une921Ntq4Q_euTpQ"	= {
+	name="Kummerbuben",			realname="Simon Jäggi + Urs Gilgen",
+	ytlink="https://www.youtube.com/kummerbuben",
+	weblink="https://www.kummerbuben.com",
+	catids="-8-",
+	instaid="kummerbuben"
+},
+"UCQYFGYAc-cRTl0a0c9SxosQ"	= {
+	name="M Melker",			realname="Gaviões, Philipp Schlotte, Marco, Fred Bürki",
+	ytlink="",
+	weblink="http://www.melker.rocks",
+	catids="-8-",
+	instaid=""
+},
+"UCinxAWhCEJT3-SRSll55mmw"	= {
+	name="Troubas Kater",			realname="Markus Sollberger, Matthias Urech, Alexander Balajew, Jürg Lerch, Kaspar Eggimann, Mark Oberholzer, Simon Hirsiger, Lukas Wyss",
+	ytlink="https://www.youtube.com/hansjoggeli",
+	weblink="https://www.troubaskater.ch",
+	catids="-8-",
+	instaid="troubaskater"
+},
+"UCbhDgbUaz5ewSsPMbleH3_Q"	= {
+	name="Ben Vatter",			realname="",
+	ytlink="",
+	weblink="https://www.benvatter.ch/",
+	catids="-6-8-",
+	instaid=""
 }
 
 

@@ -1422,6 +1422,48 @@ staticData = {
 	weblink="https://www.facebook.com/boysonpills/",
 	catids="-8-",
 	instaid=""
+},
+"UC_ob8wa5LQHud8MCgiQA0vA"	= {
+	name="K-Direct Music",			realname="",
+	ytlink="https://www.youtube.com/ktelmusic",
+	weblink="https://www.k-directmusic.com",
+	catids="-8-",
+	instaid=""
+},
+"UCZh09i2x6EQrTZUQxUZHZSg"	= {
+	name="Milena Patagônia",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-8-",
+	instaid="lamilenalamilena"
+},
+"UCzPjs7IBa27ZkPbejtqLyhA"	= {
+	name="Landro",			realname="",
+	ytlink="https://www.youtube.com/LucaLandro",
+	weblink="https://landro.ch",
+	catids="-8-",
+	instaid="lucalandro"
+},
+"UCYDWTpWlHokxFwcltUt5_CA"	= {
+	name="Guy Mandon",			realname="Lucien Montandon",
+	ytlink="",
+	weblink="https://www.guymandon.com",
+	catids="-8-",
+	instaid="guy_mandon"
+},
+"UCHbFGKUYr64TnQktXCglehQ"	= {
+	name="ZID Music",			realname="",
+	ytlink="",
+	weblink="https://zidmusic.bandcamp.com",
+	catids="-8-",
+	instaid="zidmusic"
+},
+"UChmJQggtcshsOlkBZW2CDxQ"	= {
+	name="Zytglogge",			realname="",
+	ytlink="",
+	weblink="http://www.zytglogge.ch",
+	catids="-8-",
+	instaid=""
 }
 
 

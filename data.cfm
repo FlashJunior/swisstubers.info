@@ -1586,6 +1586,34 @@ staticData = {
 	subcount={	2015=0,2016=0,2017=0,	2018=332},
 	viewscount={2015=0,2016=0,2017=0,	2018=6727}
 },
+"UCRPBea57-0VCMhIYsMbp8gA"	= {
+	name="TelliRecords",		realname="",
+	ytlink="https://www.youtube.com/TelliRecords",
+	weblink="https://fratelli-b.ch",
+	catids="-8-",
+	instaid="fratellib",
+	subcount={	2015=1713,		2016=2073,		2017=2285,		2018=2771},
+	viewscount={2015=922603,	2016=1244181,	2017=1486587,	2018=1846976}
+},
+"UCCQXmMV34CCiJbE0iJGwcOQ"	= {
+	name="Arnold in Action TV",		realname="",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="arnold_in_action_tv",
+	subcount={	2015=0,	2016=52,	2017=73,	2018=137},
+	viewscount={2015=0,	2016=682,	2017=7158,	2018=5070}
+},
+"UCw3Z24Lx397XyWd88Hqu7lg"	= {
+	name="FlipTastisch",		realname="",
+	ytlink="",
+	weblink="http://fliptastisch.wixsite.com/fliptastisch",
+	catids="-6-",
+	instaid="fliptastisch",
+	subcount={	2015=292,	2016=347,	2017=373,	2018=391},
+	viewscount={2015=30676,	2016=47608,	2017=65453,	2018=89204}
+},
+
 
 
 

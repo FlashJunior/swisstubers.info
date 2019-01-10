@@ -1617,7 +1617,44 @@ staticData = {
 
 
 
-
+"UCTOEQt8_bqJPxd88eJ_sTkA"	= {
+	name="René Schudel",		realname="",
+	ytlink="",
+	weblink="http://reneschudel.ch",
+	catids="-2-",
+	instaid="reneschudel",
+	subcount={
+		2015=0,
+		2016=0,
+		2017=0,
+		2018=0
+	},
+	viewscount={
+		2015=0,
+		2016=0,
+		2017=0,
+		2018=0
+	}
+},
+"UClxQCGXc3J-edkPfAQyBr2Q"	= {
+	name="Gabriele",		realname="",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="gabriele_tube_",
+	subcount={
+		2015=0,
+		2016=0,
+		2017=0,
+		2018=0
+	},
+	viewscount={
+		2015=0,
+		2016=0,
+		2017=0,
+		2018=0
+	}
+},
 "UCM6EaZeB1-sEjW_pB5xkbxg"	= {
 	name="Florian Ast",		realname="",
 	ytlink="",

@@ -585,7 +585,7 @@ staticData = {
 "UCEABIt007mtmZS7FULdVh8Q"	= {
 	name="Storyflow",		realname="Meli + Florian Schindler",
 	ytlink="https://www.youtube.com/Storyflow",
-	weblink="",
+	weblink="http://storyflow.ch",
 	catids="-1-",
 	instaid="storyflow",
 	subcount={	2015=0,	2016=73,	2017=492,	2018=990},
@@ -1613,13 +1613,27 @@ staticData = {
 	subcount={	2015=292,	2016=347,	2017=373,	2018=391},
 	viewscount={2015=30676,	2016=47608,	2017=65453,	2018=89204}
 },
-
-
-
-
+"UCejyf100xTg_3ydQEEEFPnQ"	= {
+	name="Beat Hochheuser",		realname="",
+	ytlink="",
+	weblink="http://www.beat.ch",
+	catids="-7-",
+	instaid="beathochheuser",
+	subcount={	2015=536,		2016=691,		2017=876,		2018=1145},
+	viewscount={2015=4287480,	2016=4836177,	2017=5301151,	2018=5827491}
+},
+"UCi_u6bUJY_dcK7tybOXvyZw"	= {
+	name="WISDOM das Musikmagazin",		realname="Pät Schreiber",
+	ytlink="https://www.youtube.com/WisdomDasMusikmagazin",
+	weblink="https://www.swiss1.tv/wisdom",
+	catids="-6-8-9-",
+	instaid="wisdom_swiss1",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=2008},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=206796}
+},
 "UCTOEQt8_bqJPxd88eJ_sTkA"	= {
 	name="René Schudel",		realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/reneschudel",
 	weblink="http://reneschudel.ch",
 	catids="-2-",
 	instaid="reneschudel",
@@ -2286,6 +2300,42 @@ staticData = {
 		2017=0,
 		2018=0
 	}
+},
+"UC8cAYunJLIewZ8YPtP5bvMw"	= {
+	name="Cineman Inside",			realname="",
+	ytlink="",
+	weblink="https://www.cineman.ch",
+	catids="-6-9-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=94,	2018=97},
+	viewscount={2015=0,	2016=0,	2017=100595,2018=110783}
+},
+"UChKi3rGrcZglrRGB8iRYBoQ"	= {
+	name="Game TV",			realname="",
+	ytlink="",
+	weblink="https://gametv.ch",
+	catids="-4-9-",
+	instaid="gametv_suisse",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0, 2018=0}
+},
+"UCqdXpIZSamBceDmH8uOoTHA"	= {
+	name="SRF Kassensturz",			realname="",
+	ytlink="",
+	weblink="https://www.srf.ch/konsum",
+	catids="-7-9-",
+	instaid="srfkonsum",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC1AUTFT_qp77xwClNy4IzTg"	= {
+	name="Patrick's marketingeffekt",			realname="",
+	ytlink="",
+	weblink="https://marketingeffekt.ch",
+	catids="-7-",
+	instaid="marketingeffekt",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
 
 
@@ -2298,7 +2348,7 @@ catArr = [
 	["6", "Entertainment / Comedy"],
 	["2", "Lifestyle / DIY / Kochen"],
 	["3", "Fotografie / Film / Technik"],
-	["9", "Presse / Radio / TV"],
+	["9", "Presse / Radio / TV / Kino"],
 	["1", "Reisen"],
 	["5", "Sport"],
 	["8", "Musik"],

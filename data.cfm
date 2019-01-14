@@ -2336,6 +2336,33 @@ staticData = {
 	instaid="marketingeffekt",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCVuR4hBxX3zWY_xUCZeIc3A"	= {
+	name="Schweizer Radio und Fernsehen",			realname="",
+	ytlink="",
+	weblink="https://www.srf.ch",
+	catids="-9-",
+	instaid="srfschweizerradioundfernsehen",
+	subcount={	2015=0,	2016=24954,		2017=30579,		2018=37787},
+	viewscount={2015=0,	2016=34082870,	2017=39464431,	2018=44583782}
+},
+"UC1-g9E0BKQo5pID4y55K5iA"	= {
+	name="SRF 3",			realname="",
+	ytlink="",
+	weblink="https://www.srf.ch/radio-srf-3",
+	catids="-9-",
+	instaid="srf3",
+	subcount={	2015=5134,		2016=6884,		2017=9824,		2018=23362},
+	viewscount={2015=7521301,	2016=10125530,	2017=13485330,	2018=22287885}
+},
+"UCqNL83581wbf9pv_wHV0Zaw"	= {
+	name="SRF Digital",			realname="",
+	ytlink="https://www.youtube.com/digitalsrf",
+	weblink="https://www.srf.ch/radio-srf-3/digital",
+	catids="-9-",
+	instaid="srfdigital",
+	subcount={	2015=1350,		2016=1971,		2017=2634,		2018=3416},
+	viewscount={2015=619777,	2016=834731,	2017=1100957,	2018=1433373}
 }
 
 

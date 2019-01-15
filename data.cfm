@@ -1,9 +1,4 @@
-﻿<!---
-	Source:
-	https://subscribercounter.com/channel/UCgw0vnoy6z_4wWrYc9eFEHw
-	https://socialblade.com/youtube/channel/UCgw0vnoy6z_4wWrYc9eFEHw
---->
-
+﻿
 <cfscript>
 staticData = {
 
@@ -2363,12 +2358,26 @@ staticData = {
 	instaid="srfdigital",
 	subcount={	2015=1350,		2016=1971,		2017=2634,		2018=3416},
 	viewscount={2015=619777,	2016=834731,	2017=1100957,	2018=1433373}
+},
+"UCFuZu6IQ7QrLMsc0-R7Kc8Q"	= {
+	name="4Prozent",			realname="Michi + Sascha",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="4prozent__official",
+	subcount={	2015=0,	2016=0,	2017=1200,	2018=1053},
+	viewscount={2015=0,	2016=0,	2017=1430,	2018=2992}
 }
 
 
 
-};
 
+};
+/*
+	Source:
+	https://subscribercounter.com/channel/XXXX
+	https://socialblade.com/youtube/channel/XXXX
+*/
 
 catArr = [
 	["0", "Alle"],

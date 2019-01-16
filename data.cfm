@@ -1426,7 +1426,7 @@ staticData = {
 	viewscount={2015=0,2016=0,2017=0,	2018=540314}
 },
 "UCD10UORUOGk9lLp-l1RWTqQ"	= {
-	name="Sili HD",			realname="Silvan Kuster",
+	name="Silvan Kuster",			realname="",
 	ytlink="",
 	weblink="",
 	catids="-4-6-",
@@ -2367,6 +2367,15 @@ staticData = {
 	instaid="4prozent__official",
 	subcount={	2015=0,	2016=0,	2017=1200,	2018=1053},
 	viewscount={2015=0,	2016=0,	2017=1430,	2018=2992}
+},
+"UC0df7E41rpg697KLv7erpOw"	= {
+	name="MediaMarkt Schweiz",			realname="",
+	ytlink="https://www.youtube.com/MediaMarktch",
+	weblink="https://www.mediamarkt.ch",
+	catids="-7-",
+	instaid="mediamarkt_ch",
+	subcount={	2015=1420,		2016=2672,		2017=5548,		2018=8184},
+	viewscount={2015=1120460,	2016=1386537,	2017=1579590,	2018=2239416}
 }
 
 

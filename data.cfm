@@ -2376,8 +2376,70 @@ staticData = {
 	instaid="mediamarkt_ch",
 	subcount={	2015=1420,		2016=2672,		2017=5548,		2018=8184},
 	viewscount={2015=1120460,	2016=1386537,	2017=1579590,	2018=2239416}
+},
+"UCm9YhVSnefdS8UW9amXN7oA"	= {
+	name="PagerTV",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="pagertv",
+	subcount={	2015=0,	2016=0,	2017=34,	2018=149},
+	viewscount={2015=0,	2016=0,	2017=5304,	2018=23323}
+},
+"UC4KL2AZAa4n5GFZXnmfi3qQ"	= {
+	name="André Burri Fotografie",			realname="",
+	ytlink="",
+	weblink="https://www.burrifotografie.ch",
+	catids="-3-",
+	instaid="burrifotografie.ch",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC_iOp4uaJ6U_h6NaKgaagtg"	= {
+	name="Samoht LP",			realname="",
+	ytlink="",
+	weblink="https://",
+	catids="-4-",
+	instaid="samoht.lp1985",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCx9yK8r_t9WnbfJMA0TFlcw"	= {
+	name="Don Superbe",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCk4fcf6ZXsAa81VZqqOTCHg"	= {
+	name="Yynthiroshka",			realname="",
+	ytlink="https://www.youtube.com/cynthiroshka",
+	weblink="",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCZwM1uoaRe_gY1eP1WGQi_Q"	= {
+	name="schweizerdeutsch-lernen.ch",			realname="",
+	ytlink="",
+	weblink="https://www.schweizerdeutsch-lernen.ch/",
+	catids="-7-",
+	instaid="schweizerdeutsch",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCsjuNqYW5CWu8gXE-MLOipQ"	= {
+	name="berg.land",			realname="",
+	ytlink="",
+	weblink="https://www.youtube.com/ironcam",
+	catids="-1-5-7-",
+	instaid="",
+	subcount={	2015=5,		2016=7,		2017=8,		2018=13},
+	viewscount={2015=38823,	2016=40365,	2017=42300,	2018=46707}
 }
-
 
 
 
@@ -2402,6 +2464,20 @@ catArr = [
 ];
 
 /*
+,
+"XXXXXXXX"	= {
+	name="XXXX",			realname="",
+	ytlink="",
+	weblink="https://",
+	catids="-XXXXX-",
+	instaid="XXXXXX",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+}
+
+
+
+
 	Nicht mehr aktiv:
 	"UCuBPFpQiBA3JIcf04EW-BDA"	= {
 		name="Tama Gotcha!",		realname="",

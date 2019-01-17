@@ -21,7 +21,7 @@ staticData = {
 	viewscount={2015=3912824,	2016=9213174,	2017=18786891,	2018=23454453}
 },
 "UCo-ZV4wLm249m9jRs4F9HbA"	= {
-	name="LittleCity",		realname="Valeria Mella + Adrian Rüedi",
+	name="LittleCity",		realname="Valeria Mella & Adrian Rüedi",
 	ytlink="https://www.youtube.com/LittleCITYch",
 	weblink="https://littlecity.ch",
 	catids="-1-",
@@ -138,7 +138,7 @@ staticData = {
 	viewscount={2015=2502,	2016=30332,	2017=75997,	2018=97245}
 },
 "UC4iwYBmLyF3wBe6TtFRtR7A"	= {
-	name="Ursus & Nadeschkin",			realname="Nadja Sieger + Urs Wehrli",
+	name="Ursus & Nadeschkin",			realname="Nadja Sieger & Urs Wehrli",
 	ytlink="https://www.youtube.com/ursusnadeschkin",
 	weblink="https://www.ursusnadeschkin.ch",
 	catids="-6-",
@@ -255,7 +255,7 @@ staticData = {
 	viewscount={2015=3004009,	2016=3400041,	2017=4099311,	2018=3905337}
 },
 "UCTB7mdyAxm8jF97cSuVxDpA"	= {
-	name="Dabu Fantastic",			realname="Andreas Christen + David Bucher",
+	name="Dabu Fantastic",			realname="Andreas Christen & David Bucher",
 	ytlink="",
 	weblink="http://dabufantastic.ch",
 	catids="-8-",
@@ -290,7 +290,7 @@ staticData = {
 	subcount={	2015=53,	2016=59,	2017=558,		2018=778},
 	viewscount={2015=14235,	2016=18385,	2017=210860,	2018=303493}
 },"UC5Yi45Une921Ntq4Q_euTpQ"	= {
-	name="Kummerbuben",			realname="Simon Jäggi + Urs Gilgen",
+	name="Kummerbuben",			realname="Simon Jäggi & Urs Gilgen",
 	ytlink="https://www.youtube.com/kummerbuben",
 	weblink="https://www.kummerbuben.com",
 	catids="-8-",
@@ -308,7 +308,7 @@ staticData = {
 	viewscount={2015=124895,	2016=290515,	2017=373490,	2018=440891}
 },
 "UCJFjZNEaZvvJHRsTlmIjjYg"	= {
-	name="HalfTimeNerds",		realname="Alec + Samuel",
+	name="HalfTimeNerds",		realname="Alec & Samuel",
 	ytlink="https://www.youtube.com/HalfTimeNerds",
 	weblink="",
 	catids="-3-6-",
@@ -506,7 +506,7 @@ staticData = {
 	viewscount={2015=0,	2016=39649,	2017=238362,2018=637919}
 },
 "UCr9kUCZOfjGlEU8k92_hjag"	= {
-	name="DivertiMento",		realname="Jonny Fischer + Manuel Burkart",
+	name="DivertiMento",		realname="Jonny Fischer & Manuel Burkart",
 	ytlink="",
 	weblink="https://www.cabaret-divertimento.ch",
 	catids="-6-",
@@ -578,7 +578,7 @@ staticData = {
 	viewscount={2015=0,	2016=79390,	2017=397386,	2018=575034}
 },
 "UCEABIt007mtmZS7FULdVh8Q"	= {
-	name="Storyflow",		realname="Meli + Florian Schindler",
+	name="Storyflow",		realname="Meli & Florian Schindler",
 	ytlink="https://www.youtube.com/Storyflow",
 	weblink="http://storyflow.ch",
 	catids="-1-",
@@ -715,7 +715,7 @@ staticData = {
 	viewscount={2015=0,	2016=14614,	2017=29091,	2018=45236}
 },
 "UC1PgEbqUweHJGWGDp1BFzZw"	= {
-	name="Super Swiss Bros.",	realname="Robb + TesAlbert",
+	name="Super Swiss Bros.",	realname="Robb & TesAlbert",
 	ytlink="https://www.youtube.com/superswissbros",
 	weblink="",
 	catids="-4-",
@@ -724,7 +724,7 @@ staticData = {
 	viewscount={2015=0,	2016=28580,	2017=48917,	2018=84736}
 },
 "UC0Q2HB_PxFurzQM6ck38U2A"	= {
-	name="Kitchwitch",		realname="Denise + Stefan Lehmann",
+	name="Kitchwitch",		realname="Denise & Stefan Lehmann",
 	ytlink="https://www.youtube.com/kitchwitch",
 	weblink="https://www.kitchwitch.ch",
 	catids="-2-",
@@ -1065,7 +1065,7 @@ staticData = {
 	viewscount={2015=0,		2016=0,		2017=311217,	2018=1045790}
 },
 "UChzKOhU2KgjUH4KHlu2wATA"	= {
-	name="SveFa on Tour",	realname="Fabienne + Sven Burkhard",
+	name="SveFa on Tour",	realname="Fabienne & Sven Burkhard",
 	ytlink="",
 	weblink="http://svefa-ontour.ch",
 	catids="-1-",
@@ -1074,7 +1074,7 @@ staticData = {
 	viewscount={2015=0,2016=0,	2017=14591,	2018=52874}
 },
 "UCfjP7DpvANUKUcJi4klX1_Q"	= {
-	name="Daytrippers CH",		realname="Diana + Pascal",
+	name="Daytrippers CH",		realname="Diana & Pascal",
 	ytlink="",
 	weblink="https://www.daytrippers.ch",
 	catids="-1-",
@@ -1371,7 +1371,7 @@ staticData = {
 },
 
 "UCj88Pp4scKu5I2YJiy2JWQw"	= {
-	name="Zwei am Morge",	realname="Julian Graf + Ramin Yousofzai",
+	name="Zwei am Morge",	realname="Julian Graf & Ramin Yousofzai",
 	ytlink="",
 	weblink="",
 	catids="-6-",
@@ -1564,7 +1564,7 @@ staticData = {
 	viewscount={2015=0,2016=0,2017=0,	2018=662241}
 },
 "UCcUB8t47AAu5WKmaUSdaN_g"	= {
-	name="Jucker Farm",			realname="Beat + Martin Jucker",
+	name="Jucker Farm",			realname="Beat & Martin Jucker",
 	ytlink="",
 	weblink="https://www.juckerfarm.ch",
 	catids="-7-",
@@ -2125,7 +2125,7 @@ staticData = {
 "UCJQDfq4TBApJeblCpi06hZw"	= {
 	name="Verreis",
 	ytlink="https://www.youtube.com/verreisreisevlogs",
-	realname="Fabienne Rohr + Adriano Wasescha",
+	realname="Fabienne Rohr & Adriano Wasescha",
 	weblink="https://www.verreis.com",
 	catids="-1-",
 	instaid="_verreis_",
@@ -2240,7 +2240,7 @@ staticData = {
 	}
 },
 "UCn4DYnlcZQQ_LNHUHaQhObQ"	= {
-	name="R&R On Tour",	realname="Rahel + René",
+	name="R&R On Tour",	realname="Rahel & René",
 	ytlink="",
 	weblink="http://rr-on-tour.ch",
 	catids="-1-",
@@ -2259,7 +2259,7 @@ staticData = {
 	}
 },
 "UC3TPzbRPjTadQKUINfKm11Q"	= {
-	name="triptipp",		realname="Janine + Dominik",
+	name="triptipp",		realname="Janine & Dominik",
 	ytlink="",
 	weblink="https://www.triptipp.ch",
 	catids="-1-",
@@ -2360,7 +2360,7 @@ staticData = {
 	viewscount={2015=619777,	2016=834731,	2017=1100957,	2018=1433373}
 },
 "UCFuZu6IQ7QrLMsc0-R7Kc8Q"	= {
-	name="4Prozent",			realname="Michi + Sascha",
+	name="4Prozent",			realname="Michi & Sascha",
 	ytlink="",
 	weblink="",
 	catids="-6-",
@@ -2433,13 +2433,26 @@ staticData = {
 },
 "UCsjuNqYW5CWu8gXE-MLOipQ"	= {
 	name="berg.land",			realname="",
-	ytlink="",
-	weblink="https://www.youtube.com/ironcam",
+	ytlink="https://www.youtube.com/ironcam",
+	weblink="",
 	catids="-1-5-7-",
 	instaid="",
 	subcount={	2015=5,		2016=7,		2017=8,		2018=13},
 	viewscount={2015=38823,	2016=40365,	2017=42300,	2018=46707}
+},
+"UCq2NmyLuVCXDcrnjJmcScNw"	= {
+	name="GrillTube",			realname="Petra & Markus Muster",
+	ytlink="https://www.youtube.com/grilltube",
+	weblink="https://www.musters.ch",
+	catids="-2-",
+	instaid="mustersgenussmanufakur",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
+
+
+
+
 
 
 
@@ -2496,7 +2509,7 @@ catArr = [
 
 	Zu wenige schweizerdeutsche Inhalte. Diverse negative Kommentare aus Community.
 	"UCCRaD69AaGoytnOL_t0gy7A"	= {
-		name="Comewithus2",			realname="Steffi Rickenbacher + Lui Eigenmann",
+		name="Comewithus2",			realname="Steffi Rickenbacher & Lui Eigenmann",
 		ytlink="",
 		weblink="",
 		catids="-1-6-",

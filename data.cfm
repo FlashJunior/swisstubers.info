@@ -1324,7 +1324,7 @@ staticData = {
 },
 "UC0y7cKmpBSp6pjyDTSmaj8g"	= {
 	name="419 Finesse Gang",		realname="",
-	ytlink="https://www.youtube.com/senyo13",
+	ytlink="",
 	weblink="",
 	catids="-8-",
 	instaid="419finessegang",
@@ -2448,8 +2448,25 @@ staticData = {
 	instaid="mustersgenussmanufakur",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCqxS9IunbM4BCHN8naS5cFw"	= {
+	name="Pronto",			realname="Senyo Mensa",
+	ytlink="",
+	weblink="",
+	catids="-8-",
+	instaid="prontodinero",
+	subcount={	2015=0,	2016=0,	2017=425,	2018=5125},
+	viewscount={2015=0,	2016=0,	2017=38562,	2018=557200}
+},
+"UCUcIwYzQV3-bqwZxA9NDixA"	= {
+	name="Swiss RaMpLeR",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="swissrampler",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
-
 
 
 

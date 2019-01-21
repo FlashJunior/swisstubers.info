@@ -1823,18 +1823,8 @@ staticData = {
 	weblink="",
 	catids="-4-",
 	instaid="dave_bichsel",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=98
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=60776
-	}
+	subcount={	2015=79,	2016=81,	2017=86,	2018=98},
+	viewscount={2015=52722,	2016=55021,	2017=57399,	2018=60776}
 },
 "UCCdrmGY_lPJbEi3JpA0z6vA"	= {
 	name="S.Oppliger Design",	realname="Stefan Oppliger",
@@ -1861,18 +1851,8 @@ staticData = {
 	weblink="https://sayhello.ch",
 	catids="-7-",
 	instaid="",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCI7ITym0pSJjLU2lREe-3rA"	= {
 	name="Moe Ritch",			realname="",
@@ -2283,18 +2263,8 @@ staticData = {
 	weblink="https://www.mathiasblattmann.ch",
 	catids="-3-",
 	instaid="mbvision.ch",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0	},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UC8cAYunJLIewZ8YPtP5bvMw"	= {
 	name="Cineman Inside",			realname="",
@@ -2425,11 +2395,11 @@ staticData = {
 "UCZwM1uoaRe_gY1eP1WGQi_Q"	= {
 	name="schweizerdeutsch-lernen.ch",			realname="",
 	ytlink="",
-	weblink="https://www.schweizerdeutsch-lernen.ch/",
+	weblink="https://www.schweizerdeutsch-lernen.ch",
 	catids="-7-",
 	instaid="schweizerdeutsch",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	subcount={	2015=0,	2016=0,	2017=637,	2018=1279},
+	viewscount={2015=0,	2016=0,	2017=31614,	2018=56574}
 },
 "UCsjuNqYW5CWu8gXE-MLOipQ"	= {
 	name="berg.land",			realname="",
@@ -2466,8 +2436,34 @@ staticData = {
 	instaid="swissrampler",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCLKCNlX44-4JLLOSBHUO0mw"	= {
+	name="TheWorkingClassHD",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="theworkingclasshd",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCsTvjJSHpS9LORkEhoKCmRQ"	= {
+	name="SwissAngryNoobs",			realname="",
+	ytlink="",
+	weblink="https://swissangrynoobs.ch",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=77,	2018=130},
+	viewscount={2015=0,	2016=0,	2017=2046,	2018=3943}
+},
+"UCkZtFbCDWtT5Bc1UbWqyJvQ"	= {
+	name="ROQA",			realname="",
+	ytlink="https://www.youtube.com/greamtg",
+	weblink="https://www.roqa.ch",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
-
 
 
 

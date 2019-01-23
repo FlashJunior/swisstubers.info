@@ -2275,15 +2275,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=94,	2018=97},
 	viewscount={2015=0,	2016=0,	2017=100595,2018=110783}
 },
-"UChKi3rGrcZglrRGB8iRYBoQ"	= {
-	name="Game TV",			realname="",
-	ytlink="",
-	weblink="https://gametv.ch",
-	catids="-4-9-",
-	instaid="gametv_suisse",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-	viewscount={2015=0,	2016=0,	2017=0, 2018=0}
-},
 "UCqdXpIZSamBceDmH8uOoTHA"	= {
 	name="SRF Kassensturz",			realname="",
 	ytlink="",
@@ -2386,7 +2377,7 @@ staticData = {
 "UCk4fcf6ZXsAa81VZqqOTCHg"	= {
 	name="Yynthiroshka",			realname="",
 	ytlink="https://www.youtube.com/cynthiroshka",
-	weblink="",
+	weblink="https://www.heavensdoor.ch",
 	catids="-7-",
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
@@ -2460,10 +2451,111 @@ staticData = {
 	ytlink="https://www.youtube.com/greamtg",
 	weblink="https://www.roqa.ch",
 	catids="-4-",
+	instaid="roqa.ch",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCy33T2BHQUa3veat8ExJqFw"	= {
+	name="STARTER GANG",			realname="",
+	ytlink="",
+	weblink="https://www.startergang.com",
+	catids="-8-",
+	instaid="startergangofficial",
+	subcount={	2015=0,	2016=0,	2017=707,	2018=981},
+	viewscount={2015=0,	2016=0,	2017=297038,2018=412202}
+},
+"UCsZdsSjMrvhXSlBiuGK3r2w"	= {
+	name="AdnansTv",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-6-",
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC9e-XjSmv_fUm78NjqjWTPw"	= {
+	name="Swiss GamingTV",			realname="Joel",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=138},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=6116}
+},
+"UCEZ7L9zE2bVo26GoCh1r-Kg"	= {
+	name="Nilper",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC9js0zJqGt7a_GfmWI3y1Iw"	= {
+	name="Gorthron",			realname="Julien Portmann",
+	ytlink="https://www.youtube.com/JulePortLP",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=487,	2016=482,	2017=479,	2018=477},
+	viewscount={2015=17721,	2016=1993,	2017=1543,	2018=475}
+},
+"UCx3MEe-0e8XHA050MBnQE-A"	= {
+	name="Hörbu. ch",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCCjrB1QoM7mdMyAEAmHfS8w"	= {
+	name="KüchenTerror",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCtO63BTm_OEh701RCDSc12A"	= {
+	name="Adventure to inner treasure",			realname="Lara",
+	ytlink="",
+	weblink="",
+	catids="-2-6-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCIsfNJIQTylYF-dw0p7ZKYQ"	= {
+	name="Dijana Beauty",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-2-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=100,	2018=143},
+	viewscount={2015=0,	2016=0,	2017=3038,	2018=11103}
+},
+"UCnrizBjYthFlj_spTBu_XDA"	= {
+	name="Gucci Gubi",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-6-8-",
+	instaid="guccigubi",
+	subcount={	2015=0,	2016=0,	2017=36,	2018=63},
+	viewscount={2015=0,	2016=0,	2017=13330,	2018=21520}
+},
+"UCbCvqHaQjOS0VLgCL_rAwCQ"	= {
+	name="Claudio's Wält",			realname="Claudio",
+	ytlink="",
+	weblink="",
+	catids="-1-7-",
+	instaid="claud_photo",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
+
+
 
 
 
@@ -2527,6 +2619,15 @@ catArr = [
 		weblink="",
 		catids="-1-6-",
 		instaid="comewithus_2"
+	},
+	"UChKi3rGrcZglrRGB8iRYBoQ"	= {
+		name="Game TV",			realname="",
+		ytlink="",
+		weblink="https://gametv.ch",
+		catids="-4-9-",
+		instaid="gametv_suisse",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0, 2018=0}
 	},
 
 */

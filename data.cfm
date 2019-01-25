@@ -1626,6 +1626,213 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=2008},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=206796}
 },
+"UC32nI00UHzvDyUNIrkykGPQ"	= {
+	name="Buring_keys",			realname="Dave Bichsel",
+	ytlink="https://www.youtube.com/davensius",
+	weblink="",
+	catids="-4-",
+	instaid="dave_bichsel",
+	subcount={	2015=79,	2016=81,	2017=86,	2018=98},
+	viewscount={2015=52722,	2016=55021,	2017=57399,	2018=60776}
+},
+"UC8cAYunJLIewZ8YPtP5bvMw"	= {
+	name="Cineman Inside",			realname="",
+	ytlink="",
+	weblink="https://www.cineman.ch",
+	catids="-6-9-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=94,	2018=97},
+	viewscount={2015=0,	2016=0,	2017=100595,2018=110783}
+},
+"UCVuR4hBxX3zWY_xUCZeIc3A"	= {
+	name="Schweizer Radio und Fernsehen",			realname="",
+	ytlink="",
+	weblink="https://www.srf.ch",
+	catids="-9-",
+	instaid="srfschweizerradioundfernsehen",
+	subcount={	2015=0,	2016=24954,		2017=30579,		2018=37787},
+	viewscount={2015=0,	2016=34082870,	2017=39464431,	2018=44583782}
+},
+"UC1-g9E0BKQo5pID4y55K5iA"	= {
+	name="SRF 3",			realname="",
+	ytlink="",
+	weblink="https://www.srf.ch/radio-srf-3",
+	catids="-9-",
+	instaid="srf3",
+	subcount={	2015=5134,		2016=6884,		2017=9824,		2018=23362},
+	viewscount={2015=7521301,	2016=10125530,	2017=13485330,	2018=22287885}
+},
+"UCqNL83581wbf9pv_wHV0Zaw"	= {
+	name="SRF Digital",			realname="",
+	ytlink="https://www.youtube.com/digitalsrf",
+	weblink="https://www.srf.ch/radio-srf-3/digital",
+	catids="-9-",
+	instaid="srfdigital",
+	subcount={	2015=1350,		2016=1971,		2017=2634,		2018=3416},
+	viewscount={2015=619777,	2016=834731,	2017=1100957,	2018=1433373}
+},
+"UCFuZu6IQ7QrLMsc0-R7Kc8Q"	= {
+	name="4Prozent",			realname="Michi & Sascha",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="4prozent__official",
+	subcount={	2015=0,	2016=0,	2017=1200,	2018=1053},
+	viewscount={2015=0,	2016=0,	2017=1430,	2018=2992}
+},
+"UC0df7E41rpg697KLv7erpOw"	= {
+	name="MediaMarkt Schweiz",			realname="",
+	ytlink="https://www.youtube.com/MediaMarktch",
+	weblink="https://www.mediamarkt.ch",
+	catids="-7-",
+	instaid="mediamarkt_ch",
+	subcount={	2015=1420,		2016=2672,		2017=5548,		2018=8184},
+	viewscount={2015=1120460,	2016=1386537,	2017=1579590,	2018=2239416}
+},
+"UCm9YhVSnefdS8UW9amXN7oA"	= {
+	name="PagerTV",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="pagertv",
+	subcount={	2015=0,	2016=0,	2017=34,	2018=149},
+	viewscount={2015=0,	2016=0,	2017=5304,	2018=23323}
+},
+"UCZwM1uoaRe_gY1eP1WGQi_Q"	= {
+	name="schweizerdeutsch-lernen.ch",			realname="",
+	ytlink="",
+	weblink="https://www.schweizerdeutsch-lernen.ch",
+	catids="-7-",
+	instaid="schweizerdeutsch",
+	subcount={	2015=0,	2016=0,	2017=637,	2018=1279},
+	viewscount={2015=0,	2016=0,	2017=31614,	2018=56574}
+},
+"UCsjuNqYW5CWu8gXE-MLOipQ"	= {
+	name="berg.land",			realname="",
+	ytlink="https://www.youtube.com/ironcam",
+	weblink="",
+	catids="-1-5-7-",
+	instaid="",
+	subcount={	2015=5,		2016=7,		2017=8,		2018=13},
+	viewscount={2015=38823,	2016=40365,	2017=42300,	2018=46707}
+},
+"UCqxS9IunbM4BCHN8naS5cFw"	= {
+	name="Pronto",			realname="Senyo Mensa",
+	ytlink="",
+	weblink="",
+	catids="-8-",
+	instaid="prontodinero",
+	subcount={	2015=0,	2016=0,	2017=425,	2018=5125},
+	viewscount={2015=0,	2016=0,	2017=38562,	2018=557200}
+},
+"UCsTvjJSHpS9LORkEhoKCmRQ"	= {
+	name="SwissAngryNoobs",			realname="",
+	ytlink="",
+	weblink="https://swissangrynoobs.ch",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=77,	2018=130},
+	viewscount={2015=0,	2016=0,	2017=2046,	2018=3943}
+},
+"UCkZtFbCDWtT5Bc1UbWqyJvQ"	= {
+	name="ROQA",			realname="",
+	ytlink="https://www.youtube.com/greamtg",
+	weblink="https://www.roqa.ch",
+	catids="-4-",
+	instaid="roqa.ch",
+	subcount={	2015=139,	2016=157,	2017=222,	2018=253},
+	viewscount={2015=18404,	2016=25014,	2017=29411,	2018=32999}
+},
+"UCy33T2BHQUa3veat8ExJqFw"	= {
+	name="STARTER GANG",			realname="",
+	ytlink="",
+	weblink="https://www.startergang.com",
+	catids="-8-",
+	instaid="startergangofficial",
+	subcount={	2015=0,	2016=0,	2017=707,	2018=981},
+	viewscount={2015=0,	2016=0,	2017=297038,2018=412202}
+},
+"UC9e-XjSmv_fUm78NjqjWTPw"	= {
+	name="Swiss GamingTV",			realname="Joel",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=138},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=6116}
+},
+"UC9js0zJqGt7a_GfmWI3y1Iw"	= {
+	name="Gorthron",			realname="Julien Portmann",
+	ytlink="https://www.youtube.com/JulePortLP",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=487,	2016=482,	2017=479,	2018=477},
+	viewscount={2015=17721,	2016=1993,	2017=1543,	2018=475}
+},
+"UCIsfNJIQTylYF-dw0p7ZKYQ"	= {
+	name="Dijana Beauty",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-2-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=100,	2018=143},
+	viewscount={2015=0,	2016=0,	2017=3038,	2018=11103}
+},
+"UCnrizBjYthFlj_spTBu_XDA"	= {
+	name="Gucci Gubi",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-6-8-",
+	instaid="guccigubi",
+	subcount={	2015=0,	2016=0,	2017=36,	2018=63},
+	viewscount={2015=0,	2016=0,	2017=13330,	2018=21520}
+},
+"UCXOUdl_aLNS2baobvpPCs4Q"	= {
+	name="regioTVplus",			realname="Daniel Wittlin, Max Schwank, Herbert Blaser, Thierry Gschwind",
+	ytlink="https://www.youtube.com/regiotvplus",
+	weblink="http://www.regiotvplus.ch",
+	catids="-9-",
+	instaid="",
+	subcount={	2015=228,	2016=341,	2017=554,	2018=782},
+	viewscount={2015=312949,2016=466067,2017=685451,2018=915247}
+},
+"UCJ3yKbrQedsbTDJDk5djcFw"	= {
+	name="LightByte",			realname="",
+	ytlink="https://www.youtube.com/LightByteAG",
+	weblink="https://www.lbag.ch",
+	catids="-3-",
+	instaid="lightbyteag",
+	subcount={	2015=289,	2016=324,	2017=342,	2018=520},
+	viewscount={2015=174686,2016=195666,2017=213703,2018=226305}
+},
+"UCOc_69rsD3bTDfulZ_DOXLg"	= {
+	name="Niki Huwyler",			realname="",
+	ytlink="",
+	weblink="https://www.snowboardcoach.ch",
+	catids="-1-5-",
+	instaid="trickyniki",
+	subcount={	2015=0,	2016=0,	2017=320,	2018=355},
+	viewscount={2015=0,	2016=0,	2017=178509,2018=205648}
+},
+"UCS3HrpGgS_X_9QvF_savggQ"	= {
+	name="zockTV 2.0",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCanzpqowTUbAoas6qGiLlrg"	= {
+	name="Beast Genetics Schweiz",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-2-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
 "UCTOEQt8_bqJPxd88eJ_sTkA"	= {
 	name="René Schudel",		realname="",
 	ytlink="https://www.youtube.com/reneschudel",
@@ -1641,15 +1848,6 @@ staticData = {
 	weblink="",
 	catids="-6-",
 	instaid="gabriele_tube_",
-	subcount={	2015=0,	2016=0,2017=0,	2018=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-},
-"UCM6EaZeB1-sEjW_pB5xkbxg"	= {
-	name="Florian Ast",		realname="",
-	ytlink="",
-	weblink="http://www.florianast.ch",
-	catids="-8-",
-	instaid="florianast_official",
 	subcount={	2015=0,	2016=0,2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
@@ -1716,15 +1914,6 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-},
-"UC32nI00UHzvDyUNIrkykGPQ"	= {
-	name="Buring_keys",			realname="Dave Bichsel",
-	ytlink="https://www.youtube.com/davensius",
-	weblink="",
-	catids="-4-",
-	instaid="dave_bichsel",
-	subcount={	2015=79,	2016=81,	2017=86,	2018=98},
-	viewscount={2015=52722,	2016=55021,	2017=57399,	2018=60776}
 },
 "UCCdrmGY_lPJbEi3JpA0z6vA"	= {
 	name="S.Oppliger Design",	realname="Stefan Oppliger",
@@ -1899,7 +2088,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
-
 "UCyHEt5ndmuILbxL74NfmKJQ"	= {
 	name="Mathias Blattmann",	realname="",
 	ytlink="",
@@ -1946,15 +2134,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0	},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
-"UC8cAYunJLIewZ8YPtP5bvMw"	= {
-	name="Cineman Inside",			realname="",
-	ytlink="",
-	weblink="https://www.cineman.ch",
-	catids="-6-9-",
-	instaid="",
-	subcount={	2015=0,	2016=0,	2017=94,	2018=97},
-	viewscount={2015=0,	2016=0,	2017=100595,2018=110783}
-},
 "UCqdXpIZSamBceDmH8uOoTHA"	= {
 	name="SRF Kassensturz",			realname="",
 	ytlink="",
@@ -1972,60 +2151,6 @@ staticData = {
 	instaid="marketingeffekt",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-},
-"UCVuR4hBxX3zWY_xUCZeIc3A"	= {
-	name="Schweizer Radio und Fernsehen",			realname="",
-	ytlink="",
-	weblink="https://www.srf.ch",
-	catids="-9-",
-	instaid="srfschweizerradioundfernsehen",
-	subcount={	2015=0,	2016=24954,		2017=30579,		2018=37787},
-	viewscount={2015=0,	2016=34082870,	2017=39464431,	2018=44583782}
-},
-"UC1-g9E0BKQo5pID4y55K5iA"	= {
-	name="SRF 3",			realname="",
-	ytlink="",
-	weblink="https://www.srf.ch/radio-srf-3",
-	catids="-9-",
-	instaid="srf3",
-	subcount={	2015=5134,		2016=6884,		2017=9824,		2018=23362},
-	viewscount={2015=7521301,	2016=10125530,	2017=13485330,	2018=22287885}
-},
-"UCqNL83581wbf9pv_wHV0Zaw"	= {
-	name="SRF Digital",			realname="",
-	ytlink="https://www.youtube.com/digitalsrf",
-	weblink="https://www.srf.ch/radio-srf-3/digital",
-	catids="-9-",
-	instaid="srfdigital",
-	subcount={	2015=1350,		2016=1971,		2017=2634,		2018=3416},
-	viewscount={2015=619777,	2016=834731,	2017=1100957,	2018=1433373}
-},
-"UCFuZu6IQ7QrLMsc0-R7Kc8Q"	= {
-	name="4Prozent",			realname="Michi & Sascha",
-	ytlink="",
-	weblink="",
-	catids="-6-",
-	instaid="4prozent__official",
-	subcount={	2015=0,	2016=0,	2017=1200,	2018=1053},
-	viewscount={2015=0,	2016=0,	2017=1430,	2018=2992}
-},
-"UC0df7E41rpg697KLv7erpOw"	= {
-	name="MediaMarkt Schweiz",			realname="",
-	ytlink="https://www.youtube.com/MediaMarktch",
-	weblink="https://www.mediamarkt.ch",
-	catids="-7-",
-	instaid="mediamarkt_ch",
-	subcount={	2015=1420,		2016=2672,		2017=5548,		2018=8184},
-	viewscount={2015=1120460,	2016=1386537,	2017=1579590,	2018=2239416}
-},
-"UCm9YhVSnefdS8UW9amXN7oA"	= {
-	name="PagerTV",			realname="",
-	ytlink="",
-	weblink="",
-	catids="-4-",
-	instaid="pagertv",
-	subcount={	2015=0,	2016=0,	2017=34,	2018=149},
-	viewscount={2015=0,	2016=0,	2017=5304,	2018=23323}
 },
 "UC4KL2AZAa4n5GFZXnmfi3qQ"	= {
 	name="André Burri Fotografie",			realname="",
@@ -2063,24 +2188,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
-"UCZwM1uoaRe_gY1eP1WGQi_Q"	= {
-	name="schweizerdeutsch-lernen.ch",			realname="",
-	ytlink="",
-	weblink="https://www.schweizerdeutsch-lernen.ch",
-	catids="-7-",
-	instaid="schweizerdeutsch",
-	subcount={	2015=0,	2016=0,	2017=637,	2018=1279},
-	viewscount={2015=0,	2016=0,	2017=31614,	2018=56574}
-},
-"UCsjuNqYW5CWu8gXE-MLOipQ"	= {
-	name="berg.land",			realname="",
-	ytlink="https://www.youtube.com/ironcam",
-	weblink="",
-	catids="-1-5-7-",
-	instaid="",
-	subcount={	2015=5,		2016=7,		2017=8,		2018=13},
-	viewscount={2015=38823,	2016=40365,	2017=42300,	2018=46707}
-},
 "UCq2NmyLuVCXDcrnjJmcScNw"	= {
 	name="GrillTube",			realname="Petra & Markus Muster",
 	ytlink="https://www.youtube.com/grilltube",
@@ -2089,15 +2196,6 @@ staticData = {
 	instaid="mustersgenussmanufakur",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-},
-"UCqxS9IunbM4BCHN8naS5cFw"	= {
-	name="Pronto",			realname="Senyo Mensa",
-	ytlink="",
-	weblink="",
-	catids="-8-",
-	instaid="prontodinero",
-	subcount={	2015=0,	2016=0,	2017=425,	2018=5125},
-	viewscount={2015=0,	2016=0,	2017=38562,	2018=557200}
 },
 "UCUcIwYzQV3-bqwZxA9NDixA"	= {
 	name="Swiss RaMpLeR",			realname="",
@@ -2117,33 +2215,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
-"UCsTvjJSHpS9LORkEhoKCmRQ"	= {
-	name="SwissAngryNoobs",			realname="",
-	ytlink="",
-	weblink="https://swissangrynoobs.ch",
-	catids="-4-",
-	instaid="",
-	subcount={	2015=0,	2016=0,	2017=77,	2018=130},
-	viewscount={2015=0,	2016=0,	2017=2046,	2018=3943}
-},
-"UCkZtFbCDWtT5Bc1UbWqyJvQ"	= {
-	name="ROQA",			realname="",
-	ytlink="https://www.youtube.com/greamtg",
-	weblink="https://www.roqa.ch",
-	catids="-4-",
-	instaid="roqa.ch",
-	subcount={	2015=139,	2016=157,	2017=222,	2018=253},
-	viewscount={2015=18404,	2016=25014,	2017=29411,	2018=32999}
-},
-"UCy33T2BHQUa3veat8ExJqFw"	= {
-	name="STARTER GANG",			realname="",
-	ytlink="",
-	weblink="https://www.startergang.com",
-	catids="-8-",
-	instaid="startergangofficial",
-	subcount={	2015=0,	2016=0,	2017=707,	2018=981},
-	viewscount={2015=0,	2016=0,	2017=297038,2018=412202}
-},
 "UCsZdsSjMrvhXSlBiuGK3r2w"	= {
 	name="AdnansTv",			realname="",
 	ytlink="",
@@ -2153,15 +2224,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
-"UC9e-XjSmv_fUm78NjqjWTPw"	= {
-	name="Swiss GamingTV",			realname="Joel",
-	ytlink="",
-	weblink="",
-	catids="-4-",
-	instaid="",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=138},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=6116}
-},
 "UCEZ7L9zE2bVo26GoCh1r-Kg"	= {
 	name="Nilper",			realname="",
 	ytlink="",
@@ -2170,15 +2232,6 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-},
-"UC9js0zJqGt7a_GfmWI3y1Iw"	= {
-	name="Gorthron",			realname="Julien Portmann",
-	ytlink="https://www.youtube.com/JulePortLP",
-	weblink="",
-	catids="-4-",
-	instaid="",
-	subcount={	2015=487,	2016=482,	2017=479,	2018=477},
-	viewscount={2015=17721,	2016=1993,	2017=1543,	2018=475}
 },
 "UCx3MEe-0e8XHA050MBnQE-A"	= {
 	name="Hörbu. ch",			realname="",
@@ -2206,61 +2259,9 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-},
-"UCIsfNJIQTylYF-dw0p7ZKYQ"	= {
-	name="Dijana Beauty",			realname="",
-	ytlink="",
-	weblink="",
-	catids="-2-",
-	instaid="",
-	subcount={	2015=0,	2016=0,	2017=100,	2018=143},
-	viewscount={2015=0,	2016=0,	2017=3038,	2018=11103}
-},
-"UCnrizBjYthFlj_spTBu_XDA"	= {
-	name="Gucci Gubi",			realname="",
-	ytlink="",
-	weblink="",
-	catids="-6-8-",
-	instaid="guccigubi",
-	subcount={	2015=0,	2016=0,	2017=36,	2018=63},
-	viewscount={2015=0,	2016=0,	2017=13330,	2018=21520}
-},
-"UCbCvqHaQjOS0VLgCL_rAwCQ"	= {
-	name="Claudio's Wält",			realname="Claudio",
-	ytlink="",
-	weblink="",
-	catids="-1-7-",
-	instaid="claud_photo",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-},
-"UCXOUdl_aLNS2baobvpPCs4Q"	= {
-	name="regioTVplus",			realname="Daniel Wittlin, Max Schwank, Herbert Blaser, Thierry Gschwind",
-	ytlink="https://www.youtube.com/regiotvplus",
-	weblink="http://www.regiotvplus.ch",
-	catids="-9-",
-	instaid="",
-	subcount={	2015=228,	2016=341,	2017=554,	2018=782},
-	viewscount={2015=312949,2016=466067,2017=685451,2018=915247}
-},
-"UCJ3yKbrQedsbTDJDk5djcFw"	= {
-	name="LightByte",			realname="",
-	ytlink="https://www.youtube.com/LightByteAG",
-	weblink="https://www.lbag.ch",
-	catids="-3-",
-	instaid="lightbyteag",
-	subcount={	2015=289,	2016=324,	2017=342,	2018=520},
-	viewscount={2015=174686,2016=195666,2017=213703,2018=226305}
-},
-"UCOc_69rsD3bTDfulZ_DOXLg"	= {
-	name="Niki Huwyler",			realname="",
-	ytlink="",
-	weblink="https://www.snowboardcoach.ch",
-	catids="-1-5-",
-	instaid="trickyniki",
-	subcount={	2015=0,	2016=0,	2017=320,	2018=355},
-	viewscount={2015=0,	2016=0,	2017=178509,2018=205648}
 }
+
+
 
 
 
@@ -2316,6 +2317,15 @@ catArr = [
 		weblink="",
 		catids="-5-6-",
 		instaid="dr_loosli"
+	},
+	"UCM6EaZeB1-sEjW_pB5xkbxg"	= {
+		name="Florian Ast",		realname="",
+		ytlink="",
+		weblink="http://www.florianast.ch",
+		catids="-8-",
+		instaid="florianast_official",
+		subcount={	2015=0,	2016=0,2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 	},
 
 	Zu wenige schweizerdeutsche Inhalte. Diverse negative Kommentare aus Community.

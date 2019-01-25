@@ -1632,18 +1632,8 @@ staticData = {
 	weblink="http://reneschudel.ch",
 	catids="-2-",
 	instaid="reneschudel",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UClxQCGXc3J-edkPfAQyBr2Q"	= {
 	name="Gabriele",		realname="",
@@ -1651,18 +1641,8 @@ staticData = {
 	weblink="",
 	catids="-6-",
 	instaid="gabriele_tube_",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCM6EaZeB1-sEjW_pB5xkbxg"	= {
 	name="Florian Ast",		realname="",
@@ -1670,18 +1650,8 @@ staticData = {
 	weblink="http://www.florianast.ch",
 	catids="-8-",
 	instaid="florianast_official",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UC78pqWYq7K9d-X3zRDWOIsg"	= {
 	name="CanavaR",			realname="Ferhat Civrilli",
@@ -1690,18 +1660,8 @@ staticData = {
 	catids="-8-",
 	instaid="canavar_20xx",
 	instaid="",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCAGJnv1f1TWG0_8FDKJeMtw"	= {
 	name="7speed.ch",			realname="Yves Meyer",
@@ -1709,18 +1669,8 @@ staticData = {
 	weblink="",
 	catids="-5-7-",
 	instaid="7speed.ch",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCCnx9LJflGPYVfHIxpO2iKg"	= {
 	name="Ropick",			realname="Robin Pickis",
@@ -1728,18 +1678,8 @@ staticData = {
 	weblink="",
 	catids="-6-",
 	instaid="ropick",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCSPpWYj1RX3QrxDgcCKOxyQ"	= {
 	name="Eddie Ramirez",			realname="",
@@ -1747,18 +1687,8 @@ staticData = {
 	weblink="https://www.rollingeddie.com",
 	catids="-6-",
 	instaid="",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCurv66yDHPscdsZfJIQ_-MQ"	= {
 	name="Guy Landolt",			realname="",
@@ -1766,18 +1696,8 @@ staticData = {
 	weblink="https://www.guylandolt.ch",
 	catids="-6-",
 	instaid="guylandolt",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UChM4rPD2VFm4SVhPKBaOiPA"	= {
 	name="Lipa Alves",			realname="",
@@ -1785,18 +1705,8 @@ staticData = {
 	weblink="",
 	catids="-2-6-",
 	instaid="lipa_alves1",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCrGC2cfTB7lD-NfrRTaf0eg"	= {
 	name="Schweizer Bibelkanal",			realname="",
@@ -1804,18 +1714,8 @@ staticData = {
 	weblink="",
 	catids="-7-",
 	instaid="",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UC32nI00UHzvDyUNIrkykGPQ"	= {
 	name="Buring_keys",			realname="Dave Bichsel",
@@ -1832,18 +1732,8 @@ staticData = {
 	weblink="https://www.soppligerdesign.ch",
 	catids="-7-",
 	instaid="s.oppliger_design",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCE36cJGnIWOCK8OIiygXH0w"	= {
 	name="Say Hello",			realname="Nico Martin",
@@ -1860,18 +1750,8 @@ staticData = {
 	weblink="",
 	catids="-6-",
 	instaid="m0ritsch.art",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCr8W1gQ2N193AalW_B4xgLQ"	= {
 	name="Kochersee",			realname="",
@@ -1879,18 +1759,8 @@ staticData = {
 	weblink="",
 	catids="-6-",
 	instaid="kochersee",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UC1EGthHyLAJrHYLm0IIT0BQ"	= {
 	name="WhaleonTrail",	realname="Martin",
@@ -1898,18 +1768,8 @@ staticData = {
 	weblink="",
 	catids="-1-",
 	instaid="whaleontrail",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCNGu4K3ZFaaDRI2tVWBAo9Q"	= {
 	name="ICEPRODUCTION",
@@ -1918,18 +1778,8 @@ staticData = {
 	weblink="",
 	catids="-3-",
 	instaid="iceproduction",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCX3gxpibog7MVCwR8GeYJDg"	= {
 	name="Keevin",			realname="",
@@ -1937,18 +1787,8 @@ staticData = {
 	weblink="",
 	catids="-6-",
 	instaid="k_evinn1",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCPvw4R46FquW2BICbvcjSrg"	= {
 	name="Denner",			realname="",
@@ -1956,18 +1796,8 @@ staticData = {
 	weblink="https://www.denner.ch",
 	catids="-7-",
 	instaid="",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCQYFGYAc-cRTl0a0c9SxosQ"	= {
 	name="M Melker",			realname="Gaviões, Philipp Schlotte, Marco, Fred Bürki",
@@ -1975,18 +1805,8 @@ staticData = {
 	weblink="http://www.melker.rocks",
 	catids="-8-",
 	instaid="",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCvuahW9sp03KGfjRUpiK4eQ"	= {
 	name="Andy Krainer",			realname="Andreas",
@@ -1994,18 +1814,8 @@ staticData = {
 	weblink="http://www.andy-krainer.ch",
 	catids="-8-",
 	instaid="andykrainer_official",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCZh09i2x6EQrTZUQxUZHZSg"	= {
 	name="Milena Patagônia",			realname="",
@@ -2013,18 +1823,8 @@ staticData = {
 	weblink="",
 	catids="-8-",
 	instaid="lamilenalamilena",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCbhDgbUaz5ewSsPMbleH3_Q"	= {
 	name="Ben Vatter",			realname="",
@@ -2032,18 +1832,8 @@ staticData = {
 	weblink="https://www.benvatter.ch",
 	catids="-6-8-",
 	instaid="",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UC9XMXSvNxGsKMbe5QdS0D6Q"	= {
 	name="SerejTV",			realname="",
@@ -2051,18 +1841,8 @@ staticData = {
 	weblink="http://www.serej.ch",
 	catids="-8-",
 	instaid="",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCxzRx0QbatJIPwR8YR9w-zg"	= {
 	name="Dani's Abenteuer",	realname="Daniel Bürgin",
@@ -2070,18 +1850,8 @@ staticData = {
 	weblink="",
 	catids="-1-",
 	instaid="danisabenteuer",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCzTS-cKceoKzYPQBCnDOtrg"	= {
 	name="Joël von Mutzenbecher",			realname="",
@@ -2089,18 +1859,8 @@ staticData = {
 	weblink="https://www.joelvonmutzenbecher.ch",
 	catids="-6-",
 	instaid="vonmutzenbecher",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCJQDfq4TBApJeblCpi06hZw"	= {
 	name="Verreis",
@@ -2109,18 +1869,8 @@ staticData = {
 	weblink="https://www.verreis.com",
 	catids="-1-",
 	instaid="_verreis_",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCYDWTpWlHokxFwcltUt5_CA"	= {
 	name="Guy Mandon",			realname="Lucien Montandon",
@@ -2128,18 +1878,8 @@ staticData = {
 	weblink="https://www.guymandon.com",
 	catids="-8-",
 	instaid="guy_mandon",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCzZ-0eTqV9xiO96xovg6OPg"	= {
 	name="Reto Schläppi",	realname="",
@@ -2147,18 +1887,8 @@ staticData = {
 	weblink="http://fsh.ch",
 	catids="-6-",
 	instaid="cyberhelvetia7",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCfqkZnJMnzwbSIvepovX6zg"	= {
 	name="LEVIN_TV",			realname="Levin Imhof",
@@ -2166,18 +1896,8 @@ staticData = {
 	weblink="",
 	catids="-4-6-",
 	instaid="levin.imhof",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 
 "UCyHEt5ndmuILbxL74NfmKJQ"	= {
@@ -2186,18 +1906,8 @@ staticData = {
 	weblink="",
 	catids="-5-7-",
 	instaid="mathiasblattmann.ch",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCL83Fj7_fROjfQQfv98S2ew"	= {
 	name="Sebufizzzt",
@@ -2206,18 +1916,8 @@ staticData = {
 	weblink="",
 	catids="-6-",
 	instaid="sebufizzzt",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCn4DYnlcZQQ_LNHUHaQhObQ"	= {
 	name="R&R On Tour",	realname="Rahel & René",
@@ -2225,18 +1925,8 @@ staticData = {
 	weblink="http://rr-on-tour.ch",
 	catids="-1-",
 	instaid="r.r.on.tour",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UC3TPzbRPjTadQKUINfKm11Q"	= {
 	name="triptipp",		realname="Janine & Dominik",
@@ -2244,18 +1934,8 @@ staticData = {
 	weblink="https://www.triptipp.ch",
 	catids="-1-",
 	instaid="triptipp.ch",
-	subcount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	},
-	viewscount={
-		2015=0,
-		2016=0,
-		2017=0,
-		2018=0
-	}
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCjgVbu8CXJwcVBvA9qN4jZQ"	= {
 	name="MB Vision",			realname="Mathias Blattmann",
@@ -2452,8 +2132,8 @@ staticData = {
 	weblink="https://www.roqa.ch",
 	catids="-4-",
 	instaid="roqa.ch",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	subcount={	2015=139,	2016=157,	2017=222,	2018=253},
+	viewscount={2015=18404,	2016=25014,	2017=29411,	2018=32999}
 },
 "UCy33T2BHQUa3veat8ExJqFw"	= {
 	name="STARTER GANG",			realname="",
@@ -2553,8 +2233,34 @@ staticData = {
 	instaid="claud_photo",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCXOUdl_aLNS2baobvpPCs4Q"	= {
+	name="regioTVplus",			realname="Daniel Wittlin, Max Schwank, Herbert Blaser, Thierry Gschwind",
+	ytlink="https://www.youtube.com/regiotvplus",
+	weblink="http://www.regiotvplus.ch",
+	catids="-9-",
+	instaid="",
+	subcount={	2015=228,	2016=341,	2017=554,	2018=782},
+	viewscount={2015=312949,2016=466067,2017=685451,2018=915247}
+},
+"UCJ3yKbrQedsbTDJDk5djcFw"	= {
+	name="LightByte",			realname="",
+	ytlink="https://www.youtube.com/LightByteAG",
+	weblink="https://www.lbag.ch",
+	catids="-3-",
+	instaid="lightbyteag",
+	subcount={	2015=289,	2016=324,	2017=342,	2018=520},
+	viewscount={2015=174686,2016=195666,2017=213703,2018=226305}
+},
+"UCOc_69rsD3bTDfulZ_DOXLg"	= {
+	name="Niki Huwyler",			realname="",
+	ytlink="",
+	weblink="https://www.snowboardcoach.ch",
+	catids="-1-5-",
+	instaid="trickyniki",
+	subcount={	2015=0,	2016=0,	2017=320,	2018=355},
+	viewscount={2015=0,	2016=0,	2017=178509,2018=205648}
 }
-
 
 
 
@@ -2565,7 +2271,7 @@ staticData = {
 /*
 	Source:
 	https://subscribercounter.com/channel/XXXX
-	https://socialblade.com/youtube/channel/XXXX
+	https://socialblade.com/youtube/channel/XXXX/monthly
 */
 
 catArr = [

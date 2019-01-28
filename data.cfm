@@ -2259,8 +2259,52 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCgRKi1MgQGfta8wDmToauRg"	= {
+	name="Yave",			realname="Dave, Tim & Youssef",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=277,	2018=374},
+	viewscount={2015=0,	2016=0,	2017=3737,	2018=6772}
+},
+"UCibxRwEEs4ck5RDEm5Ge9Mw"	= {
+	name="Züriost-Wucheblick",			realname="",
+	ytlink="",
+	weblink="https://zueriost.ch",
+	catids="-9-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=30,	2018=30},
+	viewscount={2015=0,	2016=0,	2017=53097,	2018=135115}
+},
+"UCTUg_EVdc9ilYwY-cAy_G2A"	= {
+	name="Kraftswerk",			realname="Elias Kraft",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="elias_kraft",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCzOJo3lox5nhE1n2pPD4Yzg"	= {
+	name="Galaxus",			realname="",
+	ytlink="",
+	weblink="https://www.galaxus.ch",
+	catids="-7-",
+	instaid="galaxus",
+	subcount={	2015=0,	2016=1182,		2017=5063,		2018=11289},
+	viewscount={2015=0,	2016=7024331,	2017=11740035,	2018=15010049}
+},
+"UCp8Oe5R6aTUkdyxRFbNLgIg"	= {
+	name="Volg Konsumwaren AG",			realname="",
+	ytlink="",
+	weblink="https://www.volg.ch",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
-
 
 
 

@@ -48,8 +48,8 @@ staticData = {
 	viewscount={2015=177864,2016=232031,2017=277216,2018=358925}
 },
 "UC0Rcwf8aMBpi0tHCtIll7KQ"	= {
-	name="Vifye",			realname="Jürg Hartmann",
-	ytlink="https://www.youtube.com/vifyech",
+	name="GrischaYeti",			realname="Jürg Hartmann",
+	ytlink="",
 	weblink="",
 	catids="-4-",
 	instaid="vifye_yt",
@@ -1627,7 +1627,7 @@ staticData = {
 	viewscount={2015=0,	2016=0,	2017=0,	2018=206796}
 },
 "UC32nI00UHzvDyUNIrkykGPQ"	= {
-	name="Buring_keys",			realname="Dave Bichsel",
+	name="BURNING_KEYS",			realname="Dave Bichsel",
 	ytlink="https://www.youtube.com/davensius",
 	weblink="",
 	catids="-4-",
@@ -2304,6 +2304,15 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCMegISR8lQWSRJDE1nWZS7g"	= {
+	name="Gabriel Gee-Jay Jenny",			realname="",
+	ytlink="",
+	weblink="https://www.gee-jay.com",
+	catids="-5-7-",
+	instaid="gabriel_jenny",
+	subcount={	2015=0,	2016=0,	2017=113,	2018=134},
+	viewscount={2015=0,	2016=0,	2017=292682,2018=315324}
 }
 
 

@@ -2313,8 +2313,43 @@ staticData = {
 	instaid="gabriel_jenny",
 	subcount={	2015=0,	2016=0,	2017=113,	2018=134},
 	viewscount={2015=0,	2016=0,	2017=292682,2018=315324}
+},
+"UCpkYP_woRKj1ltLdoIPO8UQ"	= {
+	name="Studioeins",			realname="Roman Lehmann, Manfred Hager, Stefan Tüscher",
+	ytlink="",
+	weblink="https://www.studioeins.ch",
+	catids="-3-",
+	instaid="studioeins",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCErwEBfJpmhdf2NE72lOXfg"	= {
+	name="TheSaemi",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=698,	2016=878,	2017=1016,	2018=1184},
+	viewscount={2015=315168,2016=343863,2017=421496,2018=491512}
+},
+"UCjInnqClWSD5V4TxUxi_Ibw"	= {
+	name="Schweizerdeutsch für Kinder",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCV-NveL3y0HdOABzA4YRIMw"	= {
+	name="Fotichaestli AG",			realname="",
+	ytlink="",
+	weblink="https://www.fotichaestli.ch",
+	catids="-3-",
+	instaid="fotichaestli.ch",
+	subcount={	2015=0,	2016=0,	2017=391,	2018=723},
+	viewscount={2015=0,	2016=0,	2017=22651,	2018=61915}
 }
-
 
 
 

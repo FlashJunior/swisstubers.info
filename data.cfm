@@ -1269,7 +1269,7 @@ staticData = {
 	viewscount={2015=0,2016=0,2017=122711,	2018=317964}
 },
 "UC--ryeowLnmiige-iFqxp5A"	= {
-	name="JoshuaSpielt",	realname="Joshua Grämiger",
+	name="JoshuaSpielt",	realname="Joshua",
 	ytlink="https://www.youtube.com/joshuaspielt",
 	weblink="",
 	catids="-4-6-",
@@ -2349,6 +2349,15 @@ staticData = {
 	instaid="fotichaestli.ch",
 	subcount={	2015=0,	2016=0,	2017=391,	2018=723},
 	viewscount={2015=0,	2016=0,	2017=22651,	2018=61915}
+},
+"UCYY-eeicga1FqGgi6PPZYAw"	= {
+	name="World Changing News",			realname="Stefan",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="ste1701fan",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
 
 

@@ -2358,7 +2358,35 @@ staticData = {
 	instaid="ste1701fan",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCiJMNqA6WEGFTvsy8qLV9QQ"	= {
+	name="MinderTV",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=70,	2018=102},
+	viewscount={2015=0,	2016=0,	2017=2632,	2018=948}
+},
+"UC0rQrpV2_5D9CG5n3M1xR0A"	= {
+	name="BraUsebad_Zockt",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="brausebad_zockt",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCLcbN5TRR017Y3zfP-8b1wA"	= {
+	name="Jamps & Jones",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-8-",
+	instaid="yungjamps",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=118},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=5749}
 }
+
 
 
 
@@ -2368,7 +2396,7 @@ staticData = {
 };
 /*
 	Source:
-	https://subscribercounter.com/channel/XXXX
+	https://subscribercounter.com/channel/UCLcbN5TRR017Y3zfP-8b1wA
 	https://socialblade.com/youtube/channel/XXXX/monthly
 */
 

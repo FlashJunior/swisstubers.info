@@ -111,7 +111,7 @@ staticData = {
 	viewscount={2015=50812,	2016=81152,	2017=138954,	2018=182734}
 },
 "UCCjweo0CKJkDMtU86hiAIJQ"	= {
-	name="Maelo",			realname="",
+	name="Maelo",			realname="Maelo Romani",
 	ytlink="https://www.youtube.com/DerPumpkin",
 	weblink="",
 	catids="-6-",
@@ -1242,7 +1242,7 @@ staticData = {
 	viewscount={2015=0,2016=0,	2017=1022733,	2018=1354213}
 },
 "UCTJRygFsgQGEf17dvvc1qbA"	= {
-	name="Marc Galaxy",		realname="",
+	name="Marc Galaxy",		realname="Marc Scheiwiller",
 	ytlink="",
 	weblink="",
 	catids="-6-",
@@ -2421,11 +2421,43 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCk82ch8IkEf_PYf1qwbpgUg"	= {
+	name="Lärsu",			realname="Lars",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=261},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=4405}
+},
+"UCbCvqHaQjOS0VLgCL_rAwCQ"	= {
+	name="Claudio's Wält",			realname="Claudio",
+	ytlink="",
+	weblink="",
+	catids="-1-",
+	instaid="claud_photo",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCng3w4h7F1lLnWQTQxxGgKA"	= {
+	name="MisterElia",			realname="Elia Rohrbach",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="mister_elia",
+	subcount={	2015=2554,	2016=3076,	2017=4015,	2018=5174},
+	viewscount={2015=92583,	2016=123089,2017=163987,2018=192283}
+},
+"UCoOM2CyzvsGam7tl3ZCotSg"	= {
+	name="Romanzone",			realname="Roman",
+	ytlink="",
+	weblink="https://www.romanzone.com",
+	catids="-6-",
+	instaid="romanzone_youtube",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
-
-
-
-
 
 
 

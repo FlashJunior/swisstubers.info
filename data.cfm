@@ -2450,14 +2450,44 @@ staticData = {
 	viewscount={2015=92583,	2016=123089,2017=163987,2018=192283}
 },
 "UCoOM2CyzvsGam7tl3ZCotSg"	= {
-	name="Romanzone",			realname="Roman",
+	name="Romanzone",			realname="Roman Blattmann",
 	ytlink="",
 	weblink="https://www.romanzone.com",
 	catids="-6-",
 	instaid="romanzone_youtube",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC_Ihi5UHVkB5p2ZKQ1Fec8g"	= {
+	name="SSOC let's plays",			realname="",
+	ytlink="",
+	weblink="https://www.facebook.com/SSOClps",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=14,	2017=16,	2018=21},
+	viewscount={2015=0,	2016=1245,	2017=2174,	2018=2511}
+},
+"UCCjrB1QoM7mdMyAEAmHfS8w"	= {
+	name="SwissFlair",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCm1FcqQxzuDMQG-xEIoXDig"	= {
+	name="Vergleiche",			realname="",
+	ytlink="",
+	weblink="https://www.vergleiche.ch",
+	catids="-7-",
+	instaid="vergleiche.ch",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
+
+
+
 
 
 

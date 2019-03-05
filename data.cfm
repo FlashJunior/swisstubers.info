@@ -2484,6 +2484,42 @@ staticData = {
 	instaid="vergleiche.ch",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCgTwdkG7FyvQbHEsy0z7psg"	= {
+	name="Jasgaba",			realname="Jasmin Gander",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=47,	2018=111},
+	viewscount={2015=0,	2016=0,	2017=3433,	2018=18078}
+},
+"UCseMRliCjLdWPXjGt5qgOIQ"	= {
+	name="Mafflin",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-4-6-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCg7vN1WFPnsYPRnwIGT52JA"	= {
+	name="IAxulu",			realname="Luca Aurilio",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="iaxulu",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=106},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=1099}
+},
+"UCPpQKCMOCwoQ-rw1lqE9wMA"	= {
+	name="TopTenErich",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="toptenerich",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=317},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=20065}
 }
 
 

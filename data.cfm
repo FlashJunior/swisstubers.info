@@ -798,7 +798,7 @@ staticData = {
 	viewscount={2015=0,		2016=979457,	2017=1167904,	2018=1301688}
 },
 "UC4yHZ2ki_ja39O2yw2YcfFg"	= {
-	name="Pyro 4 Swiss",			realname="",
+	name="Windy",			realname="Jannik",
 	ytlink="",
 	weblink="",
 	catids="-6-",

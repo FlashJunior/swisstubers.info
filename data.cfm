@@ -263,15 +263,6 @@ staticData = {
 	subcount={	2015=406,		2016=669,		2017=909,		2018=1015},
 	viewscount={2015=496595,	2016=642867,	2017=767468,	2018=826073}
 },
-"UCyinoUo87Yvl8ceMUf5fQ4w"	= {
-	name="JeansForJesus",			realname="Michael Egger, Philippe Gertsch, Demian Jakob, Marcel Kägi",
-	ytlink="",
-	weblink="https://www.jeansforjesus.net",
-	catids="-8-",
-	instaid="jeans4jesus",
-	subcount={	2015=451,		2016=493,		2017=635,		2018=1310},
-	viewscount={2015=284452,	2016=331375,	2017=447014,	2018=493992}
-},
 "UC_ob8wa5LQHud8MCgiQA0vA"	= {
 	name="K-Direct Music",			realname="",
 	ytlink="https://www.youtube.com/ktelmusic",
@@ -281,15 +272,7 @@ staticData = {
 	subcount={	2015=296,		2016=520,		2017=1071,		2018=1755},
 	viewscount={2015=272967,	2016=436967,	2017=777447,	2018=1194770}
 },
-"UCzPjs7IBa27ZkPbejtqLyhA"	= {
-	name="Landro",			realname="",
-	ytlink="https://www.youtube.com/LucaLandro",
-	weblink="https://landro.ch",
-	catids="-8-",
-	instaid="lucalandro",
-	subcount={	2015=53,	2016=59,	2017=558,		2018=778},
-	viewscount={2015=14235,	2016=18385,	2017=210860,	2018=303493}
-},"UC5Yi45Une921Ntq4Q_euTpQ"	= {
+"UC5Yi45Une921Ntq4Q_euTpQ"	= {
 	name="Kummerbuben",			realname="Simon Jäggi & Urs Gilgen",
 	ytlink="https://www.youtube.com/kummerbuben",
 	weblink="https://www.kummerbuben.com",
@@ -423,15 +406,6 @@ staticData = {
 	instaid="urgamer",
 	subcount={	2015=67,2016=221,	2017=259,	2018=315},
 	viewscount={2015=0,	2016=14451,	2017=16630,	2018=24067}
-},
-"UCDfm8zsfKmc3sLevtY8x7OQ"	= {
-	name="MRTN",			realname="Martin",
-	ytlink="",
-	weblink="",
-	catids="-4-6-",
-	instaid="",
-	subcount={	2015=484,	2016=1532,	2017=1718,		2018=1659},
-	viewscount={2015=18440,	2016=113536,2017=143618,	2018=156051}
 },
 "UCJgbvl0BJ9nG-vTRKfdEh8A"	= {
 	name="Esischeasy",			realname="Lukas Pfaff",
@@ -570,7 +544,7 @@ staticData = {
 },
 "UCwZSjN2NfSxKd-dE8V9ElsQ"	= {
 	name="Gian Maria Finger", realname="",
-	ytlink="https://www.youtube.com/gianderschweizer",
+	ytlink="",
 	weblink="",
 	catids="-3-6-",
 	instaid="gianmariafinger",
@@ -714,15 +688,6 @@ staticData = {
 	subcount={	2015=0,	2016=94,	2017=166,	2018=218},
 	viewscount={2015=0,	2016=14614,	2017=29091,	2018=45236}
 },
-"UC1PgEbqUweHJGWGDp1BFzZw"	= {
-	name="Super Swiss Bros.",	realname="Robb & TesAlbert",
-	ytlink="https://www.youtube.com/superswissbros",
-	weblink="",
-	catids="-4-",
-	instaid="super_swiss_bros",
-	subcount={	2015=0,	2016=459,	2017=788,	2018=1176},
-	viewscount={2015=0,	2016=28580,	2017=48917,	2018=84736}
-},
 "UC0Q2HB_PxFurzQM6ck38U2A"	= {
 	name="Kitchwitch",		realname="Denise & Stefan Lehmann",
 	ytlink="https://www.youtube.com/kitchwitch",
@@ -802,7 +767,7 @@ staticData = {
 	ytlink="",
 	weblink="",
 	catids="-6-",
-	instaid="",
+	instaid="jannik_17_zh",
 	subcount={	2015=0,	2016=15,	2017=31,	2018=271},
 	viewscount={2015=0,	2016=276,	2017=1407,	2018=2472}
 },
@@ -1554,15 +1519,6 @@ staticData = {
 	subcount={	2015=0,2016=0,2017=0,	2018=3873},
 	viewscount={2015=0,2016=0,2017=0,	2018=4840457}
 },
-"UCTiKKjIxwkH-4o5ie8M-7NQ"	= {
-	name="Kaiser & Dimitri",			realname="",
-	ytlink="",
-	weblink="http://kaiser-dimitri.ch",
-	catids="-8-",
-	instaid="kaiserunddimitri",
-	subcount={	2015=0,2016=0,2017=0,	2018=1395},
-	viewscount={2015=0,2016=0,2017=0,	2018=662241}
-},
 "UCcUB8t47AAu5WKmaUSdaN_g"	= {
 	name="Jucker Farm",			realname="Beat & Martin Jucker",
 	ytlink="",
@@ -1760,15 +1716,6 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=138},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=6116}
-},
-"UC9js0zJqGt7a_GfmWI3y1Iw"	= {
-	name="Gorthron",			realname="Julien Portmann",
-	ytlink="https://www.youtube.com/JulePortLP",
-	weblink="",
-	catids="-4-",
-	instaid="",
-	subcount={	2015=487,	2016=482,	2017=479,	2018=477},
-	viewscount={2015=17721,	2016=1993,	2017=1543,	2018=475}
 },
 "UCIsfNJIQTylYF-dw0p7ZKYQ"	= {
 	name="Dijana Beauty",			realname="",
@@ -2520,7 +2467,27 @@ staticData = {
 	instaid="toptenerich",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=317},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=20065}
+},
+"UCyH74boxzuFAY5zQTH4ED5w"	= {
+	name="Zock mit Mike",			realname="Mike",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCSOhL9jLW-iOAiEUUKl-DJQ"	= {
+	name="Ceyhan Bora",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=71,	2018=71},
+	viewscount={2015=0,	2016=0,	2017=2332,	2018=2760}
 }
+
+
 
 
 
@@ -2590,6 +2557,15 @@ catArr = [
 		subcount={	2015=0,	2016=0,2017=0,	2018=0},
 		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 	},
+	"UC9js0zJqGt7a_GfmWI3y1Iw"	= {
+		name="Gorthron",			realname="Julien Portmann",
+		ytlink="https://www.youtube.com/JulePortLP",
+		weblink="",
+		catids="-4-",
+		instaid="",
+		subcount={	2015=487,	2016=482,	2017=479,	2018=477},
+		viewscount={2015=17721,	2016=1993,	2017=1543,	2018=475}
+	},
 
 	Zu wenige schweizerdeutsche Inhalte. Diverse negative Kommentare aus Community.
 	"UCCRaD69AaGoytnOL_t0gy7A"	= {
@@ -2607,6 +2583,51 @@ catArr = [
 		instaid="gametv_suisse",
 		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 		viewscount={2015=0,	2016=0,	2017=0, 2018=0}
+	},
+	"UCDfm8zsfKmc3sLevtY8x7OQ"	= {
+		name="MRTN",			realname="Martin",
+		ytlink="",
+		weblink="",
+		catids="-4-6-",
+		instaid="",
+		subcount={	2015=484,	2016=1532,	2017=1718,		2018=1659},
+		viewscount={2015=18440,	2016=113536,2017=143618,	2018=156051}
+	},
+	"UCyinoUo87Yvl8ceMUf5fQ4w"	= {
+		name="JeansForJesus",			realname="Michael Egger, Philippe Gertsch, Demian Jakob, Marcel Kägi",
+		ytlink="",
+		weblink="https://www.jeansforjesus.net",
+		catids="-8-",
+		instaid="jeans4jesus",
+		subcount={	2015=451,		2016=493,		2017=635,		2018=1310},
+		viewscount={2015=284452,	2016=331375,	2017=447014,	2018=493992}
+	},
+	"UCzPjs7IBa27ZkPbejtqLyhA"	= {
+		name="Landro",			realname="",
+		ytlink="https://www.youtube.com/LucaLandro",
+		weblink="https://landro.ch",
+		catids="-8-",
+		instaid="lucalandro",
+		subcount={	2015=53,	2016=59,	2017=558,		2018=778},
+		viewscount={2015=14235,	2016=18385,	2017=210860,	2018=303493}
+	},
+	"UCTiKKjIxwkH-4o5ie8M-7NQ"	= {
+		name="Kaiser & Dimitri",			realname="",
+		ytlink="",
+		weblink="http://kaiser-dimitri.ch",
+		catids="-8-",
+		instaid="kaiserunddimitri",
+		subcount={	2015=0,2016=0,2017=0,	2018=1395},
+		viewscount={2015=0,2016=0,2017=0,	2018=662241}
+	},
+	"UC1PgEbqUweHJGWGDp1BFzZw"	= {
+		name="Super Swiss Bros.",	realname="Robb & TesAlbert",
+		ytlink="https://www.youtube.com/superswissbros",
+		weblink="",
+		catids="-4-",
+		instaid="super_swiss_bros",
+		subcount={	2015=0,	2016=459,	2017=788,	2018=1176},
+		viewscount={2015=0,	2016=28580,	2017=48917,	2018=84736}
 	},
 
 */

@@ -2482,9 +2482,18 @@ staticData = {
 	ytlink="",
 	weblink="",
 	catids="-6-",
-	instaid="",
+	instaid="mr.vapetastic",
 	subcount={	2015=0,	2016=0,	2017=71,	2018=71},
 	viewscount={2015=0,	2016=0,	2017=2332,	2018=2760}
+},
+"UChmw2ZWy4X8oFTp_iYPlxJA"	= {
+	name="Nau",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-9-",
+	instaid="nau_ch",
+	subcount={	2015=0,	2016=0,	2017=67,	2018=1257},
+	viewscount={2015=0,	2016=0,	2017=53464,	2018=672169}
 }
 
 

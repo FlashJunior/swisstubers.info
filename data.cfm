@@ -881,15 +881,6 @@ staticData = {
 	subcount={	2015=0,	2016=116,	2017=182,		2018=875},
 	viewscount={2015=0,	2016=138433,2017=217463,	2018=934741}
 },
-"UCd9_voTG2Aw13XEeh_o1zQw"	= {
-	name="HalloAbenteuer",	realname="Deborah Wanner",
-	ytlink="https://www.youtube.com/halloabenteuer",
-	weblink="https://www.halloabenteuer.com",
-	catids="-1-",
-	instaid="halloabenteuer",
-	subcount={	2015=0,2016=0,	2017=96,	2018=1947},
-	viewscount={2015=0,2016=0,	2017=3864,	2018=192588}
-},
 "UCK0mkfVi-BxhbQTNvZs5t1Q"	= {
 	name="Schwiizergoofe",			realname="Nikol Camenzind",
 	ytlink="https://www.youtube.com/SchwiizergoofeTV",
@@ -1125,7 +1116,7 @@ staticData = {
 	ytlink="",
 	weblink="",
 	catids="-6-",
-	instaid="",
+	instaid="konterbrauerei",
 	subcount={	2015=0,2016=0,	2017=260,	2018=288},
 	viewscount={2015=0,2016=0,	2017=34857,	2018=48386}
 },
@@ -1237,7 +1228,7 @@ staticData = {
 	name="JoshuaSpielt",	realname="Joshua",
 	ytlink="https://www.youtube.com/joshuaspielt",
 	weblink="",
-	catids="-4-6-",
+	catids="-6-",
 	instaid="joshuaspielt",
 	subcount={	2015=0,2016=0,	2017=166,	2018=533},
 	viewscount={2015=0,2016=0,	2017=13849,	2018=18810}
@@ -1486,7 +1477,7 @@ staticData = {
 	name="Jan Breitenstein",			realname="",
 	ytlink="https://www.youtube.com/janbreitenstein",
 	weblink="",
-	catids="-4-6-",
+	catids="-6-",
 	instaid="janbreitenstein_",
 	subcount={	2015=0,2016=0,2017=0,	2018=244},
 	viewscount={2015=0,2016=0,2017=0,	2018=1888}
@@ -1586,7 +1577,7 @@ staticData = {
 	name="BURNING_KEYS",			realname="Dave Bichsel",
 	ytlink="https://www.youtube.com/davensius",
 	weblink="",
-	catids="-4-",
+	catids="-6-4-",
 	instaid="dave_bichsel",
 	subcount={	2015=79,	2016=81,	2017=86,	2018=98},
 	viewscount={2015=52722,	2016=55021,	2017=57399,	2018=60776}
@@ -2346,7 +2337,7 @@ staticData = {
 	name="Snowly",			realname="",
 	ytlink="",
 	weblink="",
-	catids="-4-7-",
+	catids="-6-7-",
 	instaid="snowly2368",
 	subcount={	2015=0,	2016=302,	2017=631,	2018=834},
 	viewscount={2015=0,	2016=134516,2017=310148,2018=460163}
@@ -2494,10 +2485,25 @@ staticData = {
 	instaid="nau_ch",
 	subcount={	2015=0,	2016=0,	2017=67,	2018=1257},
 	viewscount={2015=0,	2016=0,	2017=53464,	2018=672169}
+},
+"UCYUw18YUW012Z2ruHXR5lcw"	= {
+	name="Gourmendo",			realname="Ivan Schnoz",
+	ytlink="https://www.youtube.com/gourmendo",
+	weblink="https://gourmendo.com",
+	catids="-2-",
+	instaid="gourmendo",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC0BZD1DCzd_y_oRZqhezqtg"	= {
+	name="Content Creation Space",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
-
-
-
 
 
 
@@ -2574,6 +2580,15 @@ catArr = [
 		instaid="",
 		subcount={	2015=487,	2016=482,	2017=479,	2018=477},
 		viewscount={2015=17721,	2016=1993,	2017=1543,	2018=475}
+	},
+	"UCd9_voTG2Aw13XEeh_o1zQw"	= {
+		name="HalloAbenteuer",	realname="Deborah Wanner",
+		ytlink="https://www.youtube.com/halloabenteuer",
+		weblink="https://www.halloabenteuer.com",
+		catids="-1-",
+		instaid="halloabenteuer",
+		subcount={	2015=0,2016=0,	2017=96,	2018=1947},
+		viewscount={2015=0,2016=0,	2017=3864,	2018=192588}
 	},
 
 	Zu wenige schweizerdeutsche Inhalte. Diverse negative Kommentare aus Community.

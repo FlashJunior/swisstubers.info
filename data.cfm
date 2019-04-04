@@ -2503,6 +2503,15 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC5jF58ftx0w4wDvW3B7atNQ"	= {
+	name="Flying Metal Crew",			realname="Jérôme & Ramon Hunziker",
+	ytlink="https://www.youtube.com/flyingmetalcrew",
+	weblink="",
+	catids="-5-",
+	instaid="flyingmetalcrew",
+	subcount={	2015=0,	2016=758,	2017=1006,	2018=1208},
+	viewscount={2015=0,	2016=306232,	2017=393127,	2018=475720}
 }
 
 

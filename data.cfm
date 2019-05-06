@@ -2099,15 +2099,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
-"UC_iOp4uaJ6U_h6NaKgaagtg"	= {
-	name="Samoht LP",			realname="",
-	ytlink="",
-	weblink="https://",
-	catids="-4-",
-	instaid="samoht.lp1985",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-},
 "UCx9yK8r_t9WnbfJMA0TFlcw"	= {
 	name="Don Superbe",			realname="",
 	ytlink="",
@@ -2150,15 +2141,6 @@ staticData = {
 	weblink="",
 	catids="-4-",
 	instaid="theworkingclasshd",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-},
-"UCsZdsSjMrvhXSlBiuGK3r2w"	= {
-	name="AdnansTv",			realname="",
-	ytlink="",
-	weblink="",
-	catids="-6-",
-	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
@@ -2512,6 +2494,33 @@ staticData = {
 	instaid="flyingmetalcrew",
 	subcount={	2015=0,	2016=758,	2017=1006,	2018=1208},
 	viewscount={2015=0,	2016=306232,	2017=393127,	2018=475720}
+},
+"UC-jem5IA6sbZzjj6s0DZE0Q"	= {
+	name="Hirn Wind",			realname="",
+	ytlink="",
+	weblink="https://www.mbuonaurio.com",
+	catids="-3-7-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCJzKFKXHbGerDy1MsMsGCAA"	= {
+	name="JaenuK",			realname="Jan Kröcher",
+	ytlink="",
+	weblink="",
+	catids="-2-",
+	instaid="jaenuk",
+	subcount={	2015=0,	2016=0,	2017=42,		2018=145},
+	viewscount={2015=0,	2016=0,	2017=1094,	2018=9761}
+},
+"UCQqncPJ6crTkW_WuoLwXLkg"	= {
+	name="riSurvival89",			realname="Remo Iller",
+	ytlink="",
+	weblink="http://www.risurvival-training.ch",
+	catids="-7-",
+	instaid="remoiller",
+	subcount={	2015=0,	2016=16367,	2017=21307,	2018=25110},
+	viewscount={2015=0,	2016=2671693,	2017=4067166,	2018=3874063}
 }
 
 
@@ -2599,6 +2608,15 @@ catArr = [
 		subcount={	2015=0,2016=0,	2017=96,	2018=1947},
 		viewscount={2015=0,2016=0,	2017=3864,	2018=192588}
 	},
+	"UC_iOp4uaJ6U_h6NaKgaagtg"	= {
+		name="Samoht LP",			realname="",
+		ytlink="",
+		weblink="https://",
+		catids="-4-",
+		instaid="samoht.lp1985",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
 
 	Zu wenige schweizerdeutsche Inhalte. Diverse negative Kommentare aus Community.
 	"UCCRaD69AaGoytnOL_t0gy7A"	= {
@@ -2661,6 +2679,15 @@ catArr = [
 		instaid="super_swiss_bros",
 		subcount={	2015=0,	2016=459,	2017=788,	2018=1176},
 		viewscount={2015=0,	2016=28580,	2017=48917,	2018=84736}
+	},
+	"UCsZdsSjMrvhXSlBiuGK3r2w"	= {
+		name="AdnansTv",			realname="",
+		ytlink="",
+		weblink="",
+		catids="-6-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 	},
 
 */

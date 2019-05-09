@@ -2521,6 +2521,15 @@ staticData = {
 	instaid="remoiller",
 	subcount={	2015=0,	2016=16367,	2017=21307,	2018=25110},
 	viewscount={2015=0,	2016=2671693,	2017=4067166,	2018=3874063}
+},
+"UCZuIbX5HZJumlvdUlusUJtA"	= {
+	name="Bauernfilme",			realname="Markus, Rebekka, Dario",
+	ytlink="",
+	weblink="https://bauernfilme.ch",
+	catids="-7-",
+	instaid="bauernfilme",
+	subcount={	2015=0,	2016=6878,	2017=7476,	2018=8496},
+	viewscount={2015=0,	2016=4687739,	2017=5308341,	2018=6112312}
 }
 
 

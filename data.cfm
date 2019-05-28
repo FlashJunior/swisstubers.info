@@ -2198,15 +2198,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=30,	2018=30},
 	viewscount={2015=0,	2016=0,	2017=53097,	2018=135115}
 },
-"UCTUg_EVdc9ilYwY-cAy_G2A"	= {
-	name="Kraftswerk",			realname="Elias Kraft",
-	ytlink="",
-	weblink="",
-	catids="-6-",
-	instaid="elias_kraft",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-},
 "UCzOJo3lox5nhE1n2pPD4Yzg"	= {
 	name="Galaxus",			realname="",
 	ytlink="",
@@ -2478,11 +2469,11 @@ staticData = {
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UC0BZD1DCzd_y_oRZqhezqtg"	= {
-	name="Content Creation Space",			realname="",
+	name="Content Creation Space",			realname="Boris Baldinger",
 	ytlink="",
-	weblink="",
+	weblink="https://contentcreation.space",
 	catids="-7-",
-	instaid="",
+	instaid="contentcreation.space",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
@@ -2530,6 +2521,33 @@ staticData = {
 	instaid="bauernfilme",
 	subcount={	2015=0,	2016=6878,	2017=7476,	2018=8496},
 	viewscount={2015=0,	2016=4687739,	2017=5308341,	2018=6112312}
+},
+"UCbJ_20OaOxa3JUTAIdUp-tw"	= {
+	name="24Dias",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC3IZucdv0lEZX7tRSMcfEOg"	= {
+	name="PhönixTV",			realname="Diogo De Sousa",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="_phoenixtv_",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCLqs8-BRLc7anXSHXZHBXeQ"	= {
+	name="think.answer.share",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-6-8-",
+	instaid="think.answer.share",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
 
 
@@ -2623,6 +2641,15 @@ catArr = [
 		weblink="https://",
 		catids="-4-",
 		instaid="samoht.lp1985",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
+	"UCTUg_EVdc9ilYwY-cAy_G2A"	= {
+		name="Kraftswerk",			realname="Elias Kraft",
+		ytlink="",
+		weblink="",
+		catids="-6-",
+		instaid="elias_kraft",
 		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 	},

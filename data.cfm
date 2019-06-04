@@ -625,7 +625,7 @@ staticData = {
 	viewscount={2015=0,	2016=4558,	2017=24455,	2018=50379}
 },
 "UCcAAr1QHSTYiATwQb78xLdg"	= {
-	name="S.O.S",		realname="",
+	name="S.O.S",		realname="Thierry Gnahoré (Nativ) & Danilo Rosario (Dawill)",
 	ytlink="",
 	weblink="https://hrdrec.ch",
 	catids="-8-",
@@ -2555,6 +2555,24 @@ staticData = {
 	weblink="",
 	catids="-4-",
 	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCuZXBqRVyV7A98SEZM4wNiw"	= {
+	name="Hundespiele",			realname="Martin Sailer",
+	ytlink="",
+	weblink="https://hundespiele.ch",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCCsUFSl6HS1r3o_yNMJaQdA"	= {
+	name="Dawill",			realname="Danilo Rosario",
+	ytlink="",
+	weblink="",
+	catids="-8-",
+	instaid="dawilly.wonka",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }

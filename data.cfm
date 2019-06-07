@@ -1269,15 +1269,6 @@ staticData = {
 	subcount={	2015=0,2016=0,	2017=2894,		2018=3592},
 	viewscount={2015=0,2016=0,	2017=1317286,	2018=1706616}
 },
-"UCetg03fzXGGlDGBRTJelkFQ"	= {
-	name="Youngbulanz",		realname="Schweizer Radio und Fernsehen",
-	ytlink="",
-	weblink="",
-	catids="-6-9-",
-	instaid="srfyoungbulanz",
-	subcount={	2015=0,2016=0,	2017=2497,		2018=4649},
-	viewscount={2015=0,2016=0,	2017=397606,	2018=751510}
-},
 "UC0y7cKmpBSp6pjyDTSmaj8g"	= {
 	name="419 Finesse Gang",		realname="",
 	ytlink="",
@@ -2575,6 +2566,15 @@ staticData = {
 	instaid="dawilly.wonka",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCX4wXHZBpRVd2yTgFUf4a0A"	= {
+	name="Piratenpartei Schweiz",			realname="",
+	ytlink="",
+	weblink="https://www.piratenpartei.ch",
+	catids="-7-",
+	instaid="piratenschweiz",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
 
 
@@ -2621,6 +2621,15 @@ catArr = [
 
 
 	Nicht mehr aktiv:
+	"UCetg03fzXGGlDGBRTJelkFQ"	= {
+		name="Youngbulanz",		realname="Schweizer Radio und Fernsehen",
+		ytlink="",
+		weblink="",
+		catids="-6-9-",
+		instaid="srfyoungbulanz",
+		subcount={	2015=0,2016=0,	2017=2497,		2018=4649,		2019=4708},
+		viewscount={2015=0,2016=0,	2017=397606,	2018=751510,	2019=802129}
+	},
 	"UCuBPFpQiBA3JIcf04EW-BDA"	= {
 		name="Tama Gotcha!",		realname="",
 		ytlink="",

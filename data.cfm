@@ -2593,7 +2593,37 @@ staticData = {
 	instaid="anthrazit_pearl",
 	subcount={	2015=0,		2016=26,	2017=33,	2018=45},
 	viewscount={2015=38881,	2016=58225,	2017=58225,	2018=74213}
+},
+"UCcJG0N8IWbgxot4bFoM4cmQ"	= {
+	name="Hampi-Vator",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCCfpKXMBuL0hP83BADHbaDA"	= {
+	name="Hoschi",			realname="Fäbu",
+	ytlink="",
+	weblink="",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=25,	2017=25,	2018=25},
+	viewscount={2015=0,	2016=32438,	2017=69798,	2018=130336}
+},
+"UC-8Yram-BhOlmaTHxmVP0Cg"	= {
+	name="Marco Ghiringhelli",			realname="",
+	ytlink="",
+	weblink="https://www.mebcbiberist.ch",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
+
+
+
 
 
 

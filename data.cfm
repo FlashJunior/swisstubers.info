@@ -2575,6 +2575,24 @@ staticData = {
 	instaid="piratenschweiz",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCtVMzzBMc8pfftIQzZXYQWw"	= {
+	name="Obscuro94",			realname="Pascal",
+	ytlink="",
+	weblink="",
+	catids="-6-7-",
+	instaid="obscuro94",
+	subcount={	2015=75,	2016=159,	2017=314,	2018=349},
+	viewscount={2015=37381,	2016=78800,	2017=166594,2018=211801}
+},
+"UCgmz-9Z8WbnxGIhfEEXgDpg"	= {
+	name="Anthrazit Pearl",			realname="Pascal",
+	ytlink="",
+	weblink="https://www.coupe-s.ch",
+	catids="-6-7-",
+	instaid="anthrazit_pearl",
+	subcount={	2015=0,		2016=26,	2017=33,	2018=45},
+	viewscount={2015=38881,	2016=58225,	2017=58225,	2018=74213}
 }
 
 

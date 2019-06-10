@@ -2620,6 +2620,24 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCQG8PZaWqUKUcdH583et6pw"	= {
+	name="rontaler media ag",			realname="",
+	ytlink="",
+	weblink="https://www.rontaler.ch",
+	catids="-9-",
+	instaid="rontaler.ch",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCq7oOVijWYMnAjw-iHkKkoQ"	= {
+	name="Sandro Schmid",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-5-",
+	instaid="sandrusmith",
+	subcount={	2015=0,	2016=893,	2017=1159,	2018=1539},
+	viewscount={2015=0,	2016=192539,2017=298736,2018=345797}
 }
 
 

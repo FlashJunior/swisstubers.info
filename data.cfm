@@ -218,15 +218,6 @@ staticData = {
 	subcount={	2015=8058,		2016=15596,		2017=32337,		2018=40848},
 	viewscount={2015=11364289,	2016=22722151,	2017=47059760,	2018=76443054}
 },
-"UC5Er936bK5-0b1dJF0n7Zrw"	= {
-	name="Noeliavidz",			realname="Noelia",
-	ytlink="",
-	weblink="",
-	catids="-6-",
-	instaid="noeliavid",
-	subcount={	2015=7519,	2016=18195,		2017=23342,		2018=23795},
-	viewscount={2015=328438,2016=1195853,	2017=1867829,	2018=2053873}
-},
 "UCpJKd4CG2Gdubj8WBOuCnqg"	= {
 	name="T-Nerd Production",			realname="Andreas Aegerter",
 	ytlink="",
@@ -1446,15 +1437,6 @@ staticData = {
 	subcount={	2015=0,2016=0,2017=0,	2018=790},
 	viewscount={2015=0,2016=0,2017=0,	2018=381054}
 },
-"UCbM_9KX2NGACuHvGP2LpZCg"	= {
-	name="MinKing",			realname="",
-	ytlink="",
-	weblink="https://minking.ch",
-	catids="-8-",
-	instaid="",
-	subcount={	2015=0,2016=0,2017=0,	2018=166},
-	viewscount={2015=0,2016=0,2017=0,	2018=145037}
-},
 "UCXG4LxOG_7z2j6NqwcMXoww"	= {
 	name="Miri Weber",		realname="Mirjam Weber",
 	ytlink="https://www.youtube.com/zaubersterne",
@@ -2432,15 +2414,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
-"UCSOhL9jLW-iOAiEUUKl-DJQ"	= {
-	name="Ceyhan Bora",			realname="",
-	ytlink="",
-	weblink="",
-	catids="-6-",
-	instaid="mr.vapetastic",
-	subcount={	2015=0,	2016=0,	2017=71,	2018=71},
-	viewscount={2015=0,	2016=0,	2017=2332,	2018=2760}
-},
 "UChmw2ZWy4X8oFTp_iYPlxJA"	= {
 	name="Nau",			realname="",
 	ytlink="",
@@ -2759,6 +2732,33 @@ catArr = [
 
 
 	Nicht mehr aktiv:
+	"UCbM_9KX2NGACuHvGP2LpZCg"	= {
+		name="MinKing",			realname="",
+		ytlink="",
+		weblink="https://minking.ch",
+		catids="-8-",
+		instaid="",
+		subcount={	2015=0,2016=0,2017=0,	2018=166},
+		viewscount={2015=0,2016=0,2017=0,	2018=145037}
+	},
+	"UCSOhL9jLW-iOAiEUUKl-DJQ"	= {
+		name="Ceyhan Bora",			realname="",
+		ytlink="",
+		weblink="",
+		catids="-6-",
+		instaid="mr.vapetastic",
+		subcount={	2015=0,	2016=0,	2017=71,	2018=71},
+		viewscount={2015=0,	2016=0,	2017=2332,	2018=2760}
+	},
+	"UC5Er936bK5-0b1dJF0n7Zrw"	= {
+		name="Noeliavidz",			realname="Noelia",
+		ytlink="",
+		weblink="",
+		catids="-6-",
+		instaid="noeliavid",
+		subcount={	2015=7519,	2016=18195,		2017=23342,		2018=23795},
+		viewscount={2015=328438,2016=1195853,	2017=1867829,	2018=2053873}
+	},
 	"UCetg03fzXGGlDGBRTJelkFQ"	= {
 		name="Youngbulanz",		realname="Schweizer Radio und Fernsehen",
 		ytlink="",

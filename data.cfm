@@ -2638,6 +2638,78 @@ staticData = {
 	instaid="sandrusmith",
 	subcount={	2015=0,	2016=893,	2017=1159,	2018=1539},
 	viewscount={2015=0,	2016=192539,2017=298736,2018=345797}
+},
+"UC50ixhWkpl-d03F6OqPUkAg"	= {
+	name="Tobi",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="tobias_e007",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCNHBMc1YZyX_tMMl1K6uuUA"	= {
+	name="Clip und klar!",			realname="",
+	ytlink="",
+	weblink="https://srf.ch/myschool.ch",
+	catids="-9-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=255,	2018=2960},
+	viewscount={2015=0,	2016=0,	2017=8844,	2018=674845}
+},
+"UCQNvR_M_HYiZr_To1X3Qz_A"	= {
+	name="True Talk",			realname="",
+	ytlink="",
+	weblink="https://www.srf.ch/radio-srf-virus",
+	catids="-9-",
+	instaid="srfvirus",
+	subcount={	2015=0,	2016=0,	2017=1864,	2018=4851},
+	viewscount={2015=0,	2016=0,	2017=706278,2018=1784337}
+},
+"UCbbFUi57jUR_VQh-N3x9KGA"	= {
+	name="Nr. 47",			realname="",
+	ytlink="",
+	weblink="https://srf.ch/nr47",
+	catids="-6-9-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=5601},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=1102214}
+},
+"UCd0NmHBRRAq5O-ye7kx_VlQ"	= {
+	name="SRF Archiv",			realname="",
+	ytlink="",
+	weblink="https://srf.ch",
+	catids="-9-",
+	instaid="",
+	subcount={	2015=0,	2016=4306,	2017=6716,		2018=10833},
+	viewscount={2015=0,	2016=3432243,2017=5390541,	2018=8288109}
+},
+"UConNtYYf5lQz3WUo_f2Vr6Q"	= {
+	name="Late Update",			realname="",
+	ytlink="",
+	weblink="https://srf.ch",
+	catids="-6-9-",
+	instaid="srflateupdate",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCX0OdLuEQ3ccSCq-Z7iMoiw"	= {
+	name="Deville",			realname="",
+	ytlink="",
+	weblink="https://srf.ch",
+	catids="-6-9-",
+	instaid="srfdeville",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCh_GQqobenO55IJ9sYZWndA"	= {
+	name="SRF Kultur",			realname="",
+	ytlink="",
+	weblink="https://www.srf.ch/kultur",
+	catids="-9-",
+	instaid="",
+	subcount={	2015=0,	2016=10770,		2017=17405,		2018=30081},
+	viewscount={2015=0,	2016=4677237,	2017=7922811,	2018=12159832}
 }
 
 

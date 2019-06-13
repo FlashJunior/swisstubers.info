@@ -2683,6 +2683,15 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=10770,		2017=17405,		2018=30081},
 	viewscount={2015=0,	2016=4677237,	2017=7922811,	2018=12159832}
+},
+"UC_jRIdyQis_eGa029R3Kogg"	= {
+	name="Leming CH",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-5-",
+	instaid="leming_ch",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
 
 

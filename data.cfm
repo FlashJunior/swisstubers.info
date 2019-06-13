@@ -2692,6 +2692,15 @@ staticData = {
 	instaid="leming_ch",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCzvXx0T8lpziPTfw4IRLUjg"	= {
+	name="Semantik",			realname="",
+	ytlink="",
+	weblink="http://semantik.ch",
+	catids="-8-",
+	instaid="sema.ntik",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=173},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=126776}
 }
 
 

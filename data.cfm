@@ -2701,6 +2701,15 @@ staticData = {
 	instaid="sema.ntik",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=173},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=126776}
+},
+"UCtbNlk5CJ31nuR30MSgeOKg"	= {
+	name="Marco Ribeiro",			realname="",
+	ytlink="",
+	weblink="https://marcoribeiro.ch",
+	catids="-6-",
+	instaid="marcoribeiroofficial",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=546},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=11271}
 }
 
 

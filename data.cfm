@@ -2710,6 +2710,15 @@ staticData = {
 	instaid="marcoribeiroofficial",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=546},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=11271}
+},
+"UCwOZ-UZDXNydwULvnffMacA"	= {
+	name="Swisscom",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-9-",
+	instaid="swisscom",
+	subcount={	2015=0,	2016=12484,		2017=14335,		2018=15260},
+	viewscount={2015=0,	2016=7973549,	2017=14084833,	2018=22458408}
 }
 
 

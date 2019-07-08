@@ -2719,6 +2719,24 @@ staticData = {
 	instaid="swisscom",
 	subcount={	2015=0,	2016=12484,		2017=14335,		2018=15260},
 	viewscount={2015=0,	2016=7973549,	2017=14084833,	2018=22458408}
+},
+"UC2I4vIv7VI2mSM-QzmHnJRA"	= {
+	name="Kirmesfan Schweiz",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-7-",
+	instaid="kirmesfan_schweiz",
+	subcount={	2015=0,	2016=652,	2017=1199,	2018=2291},
+	viewscount={2015=0,	2016=374701,2017=862252,2018=1372073}
+},
+"UCfMWwidS6nxYVuC9HSz9wDw"	= {
+	name="Flowcast",			realname="Flavio Camenzind",
+	ytlink="",
+	weblink="https://www.flowcast.fm",
+	catids="-6-9-",
+	instaid="flaviocamenzind",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
 
 

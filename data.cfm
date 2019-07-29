@@ -31,7 +31,7 @@ staticData = {
 },
 "UC89Co9H3-JzUHtLuF5sTzvA"	= {
 	name="Pascal Erb",		realname="",
-	ytlink="https://www.youtube.com/pascalerbvlog",
+	ytlink="",
 	weblink="https://pascalerb.com",
 	catids="-3-",
 	instaid="pascalerbcom",
@@ -854,15 +854,6 @@ staticData = {
 	subcount={	2015=0,	2016=67,	2017=710,	2018=791},
 	viewscount={2015=0,	2016=675,	2017=10862,	2018=16289}
 },
-"UCnBxafY9nUINoccV4VTe9wg"	= {
-	name="Swiss Nick",			realname="Yannick",
-	ytlink="",
-	weblink="",
-	catids="-6-",
-	instaid="swiss.nick",
-	subcount={	2015=0,	2016=12,	2017=95,	2018=127},
-	viewscount={2015=0,	2016=116,	2017=1359,	2018=2592}
-},
 "UC0cyCeavSLZokLnYZZUdObg"	= {
 	name="Mediafisch",		realname="Björn Hering",
 	ytlink="",
@@ -1401,7 +1392,7 @@ staticData = {
 	viewscount={2015=0,2016=0,2017=0,	2018=13651}
 },
 "UCCKOtijnH8AmP4nU6xCNLyQ"	= {
-	name="Maceju TV",
+	name="Mace",
 	ytlink="https://www.youtube.com/macejutv",
 	realname="",
 	weblink="",
@@ -1753,15 +1744,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
-"UClxQCGXc3J-edkPfAQyBr2Q"	= {
-	name="Gabriele",		realname="",
-	ytlink="",
-	weblink="",
-	catids="-6-",
-	instaid="gabriele_tube_",
-	subcount={	2015=0,	2016=0,2017=0,	2018=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-},
 "UC78pqWYq7K9d-X3zRDWOIsg"	= {
 	name="CanavaR",			realname="Ferhat Civrilli",
 	ytlink="https://www.youtube.com/canavarstylez",
@@ -1849,7 +1831,7 @@ staticData = {
 	ytlink="",
 	weblink="",
 	catids="-6-",
-	instaid="m0ritsch.art",
+	instaid="m0ritsch.upload",
 	subcount={	2015=0,	2016=0,2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
@@ -2122,15 +2104,6 @@ staticData = {
 	ytlink="",
 	weblink="",
 	catids="-4-",
-	instaid="",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-},
-"UCx3MEe-0e8XHA050MBnQE-A"	= {
-	name="Hörbu. ch",			realname="",
-	ytlink="",
-	weblink="",
-	catids="-7-",
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
@@ -2737,11 +2710,25 @@ staticData = {
 	instaid="flaviocamenzind",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCb8FlRmPJUAZfr1aceNZcUA"	= {
+	name="Radio4TNG",			realname="",
+	ytlink="",
+	weblink="http://www.radio4tng.ch",
+	catids="-9-",
+	instaid="radio4tng",
+	subcount={	2015=0,	2016=24,	2017=40,	2018=70},
+	viewscount={2015=0,	2016=6181,	2017=12733,	2018=29787}
+},
+"UCTfj33hhCmEDeivyAfrkdZA"	= {
+	name="DiEiniDa",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
-
-
-
-
 
 
 
@@ -2786,6 +2773,33 @@ catArr = [
 
 
 	Nicht mehr aktiv:
+	"UCx3MEe-0e8XHA050MBnQE-A"	= {
+		name="Hörbu.ch",			realname="",
+		ytlink="",
+		weblink="",
+		catids="-7-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
+	"UClxQCGXc3J-edkPfAQyBr2Q"	= {
+		name="Gabriele",		realname="",
+		ytlink="",
+		weblink="",
+		catids="-6-",
+		instaid="gabriele_tube_",
+		subcount={	2015=0,	2016=0,2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
+	"UCnBxafY9nUINoccV4VTe9wg"	= {
+		name="Swiss Nick",			realname="Yannick",
+		ytlink="",
+		weblink="",
+		catids="-6-",
+		instaid="swiss.nick",
+		subcount={	2015=0,	2016=12,	2017=95,	2018=127},
+		viewscount={2015=0,	2016=116,	2017=1359,	2018=2592}
+	},
 	"UCbM_9KX2NGACuHvGP2LpZCg"	= {
 		name="MinKing",			realname="",
 		ytlink="",

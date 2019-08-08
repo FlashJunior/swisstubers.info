@@ -697,15 +697,6 @@ staticData = {
 	subcount={	2015=0,	2016=142,	2017=247,	2018=290},
 	viewscount={2015=0,	2016=5099,	2017=13680,	2018=15483}
 },
-"UCYmVujBDBe8ZizG2ievmGcQ"	= {
-	name="Timo Klingebiel",		realname="",
-	ytlink="",
-	weblink="",
-	catids="-6-",
-	instaid="",
-	subcount={	2015=0,	2016=131,	2017=774,	2018=1042},
-	viewscount={2015=0,	2016=1466,	2017=45910,	2018=95111}
-},
 "UCZE8_MNMmMujEfG3VW-r_CQ"	= {
 	name="Charles Nguela",		realname="",
 	ytlink="",
@@ -2495,15 +2486,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
-"UCuZXBqRVyV7A98SEZM4wNiw"	= {
-	name="Hundespiele",			realname="Martin Sailer",
-	ytlink="",
-	weblink="https://hundespiele.ch",
-	catids="-7-",
-	instaid="",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-},
 "UCCsUFSl6HS1r3o_yNMJaQdA"	= {
 	name="Dawill",			realname="Danilo Rosario",
 	ytlink="",
@@ -2728,7 +2710,37 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC3sInWnrLR6iIzf8wbFo-LA"	= {
+	name="Anna Bora",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="x.annabora.x",
+	subcount={	2015=0,	2016=13,	2017=29,	2018=50},
+	viewscount={2015=0,	2016=1180,	2017=1940,	2018=3080}
+},
+"UCedijn7JH_CLvylQKvQ_OXA"	= {
+	name="MundARTprojekt",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-8-",
+	instaid="mundartprojektbe",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCqsz6ADH3LWzpL7a1-RavcA"	= {
+	name="SoliHD",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="",
+	subcount={	2015=0,	2016=157,	2017=269,	2018=396},
+	viewscount={2015=0,	2016=1730,	2017=2350,	2018=8230}
 }
+
+
+
 
 
 
@@ -2741,7 +2753,7 @@ staticData = {
 /*
 	Source:
 	https://subscribercounter.com/channel/XXXX
-	https://socialblade.com/youtube/channel/XXXX/monthly
+	https://socialblade.com/youtube/channel/UCqsz6ADH3LWzpL7a1-RavcA/monthly
 */
 
 catArr = [
@@ -2773,6 +2785,24 @@ catArr = [
 
 
 	Nicht mehr aktiv:
+	"UCYmVujBDBe8ZizG2ievmGcQ"	= {
+		name="Timo Klingebiel",		realname="",
+		ytlink="",
+		weblink="",
+		catids="-6-",
+		instaid="",
+		subcount={	2015=0,	2016=131,	2017=774,	2018=1042},
+		viewscount={2015=0,	2016=1466,	2017=45910,	2018=95111}
+	},
+	"UCuZXBqRVyV7A98SEZM4wNiw"	= {
+		name="Hundespiele",			realname="Martin Sailer",
+		ytlink="",
+		weblink="https://hundespiele.ch",
+		catids="-7-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
 	"UCx3MEe-0e8XHA050MBnQE-A"	= {
 		name="Hörbu.ch",			realname="",
 		ytlink="",

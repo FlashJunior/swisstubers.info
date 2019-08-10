@@ -2737,7 +2737,26 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=157,	2017=269,	2018=396},
 	viewscount={2015=0,	2016=1730,	2017=2350,	2018=8230}
+},
+"UC1AhtuA_1KLxhItE2bEWOPg"	= {
+	name="znakkthat",			realname="Thomas Urwyler + Daniel Schärer",
+	ytlink="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCOUe4Mk-lHPsIQZ4qrfvwkw"	= {
+	name="Bregy Pictures",			realname="Stefan Bregy",
+	ytlink="",
+	weblink="https://bregypictures.com",
+	catids="-7-",
+	instaid="bregypictures",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=31180},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=11000000}
 }
+
 
 
 
@@ -2753,7 +2772,7 @@ staticData = {
 /*
 	Source:
 	https://subscribercounter.com/channel/XXXX
-	https://socialblade.com/youtube/channel/UCqsz6ADH3LWzpL7a1-RavcA/monthly
+	https://socialblade.com/youtube/channel/UCOUe4Mk-lHPsIQZ4qrfvwkw/monthly
 */
 
 catArr = [

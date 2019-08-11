@@ -2755,6 +2755,15 @@ staticData = {
 	instaid="bregypictures",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=31180},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=11000000}
+},
+"UCEyBnGXgfEHC5Oc9jquY5sA"	= {
+	name="Tize.ch",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="tize.ch",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
 
 
@@ -2772,7 +2781,7 @@ staticData = {
 /*
 	Source:
 	https://subscribercounter.com/channel/XXXX
-	https://socialblade.com/youtube/channel/UCOUe4Mk-lHPsIQZ4qrfvwkw/monthly
+	https://socialblade.com/youtube/channel/XXXX/monthly
 */
 
 catArr = [

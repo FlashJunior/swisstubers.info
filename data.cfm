@@ -2764,9 +2764,25 @@ staticData = {
 	instaid="tize.ch",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCmS03XOFx0dsLz38AabuaNA"	= {
+	name="Beta-Show Deluxe",			realname="",
+	ytlink="",
+	weblink="https://betashowdeluxe.ch",
+	catids="-6-",
+	instaid="betashowdeluxe",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCcwivD9nsCdk7Xhp9vD2mOw"	= {
+	name="JustGame4u",			realname="JayZfaro",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="justgame4u",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
-
-
 
 
 

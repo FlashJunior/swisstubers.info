@@ -31,7 +31,7 @@ staticData = {
 },
 "UC89Co9H3-JzUHtLuF5sTzvA"	= {
 	name="Pascal Erb",		realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/PascalErb",
 	weblink="https://pascalerb.com",
 	catids="-3-",
 	instaid="pascalerbcom",
@@ -172,15 +172,6 @@ staticData = {
 	instaid="",
 	subcount={	2015=3495,		2016=7291,		2017=16111,		2018=22506},
 	viewscount={2015=3440465,	2016=6931252,	2017=23313055,	2018=30315389}
-},
-"UCaM1ElekeCdDiZJiSm-KNHA"	= {
-	name="Hipster Gnogg",		realname="Nik und Morris",
-	ytlink="https://www.youtube.com/HipsterGnogg",
-	weblink="https://hipstergnogg.jimdo.com",
-	catids="-5-6-",
-	instaid="hipstergnogg",
-	subcount={	2015=1125,	2016=13705,		2017=21132,		2018=24299},
-	viewscount={2015=40399,	2016=302953,	2017=571665,	2018=1017155}
 },
 "UCsmAPkVv80zC_1aVkKkAtFA"	= {
 	name="Lagondo",			realname="",
@@ -397,15 +388,6 @@ staticData = {
 	instaid="urgamer",
 	subcount={	2015=67,2016=221,	2017=259,	2018=315},
 	viewscount={2015=0,	2016=14451,	2017=16630,	2018=24067}
-},
-"UCJgbvl0BJ9nG-vTRKfdEh8A"	= {
-	name="Esischeasy",			realname="Lukas Pfaff",
-	ytlink="",
-	weblink="",
-	catids="-6-",
-	instaid="esischeasy",
-	subcount={	2015=450,	2016=604,	2017=694,	2018=704},
-	viewscount={2015=17626,	2016=31861,	2017=41165,	2018=44141}
 },
 "UCVT4bINXdm-l9bconAaErTg"	= {
 	name="rro Oberwallis",		realname="",
@@ -1781,15 +1763,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
-"UChM4rPD2VFm4SVhPKBaOiPA"	= {
-	name="Lipa Alves",			realname="",
-	ytlink="https://www.youtube.com/flipschips",
-	weblink="",
-	catids="-2-6-",
-	instaid="lipa_alves1",
-	subcount={	2015=0,	2016=0,2017=0,	2018=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-},
 "UCrGC2cfTB7lD-NfrRTaf0eg"	= {
 	name="Schweizer Bibelkanal",			realname="",
 	ytlink="",
@@ -2782,6 +2755,33 @@ staticData = {
 	instaid="justgame4u",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCpGOi6Er5zWbgVgFkNKXgEw"	= {
+	name="Retro Cash",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="justgame4u",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCuk2DDeAPYjOc08yc1EUvaA"	= {
+	name="Cyrils World",			realname="Cyril",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="cyril_faeh",
+	subcount={	2015=0,	2016=117,	2017=118,	2018=123},
+	viewscount={2015=0,	2016=22580,	2017=23280,	2018=359}
+},
+"UCcws5-pBFSYPOm1cFlxQepA"	= {
+	name="derAltenpfleger",			realname="Sandro",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
 
 
@@ -2829,6 +2829,25 @@ catArr = [
 
 
 	Nicht mehr aktiv:
+
+	"UCaM1ElekeCdDiZJiSm-KNHA"	= {
+		name="Hipster Gnogg",		realname="Nik und Morris",
+		ytlink="https://www.youtube.com/HipsterGnogg",
+		weblink="https://hipstergnogg.jimdo.com",
+		catids="-5-6-",
+		instaid="hipstergnogg",
+		subcount={	2015=1125,	2016=13705,		2017=21132,		2018=24299},
+		viewscount={2015=40399,	2016=302953,	2017=571665,	2018=1017155}
+	},
+	"UChM4rPD2VFm4SVhPKBaOiPA"	= {
+		name="Lipa Alves",			realname="",
+		ytlink="https://www.youtube.com/flipschips",
+		weblink="",
+		catids="-2-6-",
+		instaid="lipa_alves1",
+		subcount={	2015=0,	2016=0,2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
 	"UCYmVujBDBe8ZizG2ievmGcQ"	= {
 		name="Timo Klingebiel",		realname="",
 		ytlink="",
@@ -2971,6 +2990,15 @@ catArr = [
 	},
 
 	Zu wenige schweizerdeutsche Inhalte. Diverse negative Kommentare aus Community.
+	"UCJgbvl0BJ9nG-vTRKfdEh8A"	= {
+		name="Esischeasy",			realname="Lukas Pfaff",
+		ytlink="",
+		weblink="",
+		catids="-6-",
+		instaid="esischeasy",
+		subcount={	2015=450,	2016=604,	2017=694,	2018=704},
+		viewscount={2015=17626,	2016=31861,	2017=41165,	2018=44141}
+	},
 	"UCCRaD69AaGoytnOL_t0gy7A"	= {
 		name="Comewithus2",			realname="Steffi Rickenbacher & Lui Eigenmann",
 		ytlink="",

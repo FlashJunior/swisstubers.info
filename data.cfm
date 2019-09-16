@@ -300,11 +300,11 @@ staticData = {
 	viewscount={2015=376151,2016=787991,2017=988067,2018=1067226}
 },
 "UC3npjO4iH6yKZHBqlT1-53w"	= {
-	name="SirVlog",			realname="",
+	name="SirVlog",			realname="David Fornerod",
 	ytlink="https://www.youtube.com/sirvlog",
 	weblink="",
 	catids="-6-",
-	instaid="_david_bieber_",
+	instaid="davidfornerod",
 	subcount={	2015=48,	2016=145,	2017=209,	2018=244},
 	viewscount={2015=225,	2016=5657,	2017=15301,	2018=24511}
 },
@@ -727,11 +727,11 @@ staticData = {
 	viewscount={2015=0,		2016=979457,	2017=1167904,	2018=1301688}
 },
 "UC4yHZ2ki_ja39O2yw2YcfFg"	= {
-	name="Windy",			realname="Jannik",
+	name="Sie Jannik",			realname="Jannik",
 	ytlink="",
 	weblink="",
 	catids="-6-",
-	instaid="jannik_17_zh",
+	instaid="",
 	subcount={	2015=0,	2016=15,	2017=31,	2018=271},
 	viewscount={2015=0,	2016=276,	2017=1407,	2018=2472}
 },
@@ -1115,7 +1115,7 @@ staticData = {
 	viewscount={2015=0,2016=0,	2017=5217,	2018=18925}
 },
 "UCzlyABX-JkR7BHRlhGujPXg"	= {
-	name="Swiss Racing",
+	name="Sili",
 	ytlink="https://www.youtube.com/silihd",
 	realname="",
 	weblink="",
@@ -1242,13 +1242,13 @@ staticData = {
 	subcount={	2015=0,2016=0,	2017=203,	2018=281},
 	viewscount={2015=0,2016=0,	2017=11076,	2018=3419}
 },
-"UCOJNTn4KVmi7IrBx1kV5oFA"	= {
+"UCxC2KyLOV_g-00QBO-0bWww"	= {
 	name="Martina Kopp",
 	ytlink="",
 	realname="",
 	weblink="",
 	catids="-6-",
-	instaid="",
+	instaid="_martina_kopp_",
 	subcount={	2015=0,2016=0,	2017=33,	2018=132},
 	viewscount={2015=0,2016=0,	2017=1258,	2018=7295}
 },
@@ -1409,15 +1409,6 @@ staticData = {
 	instaid="miriweber.ch",
 	subcount={	2015=0,2016=0,2017=0,	2018=225},
 	viewscount={2015=0,2016=0,2017=0,	2018=87014}
-},
-"UCWDVFeshha5CxOULxawNVBg"	= {
-	name="Jan Breitenstein",			realname="",
-	ytlink="https://www.youtube.com/janbreitenstein",
-	weblink="",
-	catids="-6-",
-	instaid="janbreitenstein_",
-	subcount={	2015=0,2016=0,2017=0,	2018=244},
-	viewscount={2015=0,2016=0,2017=0,	2018=1888}
 },
 "UCeO7RVj4QTw1I_11a_XCxcQ"	= {
 	name="freelikeabird",
@@ -2830,6 +2821,15 @@ catArr = [
 
 	Nicht mehr aktiv:
 
+	"UCWDVFeshha5CxOULxawNVBg"	= {
+		name="Jan Breitenstein",			realname="",
+		ytlink="https://www.youtube.com/janbreitenstein",
+		weblink="",
+		catids="-6-",
+		instaid="janbreitenstein_",
+		subcount={	2015=0,2016=0,2017=0,	2018=244},
+		viewscount={2015=0,2016=0,2017=0,	2018=1888}
+	},
 	"UCaM1ElekeCdDiZJiSm-KNHA"	= {
 		name="Hipster Gnogg",		realname="Nik und Morris",
 		ytlink="https://www.youtube.com/HipsterGnogg",

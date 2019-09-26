@@ -1992,11 +1992,11 @@ staticData = {
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UC1AUTFT_qp77xwClNy4IzTg"	= {
-	name="Patrick's marketingeffekt",			realname="",
+	name="Patrick Embacher",			realname="",
 	ytlink="",
-	weblink="https://marketingeffekt.ch",
+	weblink="https://patrickembacher.com",
 	catids="-7-",
-	instaid="marketingeffekt",
+	instaid="embacherpatrick",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
@@ -2773,9 +2773,43 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCw-oBFsoAOec7eoXY1-fMFQ"	= {
+	name="Liana Scibetta Music",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-6-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC611db3Hrtwo1gzMYvyNDOA"	= {
+	name="Ursepio",			realname="Urs Rohrer",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="",
+	subcount={	2015=0,	2016=366,		2017=392,		2018=549},
+	viewscount={2015=0,	2016=926530,	2017=1042878,	2018=1228511}
+},
+"UCuvAr3upxqcI0V2cOlgHOHg"	= {
+	name="Steffi Beauty",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-2-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCO8Spz1GVJRzcJ3zBcFl5SQ"	= {
+	name="SwissIceHockey",			realname="Swiss Ice Hockey Federation SIHF",
+	ytlink="https://www.youtube.com/user/SwissIceHockey1",
+	weblink="https://www.sihf.ch",
+	catids="-5-",
+	instaid="",
+	subcount={	2015=0,	2016=610,	2017=933,	2018=1414},
+	viewscount={2015=0,	2016=367638,2017=445516,2018=563374}
 }
-
-
 
 
 

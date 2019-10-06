@@ -727,7 +727,7 @@ staticData = {
 	viewscount={2015=0,		2016=979457,	2017=1167904,	2018=1301688}
 },
 "UC4yHZ2ki_ja39O2yw2YcfFg"	= {
-	name="Sie Jannik",			realname="Jannik",
+	name="Jannikor",			realname="Jannik",
 	ytlink="",
 	weblink="",
 	catids="-6-",
@@ -2809,8 +2809,61 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=610,	2017=933,	2018=1414},
 	viewscount={2015=0,	2016=367638,2017=445516,2018=563374}
+},
+"UCyX_EEcey41KF0rEGO6vxnw"	= {
+	name="Andreas Glarner",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-10-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCtOEFtmUrALape8MlYPMSYg"	= {
+	name="SVP Schweiz",			realname="",
+	ytlink="https://www.youtube.com/user/svpch",
+	weblink="https://www.svp.ch/partei/",
+	catids="-10-",
+	instaid="svpch",
+	subcount={	2015=0,	2016=1573,	2017=1674,	2018=2230},
+	viewscount={2015=0,	2016=1468365,2017=1504631,2018=2747681}
+},
+"UCxCpgTGZQUdKV-Yzts9zoZQ"	= {
+	name="SP Schweiz",			realname="",
+	ytlink="",
+	weblink="https://www.sp-ps.ch",
+	catids="-10-",
+	instaid="",
+	subcount={	2015=0,	2016=375,	2017=422,	2018=504},
+	viewscount={2015=0,	2016=218213,	2017=254618,	2018=322558}
+},
+"UCxaB0LVhebCfPeJHxFPW3RQ"	= {
+	name="Grüne Schweiz",			realname="",
+	ytlink="https://www.youtube.com/user/GrueneCH/",
+	weblink="https://gruene.ch",
+	catids="-10-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCKhuZRTBAkdos5V3DWyQfQQ"	= {
+	name="Cédric Wermuth",			realname="",
+	ytlink="",
+	weblink="https://cedricwermuth.ch",
+	catids="-10-",
+	instaid="cedricwermuth",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCJ33cv_07mqC63autch8cEA"	= {
+	name="Kopfrausch GmbH",			realname="Katrin Kreuels",
+	ytlink="",
+	weblink="https://kopfrausch.com",
+	catids="-7-",
+	instaid="kopfrausch",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
-
 
 
 
@@ -2834,6 +2887,7 @@ catArr = [
 	["1", "Reisen"],
 	["5", "Sport"],
 	["8", "Musik"],
+	["10", "Politik"],
 	["4", "Gaming"],
 	["7", "Anderes"]
 ];

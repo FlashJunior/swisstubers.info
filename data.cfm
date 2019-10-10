@@ -2863,6 +2863,15 @@ staticData = {
 	instaid="kopfrausch",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCRavEtOkesgfuXol-ElvVyw"	= {
+	name="MaeLOL",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="maeloromani",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
 
 

@@ -2881,6 +2881,24 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC_R8_xOS3pVhjw2z_QNFT7Q"	= {
+	name="Sherry-ou",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCEsT59BBHueS2dV-75lJHXw"	= {
+	name="Chaostruppe",			realname="",
+	ytlink="",
+	weblink="http://chaostruppe.net",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=673,	2017=1329,	2018=2010},
+	viewscount={2015=0,	2016=136023,2017=317973,2018=576977}
 }
 
 

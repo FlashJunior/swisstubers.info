@@ -2872,6 +2872,15 @@ staticData = {
 	instaid="maeloromani",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCMLgtW0G0wJoi9Wzl9HHyRg"	= {
+	name="Carina Manco",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-2-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
 
 

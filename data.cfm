@@ -5,6 +5,7 @@ staticData = {
 "UCgw0vnoy6z_4wWrYc9eFEHw"	= {
 	name="Martin Bommeli",	realname="",
 	ytlink="https://www.youtube.com/martinbommeli",
+	thid="",
 	weblink="https://www.mbrand.info",
 	catids="-5-7-",
 	instaid="mbommeli",
@@ -14,6 +15,7 @@ staticData = {
 "UCSI7RaMeFJWaaUOPHpNnlIQ"	= {
 	name="Herr Fuchs",		realname="Reto Hüttenmoser",
 	ytlink="",
+	thid="",
 	weblink="http://herrfuchs.ch",
 	catids="-6-",
 	instaid="herrfuchszurich",
@@ -23,6 +25,7 @@ staticData = {
 "UCo-ZV4wLm249m9jRs4F9HbA"	= {
 	name="LittleCity",		realname="Valeria Mella & Adrian Rüedi",
 	ytlink="https://www.youtube.com/LittleCITYch",
+	thid="",
 	weblink="https://littlecity.ch",
 	catids="-1-",
 	instaid="adislittlecity",
@@ -32,6 +35,7 @@ staticData = {
 "UC89Co9H3-JzUHtLuF5sTzvA"	= {
 	name="Pascal Erb",		realname="",
 	ytlink="https://www.youtube.com/PascalErb",
+	thid="",
 	weblink="https://pascalerb.com",
 	catids="-3-",
 	instaid="pascalerbcom",
@@ -41,6 +45,7 @@ staticData = {
 "UCqCSl8Eq_0by8ad7u5JNSOQ"	= {
 	name="Greeney",			realname="",
 	ytlink="https://www.youtube.com/Greneey",
+	thid="",
 	weblink="https://greneey.ch",
 	catids="-4-6-",
 	instaid="insta.greneey",
@@ -50,6 +55,7 @@ staticData = {
 "UC0Rcwf8aMBpi0tHCtIll7KQ"	= {
 	name="GrischaYeti",			realname="Jürg Hartmann",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-4-",
 	instaid="vifye_yt",
@@ -59,6 +65,7 @@ staticData = {
 "UCPYLj6rKd-gZfnu8-rlX5xg"	= {
 	name="Boris Baldinger",		realname="",
 	ytlink="https://www.youtube.com/borisbaldinger",
+	thid="",
 	weblink="",
 	catids="-3-",
 	instaid="borisbaldinger",
@@ -68,6 +75,7 @@ staticData = {
 "UCzpJpppRsktvi265y--jpoA"	= {
 	name="KnackTV",			realname="David Lukas Kohler",
 	ytlink="",
+	thid="",
 	weblink="http://knackeboul.com",
 	catids="-8-",
 	instaid="knackeboul",
@@ -77,6 +85,7 @@ staticData = {
 "UCNuCQrKaET5OLzKO_64kOjg"	= {
 	name="Physical Shock",		realname="",
 	ytlink="https://www.youtube.com/scrappylav",
+	thid="",
 	weblink="https://www.physicalshock.com",
 	catids="-8-",
 	instaid="physicalshock",
@@ -86,6 +95,7 @@ staticData = {
 "UC2Er57B6PWOJbTuzt-FBfig"	= {
 	name="Bakaramusic",			realname="",
 	ytlink="https://www.youtube.com/bakaramusik",
+	thid="",
 	weblink="http://www.bakara.ch",
 	catids="-8-",
 	instaid="bakaramusic",
@@ -95,6 +105,7 @@ staticData = {
 "UCsdYbDenEXVloUc6mYfDStw"	= {
 	name="Sara machts",			realname="",
 	ytlink="",
+	thid="",
 	weblink="http://www.saramachts.ch",
 	catids="-6-9-",
 	instaid="saramachts",
@@ -104,6 +115,7 @@ staticData = {
 "UCAUMhwvS6XJ3_Ec3Yeoirtg"	= {
 	name="ChrizzAlive©",	realname="Christian Jason Kaufmann",
 	ytlink="https://www.youtube.com/chnuschtimovie",
+	thid="",
 	weblink="https://chrizzalive.jimdo.com",
 	catids="-6-",
 	instaid="chrizzalive",
@@ -113,6 +125,7 @@ staticData = {
 "UCCjweo0CKJkDMtU86hiAIJQ"	= {
 	name="Maelo",			realname="Maelo Romani",
 	ytlink="https://www.youtube.com/DerPumpkin",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="derpumpkin",
@@ -122,6 +135,7 @@ staticData = {
 "UCK8iSDkDpKsaMlVpz38qLUw"	= {
 	name="SRF Virus",		realname="",
 	ytlink="https://www.youtube.com/DRSVirus",
+	thid="",
 	weblink="https://www.virus.ch",
 	catids="-8-9-",
 	instaid="srfvirus",
@@ -131,6 +145,7 @@ staticData = {
 "UCL2azW1-adJ339FVRzxCpzw"	= {
 	name="Leicht aufgewärmt",	realname="Noah Hartmann",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-7-",
 	instaid="leichtaufgewaermt",
@@ -140,6 +155,7 @@ staticData = {
 "UC4iwYBmLyF3wBe6TtFRtR7A"	= {
 	name="Ursus & Nadeschkin",			realname="Nadja Sieger & Urs Wehrli",
 	ytlink="https://www.youtube.com/ursusnadeschkin",
+	thid="",
 	weblink="https://www.ursusnadeschkin.ch",
 	catids="-6-",
 	instaid="ursusnadeschkin",
@@ -149,6 +165,7 @@ staticData = {
 "UCjms9ennZf0b15xGxeTtE1g"	= {
 	name="Robin Rehmann",			realname="",
 	ytlink="https://www.youtube.com/radikalabnormal",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="robinrehmann",
@@ -158,6 +175,7 @@ staticData = {
 "UCdFkj0fA6VYJaty-v8_avvg"	= {
 	name="SRF DOK",			realname="",
 	ytlink="https://www.youtube.com/SRFDOK",
+	thid="",
 	weblink="",
 	catids="-7-9-",
 	instaid="",
@@ -167,6 +185,7 @@ staticData = {
 "UC0ia0Bh33OgZ8p4emfeGG6g"	= {
 	name="SRF Comedy",			realname="",
 	ytlink="https://www.youtube.com/srfcomedy",
+	thid="",
 	weblink="",
 	catids="-6-9-",
 	instaid="",
@@ -176,6 +195,7 @@ staticData = {
 "UCsmAPkVv80zC_1aVkKkAtFA"	= {
 	name="Lagondo",			realname="",
 	ytlink="https://www.youtube.com/SchweizTube",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="lagondo1",
@@ -185,6 +205,7 @@ staticData = {
 "UC73RcscxiPXmOzK_AkEiinA"	= {
 	name="Martin Rechsteiner",		realname="",
 	ytlink="",
+	thid="",
 	weblink="https://martinrechsteiner.ch",
 	catids="-1-6-",
 	instaid="pokipsie",
@@ -194,6 +215,7 @@ staticData = {
 "UCgS_OtFhFq5LTuyGKdafoNA"	= {
 	name="Coop",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.coop.ch",
 	catids="-7-",
 	instaid="coop.ch",
@@ -203,6 +225,7 @@ staticData = {
 "UC8WsoyjfW68Zadn5xTMjiJA"	= {
 	name="Migros",			realname="Gottlieb Duttweiler",
 	ytlink="",
+	thid="",
 	weblink="https://www.migros.ch",
 	catids="-7-",
 	instaid="migros",
@@ -212,6 +235,7 @@ staticData = {
 "UCpJKd4CG2Gdubj8WBOuCnqg"	= {
 	name="T-Nerd Production",			realname="Andreas Aegerter",
 	ytlink="",
+	thid="",
 	weblink="https://www.t-nerd.ch",
 	catids="-3-",
 	instaid="",
@@ -221,6 +245,7 @@ staticData = {
 "UCKeycG2jjRS3HNmqhF9LOkg"	= {
 	name="3+",			realname="",
 	ytlink="https://www.youtube.com/3PlusTV",
+	thid="",
 	weblink="http://www.3plus.tv",
 	catids="-7-9-",
 	instaid="3plus",
@@ -230,6 +255,7 @@ staticData = {
 "UCaPgDp_NNEbq9aCOu_gHkWQ"	= {
 	name="20min",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.20min.ch",
 	catids="-6-9-",
 	instaid="20min.ch",
@@ -239,6 +265,7 @@ staticData = {
 "UCTB7mdyAxm8jF97cSuVxDpA"	= {
 	name="Dabu Fantastic",			realname="Andreas Christen & David Bucher",
 	ytlink="",
+	thid="",
 	weblink="http://dabufantastic.ch",
 	catids="-8-",
 	instaid="dabufantastic",
@@ -248,6 +275,7 @@ staticData = {
 "UC_ob8wa5LQHud8MCgiQA0vA"	= {
 	name="K-Direct Music",			realname="",
 	ytlink="https://www.youtube.com/ktelmusic",
+	thid="",
 	weblink="https://www.k-directmusic.com",
 	catids="-8-",
 	instaid="",
@@ -257,6 +285,7 @@ staticData = {
 "UC5Yi45Une921Ntq4Q_euTpQ"	= {
 	name="Kummerbuben",			realname="Simon Jäggi & Urs Gilgen",
 	ytlink="https://www.youtube.com/kummerbuben",
+	thid="",
 	weblink="https://www.kummerbuben.com",
 	catids="-8-",
 	instaid="kummerbuben",
@@ -266,6 +295,7 @@ staticData = {
 "UCxevfQbf-z0J01OSnbUNjbw"	= {
 	name="Heinz de Specht",			realname="Christian Weiss, Daniel Schaub, Roman Riklin",
 	ytlink="https://www.youtube.com/heinzdespecht",
+	thid="",
 	weblink="https://www.heinzdespecht.ch",
 	catids="-8-",
 	instaid="heinzdespecht",
@@ -275,6 +305,7 @@ staticData = {
 "UCJFjZNEaZvvJHRsTlmIjjYg"	= {
 	name="HalfTimeNerds",		realname="Alec & Samuel",
 	ytlink="https://www.youtube.com/HalfTimeNerds",
+	thid="",
 	weblink="",
 	catids="-3-6-",
 	instaid="HalfTimeNerds",
@@ -284,6 +315,7 @@ staticData = {
 "UCFLOHJLX8H9KcW8QDbPC8tA"	= {
 	name="Gamerocker",			realname="",
 	ytlink="",
+	thid="gamerocker",
 	weblink="",
 	catids="-4-",
 	instaid="gamerocker.lp",
@@ -293,6 +325,7 @@ staticData = {
 "UC463BrnYqqrK_2yQdrWcvug"	= {
 	name="Iris Reeves",		realname="",
 	ytlink="https://www.youtube.com/irisreeves",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="iris_reeves",
@@ -302,6 +335,7 @@ staticData = {
 "UC3npjO4iH6yKZHBqlT1-53w"	= {
 	name="SirVlog",			realname="David Fornerod",
 	ytlink="https://www.youtube.com/sirvlog",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="davidfornerod",
@@ -311,6 +345,7 @@ staticData = {
 "UCv8c4VvKK2Lrm3eYL-rwutg"	= {
 	name="EquipeMusic",			realname="",
 	ytlink="https://www.youtube.com/equipemusic",
+	thid="",
 	weblink="http://www.equipemusic.ch",
 	catids="-8-",
 	instaid="",
@@ -319,7 +354,9 @@ staticData = {
 },
 "UC1un-ntTO7GVbBGWdjWq1hg"	= {
 	name="Bligg TV",		realname="Marco Bliggensdorfer",
+	thid="",
 	ytlink="https://www.youtube.com/BliggTv",
+	thid="",
 	weblink="https://bligg.ch",
 	catids="-8-",
 	instaid="bligg_blizo",
@@ -329,6 +366,7 @@ staticData = {
 "UCAeBqiFr1jzcyFHWb33vw_A"	= {
 	name="Eldorado FM",		realname="",
 	ytlink="https://www.youtube.com/youngtomslick",
+	thid="",
 	weblink="https://eldoradokiosk.ch",
 	catids="-8-",
 	instaid="eldoradofm",
@@ -338,6 +376,7 @@ staticData = {
 "UCuf2OaLxvTREbLwfq_w_AMg"	= {
 	name="LikeMag",			realname="",
 	ytlink="https://www.youtube.com/LikeMagNews",
+	thid="",
 	weblink="https://mediahouse.likemag.com",
 	catids="-6-",
 	instaid="likemag",
@@ -347,6 +386,7 @@ staticData = {
 "UC97FMdlARgF_LHwbe2jqfMg"	= {
 	name="SwissLPGamers",	realname="",
 	ytlink="",
+	thid="swisslpgamers",
 	weblink="https://swisslpgamers.ch",
 	catids="-4-",
 	instaid="swisslpgamers",
@@ -356,6 +396,7 @@ staticData = {
 "UC5EjYsIFpQPF0mMfH4e2DeA"	= {
 	name="Watson",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.watson.ch",
 	catids="-6-9-",
 	instaid="watson_news",
@@ -365,6 +406,7 @@ staticData = {
 "UCOV0nK_1IiOaT2mykA1UDuw"	= {
 	name="missIMPULSIV",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-1-2-6-",
 	instaid="onetwothreeiamfree",
@@ -374,6 +416,7 @@ staticData = {
 "UCtOdehgnnMHjkUXYxmeQC2Q"	= {
 	name="Tina Umbricht",		realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="",
@@ -383,6 +426,7 @@ staticData = {
 "UCBNrZR2bdeH-f7nZcJw1JkQ"	= {
 	name="Urgamer",			realname="",
 	ytlink="",
+	thid="urgamertv",
 	weblink="",
 	catids="-4-",
 	instaid="urgamer",
@@ -392,6 +436,7 @@ staticData = {
 "UCVT4bINXdm-l9bconAaErTg"	= {
 	name="rro Oberwallis",		realname="",
 	ytlink="",
+	thid="",
 	weblink="http://www.rro.ch",
 	catids="-5-7-",
 	instaid="",
@@ -401,6 +446,7 @@ staticData = {
 "UCDY2zCo_mzIW4m1QeJO8MAg"	= {
 	name="UniceVlog",			realname="",
 	ytlink="https://www.youtube.com/unicevlog",
+	thid="",
 	weblink="http://www.unicevlog.com",
 	catids="-6-",
 	instaid="janisunice",
@@ -410,6 +456,7 @@ staticData = {
 "UCh5JOjG-BsWHMr0E4L1BIqg"	= {
 	name="Rapgschwätz",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-8-",
 	instaid="rapgschwaetz",
@@ -419,6 +466,7 @@ staticData = {
 "UCjhea_snPjSMvX3mNw1XjeQ"	= {
 	name="Stefan Büsser",	realname="",
 	ytlink="https://www.youtube.com/stefanbuesser",
+	thid="",
 	weblink="https://www.stefanbuesser.ch",
 	catids="-6-",
 	instaid="stefanbuesser",
@@ -428,6 +476,7 @@ staticData = {
 "UCndi9zHvIDYa1Tp6vXJqHxA"	= {
 	name="Lionel",	realname="Lionel Battegay",
 	ytlink="https://www.youtube.com/askswitzerlandch",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="lionelbattegay",
@@ -437,6 +486,7 @@ staticData = {
 "UC4TzeNNQOzl6EhoIWmv5RJA"	= {
 	name="Ronny's VLOG",
 	ytlink="",				realname="Ronny Tobler",
+	thid="",
 	weblink="https://ronnytobler.com",
 	catids="-3-",
 	instaid="ronnyvlog",
@@ -446,6 +496,7 @@ staticData = {
 "UC1brmo4a2K1MCcl6BX-bUAA"	= {
 	name="Aditotoro",		realname="Adrian Vogt",
 	ytlink="https://www.youtube.com/aditotoro",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="aditotoro",
@@ -455,6 +506,7 @@ staticData = {
 "UCr9kUCZOfjGlEU8k92_hjag"	= {
 	name="DivertiMento",		realname="Jonny Fischer & Manuel Burkart",
 	ytlink="",
+	thid="",
 	weblink="https://www.cabaret-divertimento.ch",
 	catids="-6-",
 	instaid="cabaretdivertimento",
@@ -464,6 +516,7 @@ staticData = {
 "UCL9yOyuvgmnPGQcKwiaJKVQ"	= {
 	name="Maanuli",				realname="",
 	ytlink="https://www.youtube.com/LittleManuli",
+	thid="",
 	weblink="",
 	catids="-6-8-",
 	instaid="maanulii",
@@ -473,6 +526,7 @@ staticData = {
 "UCpYM98Cz5ptezaK7nV4Akpg"	= {
 	name="Swissmeme TV",			realname="Zeki Bulgurcu",
 	ytlink="https://www.youtube.com/swissmeme",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="swissmeme",
@@ -482,6 +536,7 @@ staticData = {
 "UCQNjg0-yEA8LoyCcWI-j8mA"	= {
 	name="Blick",			realname="",
 	ytlink="https://www.youtube.com/bolzurich",
+	thid="",
 	weblink="https://www.blick.ch",
 	catids="-6-9-",
 	instaid="blick",
@@ -491,6 +546,7 @@ staticData = {
 "UCn5cOVDa8zFllWhn71Nga0A"	= {
 	name="Hecht",			realname="Stefan Buck, Chris Filter, Daniel Gisler, Philipp Morscher, Christoph Schröter",
 	ytlink="https://www.youtube.com/Hechtmusic",
+	thid="",
 	weblink="",
 	catids="-8-",
 	instaid="hecht_band",
@@ -500,6 +556,7 @@ staticData = {
 "UCgKdJa3jLABiNkexYHaTkzg"	= {
 	name="Trauffer",			realname="Marc A. Trauffer",
 	ytlink="https://www.youtube.com/TraufferVEVO",
+	thid="",
 	weblink="http://www.trauffermusic.ch",
 	catids="-8-",
 	instaid="trauffer_official",
@@ -509,6 +566,7 @@ staticData = {
 "UCQKOGmYTvhYLfA17ZNd_ENQ"	= {
 	name="StefV1985",		realname="Stefan Veit",
 	ytlink="https://www.youtube.com/StefV1985",
+	thid="",
 	weblink="",
 	catids="-7-",
 	instaid="",
@@ -518,6 +576,7 @@ staticData = {
 "UCwZSjN2NfSxKd-dE8V9ElsQ"	= {
 	name="Gian Maria Finger", realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-3-6-",
 	instaid="gianmariafinger",
@@ -527,6 +586,7 @@ staticData = {
 "UCEABIt007mtmZS7FULdVh8Q"	= {
 	name="Storyflow",		realname="Meli & Florian Schindler",
 	ytlink="https://www.youtube.com/Storyflow",
+	thid="",
 	weblink="http://storyflow.ch",
 	catids="-1-",
 	instaid="storyflow",
@@ -534,9 +594,9 @@ staticData = {
 	viewscount={2015=0,	2016=6148,	2017=53630,	2018=103270}
 },
 "UCLwOSJxIu1fkZN1GIEaVh5A"	= {
-	name="Ash April",
+	name="Ash April",	realname="",
 	ytlink="https://www.youtube.com/ashapriltv",
-	realname="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="ash_april",
@@ -546,6 +606,7 @@ staticData = {
 "UCE8FdMkutdjM9hhsZpB1dcQ"	= {
 	name="EinfachSayan",	realname="",
 	ytlink="https://www.youtube.com/einfachsayan",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="einfachsayan",
@@ -555,6 +616,7 @@ staticData = {
 "UCUulK2IsSIL3OEhaKKa-xEQ"	= {
 	name="Jahns rollende Welt",	realname="Jahn Graf",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-7-",
 	instaid="jahngraf",
@@ -564,6 +626,7 @@ staticData = {
 "UCl4lkSSo6rc5u15Z5cxWncA"	= {
 	name="SRF Musik",			realname="",
 	ytlink="https://www.youtube.com/srfmusik",
+	thid="",
 	weblink="",
 	catids="-8-9-",
 	instaid="",
@@ -573,6 +636,7 @@ staticData = {
 "UCflurQw5iMA5DsZDk-f-CHg"	= {
 	name="Manillio",		realname="Manuel Liniger",
 	ytlink="https://www.youtube.com/ManillioVEVO",
+	thid="",
 	weblink="https://www.manillio.com",
 	catids="-8-",
 	instaid="manillio",
@@ -582,6 +646,7 @@ staticData = {
 "UChmJQggtcshsOlkBZW2CDxQ"	= {
 	name="Zytglogge",			realname="",
 	ytlink="",
+	thid="",
 	weblink="http://www.zytglogge.ch",
 	catids="-8-",
 	instaid="",
@@ -591,6 +656,7 @@ staticData = {
 "UCAMy1rHhrQFxISsl-HQowLw"	= {
 	name="MutzeMischt",		realname="",
 	ytlink="https://www.youtube.com/mutzemischt",
+	thid="",
 	weblink="",
 	catids="-4-",
 	instaid="mutzemischt",
@@ -600,6 +666,7 @@ staticData = {
 "UCcAAr1QHSTYiATwQb78xLdg"	= {
 	name="S.O.S",		realname="Thierry Gnahoré (Nativ) & Danilo Rosario (Dawill)",
 	ytlink="",
+	thid="",
 	weblink="https://hrdrec.ch",
 	catids="-8-",
 	instaid="",
@@ -607,9 +674,9 @@ staticData = {
 	viewscount={2015=0,	2016=484395,	2017=1798018,	2018=2926813}
 },
 "UCUSKCxWVPUGd4urcm3QNIgQ"	= {
-	name="AemJaY",
-	ytlink="",
-	realname="",
+	name="AemJaY",	realname="Marco Juen",
+	ytlink="https://www.youtube.com/jayblastone",
+	thid="aemjay",
 	weblink="",
 	catids="-4-",
 	instaid="",
@@ -619,6 +686,7 @@ staticData = {
 "UCy2dqSQYUXJ1qPA20ubyEVw"	= {
 	name="Baschi",		realname="Sebastian Bürgin",
 	ytlink="",
+	thid="",
 	weblink="https://www.baschi.com",
 	catids="-8-",
 	instaid="baschireal",
@@ -628,6 +696,7 @@ staticData = {
 "UCppAOM5tvqV-RdYRy-1ACrA"	= {
 	name="Seya Eggler",		realname="",
 	ytlink="https://www.youtube.com/diaryofseya",
+	thid="",
 	weblink="",
 	catids="-1-",
 	instaid="diaryofseya",
@@ -637,6 +706,7 @@ staticData = {
 "UC9yUcYTT-bpvSrGKntLox-g"	= {
 	name="BalinFilms",	realname="",
 	ytlink="https://www.youtube.com/balinfilms",
+	thid="",
 	weblink="",
 	catids="-3-6-",
 	instaid="balinfilms",
@@ -646,6 +716,7 @@ staticData = {
 "UCpSfhhi8mb__QoZ6lxeiorQ"	= {
 	name="StudioZweiSechs",		realname="Tobias Walser",
 	ytlink="https://www.youtube.com/StudioZweiSechs",
+	thid="",
 	weblink="",
 	catids="-5-7-",
 	instaid="StudioZweiSechs",
@@ -655,6 +726,7 @@ staticData = {
 "UCpZsqEW3hgF_4wQ9ICsXpZw"	= {
 	name="Deep Connection",		realname="Janos Horvath",
 	ytlink="https://www.youtube.com/deepconnectionch",
+	thid="",
 	weblink="https://www.deep-connection.ch",
 	catids="-7-",
 	instaid="singlecoach_schweiz",
@@ -664,6 +736,7 @@ staticData = {
 "UC0Q2HB_PxFurzQM6ck38U2A"	= {
 	name="Kitchwitch",		realname="Denise & Stefan Lehmann",
 	ytlink="https://www.youtube.com/kitchwitch",
+	thid="",
 	weblink="https://www.kitchwitch.ch",
 	catids="-2-",
 	instaid="kitchwitch_",
@@ -673,6 +746,7 @@ staticData = {
 "UCzkwtDHF7MYlpeQ03rsVOIw"	= {
 	name="Walla Ray",		realname="",
 	ytlink="",
+	thid="walla_ray",
 	weblink="",
 	catids="-4-6-",
 	instaid="walla_ray",
@@ -682,6 +756,7 @@ staticData = {
 "UCZE8_MNMmMujEfG3VW-r_CQ"	= {
 	name="Charles Nguela",		realname="",
 	ytlink="",
+	thid="",
 	weblink="http://www.charles-nguela.com",
 	catids="-6-",
 	instaid="charles_nguela",
@@ -691,6 +766,7 @@ staticData = {
 "UCcpH6cLpZNdYkCv_jiaWIIA"	= {
 	name="Trummer",			realname="",
 	ytlink="",
+	thid="",
 	weblink="http://trummeronline.ch",
 	catids="-8-",
 	instaid="trummeronline",
@@ -699,8 +775,10 @@ staticData = {
 },
 
 "UCinxAWhCEJT3-SRSll55mmw"	= {
-	name="Troubas Kater",			realname="Markus Sollberger, Matthias Urech, Alexander Balajew, Jürg Lerch, Kaspar Eggimann, Mark Oberholzer, Simon Hirsiger, Lukas Wyss",
+	name="Troubas Kater",
+	realname="Markus Sollberger, Matthias Urech, Alexander Balajew, Jürg Lerch, Kaspar Eggimann, Mark Oberholzer, Simon Hirsiger, Lukas Wyss",
 	ytlink="https://www.youtube.com/hansjoggeli",
+	thid="",
 	weblink="https://www.troubaskater.ch",
 	catids="-8-",
 	instaid="troubaskater",
@@ -711,6 +789,7 @@ staticData = {
 "UCZa_rf6y8z442aGYKYpVArw"	= {
 	name="Dachs",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.dachsmusic.ch",
 	catids="-8-",
 	instaid="dachsmusic",
@@ -720,6 +799,7 @@ staticData = {
 "UCJ1UM2kHsiLPcl0NemPJYlw"	= {
 	name="Boys on Pills",			realname="Baze, Elwont aka Jonny Bunko, DJ Kermit, J-Steel",
 	ytlink="https://www.youtube.com/BoysOnPills",
+	thid="",
 	weblink="https://www.facebook.com/boysonpills/",
 	catids="-8-",
 	instaid="",
@@ -729,6 +809,7 @@ staticData = {
 "UC4yHZ2ki_ja39O2yw2YcfFg"	= {
 	name="Jannikor",			realname="Jannik",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="",
@@ -738,6 +819,7 @@ staticData = {
 "UCuzc9X6JUjSpHdi2s63idAw"	= {
 	name="Stucki",			realname="Flavio Stucki Zazoo",
 	ytlink="https://www.youtube.com/stuckiflavio",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="flaviostucki",
@@ -747,6 +829,7 @@ staticData = {
 "UC4xXE-NX9KOZVAWNvyMEKHA"	= {
 	name="debuechi.ch",		realname="Damian Büchler",
 	ytlink="",
+	thid="",
 	weblink="http://www.debuechi.ch",
 	catids="-6-",
 	instaid="debuechi.ch",
@@ -754,9 +837,9 @@ staticData = {
 	viewscount={2015=0,		2016=97814,		2017=117711,	2018=143288}
 },
 "UC3STauJX3DuAphpcZIFYNKA"	= {
-	name="Ollie Nelson",
+	name="Ollie Nelson",	realname="",
 	ytlink="",
-	realname="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="ollie.nelson_",
@@ -766,6 +849,7 @@ staticData = {
 "UCQBe58uAlyWR_avwCYkx1Rw"	= {
 	name="Lehrstellen Schweiz",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.yousty.ch",
 	catids="-7-",
 	instaid="yousty.ch",
@@ -775,6 +859,7 @@ staticData = {
 "UCHIUqkAKhVuPEpT7A5050ag"	= {
 	name="NØ BASIC",		realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.wearenobasic.com",
 	catids="-8-",
 	instaid="wearenobasic",
@@ -784,6 +869,7 @@ staticData = {
 "UCxy0ues-Qgrs871Cz_m72ZA"	= {
 	name="LYRICS TV",		realname="",
 	ytlink="",
+	thid="",
 	weblink="https://lyricsmagazin.ch",
 	catids="-6-7-8-9-",
 	instaid="lyricsmagazin",
@@ -793,6 +879,7 @@ staticData = {
 "UC4S9h8SZfMN0jm-rofuWb2Q"	= {
 	name="Nelaz",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="",
@@ -802,6 +889,7 @@ staticData = {
 "UCLDL5dG1r05NdiEW_zq7Yhg"	= {
 	name="Lidl Schweiz",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.lidl.ch",
 	catids="-7-",
 	instaid="lidlch",
@@ -809,9 +897,9 @@ staticData = {
 	viewscount={2015=0,	2016=4127208,	2017=1993787,	2018=2239651}
 },
 "UCC6GTpVGIM36lvB5-qCsFcg"	= {
-	name="JanikR.",
+	name="JanikR.",	realname="",
 	ytlink="",
-	realname="",
+	thid="",
 	weblink="",
 	catids="-3-",
 	instaid="_janikr._",
@@ -821,6 +909,7 @@ staticData = {
 "UCwAZ_nA7qn3vM7AOfeuGtBQ"	= {
 	name="Sibuna",			realname="Tina",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-8-",
 	instaid="sibunamusic",
@@ -830,6 +919,7 @@ staticData = {
 "UC0cyCeavSLZokLnYZZUdObg"	= {
 	name="Mediafisch",		realname="Björn Hering",
 	ytlink="",
+	thid="",
 	weblink="http://www.mediafisch.ch",
 	catids="-6-",
 	instaid="",
@@ -839,6 +929,7 @@ staticData = {
 "UCK0mkfVi-BxhbQTNvZs5t1Q"	= {
 	name="Schwiizergoofe",			realname="Nikol Camenzind",
 	ytlink="https://www.youtube.com/SchwiizergoofeTV",
+	thid="",
 	weblink="http://www.schwiizergoofe.ch",
 	catids="-8-",
 	instaid="schwiizergoofe",
@@ -847,9 +938,9 @@ staticData = {
 },
 
 "UCD2D9uxUxteOMxDfuzTnk2A"	= {
-	name="The Legend of us",
+	name="The Legend of us",	realname="",
 	ytlink="",
-	realname="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="_the_legend_of_us_",
@@ -859,6 +950,7 @@ staticData = {
 "UCl82STTPSdqGs4AOx8ZKY4A"	= {
 	name="Playvetia",			realname="",
 	ytlink="",
+	thid="playvetia",
 	weblink="",
 	catids="-4-",
 	instaid="",
@@ -868,6 +960,7 @@ staticData = {
 "UCwvPxhXdX66roloN0IGwKrA"	= {
 	name="Geekstübli",			realname="",
 	ytlink="",
+	thid="geekstuebli",
 	weblink="",
 	catids="-4-",
 	instaid="geek_stuebli",
@@ -877,6 +970,7 @@ staticData = {
 "UCNuY3fBjqnbUfX_nI1ewu3A"	= {
 	name="Roki",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="yt_roki",
@@ -886,6 +980,7 @@ staticData = {
 "UCXY_jfrKvPwXsA2Iz1BWYuA"	= {
 	name="Zona 167 Produzioni",			realname="Renato Trianni",
 	ytlink="",
+	thid="",
 	weblink="https://www.zona167.com",
 	catids="-6-8-",
 	instaid="",
@@ -895,6 +990,7 @@ staticData = {
 "UCJW8pv31L0w1e_JHAKzrNsg"	= {
 	name="Florin Fritschi",		realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="florin.fritschi",
@@ -904,6 +1000,7 @@ staticData = {
 "UCsL0oM8xDp27oC3L6rkxYjA"	= {
 	name="Loudzz",		realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.loudzz.ch",
 	catids="-6-",
 	instaid="loudzz_ch",
@@ -913,6 +1010,7 @@ staticData = {
 "UCvGLQGXTem08AXlSQpTDziQ"	= {
 	name="Eret Music",		realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-8-",
 	instaid="",
@@ -922,6 +1020,7 @@ staticData = {
 "UCiin8CyMfjlT_DFGaEPNPTQ"	= {
 	name="Vogelblick",		realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-7-9-",
 	instaid="seraphin_01",
@@ -929,9 +1028,9 @@ staticData = {
 	viewscount={2015=0,2016=0,	2017=3775,	2018=10526}
 },
 "UClPRw0aSReJpJS_t2vNFLbA"	= {
-	name="FizZzers",
+	name="FizZzers",		realname="",
 	ytlink="https://www.youtube.com/thefizzersoriginal",
-	realname="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="fizzzers",
@@ -941,6 +1040,7 @@ staticData = {
 "UCmJdhrgbUa1vXDS6-x2APGg"	= {
 	name="Naschitia",		realname="Natascha Schmidlin",
 	ytlink="https://www.youtube.com/naschitia",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="naschitia",
@@ -950,6 +1050,7 @@ staticData = {
 "UCoGQwYOHY7MDncn2x4caV7w"	= {
 	name="Cris Swiss Musix",		realname="Cristian Archetti",
 	ytlink="",
+	thid="",
 	weblink="http://crisswissmusix.com",
 	catids="-8-",
 	instaid="crisswissmusix",
@@ -959,6 +1060,7 @@ staticData = {
 "UCGgiYvDShOsQW2cxZgcBKWw"	= {
 	name="Cookinesi",		realname="Zoe Torinesi",
 	ytlink="",
+	thid="",
 	weblink="https://www.cookinesi.com",
 	catids="-2-",
 	instaid="cookinesi",
@@ -969,6 +1071,7 @@ staticData = {
 "UCTwxXP4DzKREm4ml_mS3X6g"	= {
 	name="Stereo Luchs",		realname="Silvio Brunner",
 	ytlink="",
+	thid="",
 	weblink="http://www.pegelpegel.ch",
 	catids="-8-",
 	instaid="puppastereo",
@@ -978,6 +1081,7 @@ staticData = {
 "UChzKOhU2KgjUH4KHlu2wATA"	= {
 	name="SveFa on Tour",	realname="Fabienne & Sven Burkhard",
 	ytlink="",
+	thid="",
 	weblink="http://svefa-ontour.ch",
 	catids="-1-",
 	instaid="svefaontour",
@@ -987,6 +1091,7 @@ staticData = {
 "UCfjP7DpvANUKUcJi4klX1_Q"	= {
 	name="Daytrippers CH",		realname="Diana & Pascal",
 	ytlink="",
+	thid="",
 	weblink="https://www.daytrippers.ch",
 	catids="-1-",
 	instaid="daytrippers.ch",
@@ -994,9 +1099,9 @@ staticData = {
 	viewscount={2015=0,2016=0,	2017=22943,	2018=39841}
 },
 "UCTvzeJnqN1KnEboh5slPD1w"	= {
-	name="Cyru",
+	name="Cyru",	realname="",
 	ytlink="https://www.youtube.com/cyruu",
-	realname="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="_cyru_",
@@ -1006,6 +1111,7 @@ staticData = {
 "UCGi2J_a6CZQBNsS6ur9H5zQ"	= {
 	name="Rhentex TV",		realname="Ramon",
 	ytlink="https://www.youtube.com/rhentextv",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="yung_hegi",
@@ -1015,6 +1121,7 @@ staticData = {
 "UCFsDkwUYQ9kkMLhgDhH2L_Q"	= {
 	name="CCOne",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://ccone.live",
 	catids="-6-9-",
 	instaid="cconetv",
@@ -1024,6 +1131,7 @@ staticData = {
 "UCoQ7pKPJcEwU6fQbyI1kKlA"	= {
 	name="Angi Swiss",		realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="angi_swizz",
@@ -1033,6 +1141,7 @@ staticData = {
 "UCGyc0_wFCE7cCz9xFZWpmgQ"	= {
 	name="MadLipz Swiss",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="madlipz_schweiz",
@@ -1042,6 +1151,7 @@ staticData = {
 "UCopW2mEmhHFkUyFk6-BExNg"	= {
 	name="Speedy Swiss Gaming",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-4-",
 	instaid="speedy_swiss_gaming",
@@ -1051,6 +1161,7 @@ staticData = {
 "UCZv9s7jo0m1yMkbCW6ORNzA"	= {
 	name="Prhyme Tyme Music",			realname="",
 	ytlink="",
+	thid="",
 	weblink="http://www.prhymetyme.ch",
 	catids="-8-",
 	instaid="prhymetyme",
@@ -1060,6 +1171,7 @@ staticData = {
 "UCrcSpYeqWC7-fXlzVq6RZ-w"	= {
 	name="Schwiizchiste",			realname="Robin Pickis",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="schwiizchiste",
@@ -1069,6 +1181,7 @@ staticData = {
 "UChkfCpN74VMFdDoEw7WDz0w"	= {
 	name="Konterbier",		realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="konterbrauerei",
@@ -1076,9 +1189,9 @@ staticData = {
 	viewscount={2015=0,2016=0,	2017=34857,	2018=48386}
 },
 "UCwhrByG7cgJRmgGvHCQfV1g"	= {
-	name="Piko Fly TV",
+	name="Piko Fly TV",	realname="",
 	ytlink="",
-	realname="",
+	thid="pikoflytv",
 	weblink="",
 	catids="-4-",
 	instaid="pikoflytv",
@@ -1089,6 +1202,7 @@ staticData = {
 "UC8T4JVUyNovYxCDyhraSSiw"	= {
 	name="Photobus Schweiz",	realname="Lorenz Walter",
 	ytlink="",
+	thid="",
 	weblink="https://www.thephotobus.ch",
 	catids="-2-3-",
 	instaid="photobus.schweiz",
@@ -1096,9 +1210,9 @@ staticData = {
 	viewscount={2015=0,2016=0,	2017=15730,	2018=24214}
 },
 "UCJXliA_wsTcMgIcFBRcwAQA"	= {
-	name="Kuhnmann",
+	name="Kuhnmann",	realname="",
 	ytlink="https://www.youtube.com/kuhnmann11",
-	realname="",
+	thid="kuhnmann",
 	weblink="",
 	catids="-4-",
 	instaid="kuhnmannlp",
@@ -1108,6 +1222,7 @@ staticData = {
 "UCX1YqtM-mU3N1aD94ZeAYww"	= {
 	name="Princess.ch",		realname="Nicole Nobs",
 	ytlink="https://www.youtube.com/princess8213",
+	thid="",
 	weblink="https://www.princess.ch",
 	catids="-2-",
 	instaid="princess_ch",
@@ -1115,9 +1230,9 @@ staticData = {
 	viewscount={2015=0,2016=0,	2017=5217,	2018=18925}
 },
 "UCzlyABX-JkR7BHRlhGujPXg"	= {
-	name="Sili",
+	name="Sili",	realname="",
 	ytlink="https://www.youtube.com/silihd",
-	realname="",
+	thid="",
 	weblink="",
 	catids="-5-6-",
 	instaid="swiss_racing",
@@ -1125,9 +1240,9 @@ staticData = {
 	viewscount={2015=0,2016=0,	2017=3195,	2018=11266}
 },
 "UCgZ06ULEFippjtq2qMx0nGg"	= {
-	name="Greg's Channel",
+	name="Greg's Channel",	realname="",
 	ytlink="https://www.youtube.com/gregschannel",
-	realname="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="gregs.channel",
@@ -1137,6 +1252,7 @@ staticData = {
 "UC_2og_j4PvYfRPRH3x0miYg"	= {
 	name="LoZi TV",			realname="Loris Zimmerli",
 	ytlink="https://www.youtube.com/lozitv",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="lozitv",
@@ -1146,6 +1262,7 @@ staticData = {
 "UCS1cV6Lg6BQThHP-kel1xWw"	= {
 	name="Gabirano",		realname="Gabirano Guinand",
 	ytlink="https://www.youtube.com/91gabio",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="gabirano",
@@ -1155,6 +1272,7 @@ staticData = {
 "UCTJRygFsgQGEf17dvvc1qbA"	= {
 	name="Marc Galaxy",		realname="Marc Scheiwiller",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="marcgalaxy",
@@ -1164,6 +1282,7 @@ staticData = {
 "UCwAxA_gDbnfE45J9msXd3yw"	= {
 	name="saturday and sunday",	realname="Loredana und Kilian Bamert",
 	ytlink="https://www.youtube.com/saturdayandsundayvlog",
+	thid="",
 	weblink="https://www.saturdayandsunday.ch",
 	catids="-1-",
 	instaid="saturday.and.sunday",
@@ -1173,6 +1292,7 @@ staticData = {
 "UC8MiHJ4N7C22o8o5A3saakQ"	= {
 	name="NethsBlog",		realname="",
 	ytlink="https://www.youtube.com/NethsBlog",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="nethsblog",
@@ -1182,6 +1302,7 @@ staticData = {
 "UC--ryeowLnmiige-iFqxp5A"	= {
 	name="JoshuaSpielt",	realname="Joshua",
 	ytlink="https://www.youtube.com/joshuaspielt",
+	thid="joshuaspieltch",
 	weblink="",
 	catids="-6-",
 	instaid="joshuaspielt",
@@ -1191,6 +1312,7 @@ staticData = {
 "UCjrbBT41Yd4URIhUqTah3-g"	= {
 	name="Grüezi TV",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.gruezimusic.ch",
 	catids="-8-",
 	instaid="",
@@ -1200,6 +1322,7 @@ staticData = {
 "UCma9AvfSLu-FA8MiTI0RNVw"	= {
 	name="AlpenwelleTV",			realname="",
 	ytlink="https://www.youtube.com/AlpenwelleTV",
+	thid="",
 	weblink="https://www.alpen-welle.ch",
 	catids="-8-",
 	instaid="",
@@ -1209,6 +1332,7 @@ staticData = {
 "UC0Zdm70gCb2sQkX17_AlANA"	= {
 	name="Michito",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="michito96",
@@ -1218,6 +1342,7 @@ staticData = {
 "UCP_7s1hufKK31LbJZHJrJUA"	= {
 	name="Kunz",		realname="Marco Kunz",
 	ytlink="https://www.youtube.com/marcokunzmusik",
+	thid="",
 	weblink="https://www.kunzmusik.ch",
 	catids="-8-",
 	instaid="kunzmusik",
@@ -1227,6 +1352,7 @@ staticData = {
 "UC0y7cKmpBSp6pjyDTSmaj8g"	= {
 	name="419 Finesse Gang",		realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-8-",
 	instaid="419finessegang",
@@ -1235,7 +1361,8 @@ staticData = {
 },
 "UCdxatP5JDXR1y7PQjIbj_TQ"	= {
 	name="Swisstendo",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/swisstendo",
+	thid="swisstendo",
 	weblink="",
 	catids="-4-",
 	instaid="swisstendoo",
@@ -1243,9 +1370,9 @@ staticData = {
 	viewscount={2015=0,2016=0,	2017=11076,	2018=3419}
 },
 "UCxC2KyLOV_g-00QBO-0bWww"	= {
-	name="Martina Kopp",
+	name="Martina Kopp",	realname="",
 	ytlink="",
-	realname="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="_martina_kopp_",
@@ -1255,6 +1382,7 @@ staticData = {
 "UCwmN0_1zRrUSAIXx8CCW0Qw"	= {
 	name="Marcsmission",	realname="Marc Ohnio",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-3-",
 	instaid="marcsmission",
@@ -1262,9 +1390,9 @@ staticData = {
 	viewscount={2015=0,2016=0,	2017=209,	2018=463}
 },
 "UCmG5pmhiYWdS7HkPKNQFhCw"	= {
-	name="RuehSäubst",
+	name="RuehSäubst",	realname="",
 	ytlink="",
-	realname="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="ruehsaubst",
@@ -1275,6 +1403,7 @@ staticData = {
 "UCj88Pp4scKu5I2YJiy2JWQw"	= {
 	name="Zwei am Morge",	realname="Julian Graf & Ramin Yousofzai",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="zweiammorge",
@@ -1284,6 +1413,7 @@ staticData = {
 "UCIMWDWFlebGaguhuZMRrSpA"	= {
 	name="Zekisworld",			realname="Zeki Bulgurcu",
 	ytlink="https://www.youtube.com/ZekiTV1",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="zekisworld",
@@ -1293,6 +1423,7 @@ staticData = {
 "UCtUZJwnypY8wBfGcR0H9lTQ"	= {
 	name="FarMoreTV",		realname="",
 	ytlink="",
+	thid="",
 	weblink="http://www.fmmusicgroup.ch",
 	catids="-8-",
 	instaid="fm_music_group",
@@ -1302,6 +1433,7 @@ staticData = {
 "UCnwZS9wSheNiXTluceGnYBw"	= {
 	name="Nathistyle",		realname="Nathalie",
 	ytlink="https://www.youtube.com/nathistyle",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="nathistyle_",
@@ -1311,6 +1443,7 @@ staticData = {
 "UCd3pZPBm2wbMjZj3mG64IOQ"	= {
 	name="Izzy",			realname="Ringier AG, Cedric Schild, Silvia Princigalli, Anne-Sophie Keller, Miriam Suter",
 	ytlink="",
+	thid="",
 	weblink="https://izzymag.ch",
 	catids="-6-9-",
 	instaid="izzymagazine",
@@ -1321,6 +1454,7 @@ staticData = {
 "UClIYdm72-PAXwuCX1F9M5PQ"	= {
 	name="Michael Elsener",			realname="",
 	ytlink="https://www.youtube.com/michaelelsener",
+	thid="",
 	weblink="https://www.michaelelsener.ch",
 	catids="-6-",
 	instaid="michaelelsener",
@@ -1330,6 +1464,7 @@ staticData = {
 "UCD10UORUOGk9lLp-l1RWTqQ"	= {
 	name="Silvan Kuster",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-4-6-",
 	instaid="silvan__hd",
@@ -1337,9 +1472,9 @@ staticData = {
 	viewscount={2015=0,2016=0,2017=0,	2018=60}
 },
 "UCh9atHGn3E01a1Gx2nhcr9A"	= {
-	name="Roemer",
+	name="Roemer",	realname="",
 	ytlink="",
-	realname="",
+	thid="roemer_24",
 	weblink="",
 	catids="-6-",
 	instaid="roemer_24",
@@ -1349,6 +1484,7 @@ staticData = {
 "UCOtmR8YT4c-2jCLJREdxeBw"	= {
 	name="DritteStockTV",		realname="Dritte Stock Records",
 	ytlink="",
+	thid="",
 	weblink="http://www.drittestock.ch",
 	catids="-8-",
 	instaid="drittestockrecords",
@@ -1358,6 +1494,7 @@ staticData = {
 "UCK4opi9aGrXo_WsmlvNnHIQ"	= {
 	name="Alexander Rodshtein", realname="Roger Gloor",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-3-6-",
 	instaid="alex.rodshtein",
@@ -1365,9 +1502,9 @@ staticData = {
 	viewscount={2015=0,2016=0,2017=0,	2018=13651}
 },
 "UCCKOtijnH8AmP4nU6xCNLyQ"	= {
-	name="Mace",
+	name="Mace",		realname="",
 	ytlink="https://www.youtube.com/macejutv",
-	realname="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="macejutv",
@@ -1377,6 +1514,7 @@ staticData = {
 "UCvUW-FXbkGgSJdoqRtjNhZQ"	= {
 	name="Dudldei Gurke",	realname="Damaris",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-2-",
 	instaid="dudldeigurke2",
@@ -1386,6 +1524,7 @@ staticData = {
 "UCYxnbeaEQCIgTPEkrvddrDQ"	= {
 	name="CH-Traveladdict",	realname="Gianna Rutz",
 	ytlink="",
+	thid="",
 	weblink="http://www.ch-traveladdict.com",
 	catids="-1-",
 	instaid="traveladdict_ch",
@@ -1395,6 +1534,7 @@ staticData = {
 "UCHbFGKUYr64TnQktXCglehQ"	= {
 	name="ZID Music",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://zidmusic.bandcamp.com",
 	catids="-8-",
 	instaid="zidmusic",
@@ -1404,6 +1544,7 @@ staticData = {
 "UCXG4LxOG_7z2j6NqwcMXoww"	= {
 	name="Miri Weber",		realname="Mirjam Weber",
 	ytlink="https://www.youtube.com/zaubersterne",
+	thid="",
 	weblink="https://www.miriweber.ch",
 	catids="-3-",
 	instaid="miriweber.ch",
@@ -1411,9 +1552,9 @@ staticData = {
 	viewscount={2015=0,2016=0,2017=0,	2018=87014}
 },
 "UCeO7RVj4QTw1I_11a_XCxcQ"	= {
-	name="freelikeabird",
+	name="freelikeabird",	realname="",
 	ytlink="",
-	realname="",
+	thid="",
 	weblink="",
 	catids="-1-",
 	instaid="",
@@ -1423,6 +1564,7 @@ staticData = {
 "UCywFsX_RX1Gc5gQub97X-Fg"	= {
 	name="Aldi Schweiz",			realname="",
 	ytlink="https://www.youtube.com/ALDISUISSEAG",
+	thid="",
 	weblink="https://www.aldi-suisse.ch",
 	catids="-7-",
 	instaid="aldi_suisse",
@@ -1432,6 +1574,7 @@ staticData = {
 "UCGM8vdIZb6QOzKwb3xHKW2Q"	= {
 	name="Schweizer Bauer",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.schweizerbauer.ch",
 	catids="-7-",
 	instaid="schweizerbauer1",
@@ -1441,6 +1584,7 @@ staticData = {
 "UCcUB8t47AAu5WKmaUSdaN_g"	= {
 	name="Jucker Farm",			realname="Beat & Martin Jucker",
 	ytlink="",
+	thid="",
 	weblink="https://www.juckerfarm.ch",
 	catids="-7-",
 	instaid="jucker_farm",
@@ -1450,6 +1594,7 @@ staticData = {
 "UCPGJ7Z6ILRQ-XNuV7fssEwQ"	= {
 	name="Nicola Probst",		realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="nicprotv",
@@ -1459,6 +1604,8 @@ staticData = {
 "UCRPBea57-0VCMhIYsMbp8gA"	= {
 	name="TelliRecords",		realname="",
 	ytlink="https://www.youtube.com/TelliRecords",
+	thid="",
+	thid="",
 	weblink="https://fratelli-b.ch",
 	catids="-8-",
 	instaid="fratellib",
@@ -1468,6 +1615,7 @@ staticData = {
 "UCCQXmMV34CCiJbE0iJGwcOQ"	= {
 	name="Arnold in Action TV",		realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="arnold_in_action_tv",
@@ -1477,6 +1625,7 @@ staticData = {
 "UCw3Z24Lx397XyWd88Hqu7lg"	= {
 	name="FlipTastisch",		realname="",
 	ytlink="",
+	thid="",
 	weblink="http://fliptastisch.wixsite.com/fliptastisch",
 	catids="-6-",
 	instaid="fliptastisch",
@@ -1486,6 +1635,7 @@ staticData = {
 "UCejyf100xTg_3ydQEEEFPnQ"	= {
 	name="Beat Hochheuser",		realname="",
 	ytlink="",
+	thid="",
 	weblink="http://www.beat.ch",
 	catids="-7-",
 	instaid="beathochheuser",
@@ -1495,6 +1645,7 @@ staticData = {
 "UCi_u6bUJY_dcK7tybOXvyZw"	= {
 	name="WISDOM das Musikmagazin",		realname="Pät Schreiber",
 	ytlink="https://www.youtube.com/WisdomDasMusikmagazin",
+	thid="",
 	weblink="https://www.swiss1.tv/wisdom",
 	catids="-6-8-9-",
 	instaid="wisdom_swiss1",
@@ -1504,6 +1655,7 @@ staticData = {
 "UC32nI00UHzvDyUNIrkykGPQ"	= {
 	name="BURNING_KEYS",			realname="Dave Bichsel",
 	ytlink="https://www.youtube.com/davensius",
+	thid="luck_n_loler",
 	weblink="",
 	catids="-6-4-",
 	instaid="dave_bichsel",
@@ -1513,6 +1665,7 @@ staticData = {
 "UC8cAYunJLIewZ8YPtP5bvMw"	= {
 	name="Cineman Inside",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.cineman.ch",
 	catids="-6-9-",
 	instaid="",
@@ -1522,6 +1675,7 @@ staticData = {
 "UCVuR4hBxX3zWY_xUCZeIc3A"	= {
 	name="Schweizer Radio und Fernsehen",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.srf.ch",
 	catids="-9-",
 	instaid="srfschweizerradioundfernsehen",
@@ -1531,6 +1685,7 @@ staticData = {
 "UC1-g9E0BKQo5pID4y55K5iA"	= {
 	name="SRF 3",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.srf.ch/radio-srf-3",
 	catids="-9-",
 	instaid="srf3",
@@ -1540,6 +1695,7 @@ staticData = {
 "UCqNL83581wbf9pv_wHV0Zaw"	= {
 	name="SRF Digital",			realname="",
 	ytlink="https://www.youtube.com/digitalsrf",
+	thid="",
 	weblink="https://www.srf.ch/radio-srf-3/digital",
 	catids="-9-",
 	instaid="srfdigital",
@@ -1549,6 +1705,7 @@ staticData = {
 "UCFuZu6IQ7QrLMsc0-R7Kc8Q"	= {
 	name="4Prozent",			realname="Michi & Sascha",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="4prozent__official",
@@ -1558,6 +1715,7 @@ staticData = {
 "UC0df7E41rpg697KLv7erpOw"	= {
 	name="MediaMarkt Schweiz",			realname="",
 	ytlink="https://www.youtube.com/MediaMarktch",
+	thid="",
 	weblink="https://www.mediamarkt.ch",
 	catids="-7-",
 	instaid="mediamarkt_ch",
@@ -1567,6 +1725,7 @@ staticData = {
 "UCm9YhVSnefdS8UW9amXN7oA"	= {
 	name="PagerTV",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-4-",
 	instaid="pagertv",
@@ -1576,6 +1735,7 @@ staticData = {
 "UCZwM1uoaRe_gY1eP1WGQi_Q"	= {
 	name="schweizerdeutsch-lernen.ch",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.schweizerdeutsch-lernen.ch",
 	catids="-7-",
 	instaid="schweizerdeutsch",
@@ -1585,6 +1745,7 @@ staticData = {
 "UCsjuNqYW5CWu8gXE-MLOipQ"	= {
 	name="berg.land",			realname="",
 	ytlink="https://www.youtube.com/ironcam",
+	thid="",
 	weblink="",
 	catids="-1-5-7-",
 	instaid="",
@@ -1594,6 +1755,7 @@ staticData = {
 "UCqxS9IunbM4BCHN8naS5cFw"	= {
 	name="Pronto",			realname="Senyo Mensa",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-8-",
 	instaid="prontodinero",
@@ -1603,6 +1765,7 @@ staticData = {
 "UCsTvjJSHpS9LORkEhoKCmRQ"	= {
 	name="SwissAngryNoobs",			realname="",
 	ytlink="",
+	thid="swissangrynoobs",
 	weblink="https://swissangrynoobs.ch",
 	catids="-4-",
 	instaid="",
@@ -1612,6 +1775,7 @@ staticData = {
 "UCkZtFbCDWtT5Bc1UbWqyJvQ"	= {
 	name="ROQA",			realname="",
 	ytlink="https://www.youtube.com/greamtg",
+	thid="roqa",
 	weblink="https://www.roqa.ch",
 	catids="-4-",
 	instaid="roqa.ch",
@@ -1621,6 +1785,7 @@ staticData = {
 "UCy33T2BHQUa3veat8ExJqFw"	= {
 	name="STARTER GANG",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.startergang.com",
 	catids="-8-",
 	instaid="startergangofficial",
@@ -1630,6 +1795,7 @@ staticData = {
 "UC9e-XjSmv_fUm78NjqjWTPw"	= {
 	name="Swiss GamingTV",			realname="Joel",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-4-",
 	instaid="",
@@ -1639,6 +1805,7 @@ staticData = {
 "UCIsfNJIQTylYF-dw0p7ZKYQ"	= {
 	name="Dijana Beauty",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-2-",
 	instaid="",
@@ -1648,6 +1815,7 @@ staticData = {
 "UCnrizBjYthFlj_spTBu_XDA"	= {
 	name="Gucci Gubi",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-8-",
 	instaid="guccigubi",
@@ -1657,6 +1825,7 @@ staticData = {
 "UCXOUdl_aLNS2baobvpPCs4Q"	= {
 	name="regioTVplus",			realname="Daniel Wittlin, Max Schwank, Herbert Blaser, Thierry Gschwind",
 	ytlink="https://www.youtube.com/regiotvplus",
+	thid="",
 	weblink="http://www.regiotvplus.ch",
 	catids="-9-",
 	instaid="",
@@ -1666,6 +1835,7 @@ staticData = {
 "UCJ3yKbrQedsbTDJDk5djcFw"	= {
 	name="LightByte",			realname="",
 	ytlink="https://www.youtube.com/LightByteAG",
+	thid="",
 	weblink="https://www.lbag.ch",
 	catids="-3-",
 	instaid="lightbyteag",
@@ -1675,6 +1845,7 @@ staticData = {
 "UCOc_69rsD3bTDfulZ_DOXLg"	= {
 	name="Niki Huwyler",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.snowboardcoach.ch",
 	catids="-1-5-",
 	instaid="trickyniki",
@@ -1684,6 +1855,7 @@ staticData = {
 "UCS3HrpGgS_X_9QvF_savggQ"	= {
 	name="zockTV 2.0",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-4-",
 	instaid="",
@@ -1693,6 +1865,7 @@ staticData = {
 "UCanzpqowTUbAoas6qGiLlrg"	= {
 	name="Beast Genetics Schweiz",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-2-",
 	instaid="",
@@ -1702,6 +1875,7 @@ staticData = {
 "UCTOEQt8_bqJPxd88eJ_sTkA"	= {
 	name="René Schudel",		realname="",
 	ytlink="https://www.youtube.com/reneschudel",
+	thid="",
 	weblink="http://reneschudel.ch",
 	catids="-2-",
 	instaid="reneschudel",
@@ -1711,6 +1885,7 @@ staticData = {
 "UC78pqWYq7K9d-X3zRDWOIsg"	= {
 	name="CanavaR",			realname="Ferhat Civrilli",
 	ytlink="https://www.youtube.com/canavarstylez",
+	thid="",
 	weblink="http://www.canavar.ch",
 	catids="-8-",
 	instaid="canavar_20xx",
@@ -1721,6 +1896,7 @@ staticData = {
 "UCAGJnv1f1TWG0_8FDKJeMtw"	= {
 	name="7speed.ch",			realname="Yves Meyer",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-5-7-",
 	instaid="7speed.ch",
@@ -1730,6 +1906,7 @@ staticData = {
 "UCCnx9LJflGPYVfHIxpO2iKg"	= {
 	name="Ropick",			realname="Robin Pickis",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="ropick",
@@ -1739,6 +1916,7 @@ staticData = {
 "UCSPpWYj1RX3QrxDgcCKOxyQ"	= {
 	name="Eddie Ramirez",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.rollingeddie.com",
 	catids="-6-",
 	instaid="",
@@ -1748,6 +1926,7 @@ staticData = {
 "UCurv66yDHPscdsZfJIQ_-MQ"	= {
 	name="Guy Landolt",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.guylandolt.ch",
 	catids="-6-",
 	instaid="guylandolt",
@@ -1757,6 +1936,7 @@ staticData = {
 "UCrGC2cfTB7lD-NfrRTaf0eg"	= {
 	name="Schweizer Bibelkanal",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-7-",
 	instaid="",
@@ -1766,6 +1946,7 @@ staticData = {
 "UCCdrmGY_lPJbEi3JpA0z6vA"	= {
 	name="S.Oppliger Design",	realname="Stefan Oppliger",
 	ytlink="",
+	thid="",
 	weblink="https://www.soppligerdesign.ch",
 	catids="-7-",
 	instaid="s.oppliger_design",
@@ -1775,6 +1956,7 @@ staticData = {
 "UCE36cJGnIWOCK8OIiygXH0w"	= {
 	name="Say Hello",			realname="Nico Martin",
 	ytlink="",
+	thid="",
 	weblink="https://sayhello.ch",
 	catids="-7-",
 	instaid="",
@@ -1784,6 +1966,7 @@ staticData = {
 "UCI7ITym0pSJjLU2lREe-3rA"	= {
 	name="Moe Ritch",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="m0ritsch.upload",
@@ -1793,6 +1976,7 @@ staticData = {
 "UCr8W1gQ2N193AalW_B4xgLQ"	= {
 	name="Kochersee",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="kochersee",
@@ -1802,6 +1986,7 @@ staticData = {
 "UC1EGthHyLAJrHYLm0IIT0BQ"	= {
 	name="WhaleonTrail",	realname="Martin",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-1-",
 	instaid="whaleontrail",
@@ -1809,9 +1994,9 @@ staticData = {
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCNGu4K3ZFaaDRI2tVWBAo9Q"	= {
-	name="ICEPRODUCTION",
+	name="ICEPRODUCTION",	realname="",
 	ytlink="",
-	realname="",
+	thid="",
 	weblink="",
 	catids="-3-",
 	instaid="iceproduction",
@@ -1821,6 +2006,7 @@ staticData = {
 "UCX3gxpibog7MVCwR8GeYJDg"	= {
 	name="Keevin",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="k_evinn1",
@@ -1830,6 +2016,7 @@ staticData = {
 "UCPvw4R46FquW2BICbvcjSrg"	= {
 	name="Denner",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.denner.ch",
 	catids="-7-",
 	instaid="",
@@ -1839,6 +2026,7 @@ staticData = {
 "UCQYFGYAc-cRTl0a0c9SxosQ"	= {
 	name="M Melker",			realname="Gaviões, Philipp Schlotte, Marco, Fred Bürki",
 	ytlink="",
+	thid="",
 	weblink="http://www.melker.rocks",
 	catids="-8-",
 	instaid="",
@@ -1848,6 +2036,7 @@ staticData = {
 "UCvuahW9sp03KGfjRUpiK4eQ"	= {
 	name="Andy Krainer",			realname="Andreas",
 	ytlink="",
+	thid="",
 	weblink="http://www.andy-krainer.ch",
 	catids="-8-",
 	instaid="andykrainer_official",
@@ -1857,6 +2046,7 @@ staticData = {
 "UCZh09i2x6EQrTZUQxUZHZSg"	= {
 	name="Milena Patagônia",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-8-",
 	instaid="lamilenalamilena",
@@ -1866,6 +2056,7 @@ staticData = {
 "UCbhDgbUaz5ewSsPMbleH3_Q"	= {
 	name="Ben Vatter",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.benvatter.ch",
 	catids="-6-8-",
 	instaid="",
@@ -1875,6 +2066,7 @@ staticData = {
 "UC9XMXSvNxGsKMbe5QdS0D6Q"	= {
 	name="SerejTV",			realname="",
 	ytlink="",
+	thid="",
 	weblink="http://www.serej.ch",
 	catids="-8-",
 	instaid="",
@@ -1884,6 +2076,7 @@ staticData = {
 "UCxzRx0QbatJIPwR8YR9w-zg"	= {
 	name="Dani's Abenteuer",	realname="Daniel Bürgin",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-1-",
 	instaid="danisabenteuer",
@@ -1893,6 +2086,7 @@ staticData = {
 "UCzTS-cKceoKzYPQBCnDOtrg"	= {
 	name="Joël von Mutzenbecher",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.joelvonmutzenbecher.ch",
 	catids="-6-",
 	instaid="vonmutzenbecher",
@@ -1901,8 +2095,8 @@ staticData = {
 },
 "UCJQDfq4TBApJeblCpi06hZw"	= {
 	name="Verreis",
-	ytlink="https://www.youtube.com/verreisreisevlogs",
-	realname="Fabienne Rohr & Adriano Wasescha",
+	ytlink="https://www.youtube.com/verreisreisevlogs",	realname="Fabienne Rohr & Adriano Wasescha",
+	thid="",
 	weblink="https://www.verreis.com",
 	catids="-1-",
 	instaid="_verreis_",
@@ -1912,6 +2106,7 @@ staticData = {
 "UCYDWTpWlHokxFwcltUt5_CA"	= {
 	name="Guy Mandon",			realname="Lucien Montandon",
 	ytlink="",
+	thid="",
 	weblink="https://www.guymandon.com",
 	catids="-8-",
 	instaid="guy_mandon",
@@ -1921,6 +2116,7 @@ staticData = {
 "UCzZ-0eTqV9xiO96xovg6OPg"	= {
 	name="Reto Schläppi",	realname="",
 	ytlink="https://www.youtube.com/FSHchFREMA",
+	thid="",
 	weblink="http://fsh.ch",
 	catids="-6-",
 	instaid="cyberhelvetia7",
@@ -1930,6 +2126,7 @@ staticData = {
 "UCfqkZnJMnzwbSIvepovX6zg"	= {
 	name="LEVIN_TV",			realname="Levin Imhof",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-4-6-",
 	instaid="levin.imhof",
@@ -1939,6 +2136,7 @@ staticData = {
 "UCyHEt5ndmuILbxL74NfmKJQ"	= {
 	name="Mathias Blattmann",	realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-5-7-",
 	instaid="mathiasblattmann.ch",
@@ -1946,9 +2144,9 @@ staticData = {
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCL83Fj7_fROjfQQfv98S2ew"	= {
-	name="Sebufizzzt",
+	name="Sebufizzzt",	realname="",
 	ytlink="",
-	realname="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="sebufizzzt",
@@ -1958,6 +2156,7 @@ staticData = {
 "UCn4DYnlcZQQ_LNHUHaQhObQ"	= {
 	name="R&R On Tour",	realname="Rahel & René",
 	ytlink="",
+	thid="",
 	weblink="http://rr-on-tour.ch",
 	catids="-1-",
 	instaid="r.r.on.tour",
@@ -1967,6 +2166,7 @@ staticData = {
 "UC3TPzbRPjTadQKUINfKm11Q"	= {
 	name="triptipp",		realname="Janine & Dominik",
 	ytlink="",
+	thid="",
 	weblink="https://www.triptipp.ch",
 	catids="-1-",
 	instaid="triptipp.ch",
@@ -1976,6 +2176,7 @@ staticData = {
 "UCjgVbu8CXJwcVBvA9qN4jZQ"	= {
 	name="MB Vision",			realname="Mathias Blattmann",
 	ytlink="",
+	thid="",
 	weblink="https://www.mathiasblattmann.ch",
 	catids="-3-",
 	instaid="mbvision.ch",
@@ -1985,6 +2186,7 @@ staticData = {
 "UCqdXpIZSamBceDmH8uOoTHA"	= {
 	name="SRF Kassensturz",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.srf.ch/konsum",
 	catids="-7-9-",
 	instaid="srfkonsum",
@@ -1994,6 +2196,7 @@ staticData = {
 "UC1AUTFT_qp77xwClNy4IzTg"	= {
 	name="Patrick Embacher",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://patrickembacher.com",
 	catids="-7-",
 	instaid="embacherpatrick",
@@ -2003,6 +2206,7 @@ staticData = {
 "UC4KL2AZAa4n5GFZXnmfi3qQ"	= {
 	name="André Burri Fotografie",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.burrifotografie.ch",
 	catids="-3-",
 	instaid="burrifotografie.ch",
@@ -2012,6 +2216,7 @@ staticData = {
 "UCx9yK8r_t9WnbfJMA0TFlcw"	= {
 	name="Don Superbe",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-7-",
 	instaid="",
@@ -2021,6 +2226,7 @@ staticData = {
 "UCk4fcf6ZXsAa81VZqqOTCHg"	= {
 	name="Yynthiroshka",			realname="",
 	ytlink="https://www.youtube.com/cynthiroshka",
+	thid="",
 	weblink="https://www.heavensdoor.ch",
 	catids="-7-",
 	instaid="",
@@ -2030,6 +2236,7 @@ staticData = {
 "UCq2NmyLuVCXDcrnjJmcScNw"	= {
 	name="GrillTube",			realname="Petra & Markus Muster",
 	ytlink="https://www.youtube.com/grilltube",
+	thid="",
 	weblink="https://www.musters.ch",
 	catids="-2-",
 	instaid="mustersgenussmanufakur",
@@ -2039,6 +2246,7 @@ staticData = {
 "UCUcIwYzQV3-bqwZxA9NDixA"	= {
 	name="Swiss RaMpLeR",			realname="",
 	ytlink="",
+	thid="swiss_rampler",
 	weblink="",
 	catids="-4-",
 	instaid="swissrampler",
@@ -2048,6 +2256,7 @@ staticData = {
 "UCLKCNlX44-4JLLOSBHUO0mw"	= {
 	name="TheWorkingClassHD",			realname="",
 	ytlink="",
+	thid="theworkingclasshd",
 	weblink="",
 	catids="-4-",
 	instaid="theworkingclasshd",
@@ -2057,6 +2266,7 @@ staticData = {
 "UCEZ7L9zE2bVo26GoCh1r-Kg"	= {
 	name="Nilper",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-4-",
 	instaid="",
@@ -2066,6 +2276,7 @@ staticData = {
 "UCCjrB1QoM7mdMyAEAmHfS8w"	= {
 	name="KüchenTerror",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-4-",
 	instaid="",
@@ -2075,6 +2286,7 @@ staticData = {
 "UCtO63BTm_OEh701RCDSc12A"	= {
 	name="Adventure to inner treasure",			realname="Lara",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-2-6-",
 	instaid="",
@@ -2084,6 +2296,7 @@ staticData = {
 "UCgRKi1MgQGfta8wDmToauRg"	= {
 	name="Yave",			realname="Dave, Tim & Youssef",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="",
@@ -2093,6 +2306,7 @@ staticData = {
 "UCibxRwEEs4ck5RDEm5Ge9Mw"	= {
 	name="Züriost-Wucheblick",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://zueriost.ch",
 	catids="-9-",
 	instaid="",
@@ -2102,6 +2316,7 @@ staticData = {
 "UCzOJo3lox5nhE1n2pPD4Yzg"	= {
 	name="Galaxus",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.galaxus.ch",
 	catids="-7-",
 	instaid="galaxus",
@@ -2111,6 +2326,7 @@ staticData = {
 "UCp8Oe5R6aTUkdyxRFbNLgIg"	= {
 	name="Volg Konsumwaren AG",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.volg.ch",
 	catids="-7-",
 	instaid="",
@@ -2120,6 +2336,7 @@ staticData = {
 "UCMegISR8lQWSRJDE1nWZS7g"	= {
 	name="Gabriel Gee-Jay Jenny",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.gee-jay.com",
 	catids="-5-7-",
 	instaid="gabriel_jenny",
@@ -2129,6 +2346,7 @@ staticData = {
 "UCpkYP_woRKj1ltLdoIPO8UQ"	= {
 	name="Studioeins",			realname="Roman Lehmann, Manfred Hager, Stefan Tüscher",
 	ytlink="",
+	thid="",
 	weblink="https://www.studioeins.ch",
 	catids="-3-",
 	instaid="studioeins",
@@ -2138,6 +2356,7 @@ staticData = {
 "UCErwEBfJpmhdf2NE72lOXfg"	= {
 	name="TheSaemi",			realname="",
 	ytlink="",
+	thid="thesaemi",
 	weblink="",
 	catids="-4-",
 	instaid="",
@@ -2147,6 +2366,7 @@ staticData = {
 "UCjInnqClWSD5V4TxUxi_Ibw"	= {
 	name="Schweizerdeutsch für Kinder",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-7-",
 	instaid="",
@@ -2156,6 +2376,7 @@ staticData = {
 "UCV-NveL3y0HdOABzA4YRIMw"	= {
 	name="Fotichaestli AG",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.fotichaestli.ch",
 	catids="-3-",
 	instaid="fotichaestli.ch",
@@ -2165,6 +2386,7 @@ staticData = {
 "UCYY-eeicga1FqGgi6PPZYAw"	= {
 	name="World Changing News",			realname="Stefan",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="ste1701fan",
@@ -2174,6 +2396,7 @@ staticData = {
 "UCiJMNqA6WEGFTvsy8qLV9QQ"	= {
 	name="MinderTV",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-4-",
 	instaid="",
@@ -2183,6 +2406,7 @@ staticData = {
 "UC0rQrpV2_5D9CG5n3M1xR0A"	= {
 	name="BraUsebad_Zockt",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-4-",
 	instaid="brausebad_zockt",
@@ -2192,6 +2416,7 @@ staticData = {
 "UCLcbN5TRR017Y3zfP-8b1wA"	= {
 	name="Jamps & Jones",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-8-",
 	instaid="yungjamps",
@@ -2201,6 +2426,7 @@ staticData = {
 "UCzvENPzB8p0T7y749Y-wHcA"	= {
 	name="Creaperbox",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-4-",
 	instaid="",
@@ -2210,6 +2436,7 @@ staticData = {
 "UCzU9p-555b_LmjZ3Y1eeIKw"	= {
 	name="Snowly",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-7-",
 	instaid="snowly2368",
@@ -2219,6 +2446,7 @@ staticData = {
 "UC0FmLeQsRsOtXa4tiDENMiw"	= {
 	name="Hans Peter",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-7-",
 	instaid="",
@@ -2228,6 +2456,7 @@ staticData = {
 "UCTs8yWlgpWqsLW_92W5AZSg"	= {
 	name="Adrinschg Steck",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="",
@@ -2237,6 +2466,7 @@ staticData = {
 "UCk82ch8IkEf_PYf1qwbpgUg"	= {
 	name="Lärsu",			realname="Lars",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="",
@@ -2246,6 +2476,7 @@ staticData = {
 "UCbCvqHaQjOS0VLgCL_rAwCQ"	= {
 	name="Claudio's Wält",			realname="Claudio",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-1-",
 	instaid="claud_photo",
@@ -2255,6 +2486,7 @@ staticData = {
 "UCng3w4h7F1lLnWQTQxxGgKA"	= {
 	name="MisterElia",			realname="Elia Rohrbach",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="mister_elia",
@@ -2264,6 +2496,7 @@ staticData = {
 "UCoOM2CyzvsGam7tl3ZCotSg"	= {
 	name="Romanzone",			realname="Roman Blattmann",
 	ytlink="",
+	thid="",
 	weblink="https://www.romanzone.com",
 	catids="-6-",
 	instaid="romanzone_youtube",
@@ -2273,6 +2506,7 @@ staticData = {
 "UC_Ihi5UHVkB5p2ZKQ1Fec8g"	= {
 	name="SSOC let's plays",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.facebook.com/SSOClps",
 	catids="-4-",
 	instaid="",
@@ -2282,6 +2516,7 @@ staticData = {
 "UCCjrB1QoM7mdMyAEAmHfS8w"	= {
 	name="SwissFlair",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-4-",
 	instaid="",
@@ -2291,6 +2526,7 @@ staticData = {
 "UCm1FcqQxzuDMQG-xEIoXDig"	= {
 	name="Vergleiche",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.vergleiche.ch",
 	catids="-7-",
 	instaid="vergleiche.ch",
@@ -2300,6 +2536,7 @@ staticData = {
 "UCgTwdkG7FyvQbHEsy0z7psg"	= {
 	name="Jasgaba",			realname="Jasmin Gander",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-4-",
 	instaid="",
@@ -2309,6 +2546,7 @@ staticData = {
 "UCseMRliCjLdWPXjGt5qgOIQ"	= {
 	name="Mafflin",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-4-6-",
 	instaid="",
@@ -2318,6 +2556,7 @@ staticData = {
 "UCg7vN1WFPnsYPRnwIGT52JA"	= {
 	name="IAxulu",			realname="Luca Aurilio",
 	ytlink="",
+	thid="iaxulu",
 	weblink="",
 	catids="-4-",
 	instaid="iaxulu",
@@ -2327,6 +2566,7 @@ staticData = {
 "UCPpQKCMOCwoQ-rw1lqE9wMA"	= {
 	name="TopTenErich",			realname="",
 	ytlink="",
+	thid="toptenerich",
 	weblink="",
 	catids="-6-",
 	instaid="toptenerich",
@@ -2336,6 +2576,7 @@ staticData = {
 "UCyH74boxzuFAY5zQTH4ED5w"	= {
 	name="Zock mit Mike",			realname="Mike",
 	ytlink="",
+	thid="zockmitmike",
 	weblink="",
 	catids="-4-",
 	instaid="",
@@ -2345,6 +2586,7 @@ staticData = {
 "UChmw2ZWy4X8oFTp_iYPlxJA"	= {
 	name="Nau",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-9-",
 	instaid="nau_ch",
@@ -2354,6 +2596,7 @@ staticData = {
 "UCYUw18YUW012Z2ruHXR5lcw"	= {
 	name="Gourmendo",			realname="Ivan Schnoz",
 	ytlink="https://www.youtube.com/gourmendo",
+	thid="",
 	weblink="https://gourmendo.com",
 	catids="-2-",
 	instaid="gourmendo",
@@ -2363,6 +2606,7 @@ staticData = {
 "UC0BZD1DCzd_y_oRZqhezqtg"	= {
 	name="Content Creation Space",			realname="Boris Baldinger",
 	ytlink="",
+	thid="",
 	weblink="https://contentcreation.space",
 	catids="-7-",
 	instaid="contentcreation.space",
@@ -2372,6 +2616,7 @@ staticData = {
 "UC5jF58ftx0w4wDvW3B7atNQ"	= {
 	name="Flying Metal Crew",			realname="Jérôme & Ramon Hunziker",
 	ytlink="https://www.youtube.com/flyingmetalcrew",
+	thid="",
 	weblink="",
 	catids="-5-",
 	instaid="flyingmetalcrew",
@@ -2381,6 +2626,7 @@ staticData = {
 "UC-jem5IA6sbZzjj6s0DZE0Q"	= {
 	name="Hirn Wind",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.mbuonaurio.com",
 	catids="-3-7-8-",
 	instaid="",
@@ -2390,6 +2636,7 @@ staticData = {
 "UCJzKFKXHbGerDy1MsMsGCAA"	= {
 	name="JaenuK",			realname="Jan Kröcher",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-2-",
 	instaid="jaenuk",
@@ -2399,6 +2646,7 @@ staticData = {
 "UCQqncPJ6crTkW_WuoLwXLkg"	= {
 	name="riSurvival89",			realname="Remo Iller",
 	ytlink="",
+	thid="",
 	weblink="http://www.risurvival-training.ch",
 	catids="-7-",
 	instaid="remoiller",
@@ -2408,6 +2656,7 @@ staticData = {
 "UCZuIbX5HZJumlvdUlusUJtA"	= {
 	name="Bauernfilme",			realname="Markus, Rebekka, Dario",
 	ytlink="",
+	thid="",
 	weblink="https://bauernfilme.ch",
 	catids="-7-",
 	instaid="bauernfilme",
@@ -2417,6 +2666,7 @@ staticData = {
 "UCbJ_20OaOxa3JUTAIdUp-tw"	= {
 	name="24Dias",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-8-",
 	instaid="",
@@ -2426,6 +2676,7 @@ staticData = {
 "UC3IZucdv0lEZX7tRSMcfEOg"	= {
 	name="PhönixTV",			realname="Diogo De Sousa",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="_phoenixtv_",
@@ -2435,6 +2686,7 @@ staticData = {
 "UCLqs8-BRLc7anXSHXZHBXeQ"	= {
 	name="think.answer.share",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-8-",
 	instaid="think.answer.share",
@@ -2444,15 +2696,17 @@ staticData = {
 "UCpeUomiLyMBvcMZbJhDv-gA"	= {
 	name="Woldiboy",			realname="",
 	ytlink="",
+	thid="woldiboy",
 	weblink="",
 	catids="-4-",
-	instaid="",
+	instaid="woldiboy",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UCCsUFSl6HS1r3o_yNMJaQdA"	= {
 	name="Dawill",			realname="Danilo Rosario",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-8-",
 	instaid="dawilly.wonka",
@@ -2462,6 +2716,7 @@ staticData = {
 "UCX4wXHZBpRVd2yTgFUf4a0A"	= {
 	name="Piratenpartei Schweiz",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.piratenpartei.ch",
 	catids="-7-",
 	instaid="piratenschweiz",
@@ -2471,6 +2726,7 @@ staticData = {
 "UCtVMzzBMc8pfftIQzZXYQWw"	= {
 	name="Obscuro94",			realname="Pascal",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-7-",
 	instaid="obscuro94",
@@ -2480,6 +2736,7 @@ staticData = {
 "UCgmz-9Z8WbnxGIhfEEXgDpg"	= {
 	name="Anthrazit Pearl",			realname="Pascal",
 	ytlink="",
+	thid="",
 	weblink="https://www.coupe-s.ch",
 	catids="-6-7-",
 	instaid="anthrazit_pearl",
@@ -2489,6 +2746,7 @@ staticData = {
 "UCcJG0N8IWbgxot4bFoM4cmQ"	= {
 	name="Hampi-Vator",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-7-",
 	instaid="",
@@ -2498,6 +2756,7 @@ staticData = {
 "UCCfpKXMBuL0hP83BADHbaDA"	= {
 	name="Hoschi",			realname="Fäbu",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-7-",
 	instaid="",
@@ -2507,6 +2766,7 @@ staticData = {
 "UC-8Yram-BhOlmaTHxmVP0Cg"	= {
 	name="Marco Ghiringhelli",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.mebcbiberist.ch",
 	catids="-7-",
 	instaid="",
@@ -2516,6 +2776,7 @@ staticData = {
 "UCQG8PZaWqUKUcdH583et6pw"	= {
 	name="rontaler media ag",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.rontaler.ch",
 	catids="-9-",
 	instaid="rontaler.ch",
@@ -2525,6 +2786,7 @@ staticData = {
 "UCq7oOVijWYMnAjw-iHkKkoQ"	= {
 	name="Sandro Schmid",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-5-",
 	instaid="sandrusmith",
@@ -2534,6 +2796,7 @@ staticData = {
 "UC50ixhWkpl-d03F6OqPUkAg"	= {
 	name="Tobi",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="tobias_e007",
@@ -2543,6 +2806,7 @@ staticData = {
 "UCNHBMc1YZyX_tMMl1K6uuUA"	= {
 	name="Clip und klar!",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://srf.ch/myschool.ch",
 	catids="-9-",
 	instaid="",
@@ -2552,6 +2816,7 @@ staticData = {
 "UCQNvR_M_HYiZr_To1X3Qz_A"	= {
 	name="True Talk",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.srf.ch/radio-srf-virus",
 	catids="-9-",
 	instaid="srfvirus",
@@ -2561,6 +2826,7 @@ staticData = {
 "UCbbFUi57jUR_VQh-N3x9KGA"	= {
 	name="Nr. 47",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://srf.ch/nr47",
 	catids="-6-9-",
 	instaid="",
@@ -2570,6 +2836,7 @@ staticData = {
 "UCd0NmHBRRAq5O-ye7kx_VlQ"	= {
 	name="SRF Archiv",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://srf.ch",
 	catids="-9-",
 	instaid="",
@@ -2579,6 +2846,7 @@ staticData = {
 "UConNtYYf5lQz3WUo_f2Vr6Q"	= {
 	name="Late Update",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://srf.ch",
 	catids="-6-9-",
 	instaid="srflateupdate",
@@ -2588,6 +2856,7 @@ staticData = {
 "UCX0OdLuEQ3ccSCq-Z7iMoiw"	= {
 	name="Deville",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://srf.ch",
 	catids="-6-9-",
 	instaid="srfdeville",
@@ -2597,6 +2866,7 @@ staticData = {
 "UCh_GQqobenO55IJ9sYZWndA"	= {
 	name="SRF Kultur",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.srf.ch/kultur",
 	catids="-9-",
 	instaid="",
@@ -2606,6 +2876,7 @@ staticData = {
 "UC_jRIdyQis_eGa029R3Kogg"	= {
 	name="Leming CH",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-5-",
 	instaid="leming_ch",
@@ -2615,6 +2886,7 @@ staticData = {
 "UCzvXx0T8lpziPTfw4IRLUjg"	= {
 	name="Semantik",			realname="",
 	ytlink="",
+	thid="",
 	weblink="http://semantik.ch",
 	catids="-8-",
 	instaid="sema.ntik",
@@ -2624,6 +2896,7 @@ staticData = {
 "UCtbNlk5CJ31nuR30MSgeOKg"	= {
 	name="Marco Ribeiro",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://marcoribeiro.ch",
 	catids="-6-",
 	instaid="marcoribeiroofficial",
@@ -2633,6 +2906,7 @@ staticData = {
 "UCwOZ-UZDXNydwULvnffMacA"	= {
 	name="Swisscom",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-9-",
 	instaid="swisscom",
@@ -2642,6 +2916,7 @@ staticData = {
 "UC2I4vIv7VI2mSM-QzmHnJRA"	= {
 	name="Kirmesfan Schweiz",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-7-",
 	instaid="kirmesfan_schweiz",
@@ -2651,6 +2926,7 @@ staticData = {
 "UCfMWwidS6nxYVuC9HSz9wDw"	= {
 	name="Flowcast",			realname="Flavio Camenzind",
 	ytlink="",
+	thid="",
 	weblink="https://www.flowcast.fm",
 	catids="-6-9-",
 	instaid="flaviocamenzind",
@@ -2660,6 +2936,7 @@ staticData = {
 "UCb8FlRmPJUAZfr1aceNZcUA"	= {
 	name="Radio4TNG",			realname="",
 	ytlink="",
+	thid="",
 	weblink="http://www.radio4tng.ch",
 	catids="-9-",
 	instaid="radio4tng",
@@ -2669,6 +2946,7 @@ staticData = {
 "UCTfj33hhCmEDeivyAfrkdZA"	= {
 	name="DiEiniDa",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="",
@@ -2678,6 +2956,7 @@ staticData = {
 "UC3sInWnrLR6iIzf8wbFo-LA"	= {
 	name="Anna Bora",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="x.annabora.x",
@@ -2687,6 +2966,7 @@ staticData = {
 "UCedijn7JH_CLvylQKvQ_OXA"	= {
 	name="MundARTprojekt",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-8-",
 	instaid="mundartprojektbe",
@@ -2696,6 +2976,7 @@ staticData = {
 "UCqsz6ADH3LWzpL7a1-RavcA"	= {
 	name="SoliHD",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="",
@@ -2705,6 +2986,7 @@ staticData = {
 "UC1AhtuA_1KLxhItE2bEWOPg"	= {
 	name="znakkthat",			realname="Thomas Urwyler + Daniel Schärer",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-8-",
 	instaid="",
@@ -2714,6 +2996,7 @@ staticData = {
 "UCOUe4Mk-lHPsIQZ4qrfvwkw"	= {
 	name="Bregy Pictures",			realname="Stefan Bregy",
 	ytlink="",
+	thid="",
 	weblink="https://bregypictures.com",
 	catids="-7-",
 	instaid="bregypictures",
@@ -2723,6 +3006,7 @@ staticData = {
 "UCEyBnGXgfEHC5Oc9jquY5sA"	= {
 	name="Tize.ch",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="tize.ch",
@@ -2732,6 +3016,7 @@ staticData = {
 "UCmS03XOFx0dsLz38AabuaNA"	= {
 	name="Beta-Show Deluxe",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://betashowdeluxe.ch",
 	catids="-6-",
 	instaid="betashowdeluxe",
@@ -2741,6 +3026,7 @@ staticData = {
 "UCcwivD9nsCdk7Xhp9vD2mOw"	= {
 	name="JustGame4u",			realname="JayZfaro",
 	ytlink="",
+	thid="justgame4u",
 	weblink="",
 	catids="-4-",
 	instaid="justgame4u",
@@ -2750,6 +3036,7 @@ staticData = {
 "UCpGOi6Er5zWbgVgFkNKXgEw"	= {
 	name="Retro Cash",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-4-",
 	instaid="justgame4u",
@@ -2759,6 +3046,7 @@ staticData = {
 "UCuk2DDeAPYjOc08yc1EUvaA"	= {
 	name="Cyrils World",			realname="Cyril",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="cyril_faeh",
@@ -2768,6 +3056,7 @@ staticData = {
 "UCcws5-pBFSYPOm1cFlxQepA"	= {
 	name="derAltenpfleger",			realname="Sandro",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="",
@@ -2777,6 +3066,7 @@ staticData = {
 "UCw-oBFsoAOec7eoXY1-fMFQ"	= {
 	name="Liana Scibetta Music",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-8-",
 	instaid="",
@@ -2786,6 +3076,7 @@ staticData = {
 "UC611db3Hrtwo1gzMYvyNDOA"	= {
 	name="Ursepio",			realname="Urs Rohrer",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="",
@@ -2795,6 +3086,7 @@ staticData = {
 "UCuvAr3upxqcI0V2cOlgHOHg"	= {
 	name="Steffi Beauty",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-2-",
 	instaid="",
@@ -2804,6 +3096,7 @@ staticData = {
 "UCO8Spz1GVJRzcJ3zBcFl5SQ"	= {
 	name="SwissIceHockey",			realname="Swiss Ice Hockey Federation SIHF",
 	ytlink="https://www.youtube.com/user/SwissIceHockey1",
+	thid="",
 	weblink="https://www.sihf.ch",
 	catids="-5-",
 	instaid="",
@@ -2813,6 +3106,7 @@ staticData = {
 "UCyX_EEcey41KF0rEGO6vxnw"	= {
 	name="Andreas Glarner",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-10-",
 	instaid="",
@@ -2822,6 +3116,7 @@ staticData = {
 "UCtOEFtmUrALape8MlYPMSYg"	= {
 	name="SVP Schweiz",			realname="",
 	ytlink="https://www.youtube.com/user/svpch",
+	thid="",
 	weblink="https://www.svp.ch/partei/",
 	catids="-10-",
 	instaid="svpch",
@@ -2831,6 +3126,7 @@ staticData = {
 "UCxCpgTGZQUdKV-Yzts9zoZQ"	= {
 	name="SP Schweiz",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://www.sp-ps.ch",
 	catids="-10-",
 	instaid="",
@@ -2840,6 +3136,7 @@ staticData = {
 "UCxaB0LVhebCfPeJHxFPW3RQ"	= {
 	name="Grüne Schweiz",			realname="",
 	ytlink="https://www.youtube.com/user/GrueneCH/",
+	thid="",
 	weblink="https://gruene.ch",
 	catids="-10-",
 	instaid="",
@@ -2849,6 +3146,7 @@ staticData = {
 "UCKhuZRTBAkdos5V3DWyQfQQ"	= {
 	name="Cédric Wermuth",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://cedricwermuth.ch",
 	catids="-10-",
 	instaid="cedricwermuth",
@@ -2858,6 +3156,7 @@ staticData = {
 "UCJ33cv_07mqC63autch8cEA"	= {
 	name="Kopfrausch GmbH",			realname="Katrin Kreuels",
 	ytlink="",
+	thid="",
 	weblink="https://kopfrausch.com",
 	catids="-7-",
 	instaid="kopfrausch",
@@ -2867,6 +3166,7 @@ staticData = {
 "UCRavEtOkesgfuXol-ElvVyw"	= {
 	name="MaeLOL",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="maeloromani",
@@ -2876,6 +3176,7 @@ staticData = {
 "UCMLgtW0G0wJoi9Wzl9HHyRg"	= {
 	name="Carina Manco",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-2-",
 	instaid="",
@@ -2885,6 +3186,7 @@ staticData = {
 "UC_R8_xOS3pVhjw2z_QNFT7Q"	= {
 	name="Sherry-ou",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-8-",
 	instaid="",
@@ -2894,6 +3196,7 @@ staticData = {
 "UCEsT59BBHueS2dV-75lJHXw"	= {
 	name="Chaostruppe",			realname="",
 	ytlink="",
+	thid="",
 	weblink="http://chaostruppe.net",
 	catids="-8-",
 	instaid="",
@@ -2903,6 +3206,7 @@ staticData = {
 "UCm2ybKhvDZGfPzpvWGyKx2A"	= {
 	name="Future Lion",			realname="",
 	ytlink="",
+	thid="",
 	weblink="",
 	catids="-6-",
 	instaid="future_lion_yt_",
@@ -2912,12 +3216,68 @@ staticData = {
 "UCb1UQ-uUy4aN8OeUA9OIicA"	= {
 	name="MA GamesTV",			realname="",
 	ytlink="",
+	thid="magamestv",
+	weblink="",
+	catids="-4-",
+	instaid="MAGamesTV",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCQNjowQrznb6sronvuEzELA"	= {
+	name="Just Gerry_",			realname="",
+	ytlink="",
+	thid="justgerry_",
 	weblink="",
 	catids="-4-",
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCepcew4D173EZID1JPqXaFA"	= {
+	name="eSportsCH",			realname="",
+	ytlink="https://www.youtube.com/eSportsCH",
+	thid="eSportsCH",
+	weblink="https://www.esports.ch",
+	catids="-4-",
+	instaid="esports.ch",
+	subcount={	2015=0,	2016=0,	2017=2169,	2018=3428},
+	viewscount={2015=0,	2016=0,	2017=357273,2018=627490}
+},
+"UCxmjdO_pdzqXVO-cKYdWo-A"	= {
+	name="Werthiplay",			realname="",
+	ytlink="",
+	thid="werthiplay",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCev4Iha8akVyE5ORYHzvGiw"	= {
+	name="SwissArma",			realname="",
+	ytlink="",
+	thid="swissarma",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=38,	2018=333},
+	viewscount={2015=0,	2016=0,	2017=429,	2018=1624}
+},
+"UC1ypI4hfojtt3lmzE9PRN5Q"	= {
+	name="Jaeggi LP",			realname="",
+	ytlink="",
+	thid="jaeggiplays",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=43,	2017=67,	2018=76},
+	viewscount={2015=0,	2016=8744,	2017=11968,	2018=13974}
 }
+
+
+
+
+
 
 
 
@@ -2951,6 +3311,7 @@ catArr = [
 "XXXXXXXX"	= {
 	name="XXXX",			realname="",
 	ytlink="",
+	thid="",
 	weblink="https://",
 	catids="-XXXXX-",
 	instaid="XXXXXX",

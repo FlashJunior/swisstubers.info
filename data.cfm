@@ -2899,6 +2899,24 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=673,	2017=1329,	2018=2010},
 	viewscount={2015=0,	2016=136023,2017=317973,2018=576977}
+},
+"UCm2ybKhvDZGfPzpvWGyKx2A"	= {
+	name="Future Lion",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-6-",
+	instaid="future_lion_yt_",
+	subcount={	2015=0,	2016=0,	2017=283,	2018=527},
+	viewscount={2015=0,	2016=0,	2017=60607,	2018=124962}
+},
+"UCb1UQ-uUy4aN8OeUA9OIicA"	= {
+	name="MA GamesTV",			realname="",
+	ytlink="",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
 
 

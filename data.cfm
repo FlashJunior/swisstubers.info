@@ -379,7 +379,7 @@ staticData = {
 	thid="",
 	weblink="https://mediahouse.likemag.com",
 	catids="-6-",
-	instaid="likemag",
+	instaid="likemagschweiz",
 	subcount={	2015=3565,		2016=3834,		2017=4021,		2018=3964},
 	viewscount={2015=1401830,	2016=1616819,	2017=2141916,	2018=1372}
 },
@@ -1114,7 +1114,7 @@ staticData = {
 	thid="",
 	weblink="",
 	catids="-6-",
-	instaid="yung_hegi",
+	instaid="",
 	subcount={	2015=0,2016=0,	2017=79,	2018=187},
 	viewscount={2015=0,2016=0,	2017=1015,	2018=4465}
 },
@@ -1868,9 +1868,9 @@ staticData = {
 	thid="",
 	weblink="",
 	catids="-2-",
-	instaid="",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	instaid="beast_genetics1",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=1},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=36}
 },
 "UCTOEQt8_bqJPxd88eJ_sTkA"	= {
 	name="René Schudel",		realname="",
@@ -3274,7 +3274,7 @@ staticData = {
 	viewscount={2015=0,	2016=8744,	2017=11968,	2018=13974}
 },
 "UCtCYRzzQFvBWVrpyO62HkOw"	= {
-	name="Schwiizer Schnupfer",			realname="",
+	name="Schwiizer Schnupfer",			realname="Pascal Wittwer",
 	ytlink="",
 	thid="",
 	weblink="",
@@ -3282,6 +3282,36 @@ staticData = {
 	instaid="schwiizer_schnupfer",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC6-wqyfq7zb-F22q__gB4Ag"	= {
+	name="Diego Brügger",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-5-",
+	instaid="diego.brugger",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCStRZmj7Gzq4VW9ImK8AN1w"	= {
+	name="Der Praktikant",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-",
+	instaid="derpraktikanttv",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCvWxgEny-sJ5h5aOwlelmJg"	= {
+	name="Tschirillo",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="tschirillo.zh",
+	subcount={	2015=0,	2016=0,	2017=136,	2018=209},
+	viewscount={2015=0,	2016=0,	2017=12500,	2018=22763}
 }
 
 
@@ -3299,7 +3329,7 @@ staticData = {
 /*
 	Source:
 	https://subscribercounter.com/channel/XXXX
-	https://socialblade.com/youtube/channel/XXXX/monthly
+	https://socialblade.com/youtube/channel/UCvWxgEny-sJ5h5aOwlelmJg/monthly
 */
 
 catArr = [

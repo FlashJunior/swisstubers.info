@@ -3312,8 +3312,17 @@ staticData = {
 	instaid="tschirillo.zh",
 	subcount={	2015=0,	2016=0,	2017=136,	2018=209},
 	viewscount={2015=0,	2016=0,	2017=12500,	2018=22763}
+},
+"UChw-yaM11BebkoHY3InbpAQ"	= {
+	name="gango luege",			realname="",
+	ytlink="https://www.youtube.com/gangoluege",
+	thid="",
+	weblink="http://www.gangoluege.ch",
+	catids="-6-7-",
+	instaid="gangoluege",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
-
 
 
 
@@ -3329,7 +3338,7 @@ staticData = {
 /*
 	Source:
 	https://subscribercounter.com/channel/XXXX
-	https://socialblade.com/youtube/channel/UCvWxgEny-sJ5h5aOwlelmJg/monthly
+	https://socialblade.com/youtube/channel/XXXX/monthly
 */
 
 catArr = [

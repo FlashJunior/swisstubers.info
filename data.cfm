@@ -3322,6 +3322,16 @@ staticData = {
 	instaid="gangoluege",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC85v5GpnNW8k0MRDtIhaJQg"	= {
+	name="Kommunikationstipps",			realname="Marcel Juen",
+	ytlink="",
+	thid="",
+	weblink="http://www.marceljuen.ch",
+	catids="-7-",
+	instaid="marceljuen.ch",
+	subcount={	2015=0,	2016=0,	2017=30,	2018=46},
+	viewscount={2015=0,	2016=0,	2017=14877,	2018=24101}
 }
 
 

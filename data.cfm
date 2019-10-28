@@ -3332,6 +3332,46 @@ staticData = {
 	instaid="marceljuen.ch",
 	subcount={	2015=0,	2016=0,	2017=30,	2018=46},
 	viewscount={2015=0,	2016=0,	2017=14877,	2018=24101}
+},
+"UCWWR0JEA9rl0QvjrK3C8Uqg"	= {
+	name="Hans Beyeler",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=600,	2018=2990},
+	viewscount={2015=0,	2016=0,	2017=539449,	2018=2381279}
+},
+"UCg1wBVa99_Dwn25uKfvDf8A"	= {
+	name="Kasel",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-4-",
+	instaid="kasel_official",
+	subcount={	2015=0,	2016=0,	2017=30,	2018=29},
+	viewscount={2015=0,	2016=0,	2017=5780,	2018=0}
+},
+"UCzSfehdTpCpBD-x0HFSLryA"	= {
+	name="Patrick Mueller",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.patrickmueller.ch",
+	catids="-3-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCh0Fhk6WdWc-Nj8FX6JEqmg"	= {
+	name="Manuel Lusti",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.koechli-lusti.com",
+	catids="-3-",
+	instaid="manuel_lusti",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=39},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=3924}
 }
 
 

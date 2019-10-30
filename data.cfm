@@ -77,7 +77,7 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="http://knackeboul.com",
-	catids="-8-",
+	catids="-8-12-",
 	instaid="knackeboul",
 	subcount={	2015=4507,		2016=5526,		2017=5843,		2018=6138},
 	viewscount={2015=1335590,	2016=1875109,	2017=2220731,	2018=2422043}
@@ -124,11 +124,11 @@ staticData = {
 },
 "UCCjweo0CKJkDMtU86hiAIJQ"	= {
 	name="Maelo",			realname="Maelo Romani",
-	ytlink="https://www.youtube.com/DerPumpkin",
+	ytlink="https://www.youtube.com/c/MaeloRomani",
 	thid="",
 	weblink="",
 	catids="-6-",
-	instaid="derpumpkin",
+	instaid="maeloromani",
 	subcount={	2015=3188,		2016=6619,		2017=6681,		2018=7944},
 	viewscount={2015=149311,	2016=272838,	2017=356308,	2018=614701}
 },
@@ -2088,7 +2088,7 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="https://www.joelvonmutzenbecher.ch",
-	catids="-6-",
+	catids="-6-12-",
 	instaid="vonmutzenbecher",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
@@ -2198,7 +2198,7 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="https://patrickembacher.com",
-	catids="-7-",
+	catids="-7-12-",
 	instaid="embacherpatrick",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
@@ -3318,7 +3318,7 @@ staticData = {
 	ytlink="https://www.youtube.com/gangoluege",
 	thid="",
 	weblink="http://www.gangoluege.ch",
-	catids="-6-7-",
+	catids="-6-7-12-",
 	instaid="gangoluege",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
@@ -3372,7 +3372,59 @@ staticData = {
 	instaid="manuel_lusti",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=39},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=3924}
+},
+"UCQyJ7r9orLatdj06lzOvjFw"	= {
+	name="Smileypeacefun",			realname="Joel",
+	ytlink="https://www.youtube.com/Smileypeacefun",
+	thid="",
+	weblink="",
+	catids="-6-7-",
+	instaid="smiley.peace.fun",
+	subcount={	2015=0,	2016=997,	2017=1117,	2018=1250},
+	viewscount={2015=0,	2016=100828,2017=140943,2018=217095}
+},
+"UC4c7NK2-XveG9uKfSahQcHg"	= {
+	name="Andreas Köng",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.jahdouproduction.com",
+	catids="-3-",
+	instaid="andreas_koeng_photography",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=513},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=114676}
+},
+"UCWDVFeshha5CxOULxawNVBg"	= {
+	name="Jan Breitenstein",			realname="",
+	ytlink="https://www.youtube.com/janbreitenstein",
+	thid="",
+	weblink="",
+	catids="-6-",
+	instaid="janbreitenstein_",
+	subcount={	2015=0,2016=0,2017=0,	2018=244},
+	viewscount={2015=0,2016=0,2017=0,	2018=1888}
+},
+"UCs_tXJ-ST_wj1vFGOWA7wKw"	= {
+	name="Chuchichästli",			realname="Dani und Matteo",
+	ytlink="",
+	thid="",
+	weblink="https://chuchichaest.li",
+	catids="-12-",
+	instaid="chuchichaest.li",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC7gRJAzQ6zlpP0Kr7rfjJsw"	= {
+	name="matekind",			realname="Matteo Gisler",
+	ytlink="",
+	thid="",
+	weblink="https://matekind.ch",
+	catids="-6-",
+	instaid="matekind",
+	subcount={	2015=0,	2016=8,	2017=8,	2018=31},
+	viewscount={2015=0,	2016=149,2017=191,2018=493}
 }
+
+
 
 
 
@@ -3402,6 +3454,7 @@ catArr = [
 	["8", "Musik"],
 	["10", "Politik"],
 	["4", "Gaming"],
+	["12", "Podcast"],
 	["7", "Anderes"],
 	["11", "mit Twitch Kanal"]
 ];
@@ -3422,17 +3475,7 @@ catArr = [
 
 
 
-	Nicht mehr aktiv:
-
-	"UCWDVFeshha5CxOULxawNVBg"	= {
-		name="Jan Breitenstein",			realname="",
-		ytlink="https://www.youtube.com/janbreitenstein",
-		weblink="",
-		catids="-6-",
-		instaid="janbreitenstein_",
-		subcount={	2015=0,2016=0,2017=0,	2018=244},
-		viewscount={2015=0,2016=0,2017=0,	2018=1888}
-	},
+	Nicht mehr aktiv:,
 	"UCaM1ElekeCdDiZJiSm-KNHA"	= {
 		name="Hipster Gnogg",		realname="Nik und Morris",
 		ytlink="https://www.youtube.com/HipsterGnogg",

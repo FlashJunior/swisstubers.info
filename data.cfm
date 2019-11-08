@@ -3422,8 +3422,17 @@ staticData = {
 	instaid="matekind",
 	subcount={	2015=0,	2016=8,	2017=8,	2018=31},
 	viewscount={2015=0,	2016=149,2017=191,2018=493}
+},
+"UCePUe71YXj8RDQLhKJvwJYA"	= {
+	name="Redimeangreen",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-",
+	instaid="chuchichaest.li",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
-
 
 
 

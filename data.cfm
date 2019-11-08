@@ -45,9 +45,9 @@ staticData = {
 "UCqCSl8Eq_0by8ad7u5JNSOQ"	= {
 	name="Greeney",			realname="",
 	ytlink="https://www.youtube.com/Greneey",
-	thid="",
+	thid="greneey",
 	weblink="https://greneey.ch",
-	catids="-4-6-",
+	catids="-4-6-11-",
 	instaid="insta.greneey",
 	subcount={	2015=1024,	2016=1218,	2017=1921,	2018=2196},
 	viewscount={2015=177864,2016=232031,2017=277216,2018=358925}
@@ -3429,9 +3429,19 @@ staticData = {
 	thid="",
 	weblink="",
 	catids="-6-",
-	instaid="chuchichaest.li",
+	instaid="redimeangreen",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC_zxivooFdvF4uuBosUnJxQ"	= {
+	name="SBB",			realname="",
+	ytlink="https://www.youtube.com/sbbcffffs",
+	thid="",
+	weblink="https://www.sbb.ch/",
+	catids="-1-7-",
+	instaid="sbbcffffs",
+	subcount={	2015=0,	2016=6838,	2017=9005,	2018=11940},
+	viewscount={2015=0,	2016=6924395,	2017=13586494,	2018=29751442}
 }
 
 

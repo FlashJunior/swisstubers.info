@@ -3442,6 +3442,46 @@ staticData = {
 	instaid="sbbcffffs",
 	subcount={	2015=0,	2016=6838,	2017=9005,	2018=11940},
 	viewscount={2015=0,	2016=6924395,	2017=13586494,	2018=29751442}
+},
+"UC9TzD1vSXf-FmdmRgTkwNcw"	= {
+	name="BEARSnGAMES",			realname="",
+	ytlink="",
+	thid="bearsngames",
+	weblink="",
+	catids="-4-",
+	instaid="bearsngames",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC00SwNpVcJ3lqUtACMBLMYg"	= {
+	name="GlockenTV",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCTPhJ7aAQwiYxvtQOUKSbQQ"	= {
+	name="DJ_Dave_03",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCYOzTRyMOqbAQ1O9z7xMr1g"	= {
+	name="Train Fr3ak",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
 
 

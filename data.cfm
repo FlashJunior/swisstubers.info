@@ -3522,6 +3522,46 @@ staticData = {
 	instaid="kingpepe.ch",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCcm0WhMb0ipVG1YB_hX251A"	= {
+	name="On the Piano",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="on_the_piano",
+	subcount={	2015=0,	2016=0,	2017=168,	2018=164},
+	viewscount={2015=0,	2016=0,	2017=3294,	2018=4111}
+},
+"UCB718pw6KPNRptf93P4mcig"	= {
+	name="Daniel Blättler",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-1-Politik-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=13,	2018=44},
+	viewscount={2015=0,	2016=0,	2017=2242,	2018=7608}
+},
+"UCqBJkhAJRM3Xt2IoodWsCFA"	= {
+	name="Christkönigsglocke94",			realname="",
+	ytlink="https://www.youtube.com/MrGT18",
+	thid="",
+	weblink="",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCQgdpazWn8r9gloQqwGUWmA"	= {
+	name="Gummi Love",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.gummilove.com/",
+	catids="-6-",
+	instaid="gummi_love",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
 
 

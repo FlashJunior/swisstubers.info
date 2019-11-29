@@ -3562,6 +3562,46 @@ staticData = {
 	instaid="gummi_love",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCjiHk9LbGDbHE_LU2hoBJog"	= {
+	name="Bernhards",			realname="Carol & Marcel",
+	ytlink="",
+	thid="",
+	weblink="https://fridafashion.ch",
+	catids="-6-",
+	instaid="carolxbernhard",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC6JDKSN-4oa47M9yQ7OeI4Q"	= {
+	name="SimiiLila",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.simiilila.ch",
+	catids="-6-",
+	instaid="simiilila",
+	subcount={	2015=0,	2016=274,	2017=274,	2018=0},
+	viewscount={2015=0,	2016=138008,2017=260668,2018=372559}
+},
+"UClmQmRROt57h3mS0t8A4gDg"	= {
+	name="Agea Cosplay",			realname="Martina Agea",
+	ytlink="",
+	thid="agea_cosplay",
+	weblink="",
+	catids="-6-",
+	instaid="ageacosplay",
+	subcount={	2015=0,	2016=263,	2017=289,	2018=295},
+	viewscount={2015=0,	2016=18603,	2017=25091,	2018=29816}
+},
+"UCLRoyCrW4ByT0UP2RcLyBgw"	= {
+	name="Uf dä Punkt.",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-10-",
+	instaid="uf.dae.punkt",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
 
 

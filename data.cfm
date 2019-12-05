@@ -3602,6 +3602,16 @@ staticData = {
 	instaid="uf.dae.punkt",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCwUnokbfG43RJFpNosEPEPg"	= {
+	name="Lura.",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
 
 

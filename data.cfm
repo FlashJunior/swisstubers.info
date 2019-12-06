@@ -3612,6 +3612,36 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCVek3PXVKWEtAeSVJZqgC3g"	= {
+	name="Predator Buddies.",			realname="Nico",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-5-6-",
+	instaid="predator_buddies",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCnoWxUnVpC6NS3nBkjzo2Jg"	= {
+	name="Niklausglocke",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=178,	2017=289,	2018=356},
+	viewscount={2015=0,	2016=139298,2017=212788,2018=264607}
+},
+"UCV_jCrogu0_BpQXNlh1IonA"	= {
+	name="Abseits.ch",			realname="André Moita Saraiva & Alea Räber",
+	ytlink="",
+	thid="",
+	weblink="https://abseits.ch",
+	catids="-5-",
+	instaid="abseits.ch",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
 
 

@@ -9,6 +9,6 @@ data.cfm
 * alle Kanal IDs, Instagram Links und weitere statische Infos
 * Kategorien
 
-data_tablebodycache.html
+data_cache.json
 -------
-* generiertes html des table body
+* generiertes json

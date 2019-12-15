@@ -2763,16 +2763,6 @@ staticData = {
 	subcount={	2015=0,	2016=893,	2017=1159,	2018=1539},
 	viewscount={2015=0,	2016=192539,2017=298736,2018=345797}
 },
-"UC50ixhWkpl-d03F6OqPUkAg"	= {
-	name="Tobi",			realname="",
-	ytlink="",
-	thid="",
-	weblink="",
-	catids="-6-",
-	instaid="tobias_e007",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-},
 "UCNHBMc1YZyX_tMMl1K6uuUA"	= {
 	name="Clip und klar!",			realname="",
 	ytlink="",
@@ -3023,16 +3013,6 @@ staticData = {
 	subcount={	2015=0,	2016=117,	2017=118,	2018=123},
 	viewscount={2015=0,	2016=22580,	2017=23280,	2018=359}
 },
-"UCcws5-pBFSYPOm1cFlxQepA"	= {
-	name="derAltenpfleger",			realname="Sandro",
-	ytlink="",
-	thid="",
-	weblink="",
-	catids="-6-",
-	instaid="",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-},
 "UCw-oBFsoAOec7eoXY1-fMFQ"	= {
 	name="Liana Scibetta Music",			realname="",
 	ytlink="",
@@ -3172,16 +3152,6 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=673,	2017=1329,	2018=2010},
 	viewscount={2015=0,	2016=136023,2017=317973,2018=576977}
-},
-"UCm2ybKhvDZGfPzpvWGyKx2A"	= {
-	name="Future Lion",			realname="",
-	ytlink="",
-	thid="",
-	weblink="",
-	catids="-6-",
-	instaid="future_lion_yt_",
-	subcount={	2015=0,	2016=0,	2017=283,	2018=527},
-	viewscount={2015=0,	2016=0,	2017=60607,	2018=124962}
 },
 "UCb1UQ-uUy4aN8OeUA9OIicA"	= {
 	name="MA GamesTV",			realname="",
@@ -3642,6 +3612,36 @@ staticData = {
 	instaid="abseits.ch",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCI-TAw4CtSpliFLz41bBWrQ"	= {
+	name="Higgs",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.higgs.ch",
+	catids="-7-10-",
+	instaid="higgsmag",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC_ChvDfK-hjS-sbEswNtugg"	= {
+	name="Prodax CH",			realname="",
+	ytlink="",
+	thid="prodaxch",
+	weblink="",
+	catids="-4-",
+	instaid="prodaxch",
+	subcount={	2015=0,	2016=0,	2017=1979,	2018=3042},
+	viewscount={2015=0,	2016=0,	2017=145739,2018=277107}
+},
+"UCW7RwYcoRHkblArBxqGaZrg"	= {
+	name="Zappin",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
 
 
@@ -3696,6 +3696,36 @@ catArr = [
 
 
 	Nicht mehr aktiv:
+	"UCcws5-pBFSYPOm1cFlxQepA"	= {
+		name="derAltenpfleger",			realname="Sandro",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
+	"UCm2ybKhvDZGfPzpvWGyKx2A"	= {
+		name="Future Lion",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="future_lion_yt_",
+		subcount={	2015=0,	2016=0,	2017=283,	2018=527},
+		viewscount={2015=0,	2016=0,	2017=60607,	2018=124962}
+	},
+	"UC50ixhWkpl-d03F6OqPUkAg"	= {
+		name="Tobi",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="tobias_e007",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
 	"UCX3gxpibog7MVCwR8GeYJDg"	= {
 		name="Keevin",			realname="",
 		ytlink="",

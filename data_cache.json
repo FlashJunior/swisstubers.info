@@ -3,7 +3,7 @@
 "VIDEOCOUNT":{
 "2019":19},
 "SUBCOUNT":{
-"2019":286,
+"2019":283,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -14,9 +14,10 @@
 "CATIDS":"-6-",
 "NAME":"PhönixTV",
 "INSTAID":"_phoenixtv_",
+"VIEWSGROWTH2019":6364.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":6260,
+"2019":6364,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -27,7 +28,7 @@
 "VIDEOCOUNT":{
 "2019":39},
 "SUBCOUNT":{
-"2019":415,
+"2019":418,
 "2018":267,
 "2017":149,
 "2016":0,
@@ -38,9 +39,10 @@
 "CATIDS":"-8-",
 "NAME":"Prhyme Tyme Music",
 "INSTAID":"prhymetyme",
+"VIEWSGROWTH2019":40163.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":112874,
+"2019":113434,
 "2018":73271,
 "2017":49881,
 "2016":0,
@@ -49,9 +51,9 @@
 "UCXG4LxOG_7z2j6NqwcMXoww":{
 "REALNAME":"Mirjam Weber",
 "VIDEOCOUNT":{
-"2019":45},
+"2019":46},
 "SUBCOUNT":{
-"2019":316,
+"2019":321,
 "2018":225,
 "2017":0,
 "2016":0,
@@ -62,9 +64,10 @@
 "CATIDS":"-3-",
 "NAME":"Miri Weber",
 "INSTAID":"miriweber.ch",
+"VIEWSGROWTH2019":38137.0,
 "YTLINK":"https://www.youtube.com/zaubersterne",
 "VIEWSCOUNT":{
-"2019":123846,
+"2019":125151,
 "2018":87014,
 "2017":0,
 "2016":0,
@@ -86,9 +89,10 @@
 "CATIDS":"-6-8-",
 "NAME":"Maanuli",
 "INSTAID":"maanulii",
+"VIEWSGROWTH2019":157620.0,
 "YTLINK":"https://www.youtube.com/LittleManuli",
 "VIEWSCOUNT":{
-"2019":6066295,
+"2019":6070152,
 "2018":5912532,
 "2017":5598820,
 "2016":7107980,
@@ -110,9 +114,10 @@
 "CATIDS":"-4-",
 "NAME":"MutzeMischt",
 "INSTAID":"mutzemischt",
+"VIEWSGROWTH2019":16249.0,
 "YTLINK":"https://www.youtube.com/mutzemischt",
 "VIEWSCOUNT":{
-"2019":66237,
+"2019":66628,
 "2018":50379,
 "2017":24455,
 "2016":4558,
@@ -121,7 +126,7 @@
 "UCxC2KyLOV_g-00QBO-0bWww":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":23},
+"2019":35},
 "SUBCOUNT":{
 "2019":12,
 "2018":132,
@@ -134,9 +139,10 @@
 "CATIDS":"-6-",
 "NAME":"Martina Kopp",
 "INSTAID":"_martina_kopp_",
+"VIEWSGROWTH2019":-6752.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":432,
+"2019":543,
 "2018":7295,
 "2017":1258,
 "2016":0,
@@ -147,7 +153,7 @@
 "VIDEOCOUNT":{
 "2019":113},
 "SUBCOUNT":{
-"2019":182,
+"2019":188,
 "2018":111,
 "2017":47,
 "2016":0,
@@ -158,9 +164,10 @@
 "CATIDS":"-4-",
 "NAME":"Jasgaba",
 "INSTAID":"",
+"VIEWSGROWTH2019":27914.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":44683,
+"2019":45992,
 "2018":18078,
 "2017":3433,
 "2016":0,
@@ -182,6 +189,7 @@
 "CATIDS":"-4-",
 "NAME":"BEARSnGAMES",
 "INSTAID":"bearsngames",
+"VIEWSGROWTH2019":63.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
 "2019":63,
@@ -193,7 +201,7 @@
 "UCwUnokbfG43RJFpNosEPEPg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":33},
+"2019":35},
 "SUBCOUNT":{
 "2019":20,
 "2018":0,
@@ -206,9 +214,10 @@
 "CATIDS":"-4-",
 "NAME":"Lura.",
 "INSTAID":"",
+"VIEWSGROWTH2019":788.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":763,
+"2019":788,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -230,6 +239,7 @@
 "CATIDS":"-4-11-",
 "NAME":"Werthiplay",
 "INSTAID":"",
+"VIEWSGROWTH2019":106.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
 "2019":106,
@@ -254,9 +264,10 @@
 "CATIDS":"-4-11-",
 "NAME":"TheWorkingClassHD",
 "INSTAID":"theworkingclasshd",
+"VIEWSGROWTH2019":1880.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1873,
+"2019":1880,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -267,7 +278,7 @@
 "VIDEOCOUNT":{
 "2019":23},
 "SUBCOUNT":{
-"2019":154,
+"2019":155,
 "2018":145,
 "2017":42,
 "2016":0,
@@ -278,9 +289,10 @@
 "CATIDS":"-2-",
 "NAME":"JaenuK",
 "INSTAID":"jaenuk",
+"VIEWSGROWTH2019":4281.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":13981,
+"2019":14042,
 "2018":9761,
 "2017":1094,
 "2016":0,
@@ -289,9 +301,9 @@
 "UC0Q2HB_PxFurzQM6ck38U2A":{
 "REALNAME":"Denise & Stefan Lehmann",
 "VIDEOCOUNT":{
-"2019":176},
+"2019":178},
 "SUBCOUNT":{
-"2019":785,
+"2019":789,
 "2018":671,
 "2017":347,
 "2016":105,
@@ -302,9 +314,10 @@
 "CATIDS":"-2-",
 "NAME":"Kitchwitch",
 "INSTAID":"kitchwitch_",
+"VIEWSGROWTH2019":40837.0,
 "YTLINK":"https://www.youtube.com/kitchwitch",
 "VIEWSCOUNT":{
-"2019":118995,
+"2019":122080,
 "2018":81243,
 "2017":54499,
 "2016":23582,
@@ -326,9 +339,10 @@
 "CATIDS":"-6-",
 "NAME":"Ropick",
 "INSTAID":"ropick",
+"VIEWSGROWTH2019":1998.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1996,
+"2019":1998,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -337,9 +351,9 @@
 "UCpYM98Cz5ptezaK7nV4Akpg":{
 "REALNAME":"Zeki Bulgurcu",
 "VIDEOCOUNT":{
-"2019":231},
+"2019":236},
 "SUBCOUNT":{
-"2019":95500,
+"2019":95300,
 "2018":93706,
 "2017":89480,
 "2016":82518,
@@ -350,9 +364,10 @@
 "CATIDS":"-6-",
 "NAME":"Swissmeme TV",
 "INSTAID":"swissmeme",
+"VIEWSGROWTH2019":1086159.0,
 "YTLINK":"https://www.youtube.com/swissmeme",
 "VIEWSCOUNT":{
-"2019":29658859,
+"2019":29758742,
 "2018":28672583,
 "2017":25637054,
 "2016":23192890,
@@ -374,9 +389,10 @@
 "CATIDS":"-4-11-",
 "NAME":"Just Gerry_",
 "INSTAID":"justgerry_",
+"VIEWSGROWTH2019":1788.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1774,
+"2019":1788,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -387,7 +403,7 @@
 "VIDEOCOUNT":{
 "2019":85},
 "SUBCOUNT":{
-"2019":718,
+"2019":724,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -398,9 +414,10 @@
 "CATIDS":"-1-",
 "NAME":"Verreis",
 "INSTAID":"_verreis_",
+"VIEWSGROWTH2019":156997.0,
 "YTLINK":"https://www.youtube.com/verreisreisevlogs",
 "VIEWSCOUNT":{
-"2019":155093,
+"2019":156997,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -411,7 +428,7 @@
 "VIDEOCOUNT":{
 "2019":64},
 "SUBCOUNT":{
-"2019":755,
+"2019":757,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -422,9 +439,10 @@
 "CATIDS":"-13-",
 "NAME":"EWZ",
 "INSTAID":"ewz.energie",
+"VIEWSGROWTH2019":666816.0,
 "YTLINK":"https://www.youtube.com/ewzdieenergie/",
 "VIEWSCOUNT":{
-"2019":681481,
+"2019":666816,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -446,9 +464,10 @@
 "CATIDS":"-4-",
 "NAME":"SSOC let's plays",
 "INSTAID":"",
+"VIEWSGROWTH2019":-16.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":2492,
+"2019":2495,
 "2018":2511,
 "2017":2174,
 "2016":1245,
@@ -457,9 +476,9 @@
 "UCLRoyCrW4ByT0UP2RcLyBgw":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":57},
+"2019":59},
 "SUBCOUNT":{
-"2019":1390,
+"2019":1560,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -470,9 +489,10 @@
 "CATIDS":"-10-",
 "NAME":"Uf dä Punkt.",
 "INSTAID":"uf.dae.punkt",
+"VIEWSGROWTH2019":202591.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":180371,
+"2019":202591,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -481,9 +501,9 @@
 "UCl82STTPSdqGs4AOx8ZKY4A":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":63},
+"2019":64},
 "SUBCOUNT":{
-"2019":476,
+"2019":479,
 "2018":446,
 "2017":409,
 "2016":0,
@@ -494,9 +514,10 @@
 "CATIDS":"-4-11-",
 "NAME":"Playvetia",
 "INSTAID":"",
+"VIEWSGROWTH2019":2660.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":14796,
+"2019":15071,
 "2018":12411,
 "2017":8547,
 "2016":0,
@@ -507,7 +528,7 @@
 "VIDEOCOUNT":{
 "2019":14},
 "SUBCOUNT":{
-"2019":21600,
+"2019":21700,
 "2018":19080,
 "2017":12862,
 "2016":6625,
@@ -518,9 +539,10 @@
 "CATIDS":"-8-",
 "NAME":"Physical Shock",
 "INSTAID":"physicalshock",
+"VIEWSGROWTH2019":3514495.0,
 "YTLINK":"https://www.youtube.com/scrappylav",
 "VIEWSCOUNT":{
-"2019":11167057,
+"2019":11293832,
 "2018":7779337,
 "2017":3424371,
 "2016":1875955,
@@ -531,7 +553,7 @@
 "VIDEOCOUNT":{
 "2019":217},
 "SUBCOUNT":{
-"2019":600,
+"2019":603,
 "2018":317,
 "2017":0,
 "2016":0,
@@ -542,9 +564,10 @@
 "CATIDS":"-6-11-",
 "NAME":"TopTenErich",
 "INSTAID":"toptenerich",
+"VIEWSGROWTH2019":23426.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":43193,
+"2019":43491,
 "2018":20065,
 "2017":0,
 "2016":0,
@@ -553,9 +576,9 @@
 "UCX0OdLuEQ3ccSCq-Z7iMoiw":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":538},
+"2019":549},
 "SUBCOUNT":{
-"2019":3190,
+"2019":3370,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -566,9 +589,10 @@
 "CATIDS":"-6-9-",
 "NAME":"Deville",
 "INSTAID":"srfdeville",
+"VIEWSGROWTH2019":1.493492E7,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":14867471,
+"2019":14934920,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -590,9 +614,10 @@
 "CATIDS":"-8-",
 "NAME":"STARTER GANG",
 "INSTAID":"startergangofficial",
+"VIEWSGROWTH2019":61992.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":473142,
+"2019":474194,
 "2018":412202,
 "2017":297038,
 "2016":0,
@@ -614,9 +639,10 @@
 "CATIDS":"-8-",
 "NAME":"Baschi",
 "INSTAID":"baschireal",
+"VIEWSGROWTH2019":428591.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1716227,
+"2019":1728879,
 "2018":1300288,
 "2017":889967,
 "2016":762769,
@@ -625,7 +651,7 @@
 "UCPvw4R46FquW2BICbvcjSrg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":101},
+"2019":102},
 "SUBCOUNT":{
 "2019":0,
 "2018":0,
@@ -638,9 +664,10 @@
 "CATIDS":"-13-",
 "NAME":"Denner",
 "INSTAID":"",
+"VIEWSGROWTH2019":1692943.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1691984,
+"2019":1692943,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -651,7 +678,7 @@
 "VIDEOCOUNT":{
 "2019":451},
 "SUBCOUNT":{
-"2019":7870,
+"2019":7890,
 "2018":7146,
 "2017":5899,
 "2016":4556,
@@ -662,9 +689,10 @@
 "CATIDS":"-6-9-",
 "NAME":"Sara machts",
 "INSTAID":"saramachts",
+"VIEWSGROWTH2019":540911.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":6582221,
+"2019":6597216,
 "2018":6056305,
 "2017":5138042,
 "2016":3907409,
@@ -686,9 +714,10 @@
 "CATIDS":"-6-8-9-",
 "NAME":"LYRICS TV",
 "INSTAID":"lyricsmagazin",
+"VIEWSGROWTH2019":165057.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":601196,
+"2019":604550,
 "2018":439493,
 "2017":233920,
 "2016":48902,
@@ -710,9 +739,10 @@
 "CATIDS":"-1-",
 "NAME":"Dani's Abenteuer",
 "INSTAID":"danisabenteuer",
+"VIEWSGROWTH2019":6877.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":6837,
+"2019":6877,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -721,9 +751,9 @@
 "UCRavEtOkesgfuXol-ElvVyw":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":32},
+"2019":37},
 "SUBCOUNT":{
-"2019":676,
+"2019":716,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -734,9 +764,10 @@
 "CATIDS":"-6-",
 "NAME":"MaeLOL",
 "INSTAID":"maeloromani",
+"VIEWSGROWTH2019":16152.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":14484,
+"2019":16152,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -747,7 +778,7 @@
 "VIDEOCOUNT":{
 "2019":232},
 "SUBCOUNT":{
-"2019":245,
+"2019":248,
 "2018":218,
 "2017":151,
 "2016":0,
@@ -758,9 +789,10 @@
 "CATIDS":"-6-8-",
 "NAME":"Zona 167 Produzioni",
 "INSTAID":"",
+"VIEWSGROWTH2019":12018.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":87757,
+"2019":88081,
 "2018":76063,
 "2017":58744,
 "2016":0,
@@ -771,7 +803,7 @@
 "VIDEOCOUNT":{
 "2019":15},
 "SUBCOUNT":{
-"2019":368,
+"2019":367,
 "2018":244,
 "2017":209,
 "2016":145,
@@ -782,9 +814,10 @@
 "CATIDS":"-6-",
 "NAME":"SirVlog",
 "INSTAID":"davidfornerod",
+"VIEWSGROWTH2019":-17164.0,
 "YTLINK":"https://www.youtube.com/sirvlog",
 "VIEWSCOUNT":{
-"2019":7243,
+"2019":7347,
 "2018":24511,
 "2017":15301,
 "2016":5657,
@@ -795,7 +828,7 @@
 "VIDEOCOUNT":{
 "2019":11},
 "SUBCOUNT":{
-"2019":95,
+"2019":96,
 "2018":53,
 "2017":24,
 "2016":0,
@@ -806,9 +839,10 @@
 "CATIDS":"-3-",
 "NAME":"Fotoremo",
 "INSTAID":"fotoremo.ch",
+"VIEWSGROWTH2019":15326.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":28547,
+"2019":29467,
 "2018":14141,
 "2017":6049,
 "2016":0,
@@ -819,7 +853,7 @@
 "VIDEOCOUNT":{
 "2019":118},
 "SUBCOUNT":{
-"2019":161,
+"2019":162,
 "2018":151,
 "2017":0,
 "2016":0,
@@ -830,9 +864,10 @@
 "CATIDS":"-2-",
 "NAME":"Dudldei Gurke",
 "INSTAID":"dudldeigurke2",
+"VIEWSGROWTH2019":4855.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":25067,
+"2019":25154,
 "2018":20299,
 "2017":0,
 "2016":0,
@@ -841,9 +876,9 @@
 "UCb1UQ-uUy4aN8OeUA9OIicA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":76},
+"2019":78},
 "SUBCOUNT":{
-"2019":89,
+"2019":93,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -854,9 +889,10 @@
 "CATIDS":"-4-11-",
 "NAME":"MA GamesTV",
 "INSTAID":"MAGamesTV",
+"VIEWSGROWTH2019":5510.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":5363,
+"2019":5510,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -867,7 +903,7 @@
 "VIDEOCOUNT":{
 "2019":46},
 "SUBCOUNT":{
-"2019":101000,
+"2019":102000,
 "2018":52766,
 "2017":43815,
 "2016":21631,
@@ -878,9 +914,10 @@
 "CATIDS":"-6-",
 "NAME":"Herr Fuchs",
 "INSTAID":"herrfuchszurich",
+"VIEWSGROWTH2019":1.2352764E7,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":35450094,
+"2019":35807217,
 "2018":23454453,
 "2017":18786891,
 "2016":9213174,
@@ -889,9 +926,9 @@
 "UC97FMdlARgF_LHwbe2jqfMg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":1337},
+"2019":1336},
 "SUBCOUNT":{
-"2019":656,
+"2019":657,
 "2018":627,
 "2017":563,
 "2016":493,
@@ -902,9 +939,10 @@
 "CATIDS":"-4-11-",
 "NAME":"SwissLPGamers",
 "INSTAID":"swisslpgamers",
+"VIEWSGROWTH2019":7581.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":129233,
+"2019":129501,
 "2018":121920,
 "2017":110112,
 "2016":94305,
@@ -926,9 +964,10 @@
 "CATIDS":"-1-2-6-",
 "NAME":"missIMPULSIV",
 "INSTAID":"onetwothreeiamfree",
+"VIEWSGROWTH2019":14887.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":441427,
+"2019":441768,
 "2018":426881,
 "2017":402091,
 "2016":341193,
@@ -950,9 +989,10 @@
 "CATIDS":"-7-",
 "NAME":"Say Hello",
 "INSTAID":"",
+"VIEWSGROWTH2019":610.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":603,
+"2019":610,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -974,9 +1014,10 @@
 "CATIDS":"-6-",
 "NAME":"Tize.ch",
 "INSTAID":"tize.ch",
+"VIEWSGROWTH2019":2713.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":2712,
+"2019":2713,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -987,7 +1028,7 @@
 "VIDEOCOUNT":{
 "2019":89},
 "SUBCOUNT":{
-"2019":4350,
+"2019":4360,
 "2018":4017,
 "2017":3391,
 "2016":3079,
@@ -998,9 +1039,10 @@
 "CATIDS":"-6-",
 "NAME":"Ursus & Nadeschkin",
 "INSTAID":"ursusnadeschkin",
+"VIEWSGROWTH2019":275018.0,
 "YTLINK":"https://www.youtube.com/ursusnadeschkin",
 "VIEWSCOUNT":{
-"2019":3533053,
+"2019":3540481,
 "2018":3265463,
 "2017":2818234,
 "2016":2483119,
@@ -1009,9 +1051,9 @@
 "UCKeycG2jjRS3HNmqhF9LOkg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":2141},
+"2019":2163},
 "SUBCOUNT":{
-"2019":39500,
+"2019":40400,
 "2018":19682,
 "2017":12067,
 "2016":1530,
@@ -1022,9 +1064,10 @@
 "CATIDS":"-9-",
 "NAME":"3+",
 "INSTAID":"3plus",
+"VIEWSGROWTH2019":2.5510393E7,
 "YTLINK":"https://www.youtube.com/3PlusTV",
 "VIEWSCOUNT":{
-"2019":55776204,
+"2019":57169738,
 "2018":31659345,
 "2017":20437304,
 "2016":3748618,
@@ -1046,9 +1089,10 @@
 "CATIDS":"-6-",
 "NAME":"Mace",
 "INSTAID":"macejutv",
+"VIEWSGROWTH2019":-165.0,
 "YTLINK":"https://www.youtube.com/macejutv",
 "VIEWSCOUNT":{
-"2019":6092,
+"2019":6100,
 "2018":6265,
 "2017":0,
 "2016":0,
@@ -1059,7 +1103,7 @@
 "VIDEOCOUNT":{
 "2019":13},
 "SUBCOUNT":{
-"2019":79,
+"2019":85,
 "2018":63,
 "2017":36,
 "2016":0,
@@ -1070,9 +1114,10 @@
 "CATIDS":"-6-8-",
 "NAME":"Gucci Gubi",
 "INSTAID":"guccigubi",
+"VIEWSGROWTH2019":-10118.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":26916,
+"2019":11402,
 "2018":21520,
 "2017":13330,
 "2016":0,
@@ -1094,9 +1139,10 @@
 "CATIDS":"-6-",
 "NAME":"Rhentex TV",
 "INSTAID":"",
+"VIEWSGROWTH2019":610.0,
 "YTLINK":"https://www.youtube.com/rhentextv",
 "VIEWSCOUNT":{
-"2019":5071,
+"2019":5075,
 "2018":4465,
 "2017":1015,
 "2016":0,
@@ -1105,7 +1151,7 @@
 "UC_2og_j4PvYfRPRH3x0miYg":{
 "REALNAME":"Loris Zimmerli",
 "VIDEOCOUNT":{
-"2019":109},
+"2019":111},
 "SUBCOUNT":{
 "2019":28900,
 "2018":28419,
@@ -1118,9 +1164,10 @@
 "CATIDS":"-6-",
 "NAME":"LoZi TV",
 "INSTAID":"lozitv",
+"VIEWSGROWTH2019":291533.0,
 "YTLINK":"https://www.youtube.com/lozitv",
 "VIEWSCOUNT":{
-"2019":1813343,
+"2019":1823519,
 "2018":1531986,
 "2017":382615,
 "2016":0,
@@ -1142,6 +1189,7 @@
 "CATIDS":"-6-",
 "NAME":"World Changing News",
 "INSTAID":"ste1701fan",
+"VIEWSGROWTH2019":2167.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
 "2019":2167,
@@ -1166,9 +1214,10 @@
 "CATIDS":"-6-",
 "NAME":"RuehSäubst",
 "INSTAID":"ruehsaubst",
+"VIEWSGROWTH2019":456.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":3070,
+"2019":3071,
 "2018":2615,
 "2017":1510,
 "2016":0,
@@ -1179,7 +1228,7 @@
 "VIDEOCOUNT":{
 "2019":34},
 "SUBCOUNT":{
-"2019":368,
+"2019":369,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -1190,9 +1239,10 @@
 "CATIDS":"-8-",
 "NAME":"King Pepe",
 "INSTAID":"kingpepe.ch",
+"VIEWSGROWTH2019":412721.0,
 "YTLINK":"https://www.youtube.com/pepeisfree",
 "VIEWSCOUNT":{
-"2019":411589,
+"2019":412721,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -1203,7 +1253,7 @@
 "VIDEOCOUNT":{
 "2019":19},
 "SUBCOUNT":{
-"2019":1260,
+"2019":1270,
 "2018":1137,
 "2017":861,
 "2016":0,
@@ -1214,9 +1264,10 @@
 "CATIDS":"-8-",
 "NAME":"Troubas Kater",
 "INSTAID":"",
+"VIEWSGROWTH2019":119982.0,
 "YTLINK":"https://www.youtube.com/hansjoggeli",
 "VIEWSCOUNT":{
-"2019":1021949,
+"2019":1027539,
 "2018":907557,
 "2017":705335,
 "2016":0,
@@ -1227,7 +1278,7 @@
 "VIDEOCOUNT":{
 "2019":15},
 "SUBCOUNT":{
-"2019":153,
+"2019":154,
 "2018":64,
 "2017":0,
 "2016":0,
@@ -1238,9 +1289,10 @@
 "CATIDS":"-4-6-",
 "NAME":"Silvan Kuster",
 "INSTAID":"silvan__hd",
+"VIEWSGROWTH2019":2116.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":2135,
+"2019":2176,
 "2018":60,
 "2017":0,
 "2016":0,
@@ -1262,9 +1314,10 @@
 "CATIDS":"-7-",
 "NAME":"Hans Peter",
 "INSTAID":"",
+"VIEWSGROWTH2019":14362.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":14253,
+"2019":14362,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -1286,9 +1339,10 @@
 "CATIDS":"-3-",
 "NAME":"ICEPRODUCTION",
 "INSTAID":"iceproduction",
+"VIEWSGROWTH2019":5575.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":5536,
+"2019":5575,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -1297,9 +1351,9 @@
 "UC_zxivooFdvF4uuBosUnJxQ":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":687},
+"2019":689},
 "SUBCOUNT":{
-"2019":14100,
+"2019":14300,
 "2018":11940,
 "2017":9005,
 "2016":6838,
@@ -1310,9 +1364,10 @@
 "CATIDS":"-1-13-",
 "NAME":"SBB",
 "INSTAID":"sbbcffffs",
+"VIEWSGROWTH2019":6897051.0,
 "YTLINK":"https://www.youtube.com/sbbcffffs",
 "VIEWSCOUNT":{
-"2019":36543360,
+"2019":36648493,
 "2018":29751442,
 "2017":13586494,
 "2016":6924395,
@@ -1323,7 +1378,7 @@
 "VIDEOCOUNT":{
 "2019":12},
 "SUBCOUNT":{
-"2019":325,
+"2019":329,
 "2018":283,
 "2017":151,
 "2016":76,
@@ -1334,9 +1389,10 @@
 "CATIDS":"-8-",
 "NAME":"Dachs",
 "INSTAID":"dachsmusic",
+"VIEWSGROWTH2019":31661.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":152147,
+"2019":154121,
 "2018":122460,
 "2017":54724,
 "2016":26581,
@@ -1358,9 +1414,10 @@
 "CATIDS":"-8-",
 "NAME":"Milena Patagônia",
 "INSTAID":"lamilenalamilena",
+"VIEWSGROWTH2019":15211.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":15149,
+"2019":15211,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -1371,7 +1428,7 @@
 "VIDEOCOUNT":{
 "2019":36},
 "SUBCOUNT":{
-"2019":895,
+"2019":907,
 "2018":261,
 "2017":0,
 "2016":0,
@@ -1382,9 +1439,10 @@
 "CATIDS":"-6-",
 "NAME":"Lärsu",
 "INSTAID":"fritierte_larsu",
+"VIEWSGROWTH2019":18732.0,
 "YTLINK":"https://www.youtube.com/larsu/",
 "VIEWSCOUNT":{
-"2019":22710,
+"2019":23137,
 "2018":4405,
 "2017":0,
 "2016":0,
@@ -1395,7 +1453,7 @@
 "VIDEOCOUNT":{
 "2019":7},
 "SUBCOUNT":{
-"2019":998,
+"2019":997,
 "2018":1053,
 "2017":1200,
 "2016":0,
@@ -1406,9 +1464,10 @@
 "CATIDS":"-6-",
 "NAME":"4Prozent",
 "INSTAID":"4prozent__official",
+"VIEWSGROWTH2019":588.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":3574,
+"2019":3580,
 "2018":2992,
 "2017":1430,
 "2016":0,
@@ -1430,9 +1489,10 @@
 "CATIDS":"-7-",
 "NAME":"Schweizerdeutsch für Kinder",
 "INSTAID":"",
+"VIEWSGROWTH2019":230.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":227,
+"2019":230,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -1443,7 +1503,7 @@
 "VIDEOCOUNT":{
 "2019":69},
 "SUBCOUNT":{
-"2019":2990,
+"2019":3000,
 "2018":2008,
 "2017":0,
 "2016":0,
@@ -1454,9 +1514,10 @@
 "CATIDS":"-6-8-9-",
 "NAME":"WISDOM das Musikmagazin",
 "INSTAID":"wisdom_swiss1",
+"VIEWSGROWTH2019":223828.0,
 "YTLINK":"https://www.youtube.com/WisdomDasMusikmagazin",
 "VIEWSCOUNT":{
-"2019":427957,
+"2019":430624,
 "2018":206796,
 "2017":0,
 "2016":0,
@@ -1465,9 +1526,9 @@
 "UCePUe71YXj8RDQLhKJvwJYA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":37},
+"2019":42},
 "SUBCOUNT":{
-"2019":18,
+"2019":20,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -1478,9 +1539,10 @@
 "CATIDS":"-6-",
 "NAME":"Redimeangreen",
 "INSTAID":"redimeangreen",
+"VIEWSGROWTH2019":805.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":657,
+"2019":805,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -1489,9 +1551,9 @@
 "UCqNL83581wbf9pv_wHV0Zaw":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":694},
+"2019":696},
 "SUBCOUNT":{
-"2019":4010,
+"2019":4030,
 "2018":3416,
 "2017":2634,
 "2016":1971,
@@ -1502,9 +1564,10 @@
 "CATIDS":"-9-",
 "NAME":"SRF Digital",
 "INSTAID":"srfdigital",
+"VIEWSGROWTH2019":292597.0,
 "YTLINK":"https://www.youtube.com/digitalsrf",
 "VIEWSCOUNT":{
-"2019":1713782,
+"2019":1725970,
 "2018":1433373,
 "2017":1100957,
 "2016":834731,
@@ -1526,9 +1589,10 @@
 "CATIDS":"-6-",
 "NAME":"Michael Elsener",
 "INSTAID":"michaelelsener",
+"VIEWSGROWTH2019":86580.0,
 "YTLINK":"https://www.youtube.com/michaelelsener",
 "VIEWSCOUNT":{
-"2019":625097,
+"2019":626894,
 "2018":540314,
 "2017":0,
 "2016":0,
@@ -1550,9 +1614,10 @@
 "CATIDS":"-8-",
 "NAME":"Guy Mandon",
 "INSTAID":"guy_mandon",
+"VIEWSGROWTH2019":10137.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":9988,
+"2019":10137,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -1563,7 +1628,7 @@
 "VIDEOCOUNT":{
 "2019":54},
 "SUBCOUNT":{
-"2019":250,
+"2019":252,
 "2018":144,
 "2017":0,
 "2016":0,
@@ -1574,9 +1639,10 @@
 "CATIDS":"-1-",
 "NAME":"CH-Traveladdict",
 "INSTAID":"traveladdict_ch",
+"VIEWSGROWTH2019":69630.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":117557,
+"2019":119607,
 "2018":49977,
 "2017":0,
 "2016":0,
@@ -1598,9 +1664,10 @@
 "CATIDS":"-6-",
 "NAME":"Smileypeacefun",
 "INSTAID":"smiley.peace.fun",
+"VIEWSGROWTH2019":29935.0,
 "YTLINK":"https://www.youtube.com/Smileypeacefun",
 "VIEWSCOUNT":{
-"2019":246264,
+"2019":247030,
 "2018":217095,
 "2017":140943,
 "2016":100828,
@@ -1611,7 +1678,7 @@
 "VIDEOCOUNT":{
 "2019":36},
 "SUBCOUNT":{
-"2019":5920,
+"2019":5910,
 "2018":5174,
 "2017":4015,
 "2016":3076,
@@ -1622,9 +1689,10 @@
 "CATIDS":"-6-",
 "NAME":"MisterElia",
 "INSTAID":"mister_elia",
+"VIEWSGROWTH2019":28737.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":220548,
+"2019":221020,
 "2018":192283,
 "2017":163987,
 "2016":123089,
@@ -1635,7 +1703,7 @@
 "VIDEOCOUNT":{
 "2019":203},
 "SUBCOUNT":{
-"2019":637,
+"2019":654,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -1646,9 +1714,10 @@
 "CATIDS":"-2-",
 "NAME":"Carina Manco",
 "INSTAID":"",
+"VIEWSGROWTH2019":101733.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":98811,
+"2019":101733,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -1657,9 +1726,9 @@
 "UCcJG0N8IWbgxot4bFoM4cmQ":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":484},
+"2019":487},
 "SUBCOUNT":{
-"2019":2030,
+"2019":2190,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -1670,9 +1739,10 @@
 "CATIDS":"-7-",
 "NAME":"Hampi-Vator",
 "INSTAID":"",
+"VIEWSGROWTH2019":1505771.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1388620,
+"2019":1505771,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -1683,7 +1753,7 @@
 "VIDEOCOUNT":{
 "2019":19},
 "SUBCOUNT":{
-"2019":89,
+"2019":91,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -1694,9 +1764,10 @@
 "CATIDS":"-4-6-",
 "NAME":"Mafflin",
 "INSTAID":"",
+"VIEWSGROWTH2019":16330.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":15961,
+"2019":16330,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -1718,9 +1789,10 @@
 "CATIDS":"-8-",
 "NAME":"On the Piano",
 "INSTAID":"on_the_piano",
+"VIEWSGROWTH2019":-747.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":3307,
+"2019":3364,
 "2018":4111,
 "2017":3294,
 "2016":0,
@@ -1729,9 +1801,9 @@
 "UC0df7E41rpg697KLv7erpOw":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":723},
+"2019":724},
 "SUBCOUNT":{
-"2019":8700,
+"2019":8710,
 "2018":8184,
 "2017":5548,
 "2016":2672,
@@ -1742,44 +1814,21 @@
 "CATIDS":"-13-",
 "NAME":"MediaMarkt Schweiz",
 "INSTAID":"mediamarkt_ch",
+"VIEWSGROWTH2019":359134.0,
 "YTLINK":"https://www.youtube.com/MediaMarktch",
 "VIEWSCOUNT":{
-"2019":2586774,
+"2019":2598550,
 "2018":2239416,
 "2017":1579590,
 "2016":1386537,
 "2015":1120460
 
-"UCQNvR_M_HYiZr_To1X3Qz_A":{
-"REALNAME":"",
-"VIDEOCOUNT":{
-"2019":0},
-"SUBCOUNT":{
-"2019":6290,
-"2018":4851,
-"2017":1864,
-"2016":0,
-"2015":0},
-"THID":"",
-"WEBLINK":"https://www.srf.ch/radio-srf-virus",
-"CHANNELPUBLISHEDAT":"12.10.2016",
-"CATIDS":"-9-",
-"NAME":"True Talk",
-"INSTAID":"srfvirus",
-"YTLINK":"",
-"VIEWSCOUNT":{
-"2019":0,
-"2018":1784337,
-"2017":706278,
-"2016":0,
-"2015":0
-
 "UC0ia0Bh33OgZ8p4emfeGG6g":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":1677},
+"2019":1683},
 "SUBCOUNT":{
-"2019":31000,
+"2019":31500,
 "2018":22506,
 "2017":16111,
 "2016":7291,
@@ -1790,9 +1839,10 @@
 "CATIDS":"-6-9-",
 "NAME":"SRF Comedy",
 "INSTAID":"",
+"VIEWSGROWTH2019":-5609254.0,
 "YTLINK":"https://www.youtube.com/srfcomedy",
 "VIEWSCOUNT":{
-"2019":24398582,
+"2019":24706135,
 "2018":30315389,
 "2017":23313055,
 "2016":6931252,
@@ -1803,7 +1853,7 @@
 "VIDEOCOUNT":{
 "2019":154},
 "SUBCOUNT":{
-"2019":577,
+"2019":582,
 "2018":504,
 "2017":422,
 "2016":375,
@@ -1814,9 +1864,10 @@
 "CATIDS":"-10-",
 "NAME":"SP Schweiz",
 "INSTAID":"",
+"VIEWSGROWTH2019":11195.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":333568,
+"2019":333753,
 "2018":322558,
 "2017":254618,
 "2016":218213,
@@ -1825,9 +1876,9 @@
 "UC1ypI4hfojtt3lmzE9PRN5Q":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":145},
+"2019":144},
 "SUBCOUNT":{
-"2019":87,
+"2019":86,
 "2018":76,
 "2017":67,
 "2016":43,
@@ -1838,9 +1889,10 @@
 "CATIDS":"-4-11-",
 "NAME":"Jaeggi LP",
 "INSTAID":"",
+"VIEWSGROWTH2019":3594.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":17484,
+"2019":17568,
 "2018":13974,
 "2017":11968,
 "2016":8744,
@@ -1849,9 +1901,9 @@
 "UC_ob8wa5LQHud8MCgiQA0vA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":194},
+"2019":195},
 "SUBCOUNT":{
-"2019":2880,
+"2019":2900,
 "2018":1755,
 "2017":1071,
 "2016":520,
@@ -1862,9 +1914,10 @@
 "CATIDS":"-8-",
 "NAME":"K-Direct Music",
 "INSTAID":"",
+"VIEWSGROWTH2019":803591.0,
 "YTLINK":"https://www.youtube.com/ktelmusic",
 "VIEWSCOUNT":{
-"2019":1976115,
+"2019":1998361,
 "2018":1194770,
 "2017":777447,
 "2016":436967,
@@ -1875,7 +1928,7 @@
 "VIDEOCOUNT":{
 "2019":7},
 "SUBCOUNT":{
-"2019":1740,
+"2019":1750,
 "2018":1548,
 "2017":1153,
 "2016":0,
@@ -1886,9 +1939,10 @@
 "CATIDS":"-8-",
 "NAME":"Schwiizergoofe",
 "INSTAID":"schwiizergoofe",
+"VIEWSGROWTH2019":283613.0,
 "YTLINK":"https://www.youtube.com/SchwiizergoofeTV",
 "VIEWSCOUNT":{
-"2019":1666560,
+"2019":1680200,
 "2018":1396587,
 "2017":1064946,
 "2016":0,
@@ -1910,20 +1964,46 @@
 "CATIDS":"-6-",
 "NAME":"ChrizzAlive©",
 "INSTAID":"chrizzalive",
+"VIEWSGROWTH2019":-6966.0,
 "YTLINK":"https://www.youtube.com/chnuschtimovie",
 "VIEWSCOUNT":{
-"2019":174848,
+"2019":175768,
 "2018":182734,
 "2017":138954,
 "2016":81152,
 "2015":50812
 
+"UCW7RwYcoRHkblArBxqGaZrg":{
+"REALNAME":"",
+"VIDEOCOUNT":{
+"2019":262},
+"SUBCOUNT":{
+"2019":3670,
+"2018":0,
+"2017":0,
+"2016":0,
+"2015":0},
+"THID":"",
+"WEBLINK":"",
+"CHANNELPUBLISHEDAT":"30.06.2014",
+"CATIDS":"-6-",
+"NAME":"Zappin",
+"INSTAID":"",
+"VIEWSGROWTH2019":1070882.0,
+"YTLINK":"",
+"VIEWSCOUNT":{
+"2019":1070882,
+"2018":0,
+"2017":0,
+"2016":0,
+"2015":0
+
 "UCb8FlRmPJUAZfr1aceNZcUA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":144},
+"2019":147},
 "SUBCOUNT":{
-"2019":128,
+"2019":129,
 "2018":70,
 "2017":40,
 "2016":24,
@@ -1934,9 +2014,10 @@
 "CATIDS":"-9-",
 "NAME":"Radio4TNG",
 "INSTAID":"radio4tng",
+"VIEWSGROWTH2019":25716.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":54767,
+"2019":55503,
 "2018":29787,
 "2017":12733,
 "2016":6181,
@@ -1945,9 +2026,9 @@
 "UCErwEBfJpmhdf2NE72lOXfg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":375},
+"2019":379},
 "SUBCOUNT":{
-"2019":1450,
+"2019":1460,
 "2018":1184,
 "2017":1016,
 "2016":878,
@@ -1958,9 +2039,10 @@
 "CATIDS":"-4-11-",
 "NAME":"TheSaemi",
 "INSTAID":"",
+"VIEWSGROWTH2019":77318.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":566162,
+"2019":568830,
 "2018":491512,
 "2017":421496,
 "2016":343863,
@@ -1982,9 +2064,10 @@
 "CATIDS":"-6-",
 "NAME":"Leicht aufgewärmt",
 "INSTAID":"leichtaufgewaermt",
+"VIEWSGROWTH2019":10226.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":107211,
+"2019":107471,
 "2018":97245,
 "2017":75997,
 "2016":30332,
@@ -1995,7 +2078,7 @@
 "VIDEOCOUNT":{
 "2019":126},
 "SUBCOUNT":{
-"2019":516,
+"2019":515,
 "2018":520,
 "2017":342,
 "2016":324,
@@ -2006,9 +2089,10 @@
 "CATIDS":"-3-13-",
 "NAME":"LightByte",
 "INSTAID":"lightbyteag",
+"VIEWSGROWTH2019":25212.0,
 "YTLINK":"https://www.youtube.com/LightByteAG",
 "VIEWSCOUNT":{
-"2019":251170,
+"2019":251517,
 "2018":226305,
 "2017":213703,
 "2016":195666,
@@ -2017,9 +2101,9 @@
 "UCgZ06ULEFippjtq2qMx0nGg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":87},
+"2019":88},
 "SUBCOUNT":{
-"2019":180,
+"2019":179,
 "2018":124,
 "2017":64,
 "2016":0,
@@ -2030,9 +2114,10 @@
 "CATIDS":"-6-",
 "NAME":"Greg's Channel",
 "INSTAID":"gregs.channel",
+"VIEWSGROWTH2019":2948.0,
 "YTLINK":"https://www.youtube.com/gregschannel",
 "VIEWSCOUNT":{
-"2019":11179,
+"2019":11264,
 "2018":8316,
 "2017":5820,
 "2016":0,
@@ -2041,9 +2126,9 @@
 "UCpeUomiLyMBvcMZbJhDv-gA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":461},
+"2019":492},
 "SUBCOUNT":{
-"2019":15,
+"2019":16,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2054,9 +2139,10 @@
 "CATIDS":"-4-11-",
 "NAME":"Woldiboy",
 "INSTAID":"woldiboy",
+"VIEWSGROWTH2019":3918.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":3678,
+"2019":3918,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2067,7 +2153,7 @@
 "VIDEOCOUNT":{
 "2019":103},
 "SUBCOUNT":{
-"2019":130,
+"2019":131,
 "2018":107,
 "2017":74,
 "2016":0,
@@ -2078,9 +2164,10 @@
 "CATIDS":"-2-3-13-",
 "NAME":"Photobus Schweiz",
 "INSTAID":"photobus.schweiz",
+"VIEWSGROWTH2019":9517.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":33455,
+"2019":33731,
 "2018":24214,
 "2017":15730,
 "2016":0,
@@ -2089,9 +2176,9 @@
 "UCk4fcf6ZXsAa81VZqqOTCHg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":166},
+"2019":172},
 "SUBCOUNT":{
-"2019":229,
+"2019":302,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2102,9 +2189,10 @@
 "CATIDS":"-7-",
 "NAME":"Yynthiroshka",
 "INSTAID":"",
+"VIEWSGROWTH2019":26387.0,
 "YTLINK":"https://www.youtube.com/cynthiroshka",
 "VIEWSCOUNT":{
-"2019":21560,
+"2019":26387,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2113,9 +2201,9 @@
 "UCn5cOVDa8zFllWhn71Nga0A":{
 "REALNAME":"Stefan Buck, Chris Filter, Daniel Gisler, Philipp Morscher, Christoph Schröter",
 "VIDEOCOUNT":{
-"2019":53},
+"2019":54},
 "SUBCOUNT":{
-"2019":13600,
+"2019":13700,
 "2018":10910,
 "2017":5201,
 "2016":2889,
@@ -2126,9 +2214,10 @@
 "CATIDS":"-8-",
 "NAME":"Hecht",
 "INSTAID":"hecht_band",
+"VIEWSGROWTH2019":3490482.0,
 "YTLINK":"https://www.youtube.com/Hechtmusic",
 "VIEWSCOUNT":{
-"2019":14475558,
+"2019":14621816,
 "2018":11131334,
 "2017":5543551,
 "2016":2774670,
@@ -2139,7 +2228,7 @@
 "VIDEOCOUNT":{
 "2019":564},
 "SUBCOUNT":{
-"2019":9560,
+"2019":9580,
 "2018":7944,
 "2017":6681,
 "2016":6619,
@@ -2150,9 +2239,10 @@
 "CATIDS":"-6-",
 "NAME":"Maelo",
 "INSTAID":"maeloromani",
+"VIEWSGROWTH2019":129363.0,
 "YTLINK":"https://www.youtube.com/c/MaeloRomani",
 "VIEWSCOUNT":{
-"2019":742319,
+"2019":744064,
 "2018":614701,
 "2017":356308,
 "2016":272838,
@@ -2163,7 +2253,7 @@
 "VIDEOCOUNT":{
 "2019":10},
 "SUBCOUNT":{
-"2019":408,
+"2019":407,
 "2018":332,
 "2017":0,
 "2016":0,
@@ -2174,9 +2264,10 @@
 "CATIDS":"-6-",
 "NAME":"Nicola Probst",
 "INSTAID":"nicprotv",
+"VIEWSGROWTH2019":1901.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":8574,
+"2019":8628,
 "2018":6727,
 "2017":0,
 "2016":0,
@@ -2187,7 +2278,7 @@
 "VIDEOCOUNT":{
 "2019":7},
 "SUBCOUNT":{
-"2019":661,
+"2019":662,
 "2018":396,
 "2017":269,
 "2016":157,
@@ -2198,9 +2289,10 @@
 "CATIDS":"-6-",
 "NAME":"SoliHD",
 "INSTAID":"",
+"VIEWSGROWTH2019":16309.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":24362,
+"2019":24539,
 "2018":8230,
 "2017":2350,
 "2016":1730,
@@ -2211,7 +2303,7 @@
 "VIDEOCOUNT":{
 "2019":15},
 "SUBCOUNT":{
-"2019":403,
+"2019":402,
 "2018":397,
 "2017":346,
 "2016":255,
@@ -2222,9 +2314,10 @@
 "CATIDS":"-6-",
 "NAME":"Lagondo",
 "INSTAID":"lagondo1",
+"VIEWSGROWTH2019":-3096.0,
 "YTLINK":"https://www.youtube.com/SchweizTube",
 "VIEWSCOUNT":{
-"2019":23593,
+"2019":23665,
 "2018":26761,
 "2017":16993,
 "2016":6073,
@@ -2233,9 +2326,9 @@
 "UCV_jCrogu0_BpQXNlh1IonA":{
 "REALNAME":"André Moita Saraiva & Alea Räber",
 "VIDEOCOUNT":{
-"2019":229},
+"2019":235},
 "SUBCOUNT":{
-"2019":353,
+"2019":360,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2246,9 +2339,10 @@
 "CATIDS":"-5-",
 "NAME":"Abseits.ch",
 "INSTAID":"abseits.ch",
+"VIEWSGROWTH2019":115250.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":112565,
+"2019":115250,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2259,7 +2353,7 @@
 "VIDEOCOUNT":{
 "2019":9},
 "SUBCOUNT":{
-"2019":6490,
+"2019":6470,
 "2018":5125,
 "2017":425,
 "2016":0,
@@ -2270,9 +2364,10 @@
 "CATIDS":"-8-",
 "NAME":"Pronto",
 "INSTAID":"prontodinero",
+"VIEWSGROWTH2019":1665005.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":2173110,
+"2019":2222205,
 "2018":557200,
 "2017":38562,
 "2016":0,
@@ -2281,9 +2376,9 @@
 "UCjgVbu8CXJwcVBvA9qN4jZQ":{
 "REALNAME":"Mathias Blattmann",
 "VIDEOCOUNT":{
-"2019":32},
+"2019":33},
 "SUBCOUNT":{
-"2019":31,
+"2019":34,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2294,9 +2389,10 @@
 "CATIDS":"-3-13-",
 "NAME":"MB Vision",
 "INSTAID":"mbvision.ch",
+"VIEWSGROWTH2019":3198.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":3007,
+"2019":3198,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2318,9 +2414,10 @@
 "CATIDS":"-5-",
 "NAME":"Mathias Blattmann",
 "INSTAID":"mathiasblattmann.ch",
+"VIEWSGROWTH2019":11954.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":11625,
+"2019":11954,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2342,9 +2439,10 @@
 "CATIDS":"-6-",
 "NAME":"Anna Bora",
 "INSTAID":"x.annabora.x",
+"VIEWSGROWTH2019":1176.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":4231,
+"2019":4256,
 "2018":3080,
 "2017":1940,
 "2016":1180,
@@ -2353,9 +2451,9 @@
 "UCzZ-0eTqV9xiO96xovg6OPg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":663},
+"2019":671},
 "SUBCOUNT":{
-"2019":156,
+"2019":161,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2366,9 +2464,10 @@
 "CATIDS":"-6-",
 "NAME":"Reto Schläppi",
 "INSTAID":"cyberhelvetia7",
+"VIEWSGROWTH2019":353442.0,
 "YTLINK":"https://www.youtube.com/FSHchFREMA",
 "VIEWSCOUNT":{
-"2019":349959,
+"2019":353442,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2377,9 +2476,9 @@
 "UCTJRygFsgQGEf17dvvc1qbA":{
 "REALNAME":"Marc Scheiwiller",
 "VIDEOCOUNT":{
-"2019":90},
+"2019":96},
 "SUBCOUNT":{
-"2019":19300,
+"2019":19500,
 "2018":12060,
 "2017":6384,
 "2016":0,
@@ -2390,9 +2489,10 @@
 "CATIDS":"-6-",
 "NAME":"Marc Galaxy",
 "INSTAID":"marcgalaxy",
+"VIEWSGROWTH2019":843070.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1707474,
+"2019":1748945,
 "2018":905875,
 "2017":306228,
 "2016":0,
@@ -2403,7 +2503,7 @@
 "VIDEOCOUNT":{
 "2019":11},
 "SUBCOUNT":{
-"2019":272,
+"2019":274,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2414,9 +2514,10 @@
 "CATIDS":"-8-",
 "NAME":"SerejTV",
 "INSTAID":"",
+"VIEWSGROWTH2019":60822.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":60165,
+"2019":60822,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2425,9 +2526,9 @@
 "UCnwZS9wSheNiXTluceGnYBw":{
 "REALNAME":"Nathalie",
 "VIDEOCOUNT":{
-"2019":89},
+"2019":90},
 "SUBCOUNT":{
-"2019":9150,
+"2019":9280,
 "2018":1414,
 "2017":0,
 "2016":0,
@@ -2438,9 +2539,10 @@
 "CATIDS":"-6-",
 "NAME":"Nathistyle",
 "INSTAID":"nathistyle_",
+"VIEWSGROWTH2019":729641.0,
 "YTLINK":"https://www.youtube.com/nathistyle",
 "VIEWSCOUNT":{
-"2019":789743,
+"2019":816358,
 "2018":86717,
 "2017":0,
 "2016":0,
@@ -2462,9 +2564,10 @@
 "CATIDS":"-6-8-",
 "NAME":"Ben Vatter",
 "INSTAID":"",
+"VIEWSGROWTH2019":30904.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":30696,
+"2019":30904,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2475,7 +2578,7 @@
 "VIDEOCOUNT":{
 "2019":10},
 "SUBCOUNT":{
-"2019":200,
+"2019":205,
 "2018":53,
 "2017":15,
 "2016":0,
@@ -2486,9 +2589,10 @@
 "CATIDS":"-3-",
 "NAME":"Marcsmission",
 "INSTAID":"marcsmission",
+"VIEWSGROWTH2019":3167.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":3559,
+"2019":3630,
 "2018":463,
 "2017":209,
 "2016":0,
@@ -2510,9 +2614,10 @@
 "CATIDS":"-6-",
 "NAME":"Stucki",
 "INSTAID":"flaviostucki",
+"VIEWSGROWTH2019":107706.0,
 "YTLINK":"https://www.youtube.com/stuckiflavio",
 "VIEWSCOUNT":{
-"2019":978880,
+"2019":980546,
 "2018":872840,
 "2017":527212,
 "2016":108300,
@@ -2534,9 +2639,10 @@
 "CATIDS":"-4-",
 "NAME":"Nilper",
 "INSTAID":"",
+"VIEWSGROWTH2019":851.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":845,
+"2019":851,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2558,9 +2664,10 @@
 "CATIDS":"-8-",
 "NAME":"Tschirillo",
 "INSTAID":"tschirillo.zh",
+"VIEWSGROWTH2019":5386.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":27984,
+"2019":28149,
 "2018":22763,
 "2017":12500,
 "2016":0,
@@ -2569,9 +2676,9 @@
 "UC0_P6Jh82ybNJnvAKxj92IQ":{
 "REALNAME":"Remo Peer",
 "VIDEOCOUNT":{
-"2019":37},
+"2019":39},
 "SUBCOUNT":{
-"2019":2080,
+"2019":2120,
 "2018":1386,
 "2017":557,
 "2016":240,
@@ -2582,9 +2689,10 @@
 "CATIDS":"-7-",
 "NAME":"Pannerrail",
 "INSTAID":"pannerrail",
+"VIEWSGROWTH2019":138360.0,
 "YTLINK":"https://www.youtube.com/c/pannerrail",
 "VIEWSCOUNT":{
-"2019":401761,
+"2019":407615,
 "2018":269255,
 "2017":126546,
 "2016":50476,
@@ -2595,7 +2703,7 @@
 "VIDEOCOUNT":{
 "2019":65},
 "SUBCOUNT":{
-"2019":731,
+"2019":730,
 "2018":618,
 "2017":474,
 "2016":65,
@@ -2606,9 +2714,10 @@
 "CATIDS":"-6-",
 "NAME":"Ollie Nelson",
 "INSTAID":"ollie.nelson_",
+"VIEWSGROWTH2019":8781.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":45519,
+"2019":45653,
 "2018":36872,
 "2017":21901,
 "2016":1523,
@@ -2619,7 +2728,7 @@
 "VIDEOCOUNT":{
 "2019":32},
 "SUBCOUNT":{
-"2019":513,
+"2019":512,
 "2018":374,
 "2017":277,
 "2016":0,
@@ -2630,9 +2739,10 @@
 "CATIDS":"-6-",
 "NAME":"Yave",
 "INSTAID":"",
+"VIEWSGROWTH2019":11529.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":18040,
+"2019":18301,
 "2018":6772,
 "2017":3737,
 "2016":0,
@@ -2641,7 +2751,7 @@
 "UCtO63BTm_OEh701RCDSc12A":{
 "REALNAME":"Lara",
 "VIDEOCOUNT":{
-"2019":28},
+"2019":29},
 "SUBCOUNT":{
 "2019":29,
 "2018":0,
@@ -2654,9 +2764,10 @@
 "CATIDS":"-2-6-",
 "NAME":"Adventure to inner treasure",
 "INSTAID":"",
+"VIEWSGROWTH2019":2224.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":2119,
+"2019":2224,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2665,7 +2776,7 @@
 "UCI7ITym0pSJjLU2lREe-3rA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":3},
+"2019":5},
 "SUBCOUNT":{
 "2019":69,
 "2018":0,
@@ -2678,9 +2789,10 @@
 "CATIDS":"-6-",
 "NAME":"Moe Ritch",
 "INSTAID":"m0ritsch.upload",
+"VIEWSGROWTH2019":613.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":605,
+"2019":613,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2691,7 +2803,7 @@
 "VIDEOCOUNT":{
 "2019":25},
 "SUBCOUNT":{
-"2019":3430,
+"2019":3440,
 "2018":1992,
 "2017":361,
 "2016":0,
@@ -2702,9 +2814,10 @@
 "CATIDS":"-6-",
 "NAME":"Schwiizchiste",
 "INSTAID":"schwiizchiste",
+"VIEWSGROWTH2019":194749.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":340112,
+"2019":342553,
 "2018":147804,
 "2017":36461,
 "2016":0,
@@ -2715,7 +2828,7 @@
 "VIDEOCOUNT":{
 "2019":16},
 "SUBCOUNT":{
-"2019":773,
+"2019":792,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2726,9 +2839,10 @@
 "CATIDS":"-8-",
 "NAME":"Dawill",
 "INSTAID":"dawilly.wonka",
+"VIEWSGROWTH2019":117634.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":114078,
+"2019":117634,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2737,9 +2851,9 @@
 "UCWWR0JEA9rl0QvjrK3C8Uqg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":700},
+"2019":703},
 "SUBCOUNT":{
-"2019":6550,
+"2019":6650,
 "2018":2990,
 "2017":600,
 "2016":0,
@@ -2750,9 +2864,10 @@
 "CATIDS":"-8-",
 "NAME":"Hans Beyeler",
 "INSTAID":"",
+"VIEWSGROWTH2019":3903974.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":6162820,
+"2019":6285253,
 "2018":2381279,
 "2017":539449,
 "2016":0,
@@ -2763,7 +2878,7 @@
 "VIDEOCOUNT":{
 "2019":26},
 "SUBCOUNT":{
-"2019":1170,
+"2019":1190,
 "2018":513,
 "2017":0,
 "2016":0,
@@ -2774,9 +2889,10 @@
 "CATIDS":"-3-",
 "NAME":"Andreas Köng",
 "INSTAID":"andreas_koeng_photography",
+"VIEWSGROWTH2019":102794.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":213133,
+"2019":217470,
 "2018":114676,
 "2017":0,
 "2016":0,
@@ -2787,7 +2903,7 @@
 "VIDEOCOUNT":{
 "2019":136},
 "SUBCOUNT":{
-"2019":257,
+"2019":259,
 "2018":218,
 "2017":166,
 "2016":94,
@@ -2798,9 +2914,10 @@
 "CATIDS":"-7-",
 "NAME":"Deep Connection",
 "INSTAID":"singlecoach_schweiz",
+"VIEWSGROWTH2019":11073.0,
 "YTLINK":"https://www.youtube.com/deepconnectionch",
 "VIEWSCOUNT":{
-"2019":56044,
+"2019":56309,
 "2018":45236,
 "2017":29091,
 "2016":14614,
@@ -2809,9 +2926,9 @@
 "UChmw2ZWy4X8oFTp_iYPlxJA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":1514},
+"2019":1515},
 "SUBCOUNT":{
-"2019":1520,
+"2019":1530,
 "2018":1257,
 "2017":67,
 "2016":0,
@@ -2822,9 +2939,10 @@
 "CATIDS":"-9-",
 "NAME":"Nau",
 "INSTAID":"nau_ch",
+"VIEWSGROWTH2019":217804.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":883038,
+"2019":889973,
 "2018":672169,
 "2017":53464,
 "2016":0,
@@ -2846,9 +2964,10 @@
 "CATIDS":"-7-",
 "NAME":"Piratenpartei Schweiz",
 "INSTAID":"piratenschweiz",
+"VIEWSGROWTH2019":2761.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":2733,
+"2019":2761,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2859,7 +2978,7 @@
 "VIDEOCOUNT":{
 "2019":63},
 "SUBCOUNT":{
-"2019":382,
+"2019":384,
 "2018":355,
 "2017":320,
 "2016":0,
@@ -2870,9 +2989,10 @@
 "CATIDS":"-1-5-",
 "NAME":"Niki Huwyler",
 "INSTAID":"trickyniki",
+"VIEWSGROWTH2019":22271.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":227513,
+"2019":227919,
 "2018":205648,
 "2017":178509,
 "2016":0,
@@ -2881,9 +3001,9 @@
 "UCd0NmHBRRAq5O-ye7kx_VlQ":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":815},
+"2019":816},
 "SUBCOUNT":{
-"2019":19100,
+"2019":19600,
 "2018":10833,
 "2017":6716,
 "2016":4306,
@@ -2894,9 +3014,10 @@
 "CATIDS":"-9-",
 "NAME":"SRF Archiv",
 "INSTAID":"",
+"VIEWSGROWTH2019":4648811.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":12738163,
+"2019":12936920,
 "2018":8288109,
 "2017":5390541,
 "2016":3432243,
@@ -2905,9 +3026,9 @@
 "UCj88Pp4scKu5I2YJiy2JWQw":{
 "REALNAME":"Julian Graf & Ramin Yousofzai",
 "VIDEOCOUNT":{
-"2019":182},
+"2019":193},
 "SUBCOUNT":{
-"2019":19800,
+"2019":20300,
 "2018":15007,
 "2017":0,
 "2016":0,
@@ -2918,9 +3039,10 @@
 "CATIDS":"-6-",
 "NAME":"Zwei am Morge",
 "INSTAID":"zweiammorge",
+"VIEWSGROWTH2019":1477454.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":3060814,
+"2019":3243882,
 "2018":1766428,
 "2017":0,
 "2016":0,
@@ -2942,9 +3064,10 @@
 "CATIDS":"-7-",
 "NAME":"Schweizer Bibelkanal",
 "INSTAID":"",
+"VIEWSGROWTH2019":790.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":787,
+"2019":790,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -2955,7 +3078,7 @@
 "VIDEOCOUNT":{
 "2019":2432},
 "SUBCOUNT":{
-"2019":43700,
+"2019":43900,
 "2018":37787,
 "2017":30579,
 "2016":24954,
@@ -2966,9 +3089,10 @@
 "CATIDS":"-9-",
 "NAME":"Schweizer Radio und Fernsehen",
 "INSTAID":"srfschweizerradioundfernsehen",
+"VIEWSGROWTH2019":-1949851.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":42503764,
+"2019":42633931,
 "2018":44583782,
 "2017":39464431,
 "2016":34082870,
@@ -2979,7 +3103,7 @@
 "VIDEOCOUNT":{
 "2019":20},
 "SUBCOUNT":{
-"2019":103,
+"2019":102,
 "2018":102,
 "2017":70,
 "2016":0,
@@ -2990,6 +3114,7 @@
 "CATIDS":"-4-",
 "NAME":"MinderTV",
 "INSTAID":"",
+"VIEWSGROWTH2019":130.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
 "2019":1078,
@@ -3014,9 +3139,10 @@
 "CATIDS":"-8-",
 "NAME":"MundARTprojekt",
 "INSTAID":"mundartprojektbe",
+"VIEWSGROWTH2019":5139.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":5055,
+"2019":5139,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3025,7 +3151,7 @@
 "UCpGOi6Er5zWbgVgFkNKXgEw":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":125},
+"2019":127},
 "SUBCOUNT":{
 "2019":16,
 "2018":0,
@@ -3038,9 +3164,10 @@
 "CATIDS":"-4-",
 "NAME":"Retro Cash",
 "INSTAID":"justgame4u",
+"VIEWSGROWTH2019":5224.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":5103,
+"2019":5224,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3051,7 +3178,7 @@
 "VIDEOCOUNT":{
 "2019":55},
 "SUBCOUNT":{
-"2019":652,
+"2019":651,
 "2018":613,
 "2017":325,
 "2016":77,
@@ -3062,9 +3189,10 @@
 "CATIDS":"-1-",
 "NAME":"Seya Eggler",
 "INSTAID":"diaryofseya",
+"VIEWSGROWTH2019":10746.0,
 "YTLINK":"https://www.youtube.com/diaryofseya",
 "VIEWSCOUNT":{
-"2019":58601,
+"2019":58863,
 "2018":48117,
 "2017":22577,
 "2016":4180,
@@ -3075,7 +3203,7 @@
 "VIDEOCOUNT":{
 "2019":19},
 "SUBCOUNT":{
-"2019":107,
+"2019":108,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3086,9 +3214,10 @@
 "CATIDS":"-6-",
 "NAME":"Der Praktikant",
 "INSTAID":"derpraktikanttv",
+"VIEWSGROWTH2019":7618.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":7480,
+"2019":7618,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3110,9 +3239,10 @@
 "CATIDS":"-5-",
 "NAME":"Flying Metal Crew",
 "INSTAID":"flyingmetalcrew",
+"VIEWSGROWTH2019":85236.0,
 "YTLINK":"https://www.youtube.com/flyingmetalcrew",
 "VIEWSCOUNT":{
-"2019":560417,
+"2019":560956,
 "2018":475720,
 "2017":393127,
 "2016":306232,
@@ -3134,9 +3264,10 @@
 "CATIDS":"-4-11-",
 "NAME":"JustGame4u",
 "INSTAID":"justgame4u",
+"VIEWSGROWTH2019":449.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":447,
+"2019":449,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3158,9 +3289,10 @@
 "CATIDS":"-6-8-",
 "NAME":"Liana Scibetta Music",
 "INSTAID":"",
+"VIEWSGROWTH2019":446.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":427,
+"2019":446,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3182,9 +3314,10 @@
 "CATIDS":"-1-",
 "NAME":"Claudio's Wält",
 "INSTAID":"claud_photo",
+"VIEWSGROWTH2019":2837.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":2825,
+"2019":2837,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3195,7 +3328,7 @@
 "VIDEOCOUNT":{
 "2019":232},
 "SUBCOUNT":{
-"2019":9940,
+"2019":10000,
 "2018":8496,
 "2017":7476,
 "2016":6878,
@@ -3206,9 +3339,10 @@
 "CATIDS":"-7-",
 "NAME":"Bauernfilme",
 "INSTAID":"bauernfilme",
+"VIEWSGROWTH2019":1021709.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":7088443,
+"2019":7134021,
 "2018":6112312,
 "2017":5308341,
 "2016":4687739,
@@ -3219,7 +3353,7 @@
 "VIDEOCOUNT":{
 "2019":45},
 "SUBCOUNT":{
-"2019":6980,
+"2019":6990,
 "2018":5601,
 "2017":0,
 "2016":0,
@@ -3230,9 +3364,10 @@
 "CATIDS":"-6-9-",
 "NAME":"Nr. 47",
 "INSTAID":"",
+"VIEWSGROWTH2019":382862.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1483933,
+"2019":1485076,
 "2018":1102214,
 "2017":0,
 "2016":0,
@@ -3241,9 +3376,9 @@
 "UC1AUTFT_qp77xwClNy4IzTg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":101},
+"2019":103},
 "SUBCOUNT":{
-"2019":2510,
+"2019":2530,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3254,9 +3389,10 @@
 "CATIDS":"-12-",
 "NAME":"Patrick Embacher",
 "INSTAID":"embacherpatrick",
+"VIEWSGROWTH2019":167103.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":241811,
+"2019":167103,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3267,7 +3403,7 @@
 "VIDEOCOUNT":{
 "2019":23},
 "SUBCOUNT":{
-"2019":155,
+"2019":156,
 "2018":123,
 "2017":118,
 "2016":117,
@@ -3278,9 +3414,10 @@
 "CATIDS":"-6-",
 "NAME":"Cyrils World",
 "INSTAID":"cyril_faeh",
+"VIEWSGROWTH2019":5144.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":5417,
+"2019":5503,
 "2018":359,
 "2017":23280,
 "2016":22580,
@@ -3302,9 +3439,10 @@
 "CATIDS":"-6-",
 "NAME":"Agea Cosplay",
 "INSTAID":"ageacosplay",
+"VIEWSGROWTH2019":2833.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":32555,
+"2019":32649,
 "2018":29816,
 "2017":25091,
 "2016":18603,
@@ -3315,7 +3453,7 @@
 "VIDEOCOUNT":{
 "2019":73},
 "SUBCOUNT":{
-"2019":99,
+"2019":100,
 "2018":97,
 "2017":94,
 "2016":0,
@@ -3326,9 +3464,10 @@
 "CATIDS":"-6-9-",
 "NAME":"Cineman Inside",
 "INSTAID":"",
+"VIEWSGROWTH2019":3116.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":113819,
+"2019":113899,
 "2018":110783,
 "2017":100595,
 "2016":0,
@@ -3350,9 +3489,10 @@
 "CATIDS":"-6-",
 "NAME":"Florin Fritschi",
 "INSTAID":"florin.fritschi",
+"VIEWSGROWTH2019":-2094.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":6339,
+"2019":6356,
 "2018":8450,
 "2017":2228,
 "2016":0,
@@ -3374,9 +3514,10 @@
 "CATIDS":"-6-",
 "NAME":"Tina Umbricht",
 "INSTAID":"",
+"VIEWSGROWTH2019":-29383.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":56198,
+"2019":56626,
 "2018":86009,
 "2017":63362,
 "2016":33900,
@@ -3398,9 +3539,10 @@
 "CATIDS":"-4-",
 "NAME":"zockTV 2.0",
 "INSTAID":"",
+"VIEWSGROWTH2019":1137.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1117,
+"2019":1137,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3409,9 +3551,9 @@
 "UCjiHk9LbGDbHE_LU2hoBJog":{
 "REALNAME":"Carol & Marcel",
 "VIDEOCOUNT":{
-"2019":3},
+"2019":4},
 "SUBCOUNT":{
-"2019":171,
+"2019":176,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3422,9 +3564,10 @@
 "CATIDS":"-6-",
 "NAME":"Bernhards",
 "INSTAID":"carolxbernhard",
+"VIEWSGROWTH2019":5757.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":4779,
+"2019":5757,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3435,7 +3578,7 @@
 "VIDEOCOUNT":{
 "2019":26},
 "SUBCOUNT":{
-"2019":338,
+"2019":337,
 "2018":325,
 "2017":272,
 "2016":182,
@@ -3446,9 +3589,10 @@
 "CATIDS":"-8-",
 "NAME":"Kummerbuben",
 "INSTAID":"kummerbuben",
+"VIEWSGROWTH2019":17019.0,
 "YTLINK":"https://www.youtube.com/kummerbuben",
 "VIEWSCOUNT":{
-"2019":304960,
+"2019":305674,
 "2018":288655,
 "2017":258334,
 "2016":201741,
@@ -3459,7 +3603,7 @@
 "VIDEOCOUNT":{
 "2019":234},
 "SUBCOUNT":{
-"2019":289,
+"2019":288,
 "2018":290,
 "2017":247,
 "2016":142,
@@ -3470,9 +3614,10 @@
 "CATIDS":"-4-6-11-",
 "NAME":"Walla Ray",
 "INSTAID":"walla_ray",
+"VIEWSGROWTH2019":1301.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":16758,
+"2019":16784,
 "2018":15483,
 "2017":13680,
 "2016":5099,
@@ -3481,9 +3626,9 @@
 "UCGyc0_wFCE7cCz9xFZWpmgQ":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":335},
+"2019":336},
 "SUBCOUNT":{
-"2019":1890,
+"2019":1910,
 "2018":1520,
 "2017":477,
 "2016":0,
@@ -3494,9 +3639,10 @@
 "CATIDS":"-6-",
 "NAME":"MadLipz Swiss",
 "INSTAID":"madlipz_schweiz",
+"VIEWSGROWTH2019":162958.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":563015,
+"2019":571513,
 "2018":408555,
 "2017":151852,
 "2016":0,
@@ -3505,9 +3651,9 @@
 "UCnoWxUnVpC6NS3nBkjzo2Jg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":324},
+"2019":326},
 "SUBCOUNT":{
-"2019":411,
+"2019":414,
 "2018":356,
 "2017":289,
 "2016":178,
@@ -3518,9 +3664,10 @@
 "CATIDS":"-7-",
 "NAME":"Niklausglocke",
 "INSTAID":"",
+"VIEWSGROWTH2019":78269.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":339339,
+"2019":342876,
 "2018":264607,
 "2017":212788,
 "2016":139298,
@@ -3529,7 +3676,7 @@
 "UCFLOHJLX8H9KcW8QDbPC8tA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":1203},
+"2019":1205},
 "SUBCOUNT":{
 "2019":109,
 "2018":100,
@@ -3542,9 +3689,10 @@
 "CATIDS":"-4-11-",
 "NAME":"Gamerocker",
 "INSTAID":"gamerocker.lp",
+"VIEWSGROWTH2019":3419.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":30579,
+"2019":30762,
 "2018":27343,
 "2017":20771,
 "2016":8262,
@@ -3553,9 +3701,9 @@
 "UCyX_EEcey41KF0rEGO6vxnw":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":52},
+"2019":57},
 "SUBCOUNT":{
-"2019":66,
+"2019":85,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3566,9 +3714,10 @@
 "CATIDS":"-10-",
 "NAME":"Andreas Glarner",
 "INSTAID":"",
+"VIEWSGROWTH2019":11661.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":10206,
+"2019":11661,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3590,9 +3739,10 @@
 "CATIDS":"-6-4-11-",
 "NAME":"BURNING_KEYS",
 "INSTAID":"dave_bichsel",
+"VIEWSGROWTH2019":3371.0,
 "YTLINK":"https://www.youtube.com/davensius",
 "VIEWSCOUNT":{
-"2019":64041,
+"2019":64147,
 "2018":60776,
 "2017":57399,
 "2016":55021,
@@ -3603,7 +3753,7 @@
 "VIDEOCOUNT":{
 "2019":106},
 "SUBCOUNT":{
-"2019":832,
+"2019":831,
 "2018":831,
 "2017":722,
 "2016":0,
@@ -3614,9 +3764,10 @@
 "CATIDS":"-6-",
 "NAME":"Roki",
 "INSTAID":"yt_roki",
+"VIEWSGROWTH2019":9947.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":21697,
+"2019":21729,
 "2018":11782,
 "2017":10549,
 "2016":0,
@@ -3627,7 +3778,7 @@
 "VIDEOCOUNT":{
 "2019":32},
 "SUBCOUNT":{
-"2019":28,
+"2019":27,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3638,9 +3789,10 @@
 "CATIDS":"-6-",
 "NAME":"Adrinschg Steck",
 "INSTAID":"",
+"VIEWSGROWTH2019":2468.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":2427,
+"2019":2468,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3651,7 +3803,7 @@
 "VIDEOCOUNT":{
 "2019":75},
 "SUBCOUNT":{
-"2019":328,
+"2019":329,
 "2018":324,
 "2017":289,
 "2016":272,
@@ -3662,9 +3814,10 @@
 "CATIDS":"-3-",
 "NAME":"T-Nerd Production",
 "INSTAID":"",
+"VIEWSGROWTH2019":5545.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":75013,
+"2019":75260,
 "2018":69715,
 "2017":62899,
 "2016":54066,
@@ -3675,7 +3828,7 @@
 "VIDEOCOUNT":{
 "2019":65},
 "SUBCOUNT":{
-"2019":142,
+"2019":143,
 "2018":119,
 "2017":44,
 "2016":12,
@@ -3686,9 +3839,10 @@
 "CATIDS":"-5-",
 "NAME":"StudioZweiSechs",
 "INSTAID":"StudioZweiSechs",
+"VIEWSGROWTH2019":17773.0,
 "YTLINK":"https://www.youtube.com/StudioZweiSechs",
 "VIEWSCOUNT":{
-"2019":63828,
+"2019":64142,
 "2018":46369,
 "2017":19378,
 "2016":6726,
@@ -3697,9 +3851,9 @@
 "UC8WsoyjfW68Zadn5xTMjiJA":{
 "REALNAME":"Gottlieb Duttweiler",
 "VIDEOCOUNT":{
-"2019":1106},
+"2019":1107},
 "SUBCOUNT":{
-"2019":43100,
+"2019":43500,
 "2018":40848,
 "2017":32337,
 "2016":15596,
@@ -3710,9 +3864,10 @@
 "CATIDS":"-13-",
 "NAME":"Migros",
 "INSTAID":"migros",
+"VIEWSGROWTH2019":2.2846357E7,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":98209149,
+"2019":99289411,
 "2018":76443054,
 "2017":47059760,
 "2016":22722151,
@@ -3721,7 +3876,7 @@
 "UCMegISR8lQWSRJDE1nWZS7g":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":58},
+"2019":59},
 "SUBCOUNT":{
 "2019":152,
 "2018":134,
@@ -3734,9 +3889,10 @@
 "CATIDS":"-5-",
 "NAME":"Gabriel Gee-Jay Jenny",
 "INSTAID":"gabriel_jenny",
+"VIEWSGROWTH2019":17743.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":332686,
+"2019":333067,
 "2018":315324,
 "2017":292682,
 "2016":0,
@@ -3747,7 +3903,7 @@
 "VIDEOCOUNT":{
 "2019":34},
 "SUBCOUNT":{
-"2019":969,
+"2019":975,
 "2018":481,
 "2017":264,
 "2016":0,
@@ -3758,9 +3914,10 @@
 "CATIDS":"-6-",
 "NAME":"Michito",
 "INSTAID":"michito96",
+"VIEWSGROWTH2019":15196.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":30414,
+"2019":30633,
 "2018":15437,
 "2017":4758,
 "2016":0,
@@ -3782,9 +3939,10 @@
 "CATIDS":"-4-",
 "NAME":"SwissFlair",
 "INSTAID":"",
+"VIEWSGROWTH2019":4254.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":4214,
+"2019":4254,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3806,9 +3964,10 @@
 "CATIDS":"-8-",
 "NAME":"Jamps & Jones",
 "INSTAID":"yungjamps",
+"VIEWSGROWTH2019":6503.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":12114,
+"2019":12252,
 "2018":5749,
 "2017":0,
 "2016":0,
@@ -3819,7 +3978,7 @@
 "VIDEOCOUNT":{
 "2019":108},
 "SUBCOUNT":{
-"2019":1970,
+"2019":2020,
 "2018":1402,
 "2017":689,
 "2016":358,
@@ -3830,9 +3989,10 @@
 "CATIDS":"-6-",
 "NAME":"Charles Nguela",
 "INSTAID":"charles_nguela",
+"VIEWSGROWTH2019":112192.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":267272,
+"2019":273019,
 "2018":160827,
 "2017":55061,
 "2016":28776,
@@ -3854,6 +4014,7 @@
 "CATIDS":"-6-",
 "NAME":"Top Boys AFK",
 "INSTAID":"",
+"VIEWSGROWTH2019":-34134.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
 "2019":0,
@@ -3867,7 +4028,7 @@
 "VIDEOCOUNT":{
 "2019":489},
 "SUBCOUNT":{
-"2019":2310,
+"2019":2320,
 "2018":1414,
 "2017":933,
 "2016":610,
@@ -3878,9 +4039,10 @@
 "CATIDS":"-5-",
 "NAME":"SwissIceHockey",
 "INSTAID":"",
+"VIEWSGROWTH2019":156849.0,
 "YTLINK":"https://www.youtube.com/user/SwissIceHockey1",
 "VIEWSCOUNT":{
-"2019":718090,
+"2019":720223,
 "2018":563374,
 "2017":445516,
 "2016":367638,
@@ -3891,7 +4053,7 @@
 "VIDEOCOUNT":{
 "2019":16},
 "SUBCOUNT":{
-"2019":56,
+"2019":57,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3902,9 +4064,10 @@
 "CATIDS":"-6-",
 "NAME":"Schwiizer Schnupfer",
 "INSTAID":"schwiizer_schnupfer",
+"VIEWSGROWTH2019":1374.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1310,
+"2019":1374,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3926,9 +4089,10 @@
 "CATIDS":"-3-",
 "NAME":"Patrick Mueller",
 "INSTAID":"",
+"VIEWSGROWTH2019":800.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":789,
+"2019":800,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3950,9 +4114,10 @@
 "CATIDS":"-7-",
 "NAME":"Volg Konsumwaren AG",
 "INSTAID":"",
+"VIEWSGROWTH2019":61664.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":61426,
+"2019":61664,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -3963,7 +4128,7 @@
 "VIDEOCOUNT":{
 "2019":86},
 "SUBCOUNT":{
-"2019":928,
+"2019":960,
 "2018":840,
 "2017":764,
 "2016":709,
@@ -3974,9 +4139,10 @@
 "CATIDS":"-13-",
 "NAME":"Lidl Schweiz",
 "INSTAID":"lidlch",
+"VIEWSGROWTH2019":-1222110.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":838724,
+"2019":1017541,
 "2018":2239651,
 "2017":1993787,
 "2016":4127208,
@@ -3985,9 +4151,9 @@
 "UCNHBMc1YZyX_tMMl1K6uuUA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":69},
+"2019":70},
 "SUBCOUNT":{
-"2019":3590,
+"2019":3610,
 "2018":2960,
 "2017":255,
 "2016":0,
@@ -3998,9 +4164,10 @@
 "CATIDS":"-9-",
 "NAME":"Clip und klar!",
 "INSTAID":"",
+"VIEWSGROWTH2019":201139.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":869192,
+"2019":875984,
 "2018":674845,
 "2017":8844,
 "2016":0,
@@ -4022,9 +4189,10 @@
 "CATIDS":"-1-6-",
 "NAME":"Martin Rechsteiner",
 "INSTAID":"pokipsie",
+"VIEWSGROWTH2019":1125.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":8227,
+"2019":8260,
 "2018":7135,
 "2017":6579,
 "2016":5651,
@@ -4046,9 +4214,10 @@
 "CATIDS":"-5-",
 "NAME":"Sandro Schmid",
 "INSTAID":"sandrusmith",
+"VIEWSGROWTH2019":32612.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":377470,
+"2019":378409,
 "2018":345797,
 "2017":298736,
 "2016":192539,
@@ -4057,9 +4226,9 @@
 "UC4xXE-NX9KOZVAWNvyMEKHA":{
 "REALNAME":"Damian Büchler",
 "VIDEOCOUNT":{
-"2019":262},
+"2019":263},
 "SUBCOUNT":{
-"2019":299,
+"2019":298,
 "2018":264,
 "2017":202,
 "2016":141,
@@ -4070,9 +4239,10 @@
 "CATIDS":"-6-",
 "NAME":"debuechi.ch",
 "INSTAID":"debuechi.ch",
+"VIEWSGROWTH2019":14953.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":157738,
+"2019":158241,
 "2018":143288,
 "2017":117711,
 "2016":97814,
@@ -4081,9 +4251,9 @@
 "UC1EGthHyLAJrHYLm0IIT0BQ":{
 "REALNAME":"Martin",
 "VIDEOCOUNT":{
-"2019":72},
+"2019":74},
 "SUBCOUNT":{
-"2019":197,
+"2019":202,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -4094,9 +4264,10 @@
 "CATIDS":"-1-",
 "NAME":"WhaleonTrail",
 "INSTAID":"whaleontrail",
+"VIEWSGROWTH2019":11767.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":11336,
+"2019":11767,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -4105,9 +4276,9 @@
 "UChzKOhU2KgjUH4KHlu2wATA":{
 "REALNAME":"Fabienne & Sven Burkhard",
 "VIDEOCOUNT":{
-"2019":135},
+"2019":136},
 "SUBCOUNT":{
-"2019":627,
+"2019":624,
 "2018":414,
 "2017":172,
 "2016":0,
@@ -4118,9 +4289,10 @@
 "CATIDS":"-1-",
 "NAME":"SveFa on Tour",
 "INSTAID":"svefaontour",
+"VIEWSGROWTH2019":42998.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":94866,
+"2019":95872,
 "2018":52874,
 "2017":14591,
 "2016":0,
@@ -4142,9 +4314,10 @@
 "CATIDS":"-1-",
 "NAME":"Storyflow",
 "INSTAID":"storyflow",
+"VIEWSGROWTH2019":74749.0,
 "YTLINK":"https://www.youtube.com/Storyflow",
 "VIEWSCOUNT":{
-"2019":176215,
+"2019":178019,
 "2018":103270,
 "2017":53630,
 "2016":6148,
@@ -4153,9 +4326,9 @@
 "UCUulK2IsSIL3OEhaKKa-xEQ":{
 "REALNAME":"Jahn Graf",
 "VIDEOCOUNT":{
-"2019":271},
+"2019":277},
 "SUBCOUNT":{
-"2019":555,
+"2019":572,
 "2018":353,
 "2017":109,
 "2016":62,
@@ -4166,9 +4339,10 @@
 "CATIDS":"-7-",
 "NAME":"Jahns rollende Welt",
 "INSTAID":"jahngraf",
+"VIEWSGROWTH2019":21008.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":45979,
+"2019":46881,
 "2018":25873,
 "2017":7422,
 "2016":4886,
@@ -4177,9 +4351,9 @@
 "UCfMWwidS6nxYVuC9HSz9wDw":{
 "REALNAME":"Flavio Camenzind",
 "VIDEOCOUNT":{
-"2019":121},
+"2019":123},
 "SUBCOUNT":{
-"2019":431,
+"2019":433,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -4190,9 +4364,10 @@
 "CATIDS":"-6-9-",
 "NAME":"Flowcast",
 "INSTAID":"flaviocamenzind",
+"VIEWSGROWTH2019":163668.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":161889,
+"2019":163668,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -4201,9 +4376,9 @@
 "UCjhea_snPjSMvX3mNw1XjeQ":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":333},
+"2019":337},
 "SUBCOUNT":{
-"2019":74000,
+"2019":74300,
 "2018":66413,
 "2017":49719,
 "2016":28323,
@@ -4214,9 +4389,10 @@
 "CATIDS":"-6-",
 "NAME":"Stefan Büsser",
 "INSTAID":"stefanbuesser",
+"VIEWSGROWTH2019":5111366.0,
 "YTLINK":"https://www.youtube.com/stefanbuesser",
 "VIEWSCOUNT":{
-"2019":23917949,
+"2019":24193660,
 "2018":19082294,
 "2017":13310675,
 "2016":6113784,
@@ -4227,7 +4403,7 @@
 "VIDEOCOUNT":{
 "2019":26},
 "SUBCOUNT":{
-"2019":103,
+"2019":105,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -4238,9 +4414,10 @@
 "CATIDS":"-13-",
 "NAME":"S.Oppliger Design",
 "INSTAID":"s.oppliger_design",
+"VIEWSGROWTH2019":15723.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":15044,
+"2019":15723,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -4262,9 +4439,10 @@
 "CATIDS":"-9-",
 "NAME":"Vogelblick",
 "INSTAID":"seraphin_01",
+"VIEWSGROWTH2019":3386.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":13860,
+"2019":13912,
 "2018":10526,
 "2017":3775,
 "2016":0,
@@ -4275,7 +4453,7 @@
 "VIDEOCOUNT":{
 "2019":65},
 "SUBCOUNT":{
-"2019":592,
+"2019":590,
 "2018":271,
 "2017":31,
 "2016":15,
@@ -4286,9 +4464,10 @@
 "CATIDS":"-6-",
 "NAME":"Jannikor",
 "INSTAID":"",
+"VIEWSGROWTH2019":6777.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":9177,
+"2019":9249,
 "2018":2472,
 "2017":1407,
 "2016":276,
@@ -4299,7 +4478,7 @@
 "VIDEOCOUNT":{
 "2019":5},
 "SUBCOUNT":{
-"2019":2050,
+"2019":2070,
 "2018":1279,
 "2017":637,
 "2016":0,
@@ -4310,9 +4489,10 @@
 "CATIDS":"-7-",
 "NAME":"schweizerdeutsch-lernen.ch",
 "INSTAID":"schweizerdeutsch",
+"VIEWSGROWTH2019":41502.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":96705,
+"2019":98076,
 "2018":56574,
 "2017":31614,
 "2016":0,
@@ -4334,9 +4514,10 @@
 "CATIDS":"-10-",
 "NAME":"Cédric Wermuth",
 "INSTAID":"cedricwermuth",
+"VIEWSGROWTH2019":81634.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":81631,
+"2019":81634,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -4345,7 +4526,7 @@
 "UCYOzTRyMOqbAQ1O9z7xMr1g":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":19},
+"2019":21},
 "SUBCOUNT":{
 "2019":19,
 "2018":0,
@@ -4358,9 +4539,10 @@
 "CATIDS":"-7-",
 "NAME":"Train Fr3ak",
 "INSTAID":"",
+"VIEWSGROWTH2019":1143.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1000,
+"2019":1143,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -4382,9 +4564,10 @@
 "CATIDS":"-2-",
 "NAME":"Gourmendo",
 "INSTAID":"gourmendo",
+"VIEWSGROWTH2019":6317.0,
 "YTLINK":"https://www.youtube.com/gourmendo",
 "VIEWSCOUNT":{
-"2019":6265,
+"2019":6317,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -4406,9 +4589,10 @@
 "CATIDS":"-8-",
 "NAME":"Heinz de Specht",
 "INSTAID":"heinzdespecht",
+"VIEWSGROWTH2019":66189.0,
 "YTLINK":"https://www.youtube.com/heinzdespecht",
 "VIEWSCOUNT":{
-"2019":505755,
+"2019":507080,
 "2018":440891,
 "2017":373490,
 "2016":290515,
@@ -4419,7 +4603,7 @@
 "VIDEOCOUNT":{
 "2019":82},
 "SUBCOUNT":{
-"2019":3130,
+"2019":3120,
 "2018":3115,
 "2017":2758,
 "2016":2330,
@@ -4430,9 +4614,10 @@
 "CATIDS":"-6-",
 "NAME":"UniceVlog",
 "INSTAID":"janisunice",
+"VIEWSGROWTH2019":56394.0,
 "YTLINK":"https://www.youtube.com/unicevlog",
 "VIEWSCOUNT":{
-"2019":178549,
+"2019":178606,
 "2018":122212,
 "2017":109923,
 "2016":76246,
@@ -4441,9 +4626,9 @@
 "UCgS_OtFhFq5LTuyGKdafoNA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":391},
+"2019":393},
 "SUBCOUNT":{
-"2019":6980,
+"2019":7140,
 "2018":5725,
 "2017":4718,
 "2016":3426,
@@ -4454,9 +4639,10 @@
 "CATIDS":"-13-",
 "NAME":"Coop",
 "INSTAID":"coop.ch",
+"VIEWSGROWTH2019":3079975.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":9098575,
+"2019":9827555,
 "2018":6747580,
 "2017":3116195,
 "2016":4632349,
@@ -4478,9 +4664,10 @@
 "CATIDS":"-8-",
 "NAME":"Trauffer",
 "INSTAID":"trauffer_official",
+"VIEWSGROWTH2019":2621786.0,
 "YTLINK":"https://www.youtube.com/TraufferVEVO",
 "VIEWSCOUNT":{
-"2019":10295980,
+"2019":10356363,
 "2018":7734577,
 "2017":3014226,
 "2016":1226728,
@@ -4491,7 +4678,7 @@
 "VIDEOCOUNT":{
 "2019":61},
 "SUBCOUNT":{
-"2019":300,
+"2019":301,
 "2018":288,
 "2017":260,
 "2016":0,
@@ -4502,9 +4689,10 @@
 "CATIDS":"-6-",
 "NAME":"Konterbier",
 "INSTAID":"konterbrauerei",
+"VIEWSGROWTH2019":-19452.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":28817,
+"2019":28934,
 "2018":48386,
 "2017":34857,
 "2016":0,
@@ -4513,7 +4701,7 @@
 "UC0rQrpV2_5D9CG5n3M1xR0A":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":14},
+"2019":9},
 "SUBCOUNT":{
 "2019":33,
 "2018":0,
@@ -4526,9 +4714,10 @@
 "CATIDS":"-4-",
 "NAME":"BraUsebad_Zockt",
 "INSTAID":"brausebad_zockt",
+"VIEWSGROWTH2019":1047.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1171,
+"2019":1047,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -4539,7 +4728,7 @@
 "VIDEOCOUNT":{
 "2019":41},
 "SUBCOUNT":{
-"2019":419,
+"2019":420,
 "2018":366,
 "2017":185,
 "2016":144,
@@ -4550,9 +4739,10 @@
 "CATIDS":"-8-",
 "NAME":"EquipeMusic",
 "INSTAID":"",
+"VIEWSGROWTH2019":46648.0,
 "YTLINK":"https://www.youtube.com/equipemusic",
 "VIEWSCOUNT":{
-"2019":621271,
+"2019":622182,
 "2018":575534,
 "2017":441382,
 "2016":400691,
@@ -4574,9 +4764,10 @@
 "CATIDS":"-6-",
 "NAME":"SimiiLila",
 "INSTAID":"simiilila",
+"VIEWSGROWTH2019":33651.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":404820,
+"2019":406210,
 "2018":372559,
 "2017":260668,
 "2016":138008,
@@ -4585,9 +4776,9 @@
 "UCtOEFtmUrALape8MlYPMSYg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":342},
+"2019":344},
 "SUBCOUNT":{
-"2019":2900,
+"2019":2920,
 "2018":2230,
 "2017":1674,
 "2016":1573,
@@ -4598,9 +4789,10 @@
 "CATIDS":"-10-",
 "NAME":"SVP Schweiz",
 "INSTAID":"svpch",
+"VIEWSGROWTH2019":297364.0,
 "YTLINK":"https://www.youtube.com/user/svpch",
 "VIEWSCOUNT":{
-"2019":3039513,
+"2019":3045045,
 "2018":2747681,
 "2017":1504631,
 "2016":1468365,
@@ -4611,7 +4803,7 @@
 "VIDEOCOUNT":{
 "2019":56},
 "SUBCOUNT":{
-"2019":334,
+"2019":335,
 "2018":315,
 "2017":259,
 "2016":221,
@@ -4622,9 +4814,10 @@
 "CATIDS":"-4-11-",
 "NAME":"Urgamer",
 "INSTAID":"urgamer",
+"VIEWSGROWTH2019":2959.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":26941,
+"2019":27026,
 "2018":24067,
 "2017":16630,
 "2016":14451,
@@ -4646,9 +4839,10 @@
 "CATIDS":"-13-",
 "NAME":"Kopfrausch GmbH",
 "INSTAID":"kopfrausch",
+"VIEWSGROWTH2019":1858.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1769,
+"2019":1858,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -4657,7 +4851,7 @@
 "UCV-NveL3y0HdOABzA4YRIMw":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":211},
+"2019":213},
 "SUBCOUNT":{
 "2019":1060,
 "2018":723,
@@ -4670,9 +4864,10 @@
 "CATIDS":"-3-13-",
 "NAME":"Fotichaestli AG",
 "INSTAID":"fotichaestli.ch",
+"VIEWSGROWTH2019":78047.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":136164,
+"2019":139962,
 "2018":61915,
 "2017":22651,
 "2016":0,
@@ -4681,9 +4876,9 @@
 "UCaPgDp_NNEbq9aCOu_gHkWQ":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":332},
+"2019":338},
 "SUBCOUNT":{
-"2019":4550,
+"2019":4570,
 "2018":3150,
 "2017":2444,
 "2016":1825,
@@ -4694,9 +4889,10 @@
 "CATIDS":"-6-9-",
 "NAME":"20min",
 "INSTAID":"20min.ch",
+"VIEWSGROWTH2019":718574.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":4606022,
+"2019":4623911,
 "2018":3905337,
 "2017":4099311,
 "2016":3400041,
@@ -4718,9 +4914,10 @@
 "CATIDS":"-6-",
 "NAME":"FlipTastisch",
 "INSTAID":"fliptastisch",
+"VIEWSGROWTH2019":23160.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":111762,
+"2019":112364,
 "2018":89204,
 "2017":65453,
 "2016":47608,
@@ -4731,7 +4928,7 @@
 "VIDEOCOUNT":{
 "2019":239},
 "SUBCOUNT":{
-"2019":2270,
+"2019":2280,
 "2018":2196,
 "2017":1921,
 "2016":1218,
@@ -4742,9 +4939,10 @@
 "CATIDS":"-4-6-11-",
 "NAME":"Greeney",
 "INSTAID":"insta.greneey",
+"VIEWSGROWTH2019":52074.0,
 "YTLINK":"https://www.youtube.com/Greneey",
 "VIEWSCOUNT":{
-"2019":409977,
+"2019":410999,
 "2018":358925,
 "2017":277216,
 "2016":232031,
@@ -4753,9 +4951,9 @@
 "UCd3pZPBm2wbMjZj3mG64IOQ":{
 "REALNAME":"Ringier AG, Cedric Schild, Silvia Princigalli, Anne-Sophie Keller, Miriam Suter",
 "VIDEOCOUNT":{
-"2019":253},
+"2019":261},
 "SUBCOUNT":{
-"2019":60300,
+"2019":60800,
 "2018":32883,
 "2017":0,
 "2016":0,
@@ -4766,9 +4964,10 @@
 "CATIDS":"-6-9-",
 "NAME":"Izzy",
 "INSTAID":"izzymagazine",
+"VIEWSGROWTH2019":7120902.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":8525137,
+"2019":8836471,
 "2018":1715569,
 "2017":0,
 "2016":0,
@@ -4777,7 +4976,7 @@
 "UC7gRJAzQ6zlpP0Kr7rfjJsw":{
 "REALNAME":"Matteo Gisler",
 "VIDEOCOUNT":{
-"2019":1},
+"2019":0},
 "SUBCOUNT":{
 "2019":40,
 "2018":31,
@@ -4790,9 +4989,10 @@
 "CATIDS":"-6-",
 "NAME":"matekind",
 "INSTAID":"matekind",
+"VIEWSGROWTH2019":-418.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":69,
+"2019":75,
 "2018":493,
 "2017":191,
 "2016":149,
@@ -4814,6 +5014,7 @@
 "CATIDS":"-4-11-",
 "NAME":"Zock mit Mike",
 "INSTAID":"",
+"VIEWSGROWTH2019":358.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
 "2019":358,
@@ -4827,7 +5028,7 @@
 "VIDEOCOUNT":{
 "2019":24},
 "SUBCOUNT":{
-"2019":1360,
+"2019":1350,
 "2018":1361,
 "2017":1299,
 "2016":925,
@@ -4838,9 +5039,10 @@
 "CATIDS":"-3-6-",
 "NAME":"HalfTimeNerds",
 "INSTAID":"HalfTimeNerds",
+"VIEWSGROWTH2019":-3832.0,
 "YTLINK":"https://www.youtube.com/HalfTimeNerds",
 "VIEWSCOUNT":{
-"2019":77096,
+"2019":77237,
 "2018":81069,
 "2017":66468,
 "2016":40753,
@@ -4849,9 +5051,9 @@
 "UCEsT59BBHueS2dV-75lJHXw":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":48},
+"2019":50},
 "SUBCOUNT":{
-"2019":2460,
+"2019":2600,
 "2018":2010,
 "2017":1329,
 "2016":673,
@@ -4862,9 +5064,10 @@
 "CATIDS":"-8-",
 "NAME":"Chaostruppe",
 "INSTAID":"",
+"VIEWSGROWTH2019":225297.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":775686,
+"2019":802274,
 "2018":576977,
 "2017":317973,
 "2016":136023,
@@ -4875,7 +5078,7 @@
 "VIDEOCOUNT":{
 "2019":106},
 "SUBCOUNT":{
-"2019":9400,
+"2019":9460,
 "2018":3592,
 "2017":2894,
 "2016":0,
@@ -4886,9 +5089,10 @@
 "CATIDS":"-8-",
 "NAME":"Kunz",
 "INSTAID":"kunzmusik",
+"VIEWSGROWTH2019":442137.0,
 "YTLINK":"https://www.youtube.com/marcokunzmusik",
 "VIEWSCOUNT":{
-"2019":2138715,
+"2019":2148753,
 "2018":1706616,
 "2017":1317286,
 "2016":0,
@@ -4899,7 +5103,7 @@
 "VIDEOCOUNT":{
 "2019":52},
 "SUBCOUNT":{
-"2019":50,
+"2019":52,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -4910,9 +5114,10 @@
 "CATIDS":"-7-",
 "NAME":"Content Creation Space",
 "INSTAID":"contentcreation.space",
+"VIEWSGROWTH2019":6627.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":6531,
+"2019":6627,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -4921,9 +5126,9 @@
 "UCepcew4D173EZID1JPqXaFA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":676},
+"2019":680},
 "SUBCOUNT":{
-"2019":4300,
+"2019":4320,
 "2018":3428,
 "2017":2169,
 "2016":0,
@@ -4934,9 +5139,10 @@
 "CATIDS":"-4-11-",
 "NAME":"eSportsCH",
 "INSTAID":"esports.ch",
+"VIEWSGROWTH2019":281265.0,
 "YTLINK":"https://www.youtube.com/eSportsCH",
 "VIEWSCOUNT":{
-"2019":900589,
+"2019":908755,
 "2018":627490,
 "2017":357273,
 "2016":0,
@@ -4947,7 +5153,7 @@
 "VIDEOCOUNT":{
 "2019":9},
 "SUBCOUNT":{
-"2019":23600,
+"2019":23700,
 "2018":11549,
 "2017":855,
 "2016":0,
@@ -4958,9 +5164,10 @@
 "CATIDS":"-8-",
 "NAME":"Cris Swiss Musix",
 "INSTAID":"crisswissmusix",
+"VIEWSGROWTH2019":2450297.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":3829157,
+"2019":3876072,
 "2018":1425775,
 "2017":239613,
 "2016":0,
@@ -4982,9 +5189,10 @@
 "CATIDS":"-9-",
 "NAME":"Züriost-Wucheblick",
 "INSTAID":"",
+"VIEWSGROWTH2019":63665.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":197007,
+"2019":198780,
 "2018":135115,
 "2017":53097,
 "2016":0,
@@ -4993,9 +5201,9 @@
 "UCK8iSDkDpKsaMlVpz38qLUw":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":1901},
+"2019":1907},
 "SUBCOUNT":{
-"2019":26600,
+"2019":27000,
 "2018":19619,
 "2017":9901,
 "2016":4527,
@@ -5006,9 +5214,10 @@
 "CATIDS":"-8-9-",
 "NAME":"SRF Virus",
 "INSTAID":"srfvirus",
+"VIEWSGROWTH2019":8100467.0,
 "YTLINK":"https://www.youtube.com/DRSVirus",
 "VIEWSCOUNT":{
-"2019":30385087,
+"2019":30603680,
 "2018":22503213,
 "2017":13190731,
 "2016":6421264,
@@ -5030,9 +5239,10 @@
 "CATIDS":"-8-12-",
 "NAME":"KnackTV",
 "INSTAID":"knackeboul",
+"VIEWSGROWTH2019":121426.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":2540065,
+"2019":2543469,
 "2018":2422043,
 "2017":2220731,
 "2016":1875109,
@@ -5041,9 +5251,9 @@
 "UC1-g9E0BKQo5pID4y55K5iA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":2916},
+"2019":2919},
 "SUBCOUNT":{
-"2019":35000,
+"2019":35300,
 "2018":23362,
 "2017":9824,
 "2016":6884,
@@ -5054,9 +5264,10 @@
 "CATIDS":"-9-",
 "NAME":"SRF 3",
 "INSTAID":"srf3",
+"VIEWSGROWTH2019":5868748.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":27973313,
+"2019":28156633,
 "2018":22287885,
 "2017":13485330,
 "2016":10125530,
@@ -5067,7 +5278,7 @@
 "VIDEOCOUNT":{
 "2019":10},
 "SUBCOUNT":{
-"2019":681,
+"2019":683,
 "2018":333,
 "2017":38,
 "2016":0,
@@ -5078,35 +5289,12 @@
 "CATIDS":"-4-11-",
 "NAME":"SwissArma",
 "INSTAID":"",
+"VIEWSGROWTH2019":5644.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":7233,
+"2019":7268,
 "2018":1624,
 "2017":429,
-"2016":0,
-"2015":0
-
-"UCm2ybKhvDZGfPzpvWGyKx2A":{
-"REALNAME":"",
-"VIDEOCOUNT":{
-"2019":0},
-"SUBCOUNT":{
-"2019":724,
-"2018":527,
-"2017":283,
-"2016":0,
-"2015":0},
-"THID":"",
-"WEBLINK":"",
-"CHANNELPUBLISHEDAT":"12.01.2017",
-"CATIDS":"-6-",
-"NAME":"Future Lion",
-"INSTAID":"future_lion_yt_",
-"YTLINK":"",
-"VIEWSCOUNT":{
-"2019":0,
-"2018":124962,
-"2017":60607,
 "2016":0,
 "2015":0
 
@@ -5126,9 +5314,10 @@
 "CATIDS":"-2-",
 "NAME":"Beast Genetics Schweiz",
 "INSTAID":"beast_genetics1",
+"VIEWSGROWTH2019":2038.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":2066,
+"2019":2074,
 "2018":36,
 "2017":0,
 "2016":0,
@@ -5137,7 +5326,7 @@
 "UCfqkZnJMnzwbSIvepovX6zg":{
 "REALNAME":"Levin Imhof",
 "VIDEOCOUNT":{
-"2019":86},
+"2019":93},
 "SUBCOUNT":{
 "2019":280,
 "2018":0,
@@ -5150,9 +5339,10 @@
 "CATIDS":"-4-6-",
 "NAME":"LEVIN_TV",
 "INSTAID":"levin.imhof",
+"VIEWSGROWTH2019":32776.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":30677,
+"2019":32776,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -5163,7 +5353,7 @@
 "VIDEOCOUNT":{
 "2019":59},
 "SUBCOUNT":{
-"2019":4280,
+"2019":4290,
 "2018":3865,
 "2017":1862,
 "2016":0,
@@ -5174,9 +5364,10 @@
 "CATIDS":"-6-",
 "NAME":"NethsBlog",
 "INSTAID":"nethsblog",
+"VIEWSGROWTH2019":95706.0,
 "YTLINK":"https://www.youtube.com/NethsBlog",
 "VIEWSCOUNT":{
-"2019":412264,
+"2019":413670,
 "2018":317964,
 "2017":122711,
 "2016":0,
@@ -5185,7 +5376,7 @@
 "UCtbNlk5CJ31nuR30MSgeOKg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":6},
+"2019":7},
 "SUBCOUNT":{
 "2019":536,
 "2018":546,
@@ -5198,9 +5389,10 @@
 "CATIDS":"-6-",
 "NAME":"Marco Ribeiro",
 "INSTAID":"marcoribeiroofficial",
+"VIEWSGROWTH2019":706.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":11951,
+"2019":11977,
 "2018":11271,
 "2017":0,
 "2016":0,
@@ -5209,9 +5401,9 @@
 "UCJXliA_wsTcMgIcFBRcwAQA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":1509},
+"2019":1518},
 "SUBCOUNT":{
-"2019":222,
+"2019":221,
 "2018":188,
 "2017":127,
 "2016":0,
@@ -5222,9 +5414,10 @@
 "CATIDS":"-4-11-",
 "NAME":"Kuhnmann",
 "INSTAID":"kuhnmannlp",
+"VIEWSGROWTH2019":-2491.0,
 "YTLINK":"https://www.youtube.com/kuhnmann11",
 "VIEWSCOUNT":{
-"2019":13424,
+"2019":13546,
 "2018":16037,
 "2017":12346,
 "2016":0,
@@ -5246,9 +5439,10 @@
 "CATIDS":"-2-",
 "NAME":"René Schudel",
 "INSTAID":"reneschudel",
+"VIEWSGROWTH2019":296174.0,
 "YTLINK":"https://www.youtube.com/reneschudel",
 "VIEWSCOUNT":{
-"2019":294842,
+"2019":296174,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -5259,7 +5453,7 @@
 "VIDEOCOUNT":{
 "2019":71},
 "SUBCOUNT":{
-"2019":1700,
+"2019":1710,
 "2018":1237,
 "2017":722,
 "2016":252,
@@ -5270,9 +5464,10 @@
 "CATIDS":"-8-",
 "NAME":"Zytglogge",
 "INSTAID":"",
+"VIEWSGROWTH2019":544655.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":2237565,
+"2019":2256484,
 "2018":1711829,
 "2017":1001670,
 "2016":322683,
@@ -5294,9 +5489,10 @@
 "CATIDS":"-4-",
 "NAME":"PagerTV",
 "INSTAID":"pagertv",
+"VIEWSGROWTH2019":11017.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":34220,
+"2019":34340,
 "2018":23323,
 "2017":5304,
 "2016":0,
@@ -5318,33 +5514,10 @@
 "CATIDS":"-6-",
 "NAME":"Eddie Ramirez",
 "INSTAID":"",
+"VIEWSGROWTH2019":10406.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":10364,
-"2018":0,
-"2017":0,
-"2016":0,
-"2015":0
-
-"UC50ixhWkpl-d03F6OqPUkAg":{
-"REALNAME":"",
-"VIDEOCOUNT":{
-"2019":0},
-"SUBCOUNT":{
-"2019":45,
-"2018":0,
-"2017":0,
-"2016":0,
-"2015":0},
-"THID":"",
-"WEBLINK":"",
-"CHANNELPUBLISHEDAT":"11.12.2018",
-"CATIDS":"-6-",
-"NAME":"Tobi",
-"INSTAID":"tobias_e007",
-"YTLINK":"",
-"VIEWSCOUNT":{
-"2019":0,
+"2019":10406,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -5353,7 +5526,7 @@
 "UCsL0oM8xDp27oC3L6rkxYjA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":65},
+"2019":68},
 "SUBCOUNT":{
 "2019":1540,
 "2018":1245,
@@ -5366,9 +5539,10 @@
 "CATIDS":"-6-",
 "NAME":"Loudzz",
 "INSTAID":"loudzz_ch",
+"VIEWSGROWTH2019":1576664.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":2417356,
+"2019":2496170,
 "2018":919506,
 "2017":54971,
 "2016":0,
@@ -5390,9 +5564,10 @@
 "CATIDS":"-8-",
 "NAME":"M Melker",
 "INSTAID":"",
+"VIEWSGROWTH2019":7958.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":7878,
+"2019":7958,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -5401,9 +5576,9 @@
 "UCTPhJ7aAQwiYxvtQOUKSbQQ":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":27},
+"2019":29},
 "SUBCOUNT":{
-"2019":32,
+"2019":29,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -5414,9 +5589,10 @@
 "CATIDS":"-8-",
 "NAME":"DJ_Dave_03",
 "INSTAID":"",
+"VIEWSGROWTH2019":3454.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":3253,
+"2019":3454,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -5427,7 +5603,7 @@
 "VIDEOCOUNT":{
 "2019":30},
 "SUBCOUNT":{
-"2019":99,
+"2019":100,
 "2018":44,
 "2017":13,
 "2016":0,
@@ -5438,9 +5614,10 @@
 "CATIDS":"-1-Politik-",
 "NAME":"Daniel Blättler",
 "INSTAID":"",
+"VIEWSGROWTH2019":20538.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":27855,
+"2019":28146,
 "2018":7608,
 "2017":2242,
 "2016":0,
@@ -5462,9 +5639,10 @@
 "CATIDS":"-6-11-",
 "NAME":"Roemer",
 "INSTAID":"roemer_24",
+"VIEWSGROWTH2019":4071.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":6978,
+"2019":6982,
 "2018":2911,
 "2017":0,
 "2016":0,
@@ -5486,9 +5664,10 @@
 "CATIDS":"-4-",
 "NAME":"Kasel",
 "INSTAID":"kasel_official",
+"VIEWSGROWTH2019":6402.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":6387,
+"2019":6402,
 "2018":0,
 "2017":5780,
 "2016":0,
@@ -5499,7 +5678,7 @@
 "VIDEOCOUNT":{
 "2019":36},
 "SUBCOUNT":{
-"2019":181,
+"2019":182,
 "2018":143,
 "2017":100,
 "2016":0,
@@ -5510,9 +5689,10 @@
 "CATIDS":"-2-",
 "NAME":"Dijana Beauty",
 "INSTAID":"",
+"VIEWSGROWTH2019":5588.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":16564,
+"2019":16691,
 "2018":11103,
 "2017":3038,
 "2016":0,
@@ -5523,7 +5703,7 @@
 "VIDEOCOUNT":{
 "2019":110},
 "SUBCOUNT":{
-"2019":2830,
+"2019":2840,
 "2018":2846,
 "2017":2502,
 "2016":1137,
@@ -5534,9 +5714,10 @@
 "CATIDS":"-6-",
 "NAME":"Nelaz",
 "INSTAID":"",
+"VIEWSGROWTH2019":15045.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":201840,
+"2019":202186,
 "2018":187141,
 "2017":144356,
 "2016":38405,
@@ -5545,7 +5726,7 @@
 "UCurv66yDHPscdsZfJIQ_-MQ":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":18},
+"2019":14},
 "SUBCOUNT":{
 "2019":35,
 "2018":0,
@@ -5558,9 +5739,10 @@
 "CATIDS":"-6-",
 "NAME":"Guy Landolt",
 "INSTAID":"guylandolt",
+"VIEWSGROWTH2019":12313.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":16131,
+"2019":12313,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -5571,7 +5753,7 @@
 "VIDEOCOUNT":{
 "2019":28},
 "SUBCOUNT":{
-"2019":671,
+"2019":672,
 "2018":534,
 "2017":0,
 "2016":0,
@@ -5582,9 +5764,10 @@
 "CATIDS":"-8-",
 "NAME":"DritteStockTV",
 "INSTAID":"drittestockrecords",
+"VIEWSGROWTH2019":43558.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":142709,
+"2019":143520,
 "2018":99962,
 "2017":0,
 "2016":0,
@@ -5606,9 +5789,10 @@
 "CATIDS":"-3-",
 "NAME":"Manuel Lusti",
 "INSTAID":"manuel_lusti",
+"VIEWSGROWTH2019":2657.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":6523,
+"2019":6581,
 "2018":3924,
 "2017":0,
 "2016":0,
@@ -5617,9 +5801,9 @@
 "UCVek3PXVKWEtAeSVJZqgC3g":{
 "REALNAME":"Nico",
 "VIDEOCOUNT":{
-"2019":31},
+"2019":32},
 "SUBCOUNT":{
-"2019":223,
+"2019":233,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -5630,9 +5814,10 @@
 "CATIDS":"-5-6-",
 "NAME":"Predator Buddies.",
 "INSTAID":"predator_buddies",
+"VIEWSGROWTH2019":23701.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":22262,
+"2019":23701,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -5643,7 +5828,7 @@
 "VIDEOCOUNT":{
 "2019":106},
 "SUBCOUNT":{
-"2019":931,
+"2019":932,
 "2018":834,
 "2017":631,
 "2016":302,
@@ -5654,9 +5839,10 @@
 "CATIDS":"-6-",
 "NAME":"Snowly",
 "INSTAID":"snowly2368",
+"VIEWSGROWTH2019":100496.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":557992,
+"2019":560659,
 "2018":460163,
 "2017":310148,
 "2016":134516,
@@ -5665,9 +5851,9 @@
 "UCQNjg0-yEA8LoyCcWI-j8mA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":1083},
+"2019":1086},
 "SUBCOUNT":{
-"2019":75100,
+"2019":75500,
 "2018":60126,
 "2017":45321,
 "2016":35647,
@@ -5678,9 +5864,10 @@
 "CATIDS":"-6-9-",
 "NAME":"Blick",
 "INSTAID":"blick",
+"VIEWSGROWTH2019":-788525.0,
 "YTLINK":"https://www.youtube.com/bolzurich",
 "VIEWSCOUNT":{
-"2019":54675028,
+"2019":54922687,
 "2018":55711212,
 "2017":45537197,
 "2016":35150170,
@@ -5689,9 +5876,9 @@
 "UCQKOGmYTvhYLfA17ZNd_ENQ":{
 "REALNAME":"Stefan Veit",
 "VIDEOCOUNT":{
-"2019":581},
+"2019":583},
 "SUBCOUNT":{
-"2019":982,
+"2019":994,
 "2018":403,
 "2017":175,
 "2016":73,
@@ -5702,9 +5889,10 @@
 "CATIDS":"-7-",
 "NAME":"StefV1985",
 "INSTAID":"",
+"VIEWSGROWTH2019":750309.0,
 "YTLINK":"https://www.youtube.com/StefV1985",
 "VIEWSCOUNT":{
-"2019":1244519,
+"2019":1264407,
 "2018":514098,
 "2017":176617,
 "2016":39831,
@@ -5726,9 +5914,10 @@
 "CATIDS":"-8-",
 "NAME":"Andy Krainer",
 "INSTAID":"andykrainer_official",
+"VIEWSGROWTH2019":19042.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":18969,
+"2019":19042,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -5739,7 +5928,7 @@
 "VIDEOCOUNT":{
 "2019":0},
 "SUBCOUNT":{
-"2019":57,
+"2019":56,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -5750,6 +5939,7 @@
 "CATIDS":"-12-",
 "NAME":"Chuchichästli",
 "INSTAID":"chuchichaest.li",
+"VIEWSGROWTH2019":0.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
 "2019":0,
@@ -5761,9 +5951,9 @@
 "UChw-yaM11BebkoHY3InbpAQ":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":123},
+"2019":127},
 "SUBCOUNT":{
-"2019":156,
+"2019":157,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -5774,9 +5964,10 @@
 "CATIDS":"-6-12-",
 "NAME":"gango luege",
 "INSTAID":"gangoluege",
+"VIEWSGROWTH2019":17858.0,
 "YTLINK":"https://www.youtube.com/gangoluege",
 "VIEWSCOUNT":{
-"2019":17321,
+"2019":17858,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -5787,7 +5978,7 @@
 "VIDEOCOUNT":{
 "2019":104},
 "SUBCOUNT":{
-"2019":296,
+"2019":295,
 "2018":290,
 "2017":0,
 "2016":0,
@@ -5798,9 +5989,10 @@
 "CATIDS":"-1-",
 "NAME":"freelikeabird",
 "INSTAID":"",
+"VIEWSGROWTH2019":7343.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":34749,
+"2019":34907,
 "2018":27564,
 "2017":0,
 "2016":0,
@@ -5822,9 +6014,10 @@
 "CATIDS":"-6-",
 "NAME":"Kochersee",
 "INSTAID":"kochersee",
+"VIEWSGROWTH2019":2254.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":2244,
+"2019":2254,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -5846,9 +6039,10 @@
 "CATIDS":"-2-",
 "NAME":"Steffi Beauty",
 "INSTAID":"",
+"VIEWSGROWTH2019":288.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":285,
+"2019":288,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -5859,7 +6053,7 @@
 "VIDEOCOUNT":{
 "2019":23},
 "SUBCOUNT":{
-"2019":268,
+"2019":270,
 "2018":159,
 "2017":74,
 "2016":0,
@@ -5870,9 +6064,10 @@
 "CATIDS":"-6-",
 "NAME":"Angi Swiss",
 "INSTAID":"angi_swizz",
+"VIEWSGROWTH2019":4668.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":6909,
+"2019":7009,
 "2018":2341,
 "2017":1412,
 "2016":0,
@@ -5881,9 +6076,9 @@
 "UC6-wqyfq7zb-F22q__gB4Ag":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":11},
+"2019":12},
 "SUBCOUNT":{
-"2019":54,
+"2019":56,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -5894,9 +6089,10 @@
 "CATIDS":"-5-",
 "NAME":"Diego Brügger",
 "INSTAID":"diego.brugger",
+"VIEWSGROWTH2019":1985.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1871,
+"2019":1985,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -5918,9 +6114,10 @@
 "CATIDS":"-7-",
 "NAME":"riSurvival89",
 "INSTAID":"remoiller",
+"VIEWSGROWTH2019":1921455.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":5776882,
+"2019":5795518,
 "2018":3874063,
 "2017":4067166,
 "2016":2671693,
@@ -5942,9 +6139,10 @@
 "CATIDS":"-6-",
 "NAME":"DiEiniDa",
 "INSTAID":"",
+"VIEWSGROWTH2019":55.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":50,
+"2019":55,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -5955,7 +6153,7 @@
 "VIDEOCOUNT":{
 "2019":301},
 "SUBCOUNT":{
-"2019":6410,
+"2019":6470,
 "2018":3960,
 "2017":1745,
 "2016":0,
@@ -5966,9 +6164,10 @@
 "CATIDS":"-8-",
 "NAME":"Grüezi TV",
 "INSTAID":"",
+"VIEWSGROWTH2019":3800291.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":7736700,
+"2019":7855453,
 "2018":4055162,
 "2017":1758799,
 "2016":0,
@@ -5990,9 +6189,10 @@
 "CATIDS":"-4-11-",
 "NAME":"SwissAngryNoobs",
 "INSTAID":"",
+"VIEWSGROWTH2019":2101.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":5993,
+"2019":6044,
 "2018":3943,
 "2017":2046,
 "2016":0,
@@ -6014,9 +6214,10 @@
 "CATIDS":"-3-",
 "NAME":"Ronny's VLOG",
 "INSTAID":"ronnyvlog",
+"VIEWSGROWTH2019":69086.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":875407,
+"2019":877301,
 "2018":808215,
 "2017":657876,
 "2016":453541,
@@ -6038,9 +6239,10 @@
 "CATIDS":"-8-",
 "NAME":"Manillio",
 "INSTAID":"manillio",
+"VIEWSGROWTH2019":239543.0,
 "YTLINK":"https://www.youtube.com/ManillioVEVO",
 "VIEWSCOUNT":{
-"2019":1958599,
+"2019":1963354,
 "2018":1723811,
 "2017":1357851,
 "2016":748699,
@@ -6051,7 +6253,7 @@
 "VIDEOCOUNT":{
 "2019":70},
 "SUBCOUNT":{
-"2019":172,
+"2019":173,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6062,9 +6264,10 @@
 "CATIDS":"-10-",
 "NAME":"Grüne Schweiz",
 "INSTAID":"",
+"VIEWSGROWTH2019":56513.0,
 "YTLINK":"https://www.youtube.com/user/GrueneCH/",
 "VIEWSCOUNT":{
-"2019":56435,
+"2019":56513,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6075,7 +6278,7 @@
 "VIDEOCOUNT":{
 "2019":113},
 "SUBCOUNT":{
-"2019":445,
+"2019":443,
 "2018":394,
 "2017":109,
 "2016":0,
@@ -6086,9 +6289,10 @@
 "CATIDS":"-5-6-",
 "NAME":"Sili",
 "INSTAID":"swiss_racing",
+"VIEWSGROWTH2019":6622.0,
 "YTLINK":"https://www.youtube.com/silihd",
 "VIEWSCOUNT":{
-"2019":17807,
+"2019":17888,
 "2018":11266,
 "2017":3195,
 "2016":0,
@@ -6099,7 +6303,7 @@
 "VIDEOCOUNT":{
 "2019":47},
 "SUBCOUNT":{
-"2019":235,
+"2019":233,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6110,9 +6314,10 @@
 "CATIDS":"-6-",
 "NAME":"Sebufizzzt",
 "INSTAID":"sebufizzzt",
+"VIEWSGROWTH2019":9373.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":9333,
+"2019":9373,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6121,9 +6326,9 @@
 "UC1brmo4a2K1MCcl6BX-bUAA":{
 "REALNAME":"Adrian Vogt",
 "VIDEOCOUNT":{
-"2019":143},
+"2019":144},
 "SUBCOUNT":{
-"2019":14000,
+"2019":14100,
 "2018":8030,
 "2017":4383,
 "2016":838,
@@ -6134,9 +6339,10 @@
 "CATIDS":"-6-",
 "NAME":"Aditotoro",
 "INSTAID":"aditotoro",
+"VIEWSGROWTH2019":809507.0,
 "YTLINK":"https://www.youtube.com/aditotoro",
 "VIEWSCOUNT":{
-"2019":1426340,
+"2019":1447426,
 "2018":637919,
 "2017":238362,
 "2016":39649,
@@ -6145,9 +6351,9 @@
 "UCqBJkhAJRM3Xt2IoodWsCFA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":67},
+"2019":68},
 "SUBCOUNT":{
-"2019":119,
+"2019":122,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6158,9 +6364,10 @@
 "CATIDS":"-7-",
 "NAME":"Christkönigsglocke94",
 "INSTAID":"",
+"VIEWSGROWTH2019":52191.0,
 "YTLINK":"https://www.youtube.com/MrGT18",
 "VIEWSCOUNT":{
-"2019":51269,
+"2019":52191,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6169,9 +6376,9 @@
 "UCGgiYvDShOsQW2cxZgcBKWw":{
 "REALNAME":"Zoe Torinesi",
 "VIDEOCOUNT":{
-"2019":134},
+"2019":135},
 "SUBCOUNT":{
-"2019":1720,
+"2019":1740,
 "2018":1422,
 "2017":1080,
 "2016":0,
@@ -6182,9 +6389,10 @@
 "CATIDS":"-2-",
 "NAME":"Cookinesi",
 "INSTAID":"cookinesi",
+"VIEWSGROWTH2019":93358.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":755617,
+"2019":759790,
 "2018":666432,
 "2017":452033,
 "2016":0,
@@ -6193,9 +6401,9 @@
 "UCjms9ennZf0b15xGxeTtE1g":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":1548},
+"2019":1549},
 "SUBCOUNT":{
-"2019":4720,
+"2019":4760,
 "2018":3410,
 "2017":2888,
 "2016":2659,
@@ -6206,9 +6414,10 @@
 "CATIDS":"-6-",
 "NAME":"Robin Rehmann",
 "INSTAID":"robinrehmann",
+"VIEWSGROWTH2019":473296.0,
 "YTLINK":"https://www.youtube.com/radikalabnormal",
 "VIEWSCOUNT":{
-"2019":3889096,
+"2019":3898988,
 "2018":3425692,
 "2017":3225630,
 "2016":3092167,
@@ -6219,7 +6428,7 @@
 "VIDEOCOUNT":{
 "2019":4},
 "SUBCOUNT":{
-"2019":1970,
+"2019":1980,
 "2018":790,
 "2017":0,
 "2016":0,
@@ -6230,9 +6439,10 @@
 "CATIDS":"-8-",
 "NAME":"ZID Music",
 "INSTAID":"zidmusic",
+"VIEWSGROWTH2019":97932.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":477244,
+"2019":478986,
 "2018":381054,
 "2017":0,
 "2016":0,
@@ -6254,9 +6464,10 @@
 "CATIDS":"-6-7-",
 "NAME":"Anthrazit Pearl",
 "INSTAID":"anthrazit_pearl",
+"VIEWSGROWTH2019":16935.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":90624,
+"2019":91148,
 "2018":74213,
 "2017":58225,
 "2016":58225,
@@ -6278,9 +6489,10 @@
 "CATIDS":"-6-",
 "NAME":"Gabirano",
 "INSTAID":"gabirano",
+"VIEWSGROWTH2019":190384.0,
 "YTLINK":"https://www.youtube.com/91gabio",
 "VIEWSCOUNT":{
-"2019":1542083,
+"2019":1544597,
 "2018":1354213,
 "2017":1022733,
 "2016":0,
@@ -6302,9 +6514,10 @@
 "CATIDS":"-6-",
 "NAME":"The Legend of us",
 "INSTAID":"_the_legend_of_us_",
+"VIEWSGROWTH2019":889.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":4578,
+"2019":4591,
 "2018":3702,
 "2017":1419,
 "2016":0,
@@ -6313,7 +6526,7 @@
 "UC611db3Hrtwo1gzMYvyNDOA":{
 "REALNAME":"Urs Rohrer",
 "VIDEOCOUNT":{
-"2019":490},
+"2019":491},
 "SUBCOUNT":{
 "2019":738,
 "2018":549,
@@ -6326,9 +6539,10 @@
 "CATIDS":"-6-",
 "NAME":"Ursepio",
 "INSTAID":"",
+"VIEWSGROWTH2019":236252.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1457191,
+"2019":1464763,
 "2018":1228511,
 "2017":1042878,
 "2016":926530,
@@ -6350,9 +6564,10 @@
 "CATIDS":"-4-11-",
 "NAME":"ROQA",
 "INSTAID":"roqa.ch",
+"VIEWSGROWTH2019":2074.0,
 "YTLINK":"https://www.youtube.com/greamtg",
 "VIEWSCOUNT":{
-"2019":35024,
+"2019":35073,
 "2018":32999,
 "2017":29411,
 "2016":25014,
@@ -6374,9 +6589,10 @@
 "CATIDS":"-9-",
 "NAME":"rontaler media ag",
 "INSTAID":"rontaler.ch",
+"VIEWSGROWTH2019":179729.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":178100,
+"2019":179729,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6385,9 +6601,9 @@
 "UCVAfFYZgAo-Z6DBr43Db84Q":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":265},
+"2019":270},
 "SUBCOUNT":{
-"2019":4450,
+"2019":4560,
 "2018":2138,
 "2017":900,
 "2016":0,
@@ -6398,11 +6614,37 @@
 "CATIDS":"-7-",
 "NAME":"Schweizer Bauern",
 "INSTAID":"schweizer.bauern",
+"VIEWSGROWTH2019":796278.0,
 "YTLINK":"https://www.youtube.com/chbauernverband/",
 "VIEWSCOUNT":{
-"2019":1977099,
+"2019":2013093,
 "2018":1216815,
 "2017":928503,
+"2016":0,
+"2015":0
+
+"UC_ChvDfK-hjS-sbEswNtugg":{
+"REALNAME":"",
+"VIDEOCOUNT":{
+"2019":573},
+"SUBCOUNT":{
+"2019":2940,
+"2018":3042,
+"2017":1979,
+"2016":0,
+"2015":0},
+"THID":"prodaxch",
+"WEBLINK":"",
+"CHANNELPUBLISHEDAT":"08.01.2012",
+"CATIDS":"-4-",
+"NAME":"Prodax CH",
+"INSTAID":"prodaxch",
+"VIEWSGROWTH2019":45177.0,
+"YTLINK":"",
+"VIEWSCOUNT":{
+"2019":322284,
+"2018":277107,
+"2017":145739,
 "2016":0,
 "2015":0
 
@@ -6422,9 +6664,10 @@
 "CATIDS":"-6-",
 "NAME":"Ash April",
 "INSTAID":"ash_april",
+"VIEWSGROWTH2019":32885.0,
 "YTLINK":"https://www.youtube.com/ashapriltv",
 "VIEWSCOUNT":{
-"2019":133387,
+"2019":134306,
 "2018":101421,
 "2017":49419,
 "2016":10467,
@@ -6433,7 +6676,7 @@
 "UC-8Yram-BhOlmaTHxmVP0Cg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":226},
+"2019":227},
 "SUBCOUNT":{
 "2019":162,
 "2018":0,
@@ -6446,9 +6689,10 @@
 "CATIDS":"-7-",
 "NAME":"Marco Ghiringhelli",
 "INSTAID":"",
+"VIEWSGROWTH2019":48317.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":47840,
+"2019":48317,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6470,9 +6714,10 @@
 "CATIDS":"-5-",
 "NAME":"7speed.ch",
 "INSTAID":"7speed.ch",
+"VIEWSGROWTH2019":47727.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":47497,
+"2019":47727,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6481,9 +6726,9 @@
 "UCx9yK8r_t9WnbfJMA0TFlcw":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":369},
+"2019":375},
 "SUBCOUNT":{
-"2019":10000,
+"2019":10400,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6494,9 +6739,10 @@
 "CATIDS":"-7-",
 "NAME":"Don Superbe",
 "INSTAID":"",
+"VIEWSGROWTH2019":4290855.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":4061450,
+"2019":4290855,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6507,7 +6753,7 @@
 "VIDEOCOUNT":{
 "2019":49},
 "SUBCOUNT":{
-"2019":249,
+"2019":251,
 "2018":13,
 "2017":8,
 "2016":7,
@@ -6518,9 +6764,10 @@
 "CATIDS":"-1-5-",
 "NAME":"berg.land",
 "INSTAID":"",
+"VIEWSGROWTH2019":38098.0,
 "YTLINK":"https://www.youtube.com/ironcam",
 "VIEWSCOUNT":{
-"2019":84303,
+"2019":84805,
 "2018":46707,
 "2017":42300,
 "2016":40365,
@@ -6542,9 +6789,10 @@
 "CATIDS":"-1-",
 "NAME":"LittleCity",
 "INSTAID":"adislittlecity",
+"VIEWSGROWTH2019":129715.0,
 "YTLINK":"https://www.youtube.com/LittleCITYch",
 "VIEWSCOUNT":{
-"2019":795544,
+"2019":798796,
 "2018":669081,
 "2017":527340,
 "2016":354407,
@@ -6555,7 +6803,7 @@
 "VIDEOCOUNT":{
 "2019":34},
 "SUBCOUNT":{
-"2019":1520,
+"2019":1530,
 "2018":1312,
 "2017":958,
 "2016":753,
@@ -6566,9 +6814,10 @@
 "CATIDS":"-8-",
 "NAME":"Eldorado FM",
 "INSTAID":"eldoradofm",
+"VIEWSGROWTH2019":131489.0,
 "YTLINK":"https://www.youtube.com/youngtomslick",
 "VIEWSCOUNT":{
-"2019":1349458,
+"2019":1352793,
 "2018":1221304,
 "2017":1047459,
 "2016":891190,
@@ -6577,9 +6826,9 @@
 "UC78pqWYq7K9d-X3zRDWOIsg":{
 "REALNAME":"Ferhat Civrilli",
 "VIDEOCOUNT":{
-"2019":74},
+"2019":75},
 "SUBCOUNT":{
-"2019":160,
+"2019":159,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6590,9 +6839,10 @@
 "CATIDS":"-8-",
 "NAME":"CanavaR",
 "INSTAID":"",
+"VIEWSGROWTH2019":123394.0,
 "YTLINK":"https://www.youtube.com/canavarstylez",
 "VIEWSCOUNT":{
-"2019":123317,
+"2019":123394,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6603,7 +6853,7 @@
 "VIDEOCOUNT":{
 "2019":405},
 "SUBCOUNT":{
-"2019":1390,
+"2019":1380,
 "2018":1556,
 "2017":264,
 "2016":122,
@@ -6614,9 +6864,10 @@
 "CATIDS":"-4-11-",
 "NAME":"AemJaY",
 "INSTAID":"",
+"VIEWSGROWTH2019":5036.0,
 "YTLINK":"https://www.youtube.com/jayblastone",
 "VIEWSCOUNT":{
-"2019":51192,
+"2019":51277,
 "2018":46241,
 "2017":38719,
 "2016":19439,
@@ -6638,9 +6889,10 @@
 "CATIDS":"-3-7-8-",
 "NAME":"Hirn Wind",
 "INSTAID":"",
+"VIEWSGROWTH2019":656.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":653,
+"2019":656,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6651,7 +6903,7 @@
 "VIDEOCOUNT":{
 "2019":72},
 "SUBCOUNT":{
-"2019":152,
+"2019":153,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6662,9 +6914,10 @@
 "CATIDS":"-2-",
 "NAME":"GrillTube",
 "INSTAID":"mustersgenussmanufakur",
+"VIEWSGROWTH2019":15982.0,
 "YTLINK":"https://www.youtube.com/grilltube",
 "VIEWSCOUNT":{
-"2019":15668,
+"2019":15982,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6673,9 +6926,9 @@
 "UCtVMzzBMc8pfftIQzZXYQWw":{
 "REALNAME":"Pascal",
 "VIDEOCOUNT":{
-"2019":504},
+"2019":506},
 "SUBCOUNT":{
-"2019":390,
+"2019":391,
 "2018":349,
 "2017":314,
 "2016":159,
@@ -6686,9 +6939,10 @@
 "CATIDS":"-6-",
 "NAME":"Obscuro94",
 "INSTAID":"obscuro94",
+"VIEWSGROWTH2019":36904.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":247913,
+"2019":248705,
 "2018":211801,
 "2017":166594,
 "2016":78800,
@@ -6699,7 +6953,7 @@
 "VIDEOCOUNT":{
 "2019":217},
 "SUBCOUNT":{
-"2019":76400,
+"2019":76300,
 "2018":67197,
 "2017":49034,
 "2016":11505,
@@ -6710,9 +6964,10 @@
 "CATIDS":"-6-",
 "NAME":"Lionel",
 "INSTAID":"lionelbattegay",
+"VIEWSGROWTH2019":4013659.0,
 "YTLINK":"https://www.youtube.com/askswitzerlandch",
 "VIEWSCOUNT":{
-"2019":15789076,
+"2019":15863603,
 "2018":11849944,
 "2017":6731740,
 "2016":913853,
@@ -6734,9 +6989,10 @@
 "CATIDS":"-6-",
 "NAME":"Romanzone",
 "INSTAID":"romanzone_youtube",
+"VIEWSGROWTH2019":4638.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":4572,
+"2019":4638,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6745,9 +7001,9 @@
 "UCvGLQGXTem08AXlSQpTDziQ":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":9},
+"2019":10},
 "SUBCOUNT":{
-"2019":363,
+"2019":369,
 "2018":321,
 "2017":203,
 "2016":0,
@@ -6758,11 +7014,37 @@
 "CATIDS":"-8-",
 "NAME":"Eret Music",
 "INSTAID":"",
+"VIEWSGROWTH2019":41726.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":228452,
+"2019":231198,
 "2018":189472,
 "2017":85365,
+"2016":0,
+"2015":0
+
+"UCI-TAw4CtSpliFLz41bBWrQ":{
+"REALNAME":"",
+"VIDEOCOUNT":{
+"2019":78},
+"SUBCOUNT":{
+"2019":172,
+"2018":0,
+"2017":0,
+"2016":0,
+"2015":0},
+"THID":"",
+"WEBLINK":"https://www.higgs.ch",
+"CHANNELPUBLISHEDAT":"21.12.2017",
+"CATIDS":"-7-10-",
+"NAME":"Higgs",
+"INSTAID":"higgsmag",
+"VIEWSGROWTH2019":52914.0,
+"YTLINK":"",
+"VIEWSCOUNT":{
+"2019":52914,
+"2018":0,
+"2017":0,
 "2016":0,
 "2015":0
 
@@ -6782,9 +7064,10 @@
 "CATIDS":"-8-",
 "NAME":"znakkthat",
 "INSTAID":"",
+"VIEWSGROWTH2019":2233.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":2232,
+"2019":2233,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6793,9 +7076,9 @@
 "UCIMWDWFlebGaguhuZMRrSpA":{
 "REALNAME":"Zeki Bulgurcu",
 "VIDEOCOUNT":{
-"2019":131},
+"2019":133},
 "SUBCOUNT":{
-"2019":9930,
+"2019":10000,
 "2018":4750,
 "2017":0,
 "2016":0,
@@ -6806,9 +7089,10 @@
 "CATIDS":"-6-",
 "NAME":"Zekisworld",
 "INSTAID":"zekisworld",
+"VIEWSGROWTH2019":1123754.0,
 "YTLINK":"https://www.youtube.com/ZekiTV1",
 "VIEWSCOUNT":{
-"2019":1752341,
+"2019":1779339,
 "2018":655585,
 "2017":0,
 "2016":0,
@@ -6825,14 +7109,15 @@
 "2016":0,
 "2015":0},
 "THID":"swiss_rampler",
-"WEBLINK":"",
+"WEBLINK":"https://schweizerclan.wixsite.com/--shc--",
 "CHANNELPUBLISHEDAT":"09.11.2014",
 "CATIDS":"-4-11-",
 "NAME":"Swiss RaMpLeR",
 "INSTAID":"swissrampler",
+"VIEWSGROWTH2019":5364.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":5356,
+"2019":5364,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6854,9 +7139,10 @@
 "CATIDS":"-6-",
 "NAME":"Beta-Show Deluxe",
 "INSTAID":"betashowdeluxe",
+"VIEWSGROWTH2019":4103.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":4014,
+"2019":4103,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -6865,9 +7151,9 @@
 "UCwAxA_gDbnfE45J9msXd3yw":{
 "REALNAME":"Loredana und Kilian Bamert",
 "VIDEOCOUNT":{
-"2019":288},
+"2019":290},
 "SUBCOUNT":{
-"2019":9300,
+"2019":9350,
 "2018":4367,
 "2017":1596,
 "2016":0,
@@ -6878,9 +7164,10 @@
 "CATIDS":"-1-",
 "NAME":"saturday and sunday",
 "INSTAID":"saturday.and.sunday",
+"VIEWSGROWTH2019":663724.0,
 "YTLINK":"https://www.youtube.com/saturdayandsundayvlog",
 "VIEWSCOUNT":{
-"2019":1266878,
+"2019":1284212,
 "2018":620488,
 "2017":214527,
 "2016":0,
@@ -6891,7 +7178,7 @@
 "VIDEOCOUNT":{
 "2019":23},
 "SUBCOUNT":{
-"2019":25800,
+"2019":25900,
 "2018":15877,
 "2017":10696,
 "2016":0,
@@ -6902,9 +7189,10 @@
 "CATIDS":"-8-",
 "NAME":"419 Finesse Gang",
 "INSTAID":"419finessegang",
+"VIEWSGROWTH2019":846258.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":4139355,
+"2019":4158399,
 "2018":3312141,
 "2017":2062021,
 "2016":0,
@@ -6926,9 +7214,10 @@
 "CATIDS":"-8-",
 "NAME":"Semantik",
 "INSTAID":"sema.ntik",
+"VIEWSGROWTH2019":4719.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":131338,
+"2019":131495,
 "2018":126776,
 "2017":0,
 "2016":0,
@@ -6950,9 +7239,10 @@
 "CATIDS":"-4-11-",
 "NAME":"Swisstendo",
 "INSTAID":"swisstendoo",
+"VIEWSGROWTH2019":-379.0,
 "YTLINK":"https://www.youtube.com/swisstendo",
 "VIEWSCOUNT":{
-"2019":3029,
+"2019":3040,
 "2018":3419,
 "2017":11076,
 "2016":0,
@@ -6961,9 +7251,9 @@
 "UCzOJo3lox5nhE1n2pPD4Yzg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":450},
+"2019":452},
 "SUBCOUNT":{
-"2019":15500,
+"2019":15900,
 "2018":11289,
 "2017":5063,
 "2016":1182,
@@ -6974,9 +7264,10 @@
 "CATIDS":"-13-",
 "NAME":"Galaxus",
 "INSTAID":"galaxus",
+"VIEWSGROWTH2019":9374821.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":23591297,
+"2019":24384870,
 "2018":15010049,
 "2017":11740035,
 "2016":7024331,
@@ -6985,7 +7276,7 @@
 "UCl4lkSSo6rc5u15Z5cxWncA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":1597},
+"2019":1600},
 "SUBCOUNT":{
 "2019":105000,
 "2018":94757,
@@ -6998,9 +7289,10 @@
 "CATIDS":"-8-9-",
 "NAME":"SRF Musik",
 "INSTAID":"",
+"VIEWSGROWTH2019":1.4300396E7,
 "YTLINK":"https://www.youtube.com/srfmusik",
 "VIEWSCOUNT":{
-"2019":128723472,
+"2019":129154138,
 "2018":114853742,
 "2017":96438204,
 "2016":64138700,
@@ -7011,7 +7303,7 @@
 "VIDEOCOUNT":{
 "2019":77},
 "SUBCOUNT":{
-"2019":826,
+"2019":825,
 "2018":834,
 "2017":810,
 "2016":0,
@@ -7022,9 +7314,10 @@
 "CATIDS":"-6-",
 "NAME":"FizZzers",
 "INSTAID":"fizzzers",
+"VIEWSGROWTH2019":721.0,
 "YTLINK":"https://www.youtube.com/thefizzersoriginal",
 "VIEWSCOUNT":{
-"2019":33528,
+"2019":33533,
 "2018":32812,
 "2017":30493,
 "2016":0,
@@ -7035,7 +7328,7 @@
 "VIDEOCOUNT":{
 "2019":390},
 "SUBCOUNT":{
-"2019":485,
+"2019":499,
 "2018":297,
 "2017":76,
 "2016":0,
@@ -7046,9 +7339,10 @@
 "CATIDS":"-4-",
 "NAME":"Speedy Swiss Gaming",
 "INSTAID":"speedy_swiss_gaming",
+"VIEWSGROWTH2019":62414.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":138867,
+"2019":141072,
 "2018":78658,
 "2017":20070,
 "2016":0,
@@ -7059,7 +7353,7 @@
 "VIDEOCOUNT":{
 "2019":183},
 "SUBCOUNT":{
-"2019":338,
+"2019":340,
 "2018":246,
 "2017":0,
 "2016":0,
@@ -7070,9 +7364,10 @@
 "CATIDS":"-13-",
 "NAME":"Jucker Farm",
 "INSTAID":"jucker_farm",
+"VIEWSGROWTH2019":51235.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":270675,
+"2019":271935,
 "2018":220700,
 "2017":0,
 "2016":0,
@@ -7081,9 +7376,9 @@
 "UCzTS-cKceoKzYPQBCnDOtrg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":42},
+"2019":43},
 "SUBCOUNT":{
-"2019":679,
+"2019":687,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -7094,9 +7389,10 @@
 "CATIDS":"-6-12-",
 "NAME":"Joël von Mutzenbecher",
 "INSTAID":"vonmutzenbecher",
+"VIEWSGROWTH2019":127772.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":126475,
+"2019":127772,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -7105,9 +7401,9 @@
 "UCn4DYnlcZQQ_LNHUHaQhObQ":{
 "REALNAME":"Rahel & René",
 "VIDEOCOUNT":{
-"2019":40},
+"2019":46},
 "SUBCOUNT":{
-"2019":89,
+"2019":88,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -7118,9 +7414,10 @@
 "CATIDS":"-1-",
 "NAME":"R&R On Tour",
 "INSTAID":"r.r.on.tour",
+"VIEWSGROWTH2019":34447.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":30013,
+"2019":34447,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -7129,9 +7426,9 @@
 "UCFsDkwUYQ9kkMLhgDhH2L_Q":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":334},
+"2019":344},
 "SUBCOUNT":{
-"2019":121,
+"2019":123,
 "2018":49,
 "2017":34,
 "2016":0,
@@ -7142,9 +7439,10 @@
 "CATIDS":"-6-9-13-",
 "NAME":"CCOne",
 "INSTAID":"cconetv",
+"VIEWSGROWTH2019":12215.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":24532,
+"2019":25126,
 "2018":12911,
 "2017":7535,
 "2016":0,
@@ -7153,9 +7451,9 @@
 "UC9e-XjSmv_fUm78NjqjWTPw":{
 "REALNAME":"Joel",
 "VIDEOCOUNT":{
-"2019":274},
+"2019":282},
 "SUBCOUNT":{
-"2019":224,
+"2019":246,
 "2018":138,
 "2017":0,
 "2016":0,
@@ -7166,9 +7464,10 @@
 "CATIDS":"-4-",
 "NAME":"Swiss GamingTV",
 "INSTAID":"",
+"VIEWSGROWTH2019":4112.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":9060,
+"2019":10228,
 "2018":6116,
 "2017":0,
 "2016":0,
@@ -7179,7 +7478,7 @@
 "VIDEOCOUNT":{
 "2019":80},
 "SUBCOUNT":{
-"2019":66,
+"2019":67,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -7190,9 +7489,10 @@
 "CATIDS":"-3-13-",
 "NAME":"Studioeins",
 "INSTAID":"studioeins",
+"VIEWSGROWTH2019":9941.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":9554,
+"2019":9941,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -7214,9 +7514,10 @@
 "CATIDS":"-3-",
 "NAME":"André Burri Fotografie",
 "INSTAID":"burrifotografie.ch",
+"VIEWSGROWTH2019":7117.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":7079,
+"2019":7117,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -7225,7 +7526,7 @@
 "UCLqs8-BRLc7anXSHXZHBXeQ":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":20},
+"2019":21},
 "SUBCOUNT":{
 "2019":71,
 "2018":0,
@@ -7238,9 +7539,10 @@
 "CATIDS":"-6-8-",
 "NAME":"think.answer.share",
 "INSTAID":"think.answer.share",
+"VIEWSGROWTH2019":13315.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":13034,
+"2019":13315,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -7262,9 +7564,10 @@
 "CATIDS":"-7-",
 "NAME":"Vergleiche",
 "INSTAID":"vergleiche.ch",
+"VIEWSGROWTH2019":22526.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":22468,
+"2019":22526,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -7273,7 +7576,7 @@
 "UCCfpKXMBuL0hP83BADHbaDA":{
 "REALNAME":"Fäbu",
 "VIDEOCOUNT":{
-"2019":626},
+"2019":627},
 "SUBCOUNT":{
 "2019":0,
 "2018":25,
@@ -7286,9 +7589,10 @@
 "CATIDS":"-7-",
 "NAME":"Hoschi",
 "INSTAID":"",
+"VIEWSGROWTH2019":75202.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":202600,
+"2019":205538,
 "2018":130336,
 "2017":69798,
 "2016":32438,
@@ -7310,9 +7614,10 @@
 "CATIDS":"-8-",
 "NAME":"TelliRecords",
 "INSTAID":"fratellib",
+"VIEWSGROWTH2019":190147.0,
 "YTLINK":"https://www.youtube.com/TelliRecords",
 "VIEWSCOUNT":{
-"2019":2032717,
+"2019":2037123,
 "2018":1846976,
 "2017":1486587,
 "2016":1244181,
@@ -7321,7 +7626,7 @@
 "UC89Co9H3-JzUHtLuF5sTzvA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":111},
+"2019":112},
 "SUBCOUNT":{
 "2019":4200,
 "2018":3146,
@@ -7334,9 +7639,10 @@
 "CATIDS":"-3-",
 "NAME":"Pascal Erb",
 "INSTAID":"pascalerbcom",
+"VIEWSGROWTH2019":118918.0,
 "YTLINK":"https://www.youtube.com/PascalErb",
 "VIEWSCOUNT":{
-"2019":549803,
+"2019":553182,
 "2018":434264,
 "2017":299294,
 "2016":169416,
@@ -7345,9 +7651,9 @@
 "UC0Rcwf8aMBpi0tHCtIll7KQ":{
 "REALNAME":"Jürg Hartmann",
 "VIDEOCOUNT":{
-"2019":848},
+"2019":851},
 "SUBCOUNT":{
-"2019":2540,
+"2019":2560,
 "2018":1990,
 "2017":1301,
 "2016":616,
@@ -7358,9 +7664,10 @@
 "CATIDS":"-4-",
 "NAME":"GrischaYeti",
 "INSTAID":"vifye_yt",
+"VIEWSGROWTH2019":105535.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":346050,
+"2019":349453,
 "2018":243918,
 "2017":114865,
 "2016":42183,
@@ -7371,7 +7678,7 @@
 "VIDEOCOUNT":{
 "2019":106},
 "SUBCOUNT":{
-"2019":26400,
+"2019":26500,
 "2018":22149,
 "2017":13680,
 "2016":7777,
@@ -7382,9 +7689,10 @@
 "CATIDS":"-8-",
 "NAME":"Bakaramusic",
 "INSTAID":"bakaramusic",
+"VIEWSGROWTH2019":7019293.0,
 "YTLINK":"https://www.youtube.com/bakaramusik",
 "VIEWSCOUNT":{
-"2019":35731107,
+"2019":35898965,
 "2018":28879672,
 "2017":18140193,
 "2016":11657676,
@@ -7395,7 +7703,7 @@
 "VIDEOCOUNT":{
 "2019":68},
 "SUBCOUNT":{
-"2019":999,
+"2019":1000,
 "2018":724,
 "2017":368,
 "2016":107,
@@ -7406,9 +7714,10 @@
 "CATIDS":"-6-",
 "NAME":"EinfachSayan",
 "INSTAID":"einfachsayan",
+"VIEWSGROWTH2019":10809.0,
 "YTLINK":"https://www.youtube.com/einfachsayan",
 "VIEWSCOUNT":{
-"2019":40129,
+"2019":40282,
 "2018":29473,
 "2017":16814,
 "2016":7949,
@@ -7419,7 +7728,7 @@
 "VIDEOCOUNT":{
 "2019":37},
 "SUBCOUNT":{
-"2019":144,
+"2019":145,
 "2018":117,
 "2017":63,
 "2016":0,
@@ -7430,9 +7739,10 @@
 "CATIDS":"-2-",
 "NAME":"Princess.ch",
 "INSTAID":"princess_ch",
+"VIEWSGROWTH2019":15900.0,
 "YTLINK":"https://www.youtube.com/princess8213",
 "VIEWSCOUNT":{
-"2019":34257,
+"2019":34825,
 "2018":18925,
 "2017":5217,
 "2016":0,
@@ -7443,7 +7753,7 @@
 "VIDEOCOUNT":{
 "2019":57},
 "SUBCOUNT":{
-"2019":863,
+"2019":865,
 "2018":533,
 "2017":166,
 "2016":0,
@@ -7454,9 +7764,10 @@
 "CATIDS":"-6-11-",
 "NAME":"JoshuaSpielt",
 "INSTAID":"joshuaspielt",
+"VIEWSGROWTH2019":19881.0,
 "YTLINK":"https://www.youtube.com/joshuaspielt",
 "VIEWSCOUNT":{
-"2019":38387,
+"2019":38691,
 "2018":18810,
 "2017":13849,
 "2016":0,
@@ -7465,9 +7776,9 @@
 "UC1un-ntTO7GVbBGWdjWq1hg":{
 "REALNAME":"Marco Bliggensdorfer",
 "VIDEOCOUNT":{
-"2019":206},
+"2019":213},
 "SUBCOUNT":{
-"2019":20300,
+"2019":20400,
 "2018":16949,
 "2017":10476,
 "2016":9368,
@@ -7478,9 +7789,10 @@
 "CATIDS":"-8-",
 "NAME":"Bligg TV",
 "INSTAID":"bligg_blizo",
+"VIEWSGROWTH2019":2642921.0,
 "YTLINK":"https://www.youtube.com/BliggTv",
 "VIEWSCOUNT":{
-"2019":17189759,
+"2019":17264209,
 "2018":14621288,
 "2017":10679631,
 "2016":9448364,
@@ -7489,9 +7801,9 @@
 "UCTB7mdyAxm8jF97cSuVxDpA":{
 "REALNAME":"Andreas Christen & David Bucher",
 "VIDEOCOUNT":{
-"2019":87},
+"2019":88},
 "SUBCOUNT":{
-"2019":5100,
+"2019":5170,
 "2018":1015,
 "2017":909,
 "2016":669,
@@ -7502,9 +7814,10 @@
 "CATIDS":"-8-",
 "NAME":"Dabu Fantastic",
 "INSTAID":"dabufantastic",
+"VIEWSGROWTH2019":33406.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":857534,
+"2019":859479,
 "2018":826073,
 "2017":767468,
 "2016":642867,
@@ -7513,9 +7826,9 @@
 "UCwZSjN2NfSxKd-dE8V9ElsQ":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":73},
+"2019":72},
 "SUBCOUNT":{
-"2019":11500,
+"2019":11600,
 "2018":8717,
 "2017":6182,
 "2016":4461,
@@ -7526,9 +7839,10 @@
 "CATIDS":"-3-6-",
 "NAME":"Gian Maria Finger",
 "INSTAID":"gianmariafinger",
+"VIEWSGROWTH2019":290378.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":861539,
+"2019":865412,
 "2018":575034,
 "2017":397386,
 "2016":79390,
@@ -7537,9 +7851,9 @@
 "UCh_GQqobenO55IJ9sYZWndA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":1760},
+"2019":1764},
 "SUBCOUNT":{
-"2019":58100,
+"2019":58900,
 "2018":30081,
 "2017":17405,
 "2016":10770,
@@ -7550,9 +7864,10 @@
 "CATIDS":"-9-",
 "NAME":"SRF Kultur",
 "INSTAID":"",
+"VIEWSGROWTH2019":8614558.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":20461921,
+"2019":20774390,
 "2018":12159832,
 "2017":7922811,
 "2016":4677237,
@@ -7563,7 +7878,7 @@
 "VIDEOCOUNT":{
 "2019":15},
 "SUBCOUNT":{
-"2019":2170,
+"2019":2160,
 "2018":2170,
 "2017":796,
 "2016":0,
@@ -7574,9 +7889,10 @@
 "CATIDS":"-8-",
 "NAME":"Stereo Luchs",
 "INSTAID":"puppastereo",
+"VIEWSGROWTH2019":437396.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1469208,
+"2019":1483186,
 "2018":1045790,
 "2017":311217,
 "2016":0,
@@ -7587,7 +7903,7 @@
 "VIDEOCOUNT":{
 "2019":6},
 "SUBCOUNT":{
-"2019":164,
+"2019":165,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -7598,9 +7914,10 @@
 "CATIDS":"-8-",
 "NAME":"24Dias",
 "INSTAID":"",
+"VIEWSGROWTH2019":19029.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":18938,
+"2019":19029,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -7622,9 +7939,10 @@
 "CATIDS":"-5-",
 "NAME":"Leming CH",
 "INSTAID":"leming_ch",
+"VIEWSGROWTH2019":1996.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1987,
+"2019":1996,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -7635,7 +7953,7 @@
 "VIDEOCOUNT":{
 "2019":117},
 "SUBCOUNT":{
-"2019":1050,
+"2019":1080,
 "2018":851,
 "2017":0,
 "2016":0,
@@ -7646,9 +7964,10 @@
 "CATIDS":"-13-",
 "NAME":"Aldi Schweiz",
 "INSTAID":"aldi_suisse",
+"VIEWSGROWTH2019":2786293.0,
 "YTLINK":"https://www.youtube.com/ALDISUISSEAG",
 "VIEWSCOUNT":{
-"2019":7092288,
+"2019":7982798,
 "2018":5196505,
 "2017":0,
 "2016":0,
@@ -7670,9 +7989,10 @@
 "CATIDS":"-3-",
 "NAME":"JanikR.",
 "INSTAID":"_janikr._",
+"VIEWSGROWTH2019":-569.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":910,
+"2019":914,
 "2018":1483,
 "2017":816,
 "2016":165,
@@ -7694,9 +8014,10 @@
 "CATIDS":"-8-",
 "NAME":"S.O.S",
 "INSTAID":"",
+"VIEWSGROWTH2019":1100539.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":4004676,
+"2019":4027352,
 "2018":2926813,
 "2017":1798018,
 "2016":484395,
@@ -7718,9 +8039,10 @@
 "CATIDS":"-1-",
 "NAME":"Daytrippers CH",
 "INSTAID":"daytrippers.ch",
+"VIEWSGROWTH2019":13771.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":53297,
+"2019":53612,
 "2018":39841,
 "2017":22943,
 "2016":0,
@@ -7742,9 +8064,10 @@
 "CATIDS":"-6-9-",
 "NAME":"Late Update",
 "INSTAID":"srflateupdate",
+"VIEWSGROWTH2019":240837.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":235696,
+"2019":240837,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -7753,9 +8076,9 @@
 "UC5EjYsIFpQPF0mMfH4e2DeA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":482},
+"2019":483},
 "SUBCOUNT":{
-"2019":5310,
+"2019":5400,
 "2018":4462,
 "2017":3315,
 "2016":1950,
@@ -7766,9 +8089,10 @@
 "CATIDS":"-6-9-13-",
 "NAME":"Watson",
 "INSTAID":"watson_news",
+"VIEWSGROWTH2019":-689661.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":2921132,
+"2019":2981920,
 "2018":3671581,
 "2017":1700878,
 "2016":903760,
@@ -7777,9 +8101,9 @@
 "UC3TPzbRPjTadQKUINfKm11Q":{
 "REALNAME":"Janine & Dominik",
 "VIDEOCOUNT":{
-"2019":7},
+"2019":8},
 "SUBCOUNT":{
-"2019":27,
+"2019":28,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -7790,9 +8114,10 @@
 "CATIDS":"-1-",
 "NAME":"triptipp",
 "INSTAID":"triptipp.ch",
+"VIEWSGROWTH2019":1872.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1757,
+"2019":1872,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -7803,7 +8128,7 @@
 "VIDEOCOUNT":{
 "2019":32},
 "SUBCOUNT":{
-"2019":192,
+"2019":199,
 "2018":137,
 "2017":73,
 "2016":52,
@@ -7814,9 +8139,10 @@
 "CATIDS":"-6-",
 "NAME":"Arnold in Action TV",
 "INSTAID":"arnold_in_action_tv",
+"VIEWSGROWTH2019":4672.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":9526,
+"2019":9742,
 "2018":5070,
 "2017":7158,
 "2016":682,
@@ -7838,9 +8164,10 @@
 "CATIDS":"-6-",
 "NAME":"Iris Reeves",
 "INSTAID":"iris_reeves",
+"VIEWSGROWTH2019":38189.0,
 "YTLINK":"https://www.youtube.com/irisreeves",
 "VIEWSCOUNT":{
-"2019":1104916,
+"2019":1105415,
 "2018":1067226,
 "2017":988067,
 "2016":787991,
@@ -7849,9 +8176,9 @@
 "UCVT4bINXdm-l9bconAaErTg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":5872},
+"2019":5893},
 "SUBCOUNT":{
-"2019":3150,
+"2019":3170,
 "2018":2153,
 "2017":880,
 "2016":385,
@@ -7862,9 +8189,10 @@
 "CATIDS":"-5-",
 "NAME":"rro Oberwallis",
 "INSTAID":"",
+"VIEWSGROWTH2019":1388386.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":4561044,
+"2019":4592601,
 "2018":3204215,
 "2017":1808942,
 "2016":920066,
@@ -7875,7 +8203,7 @@
 "VIDEOCOUNT":{
 "2019":30},
 "SUBCOUNT":{
-"2019":1100,
+"2019":1110,
 "2018":1079,
 "2017":979,
 "2016":838,
@@ -7886,9 +8214,10 @@
 "CATIDS":"-8-",
 "NAME":"Boys on Pills",
 "INSTAID":"",
+"VIEWSGROWTH2019":67489.0,
 "YTLINK":"https://www.youtube.com/BoysOnPills",
 "VIEWSCOUNT":{
-"2019":1367874,
+"2019":1369177,
 "2018":1301688,
 "2017":1167904,
 "2016":979457,
@@ -7899,7 +8228,7 @@
 "VIDEOCOUNT":{
 "2019":68},
 "SUBCOUNT":{
-"2019":55800,
+"2019":57200,
 "2018":31180,
 "2017":0,
 "2016":0,
@@ -7910,9 +8239,10 @@
 "CATIDS":"-7-",
 "NAME":"Bregy Pictures",
 "INSTAID":"bregypictures",
+"VIEWSGROWTH2019":1.120406E7,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":21465781,
+"2019":22204060,
 "2018":11000000,
 "2017":0,
 "2016":0,
@@ -7921,7 +8251,7 @@
 "UC85v5GpnNW8k0MRDtIhaJQg":{
 "REALNAME":"Marcel Juen",
 "VIDEOCOUNT":{
-"2019":164},
+"2019":166},
 "SUBCOUNT":{
 "2019":60,
 "2018":46,
@@ -7934,9 +8264,10 @@
 "CATIDS":"-7-",
 "NAME":"Kommunikationstipps",
 "INSTAID":"marceljuen.ch",
+"VIEWSGROWTH2019":4159.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":28145,
+"2019":28260,
 "2018":24101,
 "2017":14877,
 "2016":0,
@@ -7945,9 +8276,9 @@
 "UCQBe58uAlyWR_avwCYkx1Rw":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":839},
+"2019":851},
 "SUBCOUNT":{
-"2019":1820,
+"2019":1840,
 "2018":1191,
 "2017":632,
 "2016":282,
@@ -7958,9 +8289,10 @@
 "CATIDS":"-7-",
 "NAME":"Lehrstellen Schweiz",
 "INSTAID":"yousty.ch",
+"VIEWSGROWTH2019":430685.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1162136,
+"2019":1185564,
 "2018":754879,
 "2017":531914,
 "2016":238231,
@@ -7971,7 +8303,7 @@
 "VIDEOCOUNT":{
 "2019":422},
 "SUBCOUNT":{
-"2019":249,
+"2019":250,
 "2018":229,
 "2017":143,
 "2016":0,
@@ -7982,9 +8314,10 @@
 "CATIDS":"-4-11-",
 "NAME":"Geekstübli",
 "INSTAID":"geek_stuebli",
+"VIEWSGROWTH2019":1361.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":15991,
+"2019":16057,
 "2018":14696,
 "2017":8236,
 "2016":0,
@@ -7995,7 +8328,7 @@
 "VIDEOCOUNT":{
 "2019":77},
 "SUBCOUNT":{
-"2019":6480,
+"2019":6500,
 "2018":5899,
 "2017":0,
 "2016":0,
@@ -8006,9 +8339,10 @@
 "CATIDS":"-8-",
 "NAME":"FarMoreTV",
 "INSTAID":"fm_music_group",
+"VIEWSGROWTH2019":818181.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":5389808,
+"2019":5408264,
 "2018":4590083,
 "2017":0,
 "2016":0,
@@ -8019,7 +8353,7 @@
 "VIDEOCOUNT":{
 "2019":20},
 "SUBCOUNT":{
-"2019":87,
+"2019":88,
 "2018":65,
 "2017":0,
 "2016":0,
@@ -8030,9 +8364,10 @@
 "CATIDS":"-3-6-",
 "NAME":"Alexander Rodshtein",
 "INSTAID":"alex.rodshtein",
+"VIEWSGROWTH2019":8941.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":22456,
+"2019":22592,
 "2018":13651,
 "2017":0,
 "2016":0,
@@ -8043,7 +8378,7 @@
 "VIDEOCOUNT":{
 "2019":2166},
 "SUBCOUNT":{
-"2019":1590,
+"2019":1610,
 "2018":1145,
 "2017":876,
 "2016":691,
@@ -8054,9 +8389,10 @@
 "CATIDS":"-7-",
 "NAME":"Beat Hochheuser",
 "INSTAID":"beathochheuser",
+"VIEWSGROWTH2019":715382.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":6517726,
+"2019":6542873,
 "2018":5827491,
 "2017":5301151,
 "2016":4836177,
@@ -8065,9 +8401,9 @@
 "UC0cyCeavSLZokLnYZZUdObg":{
 "REALNAME":"Björn Hering",
 "VIDEOCOUNT":{
-"2019":289},
+"2019":294},
 "SUBCOUNT":{
-"2019":926,
+"2019":927,
 "2018":875,
 "2017":182,
 "2016":116,
@@ -8078,9 +8414,10 @@
 "CATIDS":"-6-",
 "NAME":"Mediafisch",
 "INSTAID":"",
+"VIEWSGROWTH2019":74033.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1006176,
+"2019":1008774,
 "2018":934741,
 "2017":217463,
 "2016":138433,
@@ -8089,9 +8426,9 @@
 "UCqdXpIZSamBceDmH8uOoTHA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":133},
+"2019":135},
 "SUBCOUNT":{
-"2019":6070,
+"2019":6120,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -8102,9 +8439,10 @@
 "CATIDS":"-9-",
 "NAME":"SRF Kassensturz",
 "INSTAID":"srfkonsum",
+"VIEWSGROWTH2019":886075.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":861547,
+"2019":886075,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -8115,7 +8453,7 @@
 "VIDEOCOUNT":{
 "2019":68},
 "SUBCOUNT":{
-"2019":216,
+"2019":221,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -8126,9 +8464,10 @@
 "CATIDS":"-6-",
 "NAME":"Gummi Love",
 "INSTAID":"gummi_love",
+"VIEWSGROWTH2019":40495.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":40172,
+"2019":40495,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -8137,9 +8476,9 @@
 "UCma9AvfSLu-FA8MiTI0RNVw":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":473},
+"2019":479},
 "SUBCOUNT":{
-"2019":6450,
+"2019":6500,
 "2018":4217,
 "2017":2357,
 "2016":0,
@@ -8150,9 +8489,10 @@
 "CATIDS":"-8-",
 "NAME":"AlpenwelleTV",
 "INSTAID":"",
+"VIEWSGROWTH2019":2198890.0,
 "YTLINK":"https://www.youtube.com/AlpenwelleTV",
 "VIEWSCOUNT":{
-"2019":5556473,
+"2019":5620381,
 "2018":3421491,
 "2017":1918210,
 "2016":0,
@@ -8161,9 +8501,9 @@
 "UCWDVFeshha5CxOULxawNVBg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":12},
+"2019":13},
 "SUBCOUNT":{
-"2019":651,
+"2019":806,
 "2018":244,
 "2017":0,
 "2016":0,
@@ -8174,9 +8514,10 @@
 "CATIDS":"-6-",
 "NAME":"Jan Breitenstein",
 "INSTAID":"janbreitenstein_",
+"VIEWSGROWTH2019":1130.0,
 "YTLINK":"https://www.youtube.com/janbreitenstein",
 "VIEWSCOUNT":{
-"2019":2496,
+"2019":3018,
 "2018":1888,
 "2017":0,
 "2016":0,
@@ -8185,9 +8526,9 @@
 "UCHIUqkAKhVuPEpT7A5050ag":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":64},
+"2019":65},
 "SUBCOUNT":{
-"2019":3790,
+"2019":3830,
 "2018":2962,
 "2017":1278,
 "2016":453,
@@ -8198,9 +8539,10 @@
 "CATIDS":"-8-",
 "NAME":"NØ BASIC",
 "INSTAID":"wearenobasic",
+"VIEWSGROWTH2019":354134.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":1205602,
+"2019":1218460,
 "2018":864326,
 "2017":436526,
 "2016":168038,
@@ -8211,7 +8553,7 @@
 "VIDEOCOUNT":{
 "2019":19},
 "SUBCOUNT":{
-"2019":1220,
+"2019":1230,
 "2018":791,
 "2017":710,
 "2016":67,
@@ -8222,9 +8564,10 @@
 "CATIDS":"-6-8-11-",
 "NAME":"Sibuna",
 "INSTAID":"sibunamusic",
+"VIEWSGROWTH2019":3740.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":19883,
+"2019":20029,
 "2018":16289,
 "2017":10862,
 "2016":675,
@@ -8233,9 +8576,9 @@
 "UC2I4vIv7VI2mSM-QzmHnJRA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":2107},
+"2019":2109},
 "SUBCOUNT":{
-"2019":4220,
+"2019":4510,
 "2018":2291,
 "2017":1199,
 "2016":652,
@@ -8246,9 +8589,10 @@
 "CATIDS":"-7-",
 "NAME":"Kirmesfan Schweiz",
 "INSTAID":"kirmesfan_schweiz",
+"VIEWSGROWTH2019":1639167.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":2867891,
+"2019":3011240,
 "2018":1372073,
 "2017":862252,
 "2016":374701,
@@ -8257,9 +8601,9 @@
 "UCwOZ-UZDXNydwULvnffMacA":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":287},
+"2019":291},
 "SUBCOUNT":{
-"2019":16400,
+"2019":16500,
 "2018":15260,
 "2017":14335,
 "2016":12484,
@@ -8270,9 +8614,10 @@
 "CATIDS":"-9-13-",
 "NAME":"Swisscom",
 "INSTAID":"swisscom",
+"VIEWSGROWTH2019":5494407.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":27486836,
+"2019":27952815,
 "2018":22458408,
 "2017":14084833,
 "2016":7973549,
@@ -8281,9 +8626,9 @@
 "UCg7vN1WFPnsYPRnwIGT52JA":{
 "REALNAME":"Luca Aurilio",
 "VIDEOCOUNT":{
-"2019":41},
+"2019":42},
 "SUBCOUNT":{
-"2019":190,
+"2019":191,
 "2018":106,
 "2017":0,
 "2016":0,
@@ -8294,9 +8639,10 @@
 "CATIDS":"-4-11-",
 "NAME":"IAxulu",
 "INSTAID":"iaxulu",
+"VIEWSGROWTH2019":2647.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":3681,
+"2019":3746,
 "2018":1099,
 "2017":0,
 "2016":0,
@@ -8305,9 +8651,9 @@
 "UC00SwNpVcJ3lqUtACMBLMYg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":63},
+"2019":65},
 "SUBCOUNT":{
-"2019":178,
+"2019":183,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -8318,9 +8664,10 @@
 "CATIDS":"-7-",
 "NAME":"GlockenTV",
 "INSTAID":"",
+"VIEWSGROWTH2019":52746.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":50162,
+"2019":52746,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -8331,7 +8678,7 @@
 "VIDEOCOUNT":{
 "2019":5},
 "SUBCOUNT":{
-"2019":134,
+"2019":135,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -8342,9 +8689,10 @@
 "CATIDS":"-8-",
 "NAME":"Sherry-ou",
 "INSTAID":"",
+"VIEWSGROWTH2019":96714.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":96509,
+"2019":96714,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -8355,7 +8703,7 @@
 "VIDEOCOUNT":{
 "2019":48},
 "SUBCOUNT":{
-"2019":763,
+"2019":764,
 "2018":705,
 "2017":453,
 "2016":142,
@@ -8366,9 +8714,10 @@
 "CATIDS":"-3-6-",
 "NAME":"BalinFilms",
 "INSTAID":"balinfilms",
+"VIEWSGROWTH2019":8658.0,
 "YTLINK":"https://www.youtube.com/balinfilms",
 "VIEWSCOUNT":{
-"2019":54562,
+"2019":54787,
 "2018":46129,
 "2017":30057,
 "2016":18504,
@@ -8379,7 +8728,7 @@
 "VIDEOCOUNT":{
 "2019":10},
 "SUBCOUNT":{
-"2019":1990,
+"2019":1980,
 "2018":2034,
 "2017":2113,
 "2016":1924,
@@ -8390,9 +8739,10 @@
 "CATIDS":"-6-8-",
 "NAME":"Rapgschwätz",
 "INSTAID":"rapgschwaetz",
+"VIEWSGROWTH2019":-23131.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":10750,
+"2019":10781,
 "2018":33912,
 "2017":22374,
 "2016":83472,
@@ -8403,7 +8753,7 @@
 "VIDEOCOUNT":{
 "2019":113},
 "SUBCOUNT":{
-"2019":28800,
+"2019":29100,
 "2018":23933,
 "2017":17495,
 "2016":11751,
@@ -8414,9 +8764,10 @@
 "CATIDS":"-6-",
 "NAME":"DivertiMento",
 "INSTAID":"cabaretdivertimento",
+"VIEWSGROWTH2019":2998482.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":14401011,
+"2019":14535476,
 "2018":11536994,
 "2017":8327067,
 "2016":5629582,
@@ -8425,9 +8776,9 @@
 "UCGM8vdIZb6QOzKwb3xHKW2Q":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":1949},
+"2019":1959},
 "SUBCOUNT":{
-"2019":6970,
+"2019":7040,
 "2018":3873,
 "2017":0,
 "2016":0,
@@ -8438,9 +8789,10 @@
 "CATIDS":"-7-",
 "NAME":"Schweizer Bauer",
 "INSTAID":"schweizerbauer1",
+"VIEWSGROWTH2019":2186169.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":6978067,
+"2019":7026626,
 "2018":4840457,
 "2017":0,
 "2016":0,
@@ -8449,7 +8801,7 @@
 "UCXOUdl_aLNS2baobvpPCs4Q":{
 "REALNAME":"Daniel Wittlin, Max Schwank, Herbert Blaser, Thierry Gschwind",
 "VIDEOCOUNT":{
-"2019":2972},
+"2019":3000},
 "SUBCOUNT":{
 "2019":1090,
 "2018":782,
@@ -8462,9 +8814,10 @@
 "CATIDS":"-9-",
 "NAME":"regioTVplus",
 "INSTAID":"",
+"VIEWSGROWTH2019":247578.0,
 "YTLINK":"https://www.youtube.com/regiotvplus",
 "VIEWSCOUNT":{
-"2019":1156138,
+"2019":1162825,
 "2018":915247,
 "2017":685451,
 "2016":466067,
@@ -8475,7 +8828,7 @@
 "VIDEOCOUNT":{
 "2019":59},
 "SUBCOUNT":{
-"2019":260,
+"2019":261,
 "2018":225,
 "2017":84,
 "2016":47,
@@ -8486,9 +8839,10 @@
 "CATIDS":"-3-",
 "NAME":"Boris Baldinger",
 "INSTAID":"borisbaldinger",
+"VIEWSGROWTH2019":17493.0,
 "YTLINK":"https://www.youtube.com/borisbaldinger",
 "VIEWSCOUNT":{
-"2019":57271,
+"2019":57652,
 "2018":40159,
 "2017":19469,
 "2016":7572,
@@ -8499,7 +8853,7 @@
 "VIDEOCOUNT":{
 "2019":113},
 "SUBCOUNT":{
-"2019":10000,
+"2019":10100,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -8510,9 +8864,10 @@
 "CATIDS":"-7-",
 "NAME":"danis888",
 "INSTAID":"",
+"VIEWSGROWTH2019":5635042.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":5599777,
+"2019":5635042,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -8521,9 +8876,9 @@
 "UCgw0vnoy6z_4wWrYc9eFEHw":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":407},
+"2019":410},
 "SUBCOUNT":{
-"2019":3200,
+"2019":3250,
 "2018":1894,
 "2017":1487,
 "2016":637,
@@ -8534,44 +8889,21 @@
 "CATIDS":"-5-7-",
 "NAME":"Martin Bommeli",
 "INSTAID":"mbommeli",
+"VIEWSGROWTH2019":401735.0,
 "YTLINK":"https://www.youtube.com/martinbommeli",
 "VIEWSCOUNT":{
-"2019":856123,
+"2019":879544,
 "2018":477809,
 "2017":270839,
 "2016":124878,
 "2015":70127
 
-"UCcws5-pBFSYPOm1cFlxQepA":{
-"REALNAME":"Sandro",
-"VIDEOCOUNT":{
-"2019":0},
-"SUBCOUNT":{
-"2019":77,
-"2018":0,
-"2017":0,
-"2016":0,
-"2015":0},
-"THID":"",
-"WEBLINK":"",
-"CHANNELPUBLISHEDAT":"30.08.2014",
-"CATIDS":"-6-",
-"NAME":"derAltenpfleger",
-"INSTAID":"",
-"YTLINK":"",
-"VIEWSCOUNT":{
-"2019":0,
-"2018":0,
-"2017":0,
-"2016":0,
-"2015":0
-
 "UCdFkj0fA6VYJaty-v8_avvg":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":906},
+"2019":910},
 "SUBCOUNT":{
-"2019":89800,
+"2019":91200,
 "2018":43452,
 "2017":21960,
 "2016":15000,
@@ -8582,9 +8914,10 @@
 "CATIDS":"-9-",
 "NAME":"SRF DOK",
 "INSTAID":"",
+"VIEWSGROWTH2019":2.5644783E7,
 "YTLINK":"https://www.youtube.com/SRFDOK",
 "VIEWSCOUNT":{
-"2019":48290375,
+"2019":48969387,
 "2018":23324604,
 "2017":14770851,
 "2016":9788892,
@@ -8593,9 +8926,9 @@
 "UCwhrByG7cgJRmgGvHCQfV1g":{
 "REALNAME":"",
 "VIDEOCOUNT":{
-"2019":198},
+"2019":200},
 "SUBCOUNT":{
-"2019":1000,
+"2019":1010,
 "2018":478,
 "2017":156,
 "2016":0,
@@ -8606,9 +8939,10 @@
 "CATIDS":"-4-11-",
 "NAME":"Piko Fly TV",
 "INSTAID":"pikoflytv",
+"VIEWSGROWTH2019":95635.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":131703,
+"2019":135994,
 "2018":40359,
 "2017":7211,
 "2016":0,
@@ -8619,7 +8953,7 @@
 "VIDEOCOUNT":{
 "2019":36},
 "SUBCOUNT":{
-"2019":149,
+"2019":150,
 "2018":133,
 "2017":102,
 "2016":0,
@@ -8630,9 +8964,10 @@
 "CATIDS":"-8-",
 "NAME":"Trummer",
 "INSTAID":"trummeronline",
+"VIEWSGROWTH2019":6790.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":131929,
+"2019":132124,
 "2018":125334,
 "2017":109502,
 "2016":0,
@@ -8654,9 +8989,10 @@
 "CATIDS":"-4-",
 "NAME":"Creaperbox",
 "INSTAID":"",
+"VIEWSGROWTH2019":3789.0,
 "YTLINK":"",
 "VIEWSCOUNT":{
-"2019":3785,
+"2019":3789,
 "2018":0,
 "2017":0,
 "2016":0,
@@ -8665,9 +9001,9 @@
 "UCmJdhrgbUa1vXDS6-x2APGg":{
 "REALNAME":"Natascha Evelin Schmidlin",
 "VIDEOCOUNT":{
-"2019":142},
+"2019":143},
 "SUBCOUNT":{
-"2019":180,
+"2019":181,
 "2018":126,
 "2017":86,
 "2016":0,
@@ -8678,9 +9014,10 @@
 "CATIDS":"-6-11-",
 "NAME":"Naschitia",
 "INSTAID":"naschitia",
+"VIEWSGROWTH2019":9574.0,
 "YTLINK":"https://www.youtube.com/naschitia",
 "VIEWSCOUNT":{
-"2019":23139,
+"2019":23317,
 "2018":13743,
 "2017":7702,
 "2016":0,

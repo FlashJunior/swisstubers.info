@@ -2217,7 +2217,7 @@ staticData = {
 	name="Swiss RaMpLeR",			realname="",
 	ytlink="",
 	thid="swiss_rampler",
-	weblink="",
+	weblink="https://schweizerclan.wixsite.com/--shc--",
 	catids="-4-11-",
 	instaid="swissrampler",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
@@ -2772,16 +2772,6 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=255,	2018=2960},
 	viewscount={2015=0,	2016=0,	2017=8844,	2018=674845}
-},
-"UCQNvR_M_HYiZr_To1X3Qz_A"	= {
-	name="True Talk",			realname="",
-	ytlink="",
-	thid="",
-	weblink="https://www.srf.ch/radio-srf-virus",
-	catids="-9-",
-	instaid="srfvirus",
-	subcount={	2015=0,	2016=0,	2017=1864,	2018=4851},
-	viewscount={2015=0,	2016=0,	2017=706278,2018=1784337}
 },
 "UCbbFUi57jUR_VQh-N3x9KGA"	= {
 	name="Nr. 47",			realname="",
@@ -3696,6 +3686,16 @@ catArr = [
 
 
 	Nicht mehr aktiv:
+	"UCQNvR_M_HYiZr_To1X3Qz_A"	= {
+		name="True Talk",			realname="",
+		ytlink="",
+		thid="",
+		weblink="https://www.srf.ch/radio-srf-virus",
+		catids="-9-",
+		instaid="srfvirus",
+		subcount={	2015=0,	2016=0,	2017=1864,	2018=4851},
+		viewscount={2015=0,	2016=0,	2017=706278,2018=1784337}
+	},
 	"UCcws5-pBFSYPOm1cFlxQepA"	= {
 		name="derAltenpfleger",			realname="Sandro",
 		ytlink="",

@@ -3344,12 +3344,12 @@ staticData = {
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 },
 "UC7gRJAzQ6zlpP0Kr7rfjJsw"	= {
-	name="matekind",			realname="Matteo Gisler",
+	name="Matthew Corvin",			realname="Matteo Gisler",
 	ytlink="",
 	thid="",
-	weblink="https://matekind.ch",
+	weblink="https://matthewcorvin.com",
 	catids="-6-",
-	instaid="matekind",
+	instaid="matthewcorvin",
 	subcount={	2015=0,	2016=8,	2017=8,	2018=31},
 	viewscount={2015=0,	2016=149,2017=191,2018=493}
 },
@@ -3442,16 +3442,6 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-},
-"UCQEQZSXyQy28ZV3Y59_-2iw"	= {
-	name="Top Boys AFK",			realname="",
-	ytlink="",
-	thid="",
-	weblink="",
-	catids="-6-",
-	instaid="",
-	subcount={	2015=0,	2016=0,	2017=5084,	2018=4898},
-	viewscount={2015=0,	2016=0,	2017=161577,2018=34134}
 },
 "UCBgh81kt3WwT1WFM8nBUUtQ"	= {
 	name="EWZ",			realname="",
@@ -3632,13 +3622,17 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCOWv-1UVZYIa5IupVMsRjtA"	= {
+	name="Kantonspolizei Bern",			realname="",
+	ytlink="https://www.youtube.com/PoliceBern",
+	thid="",
+	weblink="https://www.police.be.ch",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 }
-
-
-
-
-
-
 
 
 
@@ -3670,21 +3664,6 @@ catArr = [
 ];
 
 /*
-,
-"XXXXXXXX"	= {
-	name="XXXX",			realname="",
-	ytlink="",
-	thid="",
-	weblink="https://",
-	catids="-XXXXX-",
-	instaid="XXXXXX",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-}
-
-
-
-
 	Nicht mehr aktiv:
 	"UCQNvR_M_HYiZr_To1X3Qz_A"	= {
 		name="True Talk",			realname="",
@@ -3994,6 +3973,16 @@ catArr = [
 		instaid="",
 		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
+	"UCQEQZSXyQy28ZV3Y59_-2iw"	= {
+		name="Top Boys AFK",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=5084,	2018=4898},
+		viewscount={2015=0,	2016=0,	2017=161577,2018=34134}
 	},
 
 */

@@ -3632,7 +3632,71 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UCOpBxBhLusKEaqICfnxRM_A"	= {
+	name="Perlmutt-Spangen Roger Wyss",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.perlmutt-spangen.ch/",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC2rSoiwCtjlaTQ0ugzW3rMw"	= {
+	name="Peter Schurte",			realname="",
+	ytlink="https://www.youtube.com/videobilderschweiz/",
+	thid="",
+	weblink="http://www.videobilder.ch",
+	catids="-3-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=150,	2018=251},
+	viewscount={2015=0,	2016=0,	2017=132853,2018=222689}
+},
+"UCatgqy7jqnNLh-bfp7-G95A"	= {
+	name="Kante-K",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+},
+"UC5jlXWBWEynirzUIB_5XKCw"	= {
+	name="Top Of Tops",			realname="",
+	ytlink="https://www.youtube.com/TopOfTops",
+	thid="",
+	weblink="",
+	catids="-1-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=493},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=122581}
+},
+"UCDb1j9QtteeNv130GBuzfAg"	= {
+	name="Police Valais",			realname="",
+	ytlink="https://www.youtube.com/user/policevalais/",
+	thid="",
+	weblink="https://www.policevalais.ch",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=121,	2017=161,	2018=240},
+	viewscount={2015=0,	2016=31947,	2017=40119,	2018=65470}
+},
+"UCaM1ElekeCdDiZJiSm-KNHA"	= {
+	name="Hipster Gnogg",		realname="Nik und Morris",
+	ytlink="https://www.youtube.com/HipsterGnogg",
+	thid="",
+	weblink="https://hipstergnogg.jimdo.com",
+	catids="-5-6-",
+	instaid="hipstergnogg",
+	subcount={	2015=1125,	2016=13705,		2017=21132,		2018=24299},
+	viewscount={2015=40399,	2016=302953,	2017=571665,	2018=1017155}
 }
+
+
+
+
 
 
 
@@ -3734,15 +3798,6 @@ catArr = [
 		instaid="_cyru_",
 		subcount={	2015=0,2016=0,	2017=184,	2018=279},
 		viewscount={2015=0,2016=0,	2017=4040,	2018=8247}
-	},
-	"UCaM1ElekeCdDiZJiSm-KNHA"	= {
-		name="Hipster Gnogg",		realname="Nik und Morris",
-		ytlink="https://www.youtube.com/HipsterGnogg",
-		weblink="https://hipstergnogg.jimdo.com",
-		catids="-5-6-",
-		instaid="hipstergnogg",
-		subcount={	2015=1125,	2016=13705,		2017=21132,		2018=24299},
-		viewscount={2015=40399,	2016=302953,	2017=571665,	2018=1017155}
 	},
 	"UChM4rPD2VFm4SVhPKBaOiPA"	= {
 		name="Lipa Alves",			realname="",

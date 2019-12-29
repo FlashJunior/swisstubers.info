@@ -3691,6 +3691,26 @@ staticData = {
 	instaid="hipstergnogg",
 	subcount={	2015=1125,	2016=13705,		2017=21132,		2018=24299,	2019=0},
 	viewscount={2015=40399,	2016=302953,	2017=571665,	2018=1017155,	2019=0}
+},
+"UCwDGZz0CT9wyC14kRJ7Nxhg"	= {
+	name="TeleBlocher",			realname="Christoph Blocher",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-10-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCFgloF784lLqAPG7Y-7lH9w"	= {
+	name="epic rides",			realname="",
+	ytlink="https://www.youtube.com/epicfreeridewear",
+	thid="",
+	weblink="https://www.epic-rides.ch",
+	catids="-1-5-",
+	instaid="epicridestrails",
+	subcount={	2015=0,	2016=56,	2017=87,	2018=545,	2019=0},
+	viewscount={2015=0,	2016=32284,	2017=40251,	2018=160577,2019=0}
 }
 
 

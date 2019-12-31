@@ -3711,6 +3711,16 @@ staticData = {
 	instaid="epicridestrails",
 	subcount={	2015=0,	2016=56,	2017=87,	2018=545,	2019=0},
 	viewscount={2015=0,	2016=32284,	2017=40251,	2018=160577,2019=0}
+},
+"UCKpQEsDbTgIxj-QLoJlaiJQ"	= {
+	name="Love Crew",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=65,	2018=83,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=18884,	2018=21464,	2019=0}
 }
 
 

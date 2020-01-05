@@ -3342,16 +3342,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=55},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 },
-"UC7gRJAzQ6zlpP0Kr7rfjJsw"	= {
-	name="Matthew Corvin",			realname="Matteo Gisler",
-	ytlink="",
-	thid="",
-	weblink="https://matthewcorvin.com",
-	catids="-6-",
-	instaid="matthewcorvin",
-	subcount={	2015=0,	2016=8,	2017=8,	2018=31,	2019=42},
-	viewscount={2015=0,	2016=149,2017=191,2018=493,	2019=0}
-},
 "UCePUe71YXj8RDQLhKJvwJYA"	= {
 	name="Redimeangreen",			realname="",
 	ytlink="",
@@ -3721,6 +3711,26 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=65,	2018=83,	2019=130},
 	viewscount={2015=0,	2016=0,	2017=18884,	2018=21464,	2019=26537}
+},
+"UCUSainlhtRRE2ceUDHG0xeg"	= {
+	name="Herbert Blaser",			realname="",
+	ytlink="https://www.youtube.com/user/tenetarepo",
+	thid="",
+	weblink="http://www.herbert-blaser.ch",
+	catids="-9-10-",
+	instaid="herbieblaser",
+	subcount={	2015=0,	2016=43,	2017=55,	2018=61,	2019=93},
+	viewscount={2015=0,	2016=52362,	2017=67767,	2018=77929,	2019=97360}
+},
+"UC2PaxV-gE2iUCkY7XS7VmPw"	= {
+	name="crazyJAY",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-",
+	instaid="jay.garph",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=43,	2019=354},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=845,	2019=8798}
 }
 
 
@@ -3757,7 +3767,16 @@ catArr = [
 ];
 
 /*
-	Nicht mehr aktiv:
+	"UC7gRJAzQ6zlpP0Kr7rfjJsw"	= {
+		name="Matthew Corvin",			realname="Matteo Gisler",
+		ytlink="",
+		thid="",
+		weblink="https://matthewcorvin.com",
+		catids="-6-",
+		instaid="matthewcorvin",
+		subcount={	2015=0,	2016=8,	2017=8,	2018=31,	2019=42},
+		viewscount={2015=0,	2016=149,2017=191,2018=493,	2019=0}
+	},
 	"UCQNvR_M_HYiZr_To1X3Qz_A"	= {
 		name="True Talk",			realname="",
 		ytlink="",
@@ -3977,8 +3996,6 @@ catArr = [
 		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
 		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
 	},
-
-	Zu wenige schweizerdeutsche Inhalte. Diverse negative Kommentare aus Community.
 	"UCJgbvl0BJ9nG-vTRKfdEh8A"	= {
 		name="Esischeasy",			realname="Lukas Pfaff",
 		ytlink="",

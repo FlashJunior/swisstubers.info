@@ -428,7 +428,7 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="http://www.rro.ch",
-	catids="-5-",
+	catids="-9-",
 	instaid="",
 	subcount={	2015=209,		2016=385,		2017=880,		2018=2153,		2019=3200},
 	viewscount={2015=432452,	2016=920066,	2017=1808942,	2018=3204215,	2019=4637879}
@@ -1451,7 +1451,7 @@ staticData = {
 	viewscount={2015=0,2016=0,2017=0,	2018=60,	2019=2243}
 },
 "UCh9atHGn3E01a1Gx2nhcr9A"	= {
-	name="Roemer",	realname="",
+	name="Roemer",	realname="Remo",
 	ytlink="",
 	thid="roemer_24",
 	weblink="",
@@ -3677,7 +3677,7 @@ staticData = {
 	ytlink="https://www.youtube.com/HipsterGnogg",
 	thid="",
 	weblink="https://hipstergnogg.jimdo.com",
-	catids="-5-6-",
+	catids="-6-",
 	instaid="hipstergnogg",
 	subcount={	2015=1125,	2016=13705,		2017=21132,		2018=24299,		2019=24100},
 	viewscount={2015=40399,	2016=302953,	2017=571665,	2018=1017155,	2019=804275}
@@ -3731,6 +3731,46 @@ staticData = {
 	instaid="jay.garph",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=43,	2019=354},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=845,	2019=8798}
+},
+"UC0Q7SjGVyHQBzCkPNC0jAEA"	= {
+	name="Jura18 JRK",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-1-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCFStZdL2iNBJ_G4S6S9LusA"	= {
+	name="Unverschämt Podcast",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://linktr.ee/unverschaemt",
+	catids="-12-",
+	instaid="unverschaemtpodcast",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UChJa-I_3JCZ0iWrkJStCMbA"	= {
+	name="Dominik Widmer",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-5-",
+	instaid="domi.widmer",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCaHpz_4GiTxAVRyVt2ZZfhg"	= {
+	name="Alpin Kanal",			realname="Peter Herger",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-1-5-",
+	instaid="domi.widmer",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=801},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=200178}
 }
 
 

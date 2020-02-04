@@ -510,8 +510,8 @@ staticData = {
 	weblink="",
 	catids="-6-8-",
 	instaid="maanulii",
-	subcount={2015=0,	2016=83281,		2017=84670,		2018=83879,	2019=0},
-	viewscount={2015=0,	2016=7107980,	2017=5598820,	2018=5912532,	2019=0}
+	subcount={2015=0,	2016=83281,		2017=84670,		2018=83879,	2019=82600},
+	viewscount={2015=0,	2016=7107980,	2017=5598820,	2018=5912532,	2019=6065079}
 },
 "UCpYM98Cz5ptezaK7nV4Akpg"	= {
 	name="Swissmeme TV",			realname="Zeki Bulgurcu",
@@ -3771,10 +3771,77 @@ staticData = {
 	instaid="domi.widmer",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=801},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=200178}
+},
+"UCfw4267Wk701DJsX_GanRjA"	= {
+	name="Dani Kalt",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.klangtastisch.ch",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCn6VgBKu93FOIgJY0dLuAzw"	= {
+	name="Politik CH",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-10-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCLRI9G_WHYcSE8UtmWX6Omw"	= {
+	name="Mikethe Bike",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCd1K2hsfpDPo8A3pD09bQMg"	= {
+	name="Michelle Rüegg",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCsInF5d9_xkivttxhG2kPuA"	= {
+	name="N1njaBoy",			realname="",
+	ytlink="",
+	thid="n1njaboy",
+	weblink="",
+	catids="-4-",
+	instaid="n1njaboy_twitch",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCeYIwna2CkpFP8huwaXWTgQ"	= {
+	name="ZweiSechs FPV",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-7-",
+	instaid="studiozweisechs",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCrUHHlrVtbPrbs_lsC0Eu4A"	= {
+	name="Timi Time",			realname="Timon",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-4-",
+	instaid="timon1475",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=468},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=16641}
 }
-
-
-
 
 
 

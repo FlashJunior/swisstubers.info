@@ -2792,16 +2792,6 @@ staticData = {
 	subcount={	2015=0,	2016=4306,	2017=6716,		2018=10833,		2019=20700},
 	viewscount={2015=0,	2016=3432243,2017=5390541,	2018=8288109,	2019=13360841}
 },
-"UConNtYYf5lQz3WUo_f2Vr6Q"	= {
-	name="Late Update",			realname="",
-	ytlink="",
-	thid="",
-	weblink="https://srf.ch",
-	catids="-6-9-",
-	instaid="srflateupdate",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=1220},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=245506}
-},
 "UCX0OdLuEQ3ccSCq-Z7iMoiw"	= {
 	name="Deville",			realname="",
 	ytlink="",
@@ -3328,7 +3318,7 @@ staticData = {
 	thid="",
 	weblink="",
 	catids="-6-",
-	instaid="janbreitenstein_",
+	instaid="jantravesh",
 	subcount={	2015=0,2016=0,2017=0,	2018=244,	2019=955},
 	viewscount={2015=0,2016=0,2017=0,	2018=1888,	2019=3506}
 },
@@ -3367,7 +3357,7 @@ staticData = {
 	ytlink="",
 	thid="bearsngames",
 	weblink="",
-	catids="-4-",
+	catids="-4-11-",
 	instaid="bearsngames",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=10},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=63}
@@ -3527,7 +3517,7 @@ staticData = {
 	ytlink="",
 	thid="agea_cosplay",
 	weblink="",
-	catids="-6-",
+	catids="-6-11-",
 	instaid="ageacosplay",
 	subcount={	2015=0,	2016=263,	2017=289,	2018=295,	2019=305},
 	viewscount={2015=0,	2016=18603,	2017=25091,	2018=29816,	2019=32723}
@@ -3817,7 +3807,7 @@ staticData = {
 	ytlink="",
 	thid="n1njaboy",
 	weblink="",
-	catids="-4-",
+	catids="-4-11-",
 	instaid="n1njaboy_twitch",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
@@ -3841,6 +3831,46 @@ staticData = {
 	instaid="timon1475",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=468},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=16641}
+},
+"UC0BEnq22iCaw1QHn9aEIFCw"	= {
+	name="dä Brüeder vom Heinz",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=231,	2018=803,	2019=1060},
+	viewscount={2015=0,	2016=0,	2017=68366,	2018=251366,2019=391693}
+},
+"UCf1R1yIG8-GtaqUgvsoV4Mw"	= {
+	name="Hookah99",			realname="",
+	ytlink="",
+	thid="HookahGaming99",
+	weblink="",
+	catids="-4-11-",
+	instaid="hookah99_",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UC8XEHGapJvqZ-RA8kbJBuqw"	= {
+	name="Mü man",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.mueman.ch",
+	catids="-8-",
+	instaid="mueman730",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=165,	2019=188},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=53164,	2019=63831}
+},
+"UC1VbgIbIe_sbZQEQjQN6w2w"	= {
+	name="Lilove",			realname="",
+	ytlink="",
+	thid="HookahGaming99",
+	weblink="",
+	catids="-6-",
+	instaid="li.love",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
 
 
@@ -3874,6 +3904,17 @@ catArr = [
 ];
 
 /*
+
+	"UConNtYYf5lQz3WUo_f2Vr6Q"	= {
+		name="Late Update",			realname="",
+		ytlink="",
+		thid="",
+		weblink="https://srf.ch",
+		catids="-6-9-",
+		instaid="srflateupdate",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=1220},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=245506}
+	},
 	"UC7gRJAzQ6zlpP0Kr7rfjJsw"	= {
 		name="Matthew Corvin",			realname="Matteo Gisler",
 		ytlink="",

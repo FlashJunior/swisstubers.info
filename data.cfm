@@ -3841,6 +3841,26 @@ staticData = {
 	instaid="schwiizer_youtuber_memes",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCecQ8ONRCAtTCu8nrg1mZHA"	= {
+	name="Newcolorline Visagistenschule",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.newcolorline.ch",
+	catids="-13-",
+	instaid="newcolorline",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UC8Z9L6ST04nn94tKd0ERQPg"	= {
+	name="Manu Outdoor",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
 
 

@@ -5,9 +5,9 @@ staticData = {
 "UCgw0vnoy6z_4wWrYc9eFEHw"	= {
 	name="Martin Bommeli",	realname="",
 	ytlink="https://www.youtube.com/martinbommeli",
-	thid="",
+	thid="mbommeli",
 	weblink="https://www.mbrand.info",
-	catids="-5-7-",
+	catids="-5-7-11-",
 	instaid="mbommeli",
 	subcount={	2015=83,	2016=637,		2017=1487,		2018=1894,	2019=3300},
 	viewscount={2015=70127,	2016=124878,	2017=270839,	2018=477809,2019=919893}
@@ -43,7 +43,7 @@ staticData = {
 	viewscount={2015=38481,	2016=169416,2017=299294,2018=434264,	2019=558238}
 },
 "UCqCSl8Eq_0by8ad7u5JNSOQ"	= {
-	name="Greeney",			realname="",
+	name="Greeney",			realname="Roger Keller",
 	ytlink="https://www.youtube.com/Greneey",
 	thid="greneey",
 	weblink="https://greneey.ch",
@@ -3861,6 +3861,86 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UClcpLPCkgEl_Zhhdg0KS5eA"	= {
+	name="Silvan Schletti",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://silvan-schletti.jimdosite.com",
+	catids="-5-6-",
+	instaid="silvan_schletti",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCB1eXsilXNWXG9njBte77lQ"	= {
+	name="Collie Herb",			realname="",
+	ytlink="https://www.youtube.com/user/collieherbstarr/",
+	thid="",
+	weblink="https://www.collieherb.ch",
+	catids="-8-",
+	instaid="collieherb",
+	subcount={	2015=0,	2016=414,		2017=502,		2018=566,		2019=611},
+	viewscount={2015=0,	2016=152765,	2017=202167,	2018=239784,	2019=258547}
+},
+"UCbeuXAKx_wm4bnNs1_WU1eA"	= {
+	name="PablodoesVideos",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCOBV9Eix-pcTaJw5qUJSw6w"	= {
+	name="Patti Basler",			realname="",
+	ytlink="",
+	thid="",
+	weblink="http://www.pattibasler.ch",
+	catids="-6-",
+	instaid="pattibasler",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UC-BU5HYjsi7RFZmHwEo4iJw"	= {
+	name="Michi Stuntrider",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://hardluck.ch",
+	catids="-5-",
+	instaid="michi_stuntrider",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCdK9GXeJZ2wiW4QWnWKNQFQ"	= {
+	name="Islandart GmbH",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://islandart.ch",
+	catids="-13-",
+	instaid="islandartgmbh",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=13},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=5758}
+},
+"UCRLujtgjquGHoDTd_dl0y8g"	= {
+	name="Gipfelbike",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://gipfelbike.ch",
+	catids="-5-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCC0PzUKu4blgvMueAZfP6vg"	= {
+	name="TReBeats",			realname="",
+	ytlink="https://www.youtube.com/trebeatshiphop/",
+	thid="",
+	weblink="https://trebeats.ch",
+	catids="-8-",
+	instaid="trebeatshiphop",
+	subcount={	2015=0,	2016=386,	2017=558,		2018=692,		2019=793},
+	viewscount={2015=0,	2016=84099,	2017=133847,	2018=182040,	2019=220813}
 }
 
 

@@ -3941,7 +3941,60 @@ staticData = {
 	instaid="trebeatshiphop",
 	subcount={	2015=0,	2016=386,	2017=558,		2018=692,		2019=793},
 	viewscount={2015=0,	2016=84099,	2017=133847,	2018=182040,	2019=220813}
+},
+"UCfq5A6_MxcoVbpzOCfM-1XQ"	= {
+	name="Grillshop Schweiz",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.pelletgrill.ch",
+	catids="-13-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCJkJekKGV47GQGKvfi9pSPQ"	= {
+	name="Alexandras Skyline",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-5-7-",
+	instaid="alexandras_skyline",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=101},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=6319}
+},
+"UCUlAKNDJ5QviM79lN1eK0Yg"	= {
+	name="K1ngda Ka88",			realname="Lukas Wehrli",
+	ytlink="https://www.youtube.com/k1ngdaka88",
+	thid="",
+	weblink="",
+	catids="-1-7-",
+	instaid="k1ngdaka88",
+	subcount={	2015=0,	2016=172,	2017=226,	2018=266,	2019=343},
+	viewscount={2015=0,	2016=47012,	2017=67180,	2018=87178,	2019=129395}
+},
+"UCW_-o_GsOoW6gmmQZuyyjNw"	= {
+	name="Chnopfloch",			realname="",
+	ytlink="https://www.youtube.com/Chnopfloch",
+	thid="",
+	weblink="",
+	catids="-10-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=596,		2018=1094,		2019=1080},
+	viewscount={2015=0,	2016=0,	2017=201124,	2018=378368,	2019=384529}
+},
+"UCXpi8SQCydn71E2S6qwwbRw"	= {
+	name="Absurdistdrama",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-2-",
+	instaid="absurdistdrama",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
+
+
+
 
 
 

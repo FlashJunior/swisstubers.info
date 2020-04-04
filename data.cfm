@@ -1200,7 +1200,7 @@ staticData = {
 	viewscount={2015=0,2016=0,	2017=5820,	2018=8316,	2019=11381}
 },
 "UC_2og_j4PvYfRPRH3x0miYg"	= {
-	name="LoZi TV",			realname="Loris Zimmerli",
+	name="Loris Zimmerli",			realname="",
 	ytlink="https://www.youtube.com/lozitv",
 	thid="",
 	weblink="",

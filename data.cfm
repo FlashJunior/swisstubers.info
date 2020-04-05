@@ -1811,16 +1811,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=21},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=1147}
 },
-"UCanzpqowTUbAoas6qGiLlrg"	= {
-	name="Beast Genetics Schweiz",			realname="",
-	ytlink="",
-	thid="",
-	weblink="",
-	catids="-2-",
-	instaid="beast_genetics1",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=1,	2019=30},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=36,	2019=2093}
-},
 "UCTOEQt8_bqJPxd88eJ_sTkA"	= {
 	name="René Schudel",		realname="",
 	ytlink="https://www.youtube.com/reneschudel",
@@ -3991,6 +3981,26 @@ staticData = {
 	instaid="absurdistdrama",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCnpk5PM6g0mxFH7tWGjAiaw"	= {
+	name="San Mattia",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://soundcloud.com/user-771129909",
+	catids="-8-",
+	instaid="sansmattia",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCNxoibHJ-YKF_XwQmWqkBOg"	= {
+	name="Rob Travel TV",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-1-",
+	instaid="rob_travel_tv",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=93},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=14974}
 }
 
 
@@ -4027,6 +4037,16 @@ catArr = [
 ];
 
 /*
+	"UCanzpqowTUbAoas6qGiLlrg"	= {
+		name="Beast Genetics Schweiz",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-2-",
+		instaid="beast_genetics1",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=1,	2019=30},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=36,	2019=2093}
+	},
 	"UC2PaxV-gE2iUCkY7XS7VmPw"	= {
 		name="crazyJAY",			realname="",
 		ytlink="",

@@ -7,7 +7,7 @@ staticData = {
 	ytlink="https://www.youtube.com/martinbommeli",
 	thid="mbommeli",
 	weblink="https://www.mbrand.info",
-	catids="-5-7-11-15-",
+	catids="-5-7-11-15-16-",
 	instaid="mbommeli",
 	subcount={	2015=83,	2016=637,		2017=1487,		2018=1894,	2019=3300},
 	viewscount={2015=70127,	2016=124878,	2017=270839,	2018=477809,2019=919893}
@@ -127,7 +127,7 @@ staticData = {
 	ytlink="https://www.youtube.com/c/MaeloRomani",
 	thid="",
 	weblink="",
-	catids="-6-15-",
+	catids="-6-15-16-",
 	instaid="maeloromani",
 	subcount={	2015=3188,		2016=6619,		2017=6681,		2018=7944,		2019=9580},
 	viewscount={2015=149311,	2016=272838,	2017=356308,	2018=614701,	2019=746300}
@@ -1853,10 +1853,10 @@ staticData = {
 	viewscount={2015=0,	2016=0,2017=0,	2018=0,	2019=12568}
 },
 "UCrGC2cfTB7lD-NfrRTaf0eg"	= {
-	name="Schweizer Bibelkanal",			realname="",
+	name="Schweizer Bibelkanal",			realname="Manuela Gujer",
 	ytlink="",
 	thid="",
-	weblink="",
+	weblink="https://manuela-gujer.jimdofree.com",
 	catids="-7-",
 	instaid="",
 	subcount={	2015=0,	2016=0,2017=0,	2018=0,	2019=19},
@@ -4141,9 +4141,37 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=7,		2017=8,		2018=12,	2019=12},
 	viewscount={2015=0,	2016=611,	2017=1002,	2018=1199,	2019=1374}
+},
+"UCndY-70rI83I2QhTt1XJERw"	= {
+	name="Calandamountain",			realname="Fabio",
+	ytlink="",
+	thid="",
+	weblink="https://twitter.com/calandamountain",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UC5NGhaic9yw9-4Ym2_kqDGg"	= {
+	name="swiss marvin",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UC3NnuriieYw3rl2XsqnfB_A"	= {
+	name="Joung Gustav",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-8-",
+	instaid="jounggustav",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
-
-
 
 
 
@@ -4163,21 +4191,22 @@ staticData = {
 
 catArr = [
 	["0", "Alle"],
-	["6", "Entertainment / Comedy"],
-	["2", "Lifestyle / DIY / Kochen"],
-	["3", "Fotografie / Film / Technik"],
-	["9", "Presse / Radio / TV / Kino"],
-	["1", "Reisen"],
-	["4", "Gaming"],
-	["5", "Sport"],
-	["8", "Musik"],
-	["10", "Politik"],
-	["13", "Firmen"],
-	["12", "Podcast"],
-	["14", "YouTuberinnen"],
-	["11", "Streams auf Twitch"],
-	["15", "Streams auf YouTube"],
-	["7", "Anderes"]
+	["7", "Allerlei (40+)"],
+	["6", "Entertainment / Comedy (130+)"],
+	["13", "Firmen (20+)"],
+	["3", "Fotografie / Film / Technik (20+)"],
+	["14", "Frauen / YouTuberinnen (30+)"],
+	["4", "Gaming (50+)"],
+	["2", "Lifestyle / DIY / Kochen (10+)"],
+	["8", "Musik (70+)"],
+	["10", "Politik (10+)"],
+	["9", "Presse / Radio / TV / Kino (30+)"],
+	["1", "Reisen (20+)"],
+	["5", "Sport (20+)"],
+	["12", "Mit Podcast"],
+	["16", "Mit Kanalmitglieder"],
+	["11", "Mit Twitch Kanal"],
+	["15", "Mit YouTube Livestreams"]
 ];
 
 /*

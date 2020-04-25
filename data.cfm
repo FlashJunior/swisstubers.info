@@ -3775,7 +3775,7 @@ staticData = {
 "UC1VbgIbIe_sbZQEQjQN6w2w"	= {
 	name="Lilove",			realname="",
 	ytlink="",
-	thid="HookahGaming99",
+	thid="",
 	weblink="",
 	catids="-6-14-",
 	instaid="li.love",
@@ -4171,8 +4171,37 @@ staticData = {
 	instaid="jounggustav",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UC7CAGoduO7Tl8HdMxvvGSJg"	= {
+	name="Steine Meister",			realname="Thomas Affentranger",
+	ytlink="",
+	thid="",
+	weblink="https://thomas-affentranger.ch/steinemeister/",
+	catids="-7-15-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCMzigHL8C_A27XmudyeN7Sg"	= {
+	name="TeleZüri",			realname="",
+	ytlink="https://www.youtube.com/TeleZueriOffiziell/",
+	thid="",
+	weblink="https://www.telezueri.ch",
+	catids="-9-",
+	instaid="telezuri",
+	subcount={	2015=0,	2016=953,	2017=1137,	2018=1341,	2019=1490},
+	viewscount={2015=0,	2016=668781,2017=789736,2018=877007,2019=945450}
+},
+"UCk4lze4_vOoT8w8fLhHNAWQ"	= {
+	name="VSCC",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://vscc.ch",
+	catids="-4-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
-
 
 
 

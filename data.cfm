@@ -1942,16 +1942,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=8042}
 },
-"UCvuahW9sp03KGfjRUpiK4eQ"	= {
-	name="Andy Krainer",			realname="Andreas",
-	ytlink="",
-	thid="",
-	weblink="http://www.andy-krainer.ch",
-	catids="-8-",
-	instaid="andykrainer_official",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=59},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=19121}
-},
 "UCZh09i2x6EQrTZUQxUZHZSg"	= {
 	name="Milena Patagônia",			realname="",
 	ytlink="",
@@ -2291,16 +2281,6 @@ staticData = {
 	instaid="fotichaestli.ch",
 	subcount={	2015=0,	2016=0,	2017=391,	2018=723,	2019=1060},
 	viewscount={2015=0,	2016=0,	2017=22651,	2018=61915,	2019=143118}
-},
-"UCYY-eeicga1FqGgi6PPZYAw"	= {
-	name="World Changing News",			realname="Stefan",
-	ytlink="",
-	thid="",
-	weblink="",
-	catids="-6-",
-	instaid="ste1701fan",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=14},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=2167}
 },
 "UCiJMNqA6WEGFTvsy8qLV9QQ"	= {
 	name="MinderTV",			realname="",
@@ -3133,7 +3113,7 @@ staticData = {
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=2131}
 },
 "UCStRZmj7Gzq4VW9ImK8AN1w"	= {
-	name="Der Praktikant",			realname="",
+	name="Der Praktikant",			realname="Fabian Egger",
 	ytlink="",
 	thid="",
 	weblink="",
@@ -4072,16 +4052,6 @@ staticData = {
 	subcount={	2015=48,	2016=145,	2017=209,	2018=244,	2019=366},
 	viewscount={2015=225,	2016=5657,	2017=15301,	2018=24511,	2019=7507}
 },
-"UC463BrnYqqrK_2yQdrWcvug"	= {
-	name="Iris Reeves",		realname="",
-	ytlink="https://www.youtube.com/irisreeves",
-	thid="",
-	weblink="",
-	catids="-6-14-",
-	instaid="iris_reeves",
-	subcount={	2015=9834,	2016=15416,	2017=17472,	2018=17909,		2019=17400},
-	viewscount={2015=376151,2016=787991,2017=988067,2018=1067226,	2019=1106026}
-},
 "UCc9k0H4aWOCojn5DsmHj5IA"	= {
 	name="Noechl",			realname="Noel",
 	ytlink="",
@@ -4201,8 +4171,37 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCmeBYoFvwYPqDwINBmZWeQw"	= {
+	name="Timo-G",			realname="Timo Gfeller",
+	ytlink="https://www.youtube.com/CHHipHop100/",
+	thid="djtimog",
+	weblink="",
+	catids="-4-11-",
+	instaid="dj_timo_g",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCS9WVExKcTulB0JPgpuajRw"	= {
+	name="HarleyRoadrunner",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-1-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UC86vLSsSXsHsAyuXdh9lQhA"	= {
+	name="Subsolo SBC",			realname="Manuel Sprecher",
+	ytlink="",
+	thid="subsolo_sbc",
+	weblink="",
+	catids="-4-11-",
+	instaid="subsolo_sbc",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
-
 
 
 
@@ -4239,7 +4238,36 @@ catArr = [
 ];
 
 /*
-	,
+	"UC463BrnYqqrK_2yQdrWcvug"	= {
+		name="Iris Reeves",		realname="",
+		ytlink="https://www.youtube.com/irisreeves",
+		thid="",
+		weblink="",
+		catids="-6-14-",
+		instaid="iris_reeves",
+		subcount={	2015=9834,	2016=15416,	2017=17472,	2018=17909,		2019=17400},
+		viewscount={2015=376151,2016=787991,2017=988067,2018=1067226,	2019=1106026}
+	},
+	"UCYY-eeicga1FqGgi6PPZYAw"	= {
+		name="World Changing News",			realname="Stefan",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="ste1701fan",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=14},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=2167}
+	},
+	"UCvuahW9sp03KGfjRUpiK4eQ"	= {
+		name="Andy Krainer",			realname="Andreas",
+		ytlink="",
+		thid="",
+		weblink="http://www.andy-krainer.ch",
+		catids="-8-",
+		instaid="andykrainer_official",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=59},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=19121}
+	},
 	"UCanzpqowTUbAoas6qGiLlrg"	= {
 		name="Beast Genetics Schweiz",			realname="",
 		ytlink="",

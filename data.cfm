@@ -4201,8 +4201,27 @@ staticData = {
 	instaid="subsolo_sbc",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCIw8cdNILvehbxKxC9z2zHA"	= {
+	name="swiss drone photos",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-3-",
+	instaid="swiss_drone_photos",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=38},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=849}
+},
+"UCLQR396Cr222mkjXcUqfN9g"	= {
+	name="ÖV Ansagen",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://oev-ansagen.ch",
+	catids="-1-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=118},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=92908}
 }
-
 
 
 

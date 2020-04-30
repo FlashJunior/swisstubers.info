@@ -3216,8 +3216,8 @@ staticData = {
 	name="Jan Breitenstein",			realname="",
 	ytlink="https://www.youtube.com/janbreitenstein",
 	thid="",
-	weblink="",
-	catids="-6-",
+	weblink="https://www.mobitecco.com",
+	catids="-6-15-",
 	instaid="jantravesh",
 	subcount={	2015=0,2016=0,2017=0,	2018=244,	2019=955},
 	viewscount={2015=0,2016=0,2017=0,	2018=1888,	2019=3506}
@@ -4221,6 +4221,26 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=118},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=92908}
+},
+"UCH_Opu2mXlsvVVVm8Eble4Q"	= {
+	name="LIFEWITHLEONIE",			realname="Leonie Grütter",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-14-",
+	instaid="daslifewithleonie",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=161,	2019=206},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=5062,	2019=11836}
+},
+"UCLDKIj43dF6ueMunYbDH2_Q"	= {
+	name="MINDERwertiger Jonas",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
 
 
@@ -4237,23 +4257,23 @@ staticData = {
 */
 
 catArr = [
-	["0", "Alle"],
-	["7", "Allerlei (40+)"],
-	["6", "Entertainment / Comedy (130+)"],
-	["13", "Firmen (20+)"],
-	["3", "Fotografie / Film / Technik (20+)"],
-	["14", "Frauen / YouTuberinnen (30+)"],
-	["4", "Gaming (50+)"],
-	["2", "Lifestyle / DIY / Kochen (10+)"],
-	["8", "Musik (70+)"],
-	["10", "Politik (10+)"],
-	["9", "Presse / Radio / TV / Kino (30+)"],
-	["1", "Reisen (20+)"],
-	["5", "Sport (20+)"],
-	["12", "Mit Podcast"],
-	["16", "Mit Kanalmitglieder"],
-	["11", "Mit Twitch Kanal"],
-	["15", "Mit YouTube Livestreams"]
+	["0",	"Alle Kategorien"],
+	["7",	"Allerlei (40+)"],
+	["6",	"Entertainment / Comedy (130+)"],
+	["13",	"Firmen (20+)"],
+	["3",	"Fotografie / Film / Technik (20+)"],
+	["14",	"Frauen / YouTuberinnen (30+)"],
+	["4",	"Gaming (50+)"],
+	["2",	"Lifestyle / DIY / Kochen (10+)"],
+	["8",	"Musik (70+)"],
+	["10",	"Politik (10+)"],
+	["9",	"Presse / Radio / TV / Kino (30+)"],
+	["1",	"Reisen (20+)"],
+	["5",	"Sport (20+)"],
+	["12",	"Mit Podcast"],
+	["16",	"Mit Kanalmitglieder"],
+	["11",	"Mit Twitch Kanal"],
+	["15",	"Mit YouTube Livestreams"]
 ];
 
 /*

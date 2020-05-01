@@ -4241,8 +4241,27 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCLY-_k4u8045ueKL0vMjEKg"	= {
+	name="Fun Girl",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-14-",
+	instaid="learda.lu",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCelr8n-nqxfufxteDBCnVBA"	= {
+	name="Schmidi Schmidhauser",			realname="",
+	ytlink="https://www.youtube.com/chicatorpedo",
+	thid="",
+	weblink="https://www.chicatorpedo.ch",
+	catids="-8-",
+	instaid="chica_torpedo",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
-
 
 
 

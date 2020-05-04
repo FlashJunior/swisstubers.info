@@ -4,7 +4,7 @@ staticData = {
 
 "UCgw0vnoy6z_4wWrYc9eFEHw"	= {
 	name="Martin Bommeli",	realname="",
-	ytlink="https://www.youtube.com/martinbommeli",
+	ytlink="https://www.youtube.com/mbommeli",
 	thid="mbommeli",
 	weblink="https://www.mbrand.info",
 	catids="-5-7-11-15-16-",
@@ -27,7 +27,7 @@ staticData = {
 	ytlink="https://www.youtube.com/PascalErb",
 	thid="",
 	weblink="https://pascalerb.com",
-	catids="-3-",
+	catids="-2-3-",
 	instaid="pascalerbcom",
 	subcount={	2015=1002,	2016=2827,	2017=2910,	2018=3146,		2019=4220},
 	viewscount={2015=38481,	2016=169416,2017=299294,2018=434264,	2019=558238}
@@ -44,11 +44,11 @@ staticData = {
 },
 "UC0Rcwf8aMBpi0tHCtIll7KQ"	= {
 	name="GrischaYeti",			realname="Jürg Hartmann",
-	ytlink="",
-	thid="",
-	weblink="",
-	catids="-4-",
-	instaid="vifye_yt",
+	ytlink="https://www.youtube.com/grischayeti",
+	thid="grischayeti",
+	weblink="https://shop.spreadshirt.ch/grischayeti",
+	catids="-4-11-15-",
+	instaid="grischayeti",
 	subcount={	2015=260,	2016=616,	2017=1301,	2018=1990,		2019=2590},
 	viewscount={2015=8231,	2016=42183,	2017=114865,2018=243918,	2019=356375}
 },
@@ -64,7 +64,7 @@ staticData = {
 },
 "UCzpJpppRsktvi265y--jpoA"	= {
 	name="KnackTV",			realname="David Lukas Kohler",
-	ytlink="",
+	ytlink="https://www.youtube.com/knackeboul",
 	thid="",
 	weblink="http://knackeboul.com",
 	podlink="https://open.spotify.com/show/1R3TxXLLMm6apqX3zz3Bon",
@@ -75,7 +75,7 @@ staticData = {
 },
 "UCNuCQrKaET5OLzKO_64kOjg"	= {
 	name="Physical Shock",		realname="",
-	ytlink="https://www.youtube.com/scrappylav",
+	ytlink="https://www.youtube.com/physicalshock",
 	thid="",
 	weblink="https://www.physicalshock.com",
 	catids="-8-",
@@ -85,7 +85,7 @@ staticData = {
 },
 "UC2Er57B6PWOJbTuzt-FBfig"	= {
 	name="Bakaramusic",			realname="",
-	ytlink="https://www.youtube.com/bakaramusik",
+	ytlink="https://www.youtube.com/bakaramusic",
 	thid="",
 	weblink="http://www.bakara.ch",
 	catids="-8-",
@@ -108,7 +108,8 @@ staticData = {
 	ytlink="https://www.youtube.com/chnuschtimovie",
 	thid="",
 	weblink="https://chrizzalive.jimdo.com",
-	catids="-6-",
+	podlink="https://twitter.com/ChrizzCast",
+	catids="-6-12-",
 	instaid="chrizzalive",
 	subcount={	2015=153,	2016=226,	2017=347,		2018=455,		2019=506},
 	viewscount={2015=50812,	2016=81152,	2017=138954,	2018=182734,	2019=179803}
@@ -118,14 +119,15 @@ staticData = {
 	ytlink="https://www.youtube.com/MaeloRomani",
 	thid="",
 	weblink="",
-	catids="-6-15-16-",
+	podlink="https://open.spotify.com/show/1xIBDLWYV7C7fmkrx1krF8",
+	catids="-6-12-15-16-",
 	instaid="maeloromani",
 	subcount={	2015=3188,		2016=6619,		2017=6681,		2018=7944,		2019=9580},
 	viewscount={2015=149311,	2016=272838,	2017=356308,	2018=614701,	2019=746300}
 },
 "UCRavEtOkesgfuXol-ElvVyw"	= {
 	name="MaeLOL",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/maelol",
 	thid="",
 	weblink="",
 	catids="-6-15-",
@@ -135,7 +137,7 @@ staticData = {
 },
 "UCK8iSDkDpKsaMlVpz38qLUw"	= {
 	name="SRF Virus",		realname="",
-	ytlink="https://www.youtube.com/DRSVirus",
+	ytlink="https://www.youtube.com/srfvirus",
 	thid="",
 	weblink="https://www.virus.ch",
 	catids="-8-9-15-",
@@ -165,7 +167,7 @@ staticData = {
 },
 "UCjms9ennZf0b15xGxeTtE1g"	= {
 	name="Robin Rehmann",			realname="",
-	ytlink="https://www.youtube.com/radikalabnormal",
+	ytlink="https://www.youtube.com/robinrehmann",
 	thid="",
 	weblink="",
 	catids="-6-",
@@ -195,7 +197,7 @@ staticData = {
 },
 "UCsmAPkVv80zC_1aVkKkAtFA"	= {
 	name="Lagondo",			realname="",
-	ytlink="https://www.youtube.com/SchweizTube",
+	ytlink="https://www.youtube.com/lagondo",
 	thid="",
 	weblink="",
 	catids="-6-",
@@ -205,7 +207,7 @@ staticData = {
 },
 "UC73RcscxiPXmOzK_AkEiinA"	= {
 	name="Martin Rechsteiner",		realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/martinrechsteiner",
 	thid="",
 	weblink="https://martinrechsteiner.ch",
 	podlink="https://open.spotify.com/show/7MuPNw7iD8lgqfF8rke0cu?si=q0FjWEWJRVqlcIcDED5d2A",
@@ -216,7 +218,7 @@ staticData = {
 },
 "UCgS_OtFhFq5LTuyGKdafoNA"	= {
 	name="Coop",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/coopschweiz",
 	thid="",
 	weblink="https://www.coop.ch",
 	catids="-13-",
@@ -236,11 +238,11 @@ staticData = {
 },
 "UCpJKd4CG2Gdubj8WBOuCnqg"	= {
 	name="T-Nerd Production",			realname="Andreas Aegerter",
-	ytlink="",
+	ytlink="https://www.youtube.com/tnerdproduction",
 	thid="",
-	weblink="https://www.t-nerd.ch",
+	weblink="https://t-nerd.ch",
 	catids="-3-",
-	instaid="",
+	instaid="t_nerd_production",
 	subcount={	2015=194,	2016=272,	2017=289,	2018=324,	2019=330},
 	viewscount={2015=41717,	2016=54066,	2017=62899,	2018=69715,	2019=75547}
 },
@@ -259,14 +261,14 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="https://www.20min.ch",
-	catids="-6-9-",
+	catids="-9-",
 	instaid="20min.ch",
 	subcount={	2015=1401,		2016=1825,		2017=2444,		2018=3150,		2019=4600},
 	viewscount={2015=3004009,	2016=3400041,	2017=4099311,	2018=3905337,	2019=4642343}
 },
 "UCTB7mdyAxm8jF97cSuVxDpA"	= {
 	name="Dabu Fantastic",			realname="Andreas Christen & David Bucher",
-	ytlink="",
+	ytlink="https://www.youtube.com/dabufantastic",
 	thid="",
 	weblink="http://dabufantastic.ch",
 	catids="-8-",
@@ -276,7 +278,7 @@ staticData = {
 },
 "UC_ob8wa5LQHud8MCgiQA0vA"	= {
 	name="K-Direct Music",			realname="",
-	ytlink="https://www.youtube.com/ktelmusic",
+	ytlink="https://www.youtube.com/kdirectmusic",
 	thid="",
 	weblink="https://www.k-directmusic.com",
 	catids="-8-",
@@ -357,7 +359,7 @@ staticData = {
 },
 "UC97FMdlARgF_LHwbe2jqfMg"	= {
 	name="SwissLPGamers",	realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/swisslpgamers",
 	thid="swisslpgamers",
 	weblink="https://swisslpgamers.ch",
 	catids="-4-11-15-",
@@ -370,14 +372,14 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="https://www.watson.ch",
-	catids="-6-9-13-",
+	catids="-9-",
 	instaid="watson_news",
 	subcount={	2015=1086,	2016=1950,		2017=3315,		2018=4462,		2019=5470},
 	viewscount={2015=407437,2016=903760,	2017=1700878,	2018=3671581,	2019=3052713}
 },
 "UCOV0nK_1IiOaT2mykA1UDuw"	= {
 	name="missIMPULSIV",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/missimpulsiv",
 	thid="",
 	weblink="",
 	catids="-1-2-6-14-",
@@ -397,7 +399,7 @@ staticData = {
 },
 "UCBNrZR2bdeH-f7nZcJw1JkQ"	= {
 	name="Urgamer",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/urgamer",
 	thid="urgamertv",
 	weblink="",
 	catids="-4-11-",
@@ -430,7 +432,7 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="",
-	catids="-6-8-",
+	catids="-8-",
 	instaid="rapgschwaetz",
 	subcount={	2015=956,	2016=1924,	2017=2113,	2018=2034,	2019=1980},
 	viewscount={2015=35014,	2016=83472,	2017=22374,	2018=33912,	2019=10847}
@@ -488,7 +490,7 @@ staticData = {
 },
 "UCL9yOyuvgmnPGQcKwiaJKVQ"	= {
 	name="Maanuli",				realname="",
-	ytlink="https://www.youtube.com/LittleManuli",
+	ytlink="https://www.youtube.com/maanuli",
 	thid="",
 	weblink="",
 	catids="-6-8-14-",
@@ -508,10 +510,10 @@ staticData = {
 },
 "UCQNjg0-yEA8LoyCcWI-j8mA"	= {
 	name="Blick",			realname="",
-	ytlink="https://www.youtube.com/bolzurich",
+	ytlink="https://www.youtube.com/blicktube",
 	thid="",
 	weblink="https://www.blick.ch",
-	catids="-6-9-",
+	catids="-9-",
 	instaid="blick",
 	subcount={	2015=0,	2016=35647,		2017=45321,		2018=60126,		2019=76200},
 	viewscount={2015=0,	2016=35150170,	2017=45537197,	2018=55711212,	2019=55296033}
@@ -619,7 +621,7 @@ staticData = {
 },
 "UChmJQggtcshsOlkBZW2CDxQ"	= {
 	name="Zytglogge",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/zytgloggeverlagagbasel",
 	thid="",
 	weblink="http://www.zytglogge.ch",
 	catids="-8-",
@@ -751,7 +753,7 @@ staticData = {
 "UCinxAWhCEJT3-SRSll55mmw"	= {
 	name="Troubas Kater",
 	realname="Markus Sollberger, Matthias Urech, Alexander Balajew, Jürg Lerch, Kaspar Eggimann, Mark Oberholzer, Simon Hirsiger, Lukas Wyss",
-	ytlink="https://www.youtube.com/hansjoggeli",
+	ytlink="https://www.youtube.com/troubaskater",
 	thid="",
 	weblink="https://www.troubaskater.ch",
 	catids="-8-",
@@ -815,14 +817,14 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="",
-	catids="-6-",
+	catids="-5-6-",
 	instaid="ollie.nelson_",
 	subcount={	2015=0,	2016=65,	2017=474,	2018=618,	2019=728},
 	viewscount={2015=0,	2016=1523,	2017=21901,	2018=36872,	2019=45795}
 },
 "UCQBe58uAlyWR_avwCYkx1Rw"	= {
 	name="Lehrstellen Schweiz",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/lehrstellenschweiz",
 	thid="",
 	weblink="https://www.yousty.ch",
 	catids="-7-",
@@ -832,7 +834,7 @@ staticData = {
 },
 "UCHIUqkAKhVuPEpT7A5050ag"	= {
 	name="NØ BASIC",		realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/nobasic",
 	thid="",
 	weblink="https://www.wearenobasic.com",
 	catids="-8-",
@@ -842,17 +844,17 @@ staticData = {
 },
 "UCxy0ues-Qgrs871Cz_m72ZA"	= {
 	name="LYRICS TV",		realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/lyricsmagazinch",
 	thid="",
 	weblink="https://lyricsmagazin.ch",
-	catids="-6-8-9-",
+	catids="-8-9-",
 	instaid="lyricsmagazin",
 	subcount={	2015=0,	2016=411,	2017=1259,		2018=2078,		2019=2520},
 	viewscount={2015=0,	2016=48902,	2017=233920,	2018=439493,	2019=608951}
 },
 "UCLDL5dG1r05NdiEW_zq7Yhg"	= {
 	name="Lidl Schweiz",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/lidlschweizch",
 	thid="",
 	weblink="https://www.lidl.ch",
 	catids="-13-",
@@ -903,7 +905,7 @@ staticData = {
 },
 "UCl82STTPSdqGs4AOx8ZKY4A"	= {
 	name="Playvetia",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/playvetia",
 	thid="playvetia",
 	weblink="",
 	catids="-4-11-",
@@ -913,7 +915,7 @@ staticData = {
 },
 "UCwvPxhXdX66roloN0IGwKrA"	= {
 	name="Geekstübli",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/geekstubli",
 	thid="geekstuebli",
 	weblink="",
 	catids="-4-11-15-",
@@ -923,7 +925,7 @@ staticData = {
 },
 "UCNuY3fBjqnbUfX_nI1ewu3A"	= {
 	name="Roki",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/rokiofficial",
 	thid="",
 	weblink="",
 	catids="-6-",
@@ -933,7 +935,7 @@ staticData = {
 },
 "UCXY_jfrKvPwXsA2Iz1BWYuA"	= {
 	name="Zona 167 Produzioni",			realname="Renato Trianni",
-	ytlink="",
+	ytlink="https://www.youtube.com/zona167produzioni",
 	thid="",
 	weblink="https://www.zona167.com",
 	catids="-6-8-",
@@ -943,7 +945,7 @@ staticData = {
 },
 "UCsL0oM8xDp27oC3L6rkxYjA"	= {
 	name="Loudzz",		realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/loudzz",
 	thid="",
 	weblink="https://www.loudzz.ch",
 	catids="-6-",
@@ -963,7 +965,7 @@ staticData = {
 },
 "UCiin8CyMfjlT_DFGaEPNPTQ"	= {
 	name="Vogelblick",		realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/vogelblick",
 	thid="",
 	weblink="",
 	catids="-9-",
@@ -973,7 +975,7 @@ staticData = {
 },
 "UClPRw0aSReJpJS_t2vNFLbA"	= {
 	name="FizZzers",		realname="",
-	ytlink="https://www.youtube.com/thefizzersoriginal",
+	ytlink="https://www.youtube.com/fizzzers",
 	thid="",
 	weblink="",
 	catids="-6-",
@@ -1024,7 +1026,7 @@ staticData = {
 },
 "UCfjP7DpvANUKUcJi4klX1_Q"	= {
 	name="Daytrippers CH",		realname="Diana & Pascal",
-	ytlink="",
+	ytlink="https://www.youtube.com/daytrippersch",
 	thid="",
 	weblink="https://www.daytrippers.ch",
 	catids="-1-",
@@ -1044,17 +1046,17 @@ staticData = {
 },
 "UCFsDkwUYQ9kkMLhgDhH2L_Q"	= {
 	name="CCOne",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/cconetv",
 	thid="",
 	weblink="https://ccone.live",
-	catids="-6-9-13-",
+	catids="-9-13-",
 	instaid="cconetv",
 	subcount={	2015=0,2016=0,	2017=34,	2018=49,	2019=128},
 	viewscount={2015=0,2016=0,	2017=7535,	2018=12911,	2019=25926}
 },
 "UCoQ7pKPJcEwU6fQbyI1kKlA"	= {
 	name="Angi Swiss",		realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/angiswizz",
 	thid="",
 	weblink="",
 	catids="-6-",
@@ -1074,7 +1076,7 @@ staticData = {
 },
 "UCopW2mEmhHFkUyFk6-BExNg"	= {
 	name="Speedy Swiss Gaming",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/speedyswissgaming",
 	thid="",
 	weblink="",
 	catids="-4-",
@@ -1084,7 +1086,7 @@ staticData = {
 },
 "UCZv9s7jo0m1yMkbCW6ORNzA"	= {
 	name="Prhyme Tyme Music",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/prhymetymemusic",
 	thid="",
 	weblink="http://www.prhymetyme.ch",
 	catids="-8-",
@@ -1094,7 +1096,7 @@ staticData = {
 },
 "UCrcSpYeqWC7-fXlzVq6RZ-w"	= {
 	name="Schwiizchiste",			realname="Robin Pickis",
-	ytlink="",
+	ytlink="https://www.youtube.com/schwiizchiste",
 	thid="",
 	weblink="",
 	catids="-6-",
@@ -1104,7 +1106,7 @@ staticData = {
 },
 "UChkfCpN74VMFdDoEw7WDz0w"	= {
 	name="Konterbier",		realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/konterbier",
 	thid="",
 	weblink="",
 	catids="-6-",
@@ -1125,7 +1127,7 @@ staticData = {
 
 "UC8T4JVUyNovYxCDyhraSSiw"	= {
 	name="Photobus Schweiz",	realname="Lorenz Walter",
-	ytlink="",
+	ytlink="https://www.youtube.com/photobusschweiz",
 	thid="",
 	weblink="https://www.thephotobus.ch",
 	catids="-2-3-13-",
@@ -1135,7 +1137,7 @@ staticData = {
 },
 "UCX1YqtM-mU3N1aD94ZeAYww"	= {
 	name="Princess.ch",		realname="Nicole Nobs",
-	ytlink="https://www.youtube.com/princess8213",
+	ytlink="https://www.youtube.com/princessch",
 	thid="",
 	weblink="https://www.princess.ch",
 	catids="-2-14-",
@@ -1175,7 +1177,7 @@ staticData = {
 },
 "UCS1cV6Lg6BQThHP-kel1xWw"	= {
 	name="Gabirano",		realname="Gabirano Guinand",
-	ytlink="https://www.youtube.com/91gabio",
+	ytlink="https://www.youtube.com/gabirano",
 	thid="",
 	weblink="",
 	catids="-6-",
@@ -1185,7 +1187,7 @@ staticData = {
 },
 "UCTJRygFsgQGEf17dvvc1qbA"	= {
 	name="Nilai",		realname="Marc Scheiwiller",
-	ytlink="",
+	ytlink="https://www.youtube.com/nilaimusic",
 	thid="",
 	weblink="",
 	catids="-6-",
@@ -1225,7 +1227,7 @@ staticData = {
 },
 "UCjrbBT41Yd4URIhUqTah3-g"	= {
 	name="Grüezi TV",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/gruezitv",
 	thid="",
 	weblink="https://www.gruezimusic.ch",
 	catids="-8-",
@@ -1305,7 +1307,7 @@ staticData = {
 },
 "UCmG5pmhiYWdS7HkPKNQFhCw"	= {
 	name="RuehSäubst",	realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/ruehsaubst",
 	thid="",
 	weblink="",
 	catids="-6-",
@@ -1316,17 +1318,17 @@ staticData = {
 
 "UCj88Pp4scKu5I2YJiy2JWQw"	= {
 	name="Zwei am Morge",	realname="Julian Graf & Ramin Yousofzai",
-	ytlink="",
+	ytlink="https://www.youtube.com/srfzweiammorge",
 	thid="",
 	weblink="",
-	catids="-6-",
+	catids="-6-9-",
 	instaid="zweiammorge",
 	subcount={	2015=0,2016=0,2017=0,	2018=15007,		2019=21000},
 	viewscount={2015=0,2016=0,2017=0,	2018=1766428,	2019=3441935}
 },
 "UCIMWDWFlebGaguhuZMRrSpA"	= {
 	name="Zekisworld",			realname="Zeki Bulgurcu",
-	ytlink="https://www.youtube.com/ZekiTV1",
+	ytlink="https://www.youtube.com/zekisworld",
 	thid="",
 	weblink="",
 	catids="-6-",
@@ -1336,7 +1338,7 @@ staticData = {
 },
 "UCtUZJwnypY8wBfGcR0H9lTQ"	= {
 	name="FarMoreTV",		realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/farmoretv",
 	thid="",
 	weblink="http://www.fmmusicgroup.ch",
 	catids="-8-",
@@ -1348,7 +1350,7 @@ staticData = {
 	name="Nathistyle",		realname="Nathalie",
 	ytlink="https://www.youtube.com/nathistyle",
 	thid="",
-	weblink="",
+	weblink="https://nathistyle.ch",
 	catids="-6-14-",
 	instaid="nathistyle_",
 	subcount={	2015=0,2016=0,2017=0,	2018=1414,	2019=9450},
@@ -1356,7 +1358,7 @@ staticData = {
 },
 "UCd3pZPBm2wbMjZj3mG64IOQ"	= {
 	name="Izzy",			realname="Ringier AG, Cedric Schild, Silvia Princigalli, Anne-Sophie Keller, Miriam Suter",
-	ytlink="",
+	ytlink="https://www.youtube.com/izzymagazine",
 	thid="",
 	weblink="https://izzymag.ch",
 	catids="-6-9-",
@@ -1396,7 +1398,7 @@ staticData = {
 },
 "UCOtmR8YT4c-2jCLJREdxeBw"	= {
 	name="DritteStockTV",		realname="Dritte Stock Records",
-	ytlink="",
+	ytlink="https://www.youtube.com/drittestocktv",
 	thid="",
 	weblink="http://www.drittestock.ch",
 	catids="-8-",
@@ -1415,8 +1417,8 @@ staticData = {
 	viewscount={2015=0,2016=0,2017=0,	2018=13651,	2019=22739}
 },
 "UCCKOtijnH8AmP4nU6xCNLyQ"	= {
-	name="Mace",		realname="",
-	ytlink="https://www.youtube.com/macejutv",
+	name="Jimmy Mace",		realname="",
+	ytlink="https://www.youtube.com/jimmymace",
 	thid="",
 	weblink="",
 	catids="-6-",
@@ -1446,7 +1448,7 @@ staticData = {
 },
 "UCHbFGKUYr64TnQktXCglehQ"	= {
 	name="ZID Music",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/zidmusic",
 	thid="",
 	weblink="https://zidmusic.bandcamp.com",
 	catids="-8-",
@@ -1496,7 +1498,7 @@ staticData = {
 },
 "UCcUB8t47AAu5WKmaUSdaN_g"	= {
 	name="Jucker Farm",			realname="Beat & Martin Jucker",
-	ytlink="",
+	ytlink="https://www.youtube.com/juckerfarmag",
 	thid="",
 	weblink="https://www.juckerfarm.ch",
 	catids="-13-",
@@ -1537,7 +1539,7 @@ staticData = {
 },
 "UCCQXmMV34CCiJbE0iJGwcOQ"	= {
 	name="Arnold in Action TV",		realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/arnoldinactiontv",
 	thid="",
 	weblink="",
 	catids="-6-",
@@ -1557,7 +1559,7 @@ staticData = {
 },
 "UCejyf100xTg_3ydQEEEFPnQ"	= {
 	name="Beat Hochheuser",		realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/beathochheuser",
 	thid="",
 	weblink="http://www.beat.ch",
 	catids="-7-",
@@ -1577,17 +1579,17 @@ staticData = {
 },
 "UC32nI00UHzvDyUNIrkykGPQ"	= {
 	name="BURNING_KEYS",			realname="Dave Bichsel",
-	ytlink="https://www.youtube.com/davensius",
+	ytlink="https://www.youtube.com/burningkeys",
 	thid="luck_n_loler",
 	weblink="",
-	catids="-6-4-11-",
+	catids="-4-8-11-",
 	instaid="dave_bichsel",
 	subcount={	2015=79,	2016=81,	2017=86,	2018=98,	2019=112},
 	viewscount={2015=52722,	2016=55021,	2017=57399,	2018=60776,	2019=64247}
 },
 "UC8cAYunJLIewZ8YPtP5bvMw"	= {
 	name="Cineman Inside",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/cinemaninside",
 	thid="",
 	weblink="https://www.cineman.ch",
 	catids="-6-9-",
@@ -1597,7 +1599,7 @@ staticData = {
 },
 "UCVuR4hBxX3zWY_xUCZeIc3A"	= {
 	name="Schweizer Radio und Fernsehen",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/srf",
 	thid="",
 	weblink="https://www.srf.ch",
 	catids="-9-",
@@ -1607,7 +1609,7 @@ staticData = {
 },
 "UC1-g9E0BKQo5pID4y55K5iA"	= {
 	name="SRF 3",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/srf3",
 	thid="",
 	weblink="https://www.srf.ch/radio-srf-3",
 	catids="-9-",
@@ -1617,7 +1619,7 @@ staticData = {
 },
 "UCqNL83581wbf9pv_wHV0Zaw"	= {
 	name="SRF Digital",			realname="",
-	ytlink="https://www.youtube.com/digitalsrf",
+	ytlink="https://www.youtube.com/srfdigital",
 	thid="",
 	weblink="https://www.srf.ch/radio-srf-3/digital",
 	catids="-9-15-",
@@ -1657,7 +1659,7 @@ staticData = {
 },
 "UCZwM1uoaRe_gY1eP1WGQi_Q"	= {
 	name="schweizerdeutsch-lernen.ch",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/schweizerdeutschlernench",
 	thid="",
 	weblink="https://www.schweizerdeutsch-lernen.ch",
 	catids="-7-",
@@ -1667,7 +1669,7 @@ staticData = {
 },
 "UCsjuNqYW5CWu8gXE-MLOipQ"	= {
 	name="berg.land",			realname="",
-	ytlink="https://www.youtube.com/ironcam",
+	ytlink="https://www.youtube.com/berglandvideo",
 	thid="",
 	weblink="",
 	catids="-1-5-",
@@ -1697,7 +1699,7 @@ staticData = {
 },
 "UCkZtFbCDWtT5Bc1UbWqyJvQ"	= {
 	name="ROQA",			realname="",
-	ytlink="https://www.youtube.com/greamtg",
+	ytlink="https://www.youtube.com/roqa1",
 	thid="roqa",
 	weblink="https://www.roqa.ch",
 	catids="-4-11-",
@@ -1767,7 +1769,7 @@ staticData = {
 },
 "UCOc_69rsD3bTDfulZ_DOXLg"	= {
 	name="Niki Huwyler",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/nikihuwyler",
 	thid="",
 	weblink="https://www.snowboardcoach.ch",
 	catids="-1-5-",
@@ -1808,9 +1810,9 @@ staticData = {
 },
 "UCAGJnv1f1TWG0_8FDKJeMtw"	= {
 	name="7speed.ch",			realname="Yves Meyer",
-	ytlink="",
+	ytlink="https://www.youtube.com/7speedch",
 	thid="",
-	weblink="",
+	weblink="http://7speed.ch",
 	catids="-5-",
 	instaid="7speed.ch",
 	subcount={	2015=0,	2016=0,2017=0,	2018=0,	2019=0},
@@ -1898,9 +1900,9 @@ staticData = {
 },
 "UC1EGthHyLAJrHYLm0IIT0BQ"	= {
 	name="WhaleonTrail",	realname="Martin",
-	ytlink="",
+	ytlink="https://www.youtube.com/whaleontrail",
 	thid="",
-	weblink="",
+	weblink="http://www.whaleontrail.ch/",
 	catids="-1-",
 	instaid="whaleontrail",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=214},
@@ -1958,7 +1960,7 @@ staticData = {
 },
 "UC9XMXSvNxGsKMbe5QdS0D6Q"	= {
 	name="SerejTV",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/serejtv",
 	thid="",
 	weblink="http://www.serej.ch",
 	catids="-8-",
@@ -1978,7 +1980,7 @@ staticData = {
 },
 "UCzTS-cKceoKzYPQBCnDOtrg"	= {
 	name="Joël von Mutzenbecher",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/joelvonmutzenbecher",
 	thid="",
 	weblink="https://www.joelvonmutzenbecher.ch",
 	podlink="https://open.spotify.com/show/6LlCWg0YSsCtWMfI0ubyvi",
@@ -2019,7 +2021,7 @@ staticData = {
 },
 "UCfqkZnJMnzwbSIvepovX6zg"	= {
 	name="LEVIN_TV",			realname="Levin Imhof",
-	ytlink="http://www.youtube.com/LEVINTVoffical",
+	ytlink="https://www.youtube.com/levintvoffical",
 	thid="",
 	weblink="",
 	catids="-6-",
@@ -2069,7 +2071,7 @@ staticData = {
 },
 "UCjgVbu8CXJwcVBvA9qN4jZQ"	= {
 	name="MB Vision",			realname="Mathias Blattmann",
-	ytlink="",
+	ytlink="https://www.youtube.com/mbvisionunterageri",
 	thid="",
 	weblink="https://www.mathiasblattmann.ch",
 	catids="-3-13-",
@@ -2079,7 +2081,7 @@ staticData = {
 },
 "UCqdXpIZSamBceDmH8uOoTHA"	= {
 	name="SRF Kassensturz",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/srfkassensturz",
 	thid="",
 	weblink="https://www.srf.ch/konsum",
 	catids="-9-",
@@ -2089,7 +2091,7 @@ staticData = {
 },
 "UC1AUTFT_qp77xwClNy4IzTg"	= {
 	name="Patrick Embacher",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/patrickembacher",
 	thid="",
 	weblink="https://patrickembacher.com",
 	podlink="https://anchor.fm/embacherpatrick",
@@ -2110,7 +2112,7 @@ staticData = {
 },
 "UCx9yK8r_t9WnbfJMA0TFlcw"	= {
 	name="Don Superbe",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/donsuperbe",
 	thid="",
 	weblink="",
 	catids="-7-",
@@ -2200,11 +2202,11 @@ staticData = {
 },
 "UCibxRwEEs4ck5RDEm5Ge9Mw"	= {
 	name="Züriost-Wucheblick",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/zuriost",
 	thid="",
 	weblink="https://zueriost.ch",
 	catids="-9-",
-	instaid="",
+	instaid="zueriost",
 	subcount={	2015=0,	2016=0,	2017=30,	2018=30,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=53097,	2018=135115,2019=200638}
 },
@@ -2250,7 +2252,7 @@ staticData = {
 },
 "UCV-NveL3y0HdOABzA4YRIMw"	= {
 	name="Fotichaestli AG",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/fotichaestlich",
 	thid="",
 	weblink="https://www.fotichaestli.ch",
 	catids="-3-13-",
@@ -2260,10 +2262,10 @@ staticData = {
 },
 "UCiJMNqA6WEGFTvsy8qLV9QQ"	= {
 	name="MinderTV",			realname="",
-	ytlink="",
-	thid="",
+	ytlink="https://www.youtube.com/mindertv",
+	thid="minder_tv",
 	weblink="",
-	catids="-4-",
+	catids="-4-11-",
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=70,	2018=102,	2019=102},
 	viewscount={2015=0,	2016=0,	2017=2632,	2018=948,	2019=1084}
@@ -2350,9 +2352,10 @@ staticData = {
 },
 "UCng3w4h7F1lLnWQTQxxGgKA"	= {
 	name="MisterElia",			realname="Elia Rohrbach",
-	ytlink="",
+	ytlink="https://www.youtube.com/misterelia",
 	thid="",
 	weblink="",
+	podlink="https://open.spotify.com/show/1xIBDLWYV7C7fmkrx1krF8",
 	catids="-6-",
 	instaid="mister_elia",
 	subcount={	2015=2554,	2016=3076,	2017=4015,	2018=5174,		2019=5910},
@@ -2363,7 +2366,7 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="https://www.romanzone.com",
-	catids="-6-",
+	catids="-6-8-",
 	instaid="romanzone_youtube",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=60},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=4688}
@@ -2400,7 +2403,7 @@ staticData = {
 },
 "UCgTwdkG7FyvQbHEsy0z7psg"	= {
 	name="Jasgaba",			realname="Jasmin Gander",
-	ytlink="",
+	ytlink="https://www.youtube.com/jasgaba",
 	thid="",
 	weblink="",
 	catids="-4-14-",
@@ -2420,7 +2423,7 @@ staticData = {
 },
 "UCg7vN1WFPnsYPRnwIGT52JA"	= {
 	name="IAxulu",			realname="Luca Aurilio",
-	ytlink="",
+	ytlink="https://www.youtube.com/iaxulu",
 	thid="iaxulu",
 	weblink="",
 	catids="-4-11-",
@@ -2430,7 +2433,7 @@ staticData = {
 },
 "UCPpQKCMOCwoQ-rw1lqE9wMA"	= {
 	name="TopTenErich",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/toptenerich",
 	thid="toptenerich",
 	weblink="",
 	catids="-6-11-15-",
@@ -2450,7 +2453,7 @@ staticData = {
 },
 "UChmw2ZWy4X8oFTp_iYPlxJA"	= {
 	name="Nau",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/nauch",
 	thid="",
 	weblink="",
 	catids="-9-",
@@ -2460,7 +2463,7 @@ staticData = {
 },
 "UCYUw18YUW012Z2ruHXR5lcw"	= {
 	name="Gourmendo",			realname="Ivan Schnoz",
-	ytlink="https://www.youtube.com/gourmendo",
+	ytlink="https://www.youtube.com/gourmendoch",
 	thid="",
 	weblink="https://gourmendo.com",
 	catids="-2-",
@@ -2480,7 +2483,7 @@ staticData = {
 },
 "UC5jF58ftx0w4wDvW3B7atNQ"	= {
 	name="Flying Metal Crew",			realname="Jérôme & Ramon Hunziker",
-	ytlink="https://www.youtube.com/flyingmetalcrew",
+	ytlink="https://www.youtube.com/flyingmetalch",
 	thid="",
 	weblink="",
 	catids="-5-",
@@ -2500,7 +2503,7 @@ staticData = {
 },
 "UCJzKFKXHbGerDy1MsMsGCAA"	= {
 	name="JaenuK",			realname="Jan Kröcher",
-	ytlink="",
+	ytlink="https://www.youtube.com/jaenuk",
 	thid="",
 	weblink="",
 	catids="-2-",
@@ -2510,7 +2513,7 @@ staticData = {
 },
 "UCQqncPJ6crTkW_WuoLwXLkg"	= {
 	name="riSurvival89",			realname="Remo Iller",
-	ytlink="",
+	ytlink="https://www.youtube.com/risurvival89",
 	thid="",
 	weblink="http://www.risurvival-training.ch",
 	catids="-7-",
@@ -2560,11 +2563,11 @@ staticData = {
 },
 "UCCsUFSl6HS1r3o_yNMJaQdA"	= {
 	name="Dawill",			realname="Danilo Rosario",
-	ytlink="",
+	ytlink="https://www.youtube.com/dawill",
 	thid="",
 	weblink="",
 	catids="-8-",
-	instaid="dawilly.wonka",
+	instaid="dawill",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=797},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=120951}
 },
@@ -2600,7 +2603,7 @@ staticData = {
 },
 "UCcJG0N8IWbgxot4bFoM4cmQ"	= {
 	name="Hampi-Vator",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/hampivator",
 	thid="",
 	weblink="",
 	catids="-7-",
@@ -2630,7 +2633,7 @@ staticData = {
 },
 "UCQG8PZaWqUKUcdH583et6pw"	= {
 	name="rontaler media ag",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/rontalertv",
 	thid="",
 	weblink="https://www.rontaler.ch",
 	catids="-9-15-",
@@ -2650,7 +2653,7 @@ staticData = {
 },
 "UCNHBMc1YZyX_tMMl1K6uuUA"	= {
 	name="Clip und klar!",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/srfclipundklar",
 	thid="",
 	weblink="https://srf.ch/myschool.ch",
 	catids="-9-",
@@ -2660,7 +2663,7 @@ staticData = {
 },
 "UCbbFUi57jUR_VQh-N3x9KGA"	= {
 	name="Nr. 47",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/srfnr47",
 	thid="",
 	weblink="https://srf.ch/nr47",
 	catids="-6-9-",
@@ -2670,7 +2673,7 @@ staticData = {
 },
 "UCd0NmHBRRAq5O-ye7kx_VlQ"	= {
 	name="SRF Archiv",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/srfarchiv",
 	thid="",
 	weblink="https://srf.ch",
 	catids="-9-",
@@ -2680,7 +2683,7 @@ staticData = {
 },
 "UCX0OdLuEQ3ccSCq-Z7iMoiw"	= {
 	name="Deville",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/srfdeville",
 	thid="",
 	weblink="https://srf.ch",
 	catids="-6-9-",
@@ -2690,7 +2693,7 @@ staticData = {
 },
 "UCh_GQqobenO55IJ9sYZWndA"	= {
 	name="SRF Kultur",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/srfkultur",
 	thid="",
 	weblink="https://www.srf.ch/kultur",
 	catids="-9-",
@@ -2730,9 +2733,9 @@ staticData = {
 },
 "UCwOZ-UZDXNydwULvnffMacA"	= {
 	name="Swisscom",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/swisscom",
 	thid="",
-	weblink="",
+	weblink="https://www.swisscom.ch",
 	catids="-9-13-",
 	instaid="swisscom",
 	subcount={	2015=0,	2016=12484,		2017=14335,		2018=15260,		2019=16500},
@@ -2750,10 +2753,11 @@ staticData = {
 },
 "UCfMWwidS6nxYVuC9HSz9wDw"	= {
 	name="Flowcast",			realname="Flavio Camenzind",
-	ytlink="",
+	ytlink="https://www.youtube.com/flowcastfm",
 	thid="",
 	weblink="https://www.flowcast.fm",
-	catids="-6-9-",
+	podlink="https://www.flowcast.fm/flowcast-podcast/",
+	catids="-9-12-",
 	instaid="flaviocamenzind",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=442},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=185522}
@@ -2800,7 +2804,7 @@ staticData = {
 },
 "UCqsz6ADH3LWzpL7a1-RavcA"	= {
 	name="SoliHD",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/solihd",
 	thid="",
 	weblink="",
 	catids="-6-",
@@ -2820,7 +2824,7 @@ staticData = {
 },
 "UCOUe4Mk-lHPsIQZ4qrfvwkw"	= {
 	name="Bregy Pictures",			realname="Stefan Bregy",
-	ytlink="",
+	ytlink="https://www.youtube.com/bregypictures",
 	thid="",
 	weblink="https://bregypictures.com",
 	catids="-7-",
@@ -2869,8 +2873,8 @@ staticData = {
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=5486}
 },
 "UCuk2DDeAPYjOc08yc1EUvaA"	= {
-	name="Cyrils World",			realname="Cyril",
-	ytlink="",
+	name="Cyrils World",			realname="Cyril Fäh",
+	ytlink="https://www.youtube.com/cyrilsworld",
 	thid="",
 	weblink="",
 	catids="-6-",
@@ -2890,11 +2894,11 @@ staticData = {
 },
 "UC611db3Hrtwo1gzMYvyNDOA"	= {
 	name="Ursepio",			realname="Urs Rohrer",
-	ytlink="",
+	ytlink="https://www.youtube.com/ursepio",
 	thid="",
-	weblink="",
+	weblink="http://www.zirkusmuseum.ch",
 	catids="-6-",
-	instaid="",
+	instaid="ursepio",
 	subcount={	2015=0,	2016=366,		2017=392,		2018=549,		2019=751},
 	viewscount={2015=0,	2016=926530,	2017=1042878,	2018=1228511,	2019=1474708}
 },
@@ -2910,7 +2914,7 @@ staticData = {
 },
 "UCO8Spz1GVJRzcJ3zBcFl5SQ"	= {
 	name="SwissIceHockey",			realname="Swiss Ice Hockey Federation SIHF",
-	ytlink="https://www.youtube.com/SwissIceHockey1",
+	ytlink="https://www.youtube.com/swissicehockeyfederation",
 	thid="",
 	weblink="https://www.sihf.ch",
 	catids="-5-",
@@ -2940,7 +2944,7 @@ staticData = {
 },
 "UCxCpgTGZQUdKV-Yzts9zoZQ"	= {
 	name="SP Schweiz",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/spschweiz",
 	thid="",
 	weblink="https://www.sp-ps.ch",
 	catids="-10-",
@@ -2980,7 +2984,7 @@ staticData = {
 },
 "UCMLgtW0G0wJoi9Wzl9HHyRg"	= {
 	name="Carina Manco",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/carinamancomusitoru",
 	thid="",
 	weblink="",
 	catids="-2-14-",
@@ -3000,7 +3004,7 @@ staticData = {
 },
 "UCEsT59BBHueS2dV-75lJHXw"	= {
 	name="Chaostruppe",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/chaostruppebern",
 	thid="",
 	weblink="http://chaostruppe.net",
 	catids="-8-",
@@ -3050,7 +3054,7 @@ staticData = {
 },
 "UCev4Iha8akVyE5ORYHzvGiw"	= {
 	name="SwissArma",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/swissarma",
 	thid="swissarma",
 	weblink="",
 	catids="-4-11-",
@@ -3060,7 +3064,7 @@ staticData = {
 },
 "UC1ypI4hfojtt3lmzE9PRN5Q"	= {
 	name="Jaeggi LP",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/jaeggilp",
 	thid="jaeggiplays",
 	weblink="",
 	catids="-4-11-",
@@ -3100,7 +3104,7 @@ staticData = {
 },
 "UCvWxgEny-sJ5h5aOwlelmJg"	= {
 	name="Tschirillo",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/tschirillo",
 	thid="",
 	weblink="",
 	catids="-8-",
@@ -3141,11 +3145,11 @@ staticData = {
 },
 "UCg1wBVa99_Dwn25uKfvDf8A"	= {
 	name="Kasel",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/kaselch",
 	thid="",
 	weblink="",
 	catids="-4-",
-	instaid="kasel_official",
+	instaid="kasel_yt",
 	subcount={	2015=0,	2016=0,	2017=30,	2018=29,	2019=35},
 	viewscount={2015=0,	2016=0,	2017=5780,	2018=0,		2019=6419}
 },
@@ -3194,7 +3198,7 @@ staticData = {
 	ytlink="https://www.youtube.com/janbreitenstein",
 	thid="",
 	weblink="https://www.mobitecco.com",
-	catids="-6-15-",
+	catids="-15-",
 	instaid="jantravesh",
 	subcount={	2015=0,2016=0,2017=0,	2018=244,	2019=955},
 	viewscount={2015=0,2016=0,2017=0,	2018=1888,	2019=3506}
@@ -3242,7 +3246,7 @@ staticData = {
 },
 "UC00SwNpVcJ3lqUtACMBLMYg"	= {
 	name="GlockenTV",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/glockentv",
 	thid="",
 	weblink="",
 	catids="-7-",
@@ -3312,7 +3316,7 @@ staticData = {
 },
 "UCVAfFYZgAo-Z6DBr43Db84Q"	= {
 	name="Schweizer Bauern",			realname="",
-	ytlink="https://www.youtube.com/chbauernverband",
+	ytlink="https://www.youtube.com/bauernpaysanscontadini",
 	thid="",
 	weblink="https://www.vomhof.ch",
 	catids="-7-",
@@ -3332,7 +3336,7 @@ staticData = {
 },
 "UCcm0WhMb0ipVG1YB_hX251A"	= {
 	name="On the Piano",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/onthepiano",
 	thid="",
 	weblink="",
 	catids="-8-",
@@ -3382,7 +3386,7 @@ staticData = {
 },
 "UC6JDKSN-4oa47M9yQ7OeI4Q"	= {
 	name="SimiiLila",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/simolila",
 	thid="",
 	weblink="https://www.simiilila.ch",
 	catids="-6-14-",
@@ -3392,7 +3396,7 @@ staticData = {
 },
 "UClmQmRROt57h3mS0t8A4gDg"	= {
 	name="Agea Cosplay",			realname="Martina Agea",
-	ytlink="",
+	ytlink="https://www.youtube.com/ageacosplay",
 	thid="agea_cosplay",
 	weblink="",
 	catids="-6-11-14-",
@@ -3402,7 +3406,7 @@ staticData = {
 },
 "UCLRoyCrW4ByT0UP2RcLyBgw"	= {
 	name="Uf dä Punkt.",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/ufdapunkt",
 	thid="",
 	weblink="",
 	catids="-10-",
@@ -3422,7 +3426,7 @@ staticData = {
 },
 "UCVek3PXVKWEtAeSVJZqgC3g"	= {
 	name="Predator Buddies.",			realname="Nico",
-	ytlink="",
+	ytlink="https://www.youtube.com/predatorbuddies",
 	thid="",
 	weblink="",
 	catids="-5-6-",
@@ -3442,7 +3446,7 @@ staticData = {
 },
 "UCV_jCrogu0_BpQXNlh1IonA"	= {
 	name="Abseits.ch",			realname="André Moita Saraiva & Alea Räber",
-	ytlink="",
+	ytlink="https://www.youtube.com/abseitschannel",
 	thid="",
 	weblink="https://abseits.ch",
 	catids="-5-",
@@ -3452,7 +3456,7 @@ staticData = {
 },
 "UCI-TAw4CtSpliFLz41bBWrQ"	= {
 	name="Higgs",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/higgsmag",
 	thid="",
 	weblink="https://www.higgs.ch",
 	catids="-7-10-",
@@ -3462,7 +3466,7 @@ staticData = {
 },
 "UC_ChvDfK-hjS-sbEswNtugg"	= {
 	name="Prodax CH",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/prodaxch",
 	thid="prodaxch",
 	weblink="",
 	catids="-4-11-15-",
@@ -3472,7 +3476,7 @@ staticData = {
 },
 "UCW7RwYcoRHkblArBxqGaZrg"	= {
 	name="Zappin",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/zappintv",
 	thid="",
 	weblink="",
 	catids="-6-",
@@ -3562,7 +3566,7 @@ staticData = {
 },
 "UCFgloF784lLqAPG7Y-7lH9w"	= {
 	name="epic rides",			realname="",
-	ytlink="https://www.youtube.com/epicfreeridewear",
+	ytlink="https://www.youtube.com/epicridestrails",
 	thid="",
 	weblink="https://www.epic-rides.ch",
 	catids="-1-5-",
@@ -3572,7 +3576,7 @@ staticData = {
 },
 "UCKpQEsDbTgIxj-QLoJlaiJQ"	= {
 	name="Love Crew",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/lovecrew",
 	thid="",
 	weblink="",
 	catids="-8-",
@@ -3582,7 +3586,7 @@ staticData = {
 },
 "UCUSainlhtRRE2ceUDHG0xeg"	= {
 	name="Herbert Blaser",			realname="",
-	ytlink="https://www.youtube.com/tenetarepo",
+	ytlink="https://www.youtube.com/herbertblaser",
 	thid="",
 	weblink="http://www.herbert-blaser.ch",
 	catids="-9-10-",
@@ -3606,14 +3610,14 @@ staticData = {
 	thid="",
 	weblink="https://linktr.ee/unverschaemt",
 	podlink="https://open.spotify.com/show/4j5bIPhZBPbtJ376f15WtC?si=nmS5m6-7ToqKUQiH3Ag8hA",
-	catids="-12-",
+	catids="-6-12-",
 	instaid="unverschaemtpodcast",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 },
 "UChJa-I_3JCZ0iWrkJStCMbA"	= {
 	name="Dominik Widmer",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/dominikwidmer",
 	thid="",
 	weblink="",
 	catids="-5-",
@@ -3623,11 +3627,11 @@ staticData = {
 },
 "UCaHpz_4GiTxAVRyVt2ZZfhg"	= {
 	name="Alpin Kanal",			realname="Peter Herger",
-	ytlink="",
+	ytlink="https://www.youtube.com/alpinkanal",
 	thid="",
 	weblink="",
 	catids="-1-5-",
-	instaid="domi.widmer",
+	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=801},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=200178}
 },
@@ -3693,7 +3697,7 @@ staticData = {
 },
 "UCrUHHlrVtbPrbs_lsC0Eu4A"	= {
 	name="Timi Time",			realname="Timon",
-	ytlink="",
+	ytlink="https://www.youtube.com/timitime",
 	thid="",
 	weblink="",
 	catids="-4-",
@@ -3793,7 +3797,7 @@ staticData = {
 },
 "UCB1eXsilXNWXG9njBte77lQ"	= {
 	name="Collie Herb",			realname="",
-	ytlink="https://www.youtube.com/collieherbstarr",
+	ytlink="https://www.youtube.com/collieherb",
 	thid="",
 	weblink="https://www.collieherb.ch",
 	catids="-8-",
@@ -3933,7 +3937,7 @@ staticData = {
 },
 "UCMW8XBBRkjrF_fweALWaZyw"	= {
 	name="Rafael Zeier",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/rafaelzeier",
 	thid="",
 	weblink="https://www.zeipad.com",
 	catids="-3-",
@@ -4043,7 +4047,7 @@ staticData = {
 },
 "UC0XG3xBQOfTh3YcRQ0bHvDQ"	= {
 	name="SIZZLAG",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/sizzlagangel",
 	thid="",
 	weblink="",
 	catids="-4-15-",
@@ -4113,7 +4117,7 @@ staticData = {
 },
 "UC3NnuriieYw3rl2XsqnfB_A"	= {
 	name="Joung Gustav",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/jounggustav",
 	thid="",
 	weblink="",
 	catids="-6-8-",
@@ -4193,7 +4197,7 @@ staticData = {
 },
 "UCLQR396Cr222mkjXcUqfN9g"	= {
 	name="ÖV Ansagen",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/ovansagen",
 	thid="",
 	weblink="https://oev-ansagen.ch",
 	catids="-1-7-",
@@ -4203,7 +4207,7 @@ staticData = {
 },
 "UCH_Opu2mXlsvVVVm8Eble4Q"	= {
 	name="LIFEWITHLEONIE",			realname="Leonie Grütter",
-	ytlink="",
+	ytlink="https://www.youtube.com/lifewithleonie",
 	thid="",
 	weblink="",
 	catids="-6-14-",
@@ -4250,6 +4254,16 @@ staticData = {
 	instaid="marrcozzy",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCVsJx580oVbvYWRVYOD8h9g"	= {
+	name="Luc Reichmuth",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-1-6-",
+	instaid="trainsbyluc",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=40},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=7459}
 }
 
 
@@ -4269,23 +4283,23 @@ staticData = {
 */
 
 catArr = [
-	["0",	"Alle Kategorien"],
-	["7",	"Allerlei (40+)"],
-	["6",	"Entertainment / Comedy (130+)"],
-	["13",	"Firmen (20+)"],
-	["3",	"Fotografie / Film / Technik (20+)"],
-	["14",	"Frauen / YouTuberinnen (30+)"],
-	["4",	"Gaming (50+)"],
-	["2",	"Lifestyle / DIY / Kochen (10+)"],
-	["8",	"Musik (70+)"],
-	["10",	"Politik (10+)"],
-	["9",	"Presse / Radio / TV / Kino (30+)"],
-	["1",	"Reisen (20+)"],
-	["5",	"Sport (20+)"],
-	["12",	"Mit Podcast"],
-	["16",	"Mit Kanalmitglieder"],
-	["11",	"Mit Twitch Kanal"],
-	["15",	"Mit YouTube Livestreams"]
+	["0",	"Alle Kategorien",					""],
+	["7",	"Allerlei",							"40+"],
+	["6",	"Entertainment / Comedy", 			"130+"],
+	["13",	"Firmen",							"20+"],
+	["3",	"Fotografie / Film / Technik",		"20+"],
+	["14",	"Frauen / YouTuberinnen",			"30+"],
+	["4",	"Gaming",							"50+"],
+	["2",	"Lifestyle / DIY / Kochen",			"10+"],
+	["8",	"Musik",							"70+"],
+	["10",	"Politik",							"10+"],
+	["9",	"Presse / Radio / TV / Kino",		"30+"],
+	["1",	"Reisen",							"20+"],
+	["5",	"Sport",							"20+"],
+	["12",	"Mit Podcast",						""],
+	["16",	"Mit Kanalmitglieder",				""],
+	["11",	"Mit Twitch Kanal",					""],
+	["15",	"Mit YouTube Livestreams",			""]
 ];
 
 /*

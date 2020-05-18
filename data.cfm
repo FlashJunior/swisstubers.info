@@ -640,17 +640,6 @@ staticData = {
 	subcount={	2015=0,	2016=105,	2017=347,	2018=671,	2019=801},
 	viewscount={2015=0,	2016=23582,	2017=54499,	2018=81243,	2019=127662}
 },
-"UCzkwtDHF7MYlpeQ03rsVOIw"	= {
-	name="Walla Ray",		realname="",
-	ytlink="",
-	thid="walla_ray",
-	weblink="",
-	podlink="https://www.youtube.com/playlist?list=PLDxMNjMRyJjWPhvbN1XLzi6VncHuM_4zp",
-	catids="-4-6-11-12-15-",
-	instaid="walla_ray",
-	subcount={	2015=0,	2016=142,	2017=247,	2018=290,	2019=287},
-	viewscount={2015=0,	2016=5099,	2017=13680,	2018=15483,	2019=16816}
-},
 "UCZE8_MNMmMujEfG3VW-r_CQ"	= {
 	name="Charles Nguela",		realname="",
 	ytlink="",
@@ -1156,16 +1145,6 @@ staticData = {
 	instaid="419finessegang",
 	subcount={	2015=0,2016=0,	2017=10696,		2018=15877,		2019=26100},
 	viewscount={2015=0,2016=0,	2017=2062021,	2018=3312141,	2019=4211894}
-},
-"UCdxatP5JDXR1y7PQjIbj_TQ"	= {
-	name="Swisstendo",			realname="Dominik",
-	ytlink="https://www.youtube.com/swisstendo",
-	thid="swisstendo",
-	weblink="",
-	catids="-4-11-",
-	instaid="swisstendoo",
-	subcount={	2015=0,2016=0,	2017=203,	2018=281,	2019=305},
-	viewscount={2015=0,2016=0,	2017=11076,	2018=3419,	2019=3058}
 },
 "UCxC2KyLOV_g-00QBO-0bWww"	= {
 	name="Martina Kopp",	realname="",
@@ -4127,16 +4106,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=166},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=30275}
 },
-"UCWgsEH3DCkKdTOW-y_z7CfQ"	= {
-	name="Mimiks",		realname="Angel Egli",
-	ytlink="",
-	thid="",
-	weblink="https://open.spotify.com/artist/4Bg4oUbN39ECtRSb4xRSFw",
-	catids="-8-",
-	instaid="mimiks",
-	subcount={	2015=0,	2016=899,	2017=917,	2018=914,	2019=915},
-	viewscount={2015=0,	2016=211740,2017=231734,2018=240956,2019=0}
-},
 "UCEFj7im8lKkGQBS5KVBvTRw"	= {
 	name="Alli Eis TV",		realname="",
 	ytlink="",
@@ -5100,8 +5069,17 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=32,	2018=32,	2019=32},
 	viewscount={2015=0,	2016=0,	2017=9242,	2018=9743,	2019=10035}
+},
+"UCWgsEH3DCkKdTOW-y_z7CfQ"	= {
+	name="Mimiks",		realname="Angel Egli",
+	ytlink="",
+	thid="",
+	weblink="https://open.spotify.com/artist/4Bg4oUbN39ECtRSb4xRSFw",
+	catids="-8-",
+	instaid="mimiks",
+	subcount={	2015=0,	2016=899,	2017=917,	2018=914,	2019=915},
+	viewscount={2015=0,	2016=211740,2017=231734,2018=240956,2019=0}
 }
-
 
 
 
@@ -5846,6 +5824,37 @@ catArr = [
 		subcount={	2015=0,	2016=0,	2017=0,	2018=34,	2019=52},
 		viewscount={2015=0,	2016=0,	2017=0,	2018=67870,	2019=90331}
 	},
+	"UCB1hgW6dm9c7EiGdNP3-BBg" = {
+		name="aoyuna",			realname="Dana Senn",
+		ytlink="",
+		thid="",
+		weblink="https://aoyuna.com",
+		catids="-7-",
+		instaid="aoyuna_",
+		subcount={	2015=0,	2016=0,	2017=66,	2018=124,	2019=126},
+		viewscount={2015=0,	2016=0,	2017=1310,	2018=2420,	2019=2084}
+	},
+	"UCdxatP5JDXR1y7PQjIbj_TQ"	= {
+		name="Swisstendo",			realname="Dominik",
+		ytlink="https://www.youtube.com/swisstendo",
+		thid="swisstendo",
+		weblink="",
+		catids="-4-11-",
+		instaid="swisstendoo",
+		subcount={	2015=0,2016=0,	2017=203,	2018=281,	2019=305},
+		viewscount={2015=0,2016=0,	2017=11076,	2018=3419,	2019=3058}
+	},
+	"UCzkwtDHF7MYlpeQ03rsVOIw"	= {
+		name="Walla Ray",		realname="",
+		ytlink="",
+		thid="walla_ray",
+		weblink="",
+		podlink="https://www.youtube.com/playlist?list=PLDxMNjMRyJjWPhvbN1XLzi6VncHuM_4zp",
+		catids="-4-6-11-12-15-",
+		instaid="walla_ray",
+		subcount={	2015=0,	2016=142,	2017=247,	2018=290,	2019=287},
+		viewscount={2015=0,	2016=5099,	2017=13680,	2018=15483,	2019=16816}
+	},
 	"UC_ChvDfK-hjS-sbEswNtugg"	= {
 		name="Prodax CH",			realname="",
 		ytlink="https://www.youtube.com/prodaxch",
@@ -5855,8 +5864,7 @@ catArr = [
 		instaid="prodaxch",
 		subcount={	2015=0,	2016=0,	2017=1979,	2018=3042,		2019=2990},
 		viewscount={2015=0,	2016=0,	2017=145739,2018=277107,	2019=323716}
-	},
-
+	}
 */
 
 </cfscript>

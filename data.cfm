@@ -5079,6 +5079,27 @@ staticData = {
 	instaid="mimiks",
 	subcount={	2015=0,	2016=899,	2017=917,	2018=914,	2019=915},
 	viewscount={2015=0,	2016=211740,2017=231734,2018=240956,2019=0}
+},
+"UC1O5__Uj3u4nIHHUAWvyBIg"	= {
+	name="The Nerds",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	podlink="https://anchor.fm/thenerds-podcast",
+	catids="-12-",
+	instaid="thenerds_podcast",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCd0g-W4Y6H7DLThesh_eyzQ" = {
+	name="Monotonus Studio",			realname="Moreno",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
 
 

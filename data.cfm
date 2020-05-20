@@ -5032,7 +5032,7 @@ staticData = {
 },
 "UC49q4cuxfT9-nEOj6isojHQ" = {
 	name="GMT.MUSIK",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/gmtmusik",
 	thid="",
 	weblink="",
 	catids="-8-",

@@ -1239,7 +1239,7 @@ staticData = {
 },
 "UCD10UORUOGk9lLp-l1RWTqQ"	= {
 	name="Silvan Kuster",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/silvankuster",
 	thid="",
 	weblink="",
 	catids="-4-6-",
@@ -4700,7 +4700,7 @@ staticData = {
 	viewscount={2015=0,	2016=0,	2017=0,	2018=90591,	2019=115274}
 },
 "UC4GVVgV8-NXATGyXQhGNoXA" = {
-	name="ESKIMO",			realname="",
+	name="Eskimo",			realname="",
 	ytlink="",
 	thid="",
 	weblink="",
@@ -5005,7 +5005,7 @@ staticData = {
 	thid="",
 	weblink="",
 	podlink="https://open.spotify.com/show/1xIBDLWYV7C7fmkrx1krF8",
-	catids="-6-",
+	catids="-6-12-",
 	instaid="mister_elia",
 	subcount={	2015=2554,	2016=3076,	2017=4015,	2018=5174,		2019=5910},
 	viewscount={2015=92583,	2016=123089,2017=163987,2018=192283,	2019=221606}
@@ -5100,8 +5100,127 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCsODl_kFzH21bN0v5Ub3W3g" = {
+	name="Sina",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.sina.ch",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=976,		2018=1162,		2019=1450},
+	viewscount={2015=0,	2016=0,	2017=1209041,	2018=1410676,	2019=1718102}
+},
+"UC6XL7Ey04tf_9Df3N9Pf0ag" = {
+	name="Ritschi",			realname="Andreas Ritschard",
+	ytlink="",
+	thid="",
+	weblink="https://www.ritschi.ch",
+	catids="-8-",
+	instaid="ritschivoice",
+	subcount={	2015=0,	2016=0,	2017=852,	2018=1151,	2019=1520},
+	viewscount={2015=0,	2016=0,	2017=581076,2018=758567,2019=937741}
+},
+"UCXPXsPE5PpQ51cxSa4StYnw" = {
+	name="SurpRice",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-",
+	instaid="surprice.be",
+	subcount={	2015=0,	2016=0,	2017=204,	2018=336,	2019=576},
+	viewscount={2015=0,	2016=0,	2017=27233,	2018=63623,	2019=188147}
+},
+"UCF-DH6OM6wge9YTxrLsw5dQ" = {
+	name="Janice Braun",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-7-14-18-",
+	instaid="mrs_janicebraun",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UC5sJAaASDb8nCxMy8Qs2tCw" = {
+	name="Corner Talk",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-8-",
+	instaid="cornertalkofficial",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCiSZ-iXxtcvd0Be0pEG0SEQ" = {
+	name="THIRD EYE FILMS",			realname="Blanco Monee",
+	ytlink="",
+	thid="",
+	weblink="http://www.3-ovision.com",
+	catids="-3-8-",
+	instaid="_vizionart_",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCvVKNp_ua4-6C2-naKiBNqw" = {
+	name="mtownrules",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCJdYcnGakuBka0kTU1FrOFw" = {
+	name="Jakko Bratko",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="jakko.bratko",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCEneBJb2upK2skBqROICQTw" = {
+	name="Alpmannstreu",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-14-",
+	instaid="alpmannstreu",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCwk1_C0u7_dIwEp1erRdzMw" = {
+	name="King NB",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="king_nb",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=867},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=70264}
+},
+"UCcOQU1x3Gpc_6PZGftXH3PA" = {
+	name="L'homme Sans Costume",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="hommesanscostume",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCwlEhmHVDQkoCcKLBynkdwA" = {
+	name="Odyssee Stories",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://thisisodyssee.com",
+	catids="-8-",
+	instaid="this.is.odyssee",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
-
 
 
 
@@ -5132,17 +5251,17 @@ staticData = {
 catArr = [
 	["0",	"Alle Kategorien",					""],
 	["7",	"Allerlei",							"50+"],
-	["6",	"Entertainment / Comedy", 			"130+"],
+	["6",	"Entertainment / Comedy", 			"120+"],
 	["13",	"Firmen",							"20+"],
 	["3",	"Fotografie / Film / Technik",		"20+"],
 	["14",	"Frauen / YouTuberinnen",			"30+"],
-	["4",	"Gaming",							"60+"],
+	["4",	"Gaming",							"50+"],
 	["18",	"Lernen / Know-How",				"30+"],
 	["2",	"Lifestyle / DIY / Kochen",			"10+"],
-	["8",	"Musik",							"160+"],
+	["8",	"Musik",							"170+"],
 	["10",	"Politik",							"10+"],
 	["9",	"Presse / Radio / TV / Kino",		"30+"],
-	["1",	"Reisen",							"30+"],
+	["1",	"Reisen",							"20+"],
 	["5",	"Sport",							"20+"],
 	["17",	"Tiere",							"&lt;10"],
 	["12",	"Mit Podcast",						""],

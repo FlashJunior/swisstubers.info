@@ -5220,7 +5220,45 @@ staticData = {
 	instaid="this.is.odyssee",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCgg-ZjJsfp9aX3Ol-RtkS7w"= {
+	name="Kim Culetto",			realname="",
+	ytlink="https://www.youtube.com/kimculetto",
+	thid="",
+	weblink="https://www.kimculetto.com",
+	catids="-3-6-",
+	instaid="kimculetto",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCMLJl7_ukDDD9fJPotDOdfQ" = {
+	name="Nici",			realname="Nicolas Beyeler",
+	ytlink="",
+	thid="",
+	weblink="",
+	podlink="https://open.spotify.com/show/6SV8sYZTbG6E9ewjcptPQi",
+	catids="-6-12-",
+	instaid="nicolas.beyeler",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UC_AURBE754hG41nUDvl7LHA" = {
+	name="Wariashi",			realname="",
+	ytlink="https://www.youtube.com/Wariashi",
+	thid="",
+	weblink="",
+	podlink="https://open.spotify.com/show/6SV8sYZTbG6E9ewjcptPQi",
+	catids="-6-12-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
+
+
+
+
+
+
 
 
 
@@ -5251,12 +5289,12 @@ staticData = {
 catArr = [
 	["0",	"Alle Kategorien",					""],
 	["7",	"Allerlei",							"50+"],
-	["6",	"Entertainment / Comedy", 			"120+"],
+	["6",	"Entertainment / Comedy", 			"130+"],
 	["13",	"Firmen",							"20+"],
 	["3",	"Fotografie / Film / Technik",		"20+"],
 	["14",	"Frauen / YouTuberinnen",			"30+"],
 	["4",	"Gaming",							"50+"],
-	["18",	"Lernen / Know-How",				"30+"],
+	["18",	"Lernen / Know-How",				"40+"],
 	["2",	"Lifestyle / DIY / Kochen",			"10+"],
 	["8",	"Musik",							"170+"],
 	["10",	"Politik",							"10+"],

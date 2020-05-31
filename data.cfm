@@ -5252,8 +5252,67 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCDj1JYtAp5RCgt9FR3KvfKA" = {
+	name="GeilerAsDu",			realname="Fabrizio Zihlmann, Luzi Rast, Mike Walker",
+	ytlink="https://www.youtube.com/geilerasdu",
+	thid="",
+	weblink="http://geilerasdu.ch",
+	catids="-8-",
+	instaid="geilerasdu_official",
+	subcount={	2015=0,	2016=0,	2017=511,	2018=530,	2019=555},
+	viewscount={2015=0,	2016=0,	2017=211182,2018=225282,2019=236210}
+},
+"UCOmoyylIeXOOMRCcK-erYkA" = {
+	name="Radio 3FACH",			realname="",
+	ytlink="https://www.youtube.com/Radio3FACH",
+	thid="",
+	weblink="https://3fach.ch",
+	catids="-8-9-",
+	instaid="radio3fach",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=722},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=444928}
+},
+"UCnX_ZkOWmWlxG-CVX_ELmWQ" = {
+	name="Northside Company",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=272,	2018=388,	2019=413},
+	viewscount={2015=0,	2016=0,	2017=94969,	2018=121288,2019=136685}
+},
+"UCGQqIuFLwQD3wRnd-qcPSOQ" = {
+	name="Shrof Shockt",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=285},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=16436}
+},
+"UClSUNNh2eYk5ECLxuk_uOjg" = {
+	name="Zuger Shuger",			realname="",
+	ytlink="",
+	thid="",
+	weblink="http://www.zugershuger.ch",
+	catids="-8-",
+	instaid="zugershuger",
+	subcount={	2015=0,	2016=0,	2017=154,	2018=166,	2019=191},
+	viewscount={2015=0,	2016=0,	2017=74751,	2018=79508,	2019=86481}
+},
+"UCt45TgIb_Nm4Vt4Th2IAOAA" = {
+	name="Weibello",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="weibello",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
-
 
 
 

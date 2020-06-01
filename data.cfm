@@ -1,5 +1,742 @@
 ﻿
 <cfscript>
+	/*
+
+	"UCgKdJa3jLABiNkexYHaTkzg"	= {
+		name="Trauffer",			realname="Marc A. Trauffer",
+		ytlink="https://www.youtube.com/TraufferVEVO",
+		thid="",
+		weblink="http://www.trauffermusic.ch",
+		catids="-8-",
+		instaid="trauffer_official",
+		subcount={	2015=0,	2016=1634,		2017=4102,		2018=9161,		2019=9130},
+		viewscount={2015=0,	2016=1226728,	2017=3014226,	2018=7734577,	2019=10425513}
+	},
+	"UCBPCOnqePPApURWAnCES7jg" = {
+		name="DopeMuzik",			realname="Dope Kid, TX, Young C",
+		ytlink="https://www.youtube.com/dopemuzik",
+		thid="",
+		weblink="",
+		catids="-8-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=330,	2018=419,	2019=454},
+		viewscount={2015=0,	2016=0,	2017=68499,	2018=84002,	2019=93230}
+	},
+	"UCOV0nK_1IiOaT2mykA1UDuw"	= {
+		name="missIMPULSIV",			realname="",
+		ytlink="https://www.youtube.com/missimpulsiv",
+		thid="",
+		weblink="",
+		catids="-1-2-6-14-",
+		instaid="onetwothreeiamfree",
+		subcount={	2015=7458,	2016=7931,	2017=7676,		2018=7465,		2019=7300},
+		viewscount={2015=217922,2016=341193,2017=402091,	2018=426881,	2019=442176}
+	},
+	"UCL9yOyuvgmnPGQcKwiaJKVQ"	= {
+		name="Maanuli",				realname="",
+		ytlink="https://www.youtube.com/maanuli",
+		thid="",
+		weblink="",
+		catids="-6-8-14-",
+		instaid="maanulii",
+		subcount={2015=0,	2016=83281,		2017=84670,		2018=83879,	2019=82600},
+		viewscount={2015=0,	2016=7107980,	2017=5598820,	2018=5912532,	2019=6065079}
+	},
+	"UCflurQw5iMA5DsZDk-f-CHg"	= {
+		name="Manillio",		realname="Manuel Liniger",
+		ytlink="https://www.youtube.com/ManillioVEVO",
+		thid="",
+		weblink="https://www.manillio.com",
+		catids="-8-",
+		instaid="manillio",
+		subcount={	2015=0,		2016=1398,		2017=2228,		2018=2748,		2019=2670},
+		viewscount={2015=0,		2016=748699,	2017=1357851,	2018=1723811,	2019=1967915}
+	},
+	"UCNuCQrKaET5OLzKO_64kOjg"	= {
+		name="Physical Shock",		realname="",
+		ytlink="https://www.youtube.com/physicalshock",
+		thid="",
+		weblink="https://www.physicalshock.com",
+		catids="-8-",
+		instaid="physicalshock",
+		subcount={	2015=4303,		2016=6625,		2017=12862,		2018=19080,		2019=21700},
+		viewscount={2015=1066795,	2016=1875955,	2017=3424371,	2018=7779337,	2019=11421271}
+	},
+	"UCsmAPkVv80zC_1aVkKkAtFA"	= {
+		name="Lagondo",			realname="",
+		ytlink="https://www.youtube.com/lagondo",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="lagondo1",
+		subcount={	2015=71,	2016=255,	2017=346,	2018=397,	2019=399},
+		viewscount={2015=1000,	2016=6073,	2017=16993,	2018=26761,	2019=23764}
+	},
+	"UCJ1UM2kHsiLPcl0NemPJYlw"	= {
+		name="Boys on Pills",			realname="Baze, Elwont aka Jonny Bunko, DJ Kermit, J-Steel",
+		ytlink="https://www.youtube.com/BoysOnPills",
+		thid="",
+		weblink="https://www.facebook.com/boysonpills/",
+		catids="-8-",
+		instaid="",
+		subcount={	2015=0,		2016=838,		2017=979,		2018=1079,		2019=1120},
+		viewscount={2015=0,		2016=979457,	2017=1167904,	2018=1301688,	2019=1370829}
+	},
+	"UCzTzNYCrXoiMg_CV1qDkFOg"	= {
+		name="Jonas TheSwissGames",			realname="Jonas Gredig",
+		ytlink="https://www.youtube.com/Theswissgames2000",
+		thid="",
+		weblink="https://jonasgredig.ch",
+		catids="-6-",
+		instaid="theswissgames",
+		subcount={	2015=0,	2016=3664,		2017=3498,	2018=3254,	2019=3120},
+		viewscount={2015=0,	2016=230278,	2017=751,	2018=1342,	2019=1587}
+	},
+
+	"UCh5JOjG-BsWHMr0E4L1BIqg"	= {
+		name="Rapgschwätz",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-8-",
+		instaid="rapgschwaetz",
+		subcount={	2015=956,	2016=1924,	2017=2113,	2018=2034,	2019=1980},
+		viewscount={2015=35014,	2016=83472,	2017=22374,	2018=33912,	2019=10847}
+	},
+	"UCRPBea57-0VCMhIYsMbp8gA"	= {
+		name="TelliRecords",		realname="",
+		ytlink="https://www.youtube.com/TelliRecords",
+		thid="",
+		thid="",
+		weblink="https://fratelli-b.ch",
+		catids="-8-",
+		instaid="fratellib",
+		subcount={	2015=1713,		2016=2073,		2017=2285,		2018=2771,		2019=2850},
+		viewscount={2015=922603,	2016=1244181,	2017=1486587,	2018=1846976,	2019=2041924}
+	},
+
+	"UC-jem5IA6sbZzjj6s0DZE0Q"	= {
+		name="Hirn Wind",			realname="",
+		ytlink="",
+		thid="",
+		weblink="https://www.mbuonaurio.com",
+		catids="-3-7-8-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=6},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=669}
+	},
+	"UCSPpWYj1RX3QrxDgcCKOxyQ"	= {
+		name="Eddie Ramirez",			realname="",
+		ytlink="",
+		thid="",
+		weblink="https://www.rollingeddie.com",
+		catids="-6-",
+		instaid="",
+		subcount={	2015=0,	2016=0,2017=0,	2018=0,	2019=95},
+		viewscount={2015=0,	2016=0,2017=0,	2018=0,	2019=10452}
+	},
+	"UCGi2J_a6CZQBNsS6ur9H5zQ"	= {
+		name="Rhentex TV",		realname="Ramon Hegner",
+		ytlink="https://www.youtube.com/rhentextv",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="",
+		subcount={	2015=0,2016=0,	2017=79,	2018=187,	2019=205},
+		viewscount={2015=0,2016=0,	2017=1015,	2018=4465,	2019=5090}
+	},
+
+	"UCBNrZR2bdeH-f7nZcJw1JkQ"	= {
+		name="Urgamer",			realname="",
+		ytlink="https://www.youtube.com/urgamer",
+		thid="urgamertv",
+		weblink="",
+		catids="-4-11-",
+		instaid="urgamer",
+		subcount={	2015=67,2016=221,	2017=259,	2018=315,	2019=336},
+		viewscount={2015=0,	2016=14451,	2017=16630,	2018=24067,	2019=27177}
+	},
+
+	"UCy2dqSQYUXJ1qPA20ubyEVw"	= {
+		name="Baschi",		realname="Sebastian Bürgin",
+		ytlink="",
+		thid="",
+		weblink="https://www.baschi.com",
+		catids="-8-",
+		instaid="baschireal",
+		subcount={	2015=0,	2016=998,	2017=1091,	2018=1678,		2019=1660},
+		viewscount={2015=0,	2016=762769,2017=889967,2018=1300288,	2019=1743238}
+	},
+
+	"UCxzRx0QbatJIPwR8YR9w-zg"	= {
+		name="Dani's Abenteuer",	realname="Daniel Bürgin",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-1-",
+		instaid="danisabenteuer",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=120},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=6974}
+	},
+
+	"UC4S9h8SZfMN0jm-rofuWb2Q"	= {
+		name="Nelaz",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="",
+		subcount={	2015=0,	2016=1137,	2017=2502,		2018=2846,		2019=2830},
+		viewscount={2015=0,	2016=38405,	2017=144356,	2018=187141,	2019=202715}
+	},
+
+
+	,
+	"UCtEQChQSV4mrCfGkqTomC8g"= {
+		name="Christian Pfister",			realname="",
+		ytlink="https://www.youtube.com/CPFILMPRODUCTIONS",
+		thid="",
+		weblink="",
+		catids="-8-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=343,	2018=0,		2019=0},
+		viewscount={2015=0,	2016=0,	2017=383697,2018=416412,2019=438883}
+	}
+	"UC8cAYunJLIewZ8YPtP5bvMw"	= {
+		name="Cineman Inside",			realname="",
+		ytlink="https://www.youtube.com/cinemaninside",
+		thid="",
+		weblink="https://www.cineman.ch",
+		catids="-6-9-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=94,	2018=97,		2019=100},
+		viewscount={2015=0,	2016=0,	2017=100595,2018=110783,	2019=114025}
+	},
+	"UC2IBc1nYLzB4-xISwZlOY2Q"	= {
+		name="TheSwissLetsPlayers",			realname="",
+		ytlink="https://www.youtube.com/theswissletsplayers",
+		thid="",
+		weblink="https://theswissletsplayers.jimdofree.com",
+		catids="-4-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=796,	2018=787,	2019=782},
+		viewscount={2015=0,	2016=0,	2017=155448,2018=160974,2019=163104}
+	},
+	"UCZwM1uoaRe_gY1eP1WGQi_Q"	= {
+		name="schweizerdeutsch-lernen.ch",			realname="",
+		ytlink="https://www.youtube.com/schweizerdeutschlernench",
+		thid="",
+		weblink="https://www.schweizerdeutsch-lernen.ch",
+		catids="-7-18-",
+		instaid="schweizerdeutsch",
+		subcount={	2015=0,	2016=0,	2017=637,	2018=1279,	2019=2100},
+		viewscount={2015=0,	2016=0,	2017=31614,	2018=56574,	2019=99636}
+	},
+	"UCJW8pv31L0w1e_JHAKzrNsg"	= {
+		name="Florin Fritschi",		realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="florin.fritschi",
+		subcount={	2015=0,2016=0,	2017=125,	2018=211,	2019=202},
+		viewscount={2015=0,2016=0,	2017=2228,	2018=8450,	2019=6377}
+	},
+	"UCC6GTpVGIM36lvB5-qCsFcg"	= {
+		name="JanikR.",	realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-3-",
+		instaid="_janikr._",
+		subcount={	2015=0,	2016=14,	2017=55,	2018=72,	2019=71},
+		viewscount={2015=0,	2016=165,	2017=816,	2018=1483,	2019=918}
+	},
+	"UCjInnqClWSD5V4TxUxi_Ibw"	= {
+		name="Schweizerdeutsch für Kinder",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-7-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=3},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=236}
+	},
+	"UCSI7RaMeFJWaaUOPHpNnlIQ"	= {
+		name="Herr Fuchs",		realname="Reto Hüttenmoser",
+		ytlink="",
+		thid="",
+		weblink="http://herrfuchs.ch",
+		catids="-6-",
+		instaid="herrfuchszurich",
+		subcount={	2015=8134,		2016=21631,		2017=43815,		2018=52766,	2019=102000},
+		viewscount={2015=3912824,	2016=9213174,	2017=18786891,	2018=23454453,	2019=36227830}
+	},
+	"UCMegISR8lQWSRJDE1nWZS7g"	= {
+		name="Gabriel Gee-Jay Jenny",			realname="",
+		ytlink="",
+		thid="",
+		weblink="https://www.gee-jay.com",
+		catids="-5-",
+		instaid="gabriel_jenny",
+		subcount={	2015=0,	2016=0,	2017=113,	2018=134,		2019=153},
+		viewscount={2015=0,	2016=0,	2017=292682,2018=315324,	2019=333443}
+	},
+	"UCb6wYAOa5FyLH-DYEpyI1gg"	= {
+		name="Genosse RedCat",			realname="",
+		ytlink="",
+		thid="",
+		weblink="http://proletariat.ch",
+		catids="-10-",
+		instaid="GenosseRedcat",
+		subcount={	2015=0,	2016=0,	2017=15,	2018=56,	2019=132},
+		viewscount={2015=0,	2016=0,	2017=420,	2018=1074,	2019=2803}
+	},
+	"UC463BrnYqqrK_2yQdrWcvug"	= {
+		name="Iris Reeves",		realname="",
+		ytlink="https://www.youtube.com/irisreeves",
+		thid="",
+		weblink="",
+		catids="-6-14-",
+		instaid="iris_reeves",
+		subcount={	2015=9834,	2016=15416,	2017=17472,	2018=17909,		2019=17400},
+		viewscount={2015=376151,2016=787991,2017=988067,2018=1067226,	2019=1106026}
+	},
+	"UCYY-eeicga1FqGgi6PPZYAw"	= {
+		name="World Changing News",			realname="Stefan",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="ste1701fan",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=14},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=2167}
+	},
+	"UCvuahW9sp03KGfjRUpiK4eQ"	= {
+		name="Andy Krainer",			realname="Andreas",
+		ytlink="",
+		thid="",
+		weblink="http://www.andy-krainer.ch",
+		catids="-8-",
+		instaid="andykrainer_official",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=59},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=19121}
+	},
+	"UCanzpqowTUbAoas6qGiLlrg"	= {
+		name="Beast Genetics Schweiz",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-2-",
+		instaid="beast_genetics1",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=1,	2019=30},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=36,	2019=2093}
+	},
+	"UC2PaxV-gE2iUCkY7XS7VmPw"	= {
+		name="crazyJAY",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="jay.garph",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=43,	2019=354},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=845,	2019=8798}
+	},
+	"UCJXliA_wsTcMgIcFBRcwAQA"	= {
+		name="Kuhnmann",	realname="",
+		ytlink="https://www.youtube.com/kuhnmann11",
+		thid="kuhnmann",
+		weblink="",
+		catids="-4-11-",
+		instaid="kuhnmannlp",
+		subcount={	2015=0,2016=0,	2017=127,	2018=188,	2019=219},
+		viewscount={2015=0,2016=0,	2017=12346,	2018=16037,	2019=13833}
+	},
+
+	"UCwAZ_nA7qn3vM7AOfeuGtBQ"	= {
+		name="Sibuna",			realname="Tina",
+		ytlink="",
+		thid="sibunasings",
+		weblink="",
+		catids="-6-8-11-",
+		instaid="sibunamusic",
+		subcount={	2015=0,	2016=67,	2017=710,	2018=791,	2019=1230},
+		viewscount={2015=0,	2016=675,	2017=10862,	2018=16289,	2019=20178}
+	},
+
+	"UC3IZucdv0lEZX7tRSMcfEOg"	= {
+		name="PhönixTV",			realname="Diogo De Sousa",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="_phoenixtv_",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=278},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=6460}
+	},
+	"UConNtYYf5lQz3WUo_f2Vr6Q"	= {
+		name="Late Update",			realname="",
+		ytlink="",
+		thid="",
+		weblink="https://srf.ch",
+		catids="-6-9-",
+		instaid="srflateupdate",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=1220},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=245506}
+	},
+	"UCQNvR_M_HYiZr_To1X3Qz_A"	= {
+		name="True Talk",			realname="",
+		ytlink="",
+		thid="",
+		weblink="https://www.srf.ch/radio-srf-virus",
+		catids="-9-",
+		instaid="srfvirus",
+		subcount={	2015=0,	2016=0,	2017=1864,	2018=4851},
+		viewscount={2015=0,	2016=0,	2017=706278,2018=1784337}
+	},
+	"UCcws5-pBFSYPOm1cFlxQepA"	= {
+		name="derAltenpfleger",			realname="Sandro",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
+	"UCm2ybKhvDZGfPzpvWGyKx2A"	= {
+		name="Future Lion",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="future_lion_yt_",
+		subcount={	2015=0,	2016=0,	2017=283,	2018=527},
+		viewscount={2015=0,	2016=0,	2017=60607,	2018=124962}
+	},
+	"UC50ixhWkpl-d03F6OqPUkAg"	= {
+		name="Tobi",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="tobias_e007",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
+	"UCX3gxpibog7MVCwR8GeYJDg"	= {
+		name="Keevin",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="k_evinn1",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
+	"UCuf2OaLxvTREbLwfq_w_AMg"	= {
+		name="LikeMag",			realname="",
+		ytlink="https://www.youtube.com/LikeMagNews",
+		thid="",
+		weblink="https://mediahouse.likemag.com",
+		catids="-6-",
+		instaid="likemagschweiz",
+		subcount={	2015=3565,		2016=3834,		2017=4021,		2018=3964},
+		viewscount={2015=1401830,	2016=1616819,	2017=2141916,	2018=1372}
+	},
+	"UCTvzeJnqN1KnEboh5slPD1w"	= {
+		name="Cyru",	realname="",
+		ytlink="https://www.youtube.com/cyruu",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="_cyru_",
+		subcount={	2015=0,2016=0,	2017=184,	2018=279},
+		viewscount={2015=0,2016=0,	2017=4040,	2018=8247}
+	},
+	"UChM4rPD2VFm4SVhPKBaOiPA"	= {
+		name="Lipa Alves",			realname="",
+		ytlink="https://www.youtube.com/flipschips",
+		weblink="",
+		catids="-2-6-",
+		instaid="lipa_alves1",
+		subcount={	2015=0,	2016=0,2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
+	"UCYmVujBDBe8ZizG2ievmGcQ"	= {
+		name="Timo Klingebiel",		realname="",
+		ytlink="",
+		weblink="",
+		catids="-6-",
+		instaid="",
+		subcount={	2015=0,	2016=131,	2017=774,	2018=1042},
+		viewscount={2015=0,	2016=1466,	2017=45910,	2018=95111}
+	},
+	"UCuZXBqRVyV7A98SEZM4wNiw"	= {
+		name="Hundespiele",			realname="Martin Sailer",
+		ytlink="",
+		weblink="https://hundespiele.ch",
+		catids="-7-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
+	"UCx3MEe-0e8XHA050MBnQE-A"	= {
+		name="Hörbu.ch",			realname="",
+		ytlink="",
+		weblink="",
+		catids="-7-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
+	"UClxQCGXc3J-edkPfAQyBr2Q"	= {
+		name="Gabriele",		realname="",
+		ytlink="",
+		weblink="",
+		catids="-6-",
+		instaid="gabriele_tube_",
+		subcount={	2015=0,	2016=0,2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
+	"UCnBxafY9nUINoccV4VTe9wg"	= {
+		name="Swiss Nick",			realname="Yannick",
+		ytlink="",
+		weblink="",
+		catids="-6-",
+		instaid="swiss.nick",
+		subcount={	2015=0,	2016=12,	2017=95,	2018=127},
+		viewscount={2015=0,	2016=116,	2017=1359,	2018=2592}
+	},
+	"UCbM_9KX2NGACuHvGP2LpZCg"	= {
+		name="MinKing",			realname="",
+		ytlink="",
+		weblink="https://minking.ch",
+		catids="-8-",
+		instaid="",
+		subcount={	2015=0,2016=0,2017=0,	2018=166},
+		viewscount={2015=0,2016=0,2017=0,	2018=145037}
+	},
+	"UCSOhL9jLW-iOAiEUUKl-DJQ"	= {
+		name="Ceyhan Bora",			realname="",
+		ytlink="",
+		weblink="",
+		catids="-6-",
+		instaid="mr.vapetastic",
+		subcount={	2015=0,	2016=0,	2017=71,	2018=71},
+		viewscount={2015=0,	2016=0,	2017=2332,	2018=2760}
+	},
+	"UC5Er936bK5-0b1dJF0n7Zrw"	= {
+		name="Noeliavidz",			realname="Noelia",
+		ytlink="",
+		weblink="",
+		catids="-6-",
+		instaid="noeliavid",
+		subcount={	2015=7519,	2016=18195,		2017=23342,		2018=23795},
+		viewscount={2015=328438,2016=1195853,	2017=1867829,	2018=2053873}
+	},
+	"UCetg03fzXGGlDGBRTJelkFQ"	= {
+		name="Youngbulanz",		realname="Schweizer Radio und Fernsehen",
+		ytlink="",
+		weblink="",
+		catids="-6-9-",
+		instaid="srfyoungbulanz",
+		subcount={	2015=0,2016=0,	2017=2497,		2018=4649,		2019=4708},
+		viewscount={2015=0,2016=0,	2017=397606,	2018=751510,	2019=802129}
+	},
+	"UCuBPFpQiBA3JIcf04EW-BDA"	= {
+		name="Tama Gotcha!",		realname="",
+		ytlink="",
+		weblink="",
+		catids="-6-",
+		instaid="tamavakeesan"
+	},
+	"UCXBDJcHUcmllf5KBnMgAYGw"	= {
+		name="Dr Loosli",			realname="Raphael Loosli",
+		ytlink="",
+		weblink="",
+		catids="-5-6-",
+		instaid="dr_loosli"
+	},
+	"UCM6EaZeB1-sEjW_pB5xkbxg"	= {
+		name="Florian Ast",		realname="",
+		ytlink="",
+		weblink="http://www.florianast.ch",
+		catids="-8-",
+		instaid="florianast_official",
+		subcount={	2015=0,	2016=0,2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
+	"UC9js0zJqGt7a_GfmWI3y1Iw"	= {
+		name="Gorthron",			realname="Julien Portmann",
+		ytlink="https://www.youtube.com/JulePortLP",
+		weblink="",
+		catids="-4-",
+		instaid="",
+		subcount={	2015=487,	2016=482,	2017=479,	2018=477},
+		viewscount={2015=17721,	2016=1993,	2017=1543,	2018=475}
+	},
+	"UCd9_voTG2Aw13XEeh_o1zQw"	= {
+		name="HalloAbenteuer",	realname="Deborah Wanner",
+		ytlink="https://www.youtube.com/halloabenteuer",
+		weblink="https://www.halloabenteuer.com",
+		catids="-1-",
+		instaid="halloabenteuer",
+		subcount={	2015=0,2016=0,	2017=96,	2018=1947},
+		viewscount={2015=0,2016=0,	2017=3864,	2018=192588}
+	},
+	"UC_iOp4uaJ6U_h6NaKgaagtg"	= {
+		name="Samoht LP",			realname="",
+		ytlink="",
+		weblink="https://",
+		catids="-4-",
+		instaid="samoht.lp1985",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
+	"UCTUg_EVdc9ilYwY-cAy_G2A"	= {
+		name="Kraftswerk",			realname="Elias Kraft",
+		ytlink="",
+		weblink="",
+		catids="-6-",
+		instaid="elias_kraft",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
+	"UCJgbvl0BJ9nG-vTRKfdEh8A"	= {
+		name="Esischeasy",			realname="Lukas Pfaff",
+		ytlink="",
+		weblink="",
+		catids="-6-",
+		instaid="esischeasy",
+		subcount={	2015=450,	2016=604,	2017=694,	2018=704},
+		viewscount={2015=17626,	2016=31861,	2017=41165,	2018=44141}
+	},
+	"UCCRaD69AaGoytnOL_t0gy7A"	= {
+		name="Comewithus2",			realname="Steffi Rickenbacher & Lui Eigenmann",
+		ytlink="",
+		weblink="",
+		catids="-1-6-",
+		instaid="comewithus_2"
+	},
+	"UChKi3rGrcZglrRGB8iRYBoQ"	= {
+		name="Game TV",			realname="",
+		ytlink="",
+		weblink="https://gametv.ch",
+		catids="-4-9-",
+		instaid="gametv_suisse",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0, 2018=0}
+	},
+	"UCDfm8zsfKmc3sLevtY8x7OQ"	= {
+		name="MRTN",			realname="Martin",
+		ytlink="",
+		weblink="",
+		catids="-4-6-",
+		instaid="",
+		subcount={	2015=484,	2016=1532,	2017=1718,		2018=1659},
+		viewscount={2015=18440,	2016=113536,2017=143618,	2018=156051}
+	},
+	"UCTiKKjIxwkH-4o5ie8M-7NQ"	= {
+		name="Kaiser & Dimitri",			realname="",
+		ytlink="",
+		weblink="http://kaiser-dimitri.ch",
+		catids="-8-",
+		instaid="kaiserunddimitri",
+		subcount={	2015=0,2016=0,2017=0,	2018=1395},
+		viewscount={2015=0,2016=0,2017=0,	2018=662241}
+	},
+	"UC1PgEbqUweHJGWGDp1BFzZw"	= {
+		name="Super Swiss Bros.",	realname="Robb & TesAlbert",
+		ytlink="https://www.youtube.com/superswissbros",
+		weblink="",
+		catids="-4-",
+		instaid="super_swiss_bros",
+		subcount={	2015=0,	2016=459,	2017=788,	2018=1176},
+		viewscount={2015=0,	2016=28580,	2017=48917,	2018=84736}
+	},
+	"UCsZdsSjMrvhXSlBiuGK3r2w"	= {
+		name="AdnansTv",			realname="",
+		ytlink="",
+		weblink="",
+		catids="-6-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
+	},
+	"UCQEQZSXyQy28ZV3Y59_-2iw"	= {
+		name="Top Boys AFK",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=5084,	2018=4898},
+		viewscount={2015=0,	2016=0,	2017=161577,2018=34134}
+	},
+	"UC_2og_j4PvYfRPRH3x0miYg"	= {
+		name="Loris Zimmerli",			realname="",
+		ytlink="https://www.youtube.com/lozitv",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="lozitv",
+		subcount={	2015=0,2016=0,	2017=11176,		2018=28419,		2019=28800},
+		viewscount={2015=0,2016=0,	2017=382615,	2018=1531986,	2019=1829850}
+	},
+	"UCMW8XBBRkjrF_fweALWaZyw"	= {
+		name="Rafael Zeier",			realname="",
+		ytlink="https://www.youtube.com/rafaelzeier",
+		thid="",
+		weblink="https://www.zeipad.com",
+		catids="-3-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=34,	2019=52},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=67870,	2019=90331}
+	},
+	"UCB1hgW6dm9c7EiGdNP3-BBg" = {
+		name="aoyuna",			realname="Dana Senn",
+		ytlink="",
+		thid="",
+		weblink="https://aoyuna.com",
+		catids="-7-",
+		instaid="aoyuna_",
+		subcount={	2015=0,	2016=0,	2017=66,	2018=124,	2019=126},
+		viewscount={2015=0,	2016=0,	2017=1310,	2018=2420,	2019=2084}
+	},
+	"UCdxatP5JDXR1y7PQjIbj_TQ"	= {
+		name="Swisstendo",			realname="Dominik",
+		ytlink="https://www.youtube.com/swisstendo",
+		thid="swisstendo",
+		weblink="",
+		catids="-4-11-",
+		instaid="swisstendoo",
+		subcount={	2015=0,2016=0,	2017=203,	2018=281,	2019=305},
+		viewscount={2015=0,2016=0,	2017=11076,	2018=3419,	2019=3058}
+	},
+	"UCzkwtDHF7MYlpeQ03rsVOIw"	= {
+		name="Walla Ray",		realname="",
+		ytlink="",
+		thid="walla_ray",
+		weblink="",
+		podlink="https://www.youtube.com/playlist?list=PLDxMNjMRyJjWPhvbN1XLzi6VncHuM_4zp",
+		catids="-4-6-11-12-15-",
+		instaid="walla_ray",
+		subcount={	2015=0,	2016=142,	2017=247,	2018=290,	2019=287},
+		viewscount={2015=0,	2016=5099,	2017=13680,	2018=15483,	2019=16816}
+	},
+	"UC_ChvDfK-hjS-sbEswNtugg"	= {
+		name="Prodax CH",			realname="",
+		ytlink="https://www.youtube.com/prodaxch",
+		thid="prodaxch",
+		weblink="",
+		catids="-4-11-15-",
+		instaid="prodaxch",
+		subcount={	2015=0,	2016=0,	2017=1979,	2018=3042,		2019=2990},
+		viewscount={2015=0,	2016=0,	2017=145739,2018=277107,	2019=323716}
+	}
+*/
+
 staticData = {
 
 "UCgw0vnoy6z_4wWrYc9eFEHw"	= {
@@ -5312,6 +6049,26 @@ staticData = {
 	instaid="weibello",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UC6zk26mFyLp-GnzOIV8J2kQ" = {
+	name="Schwizer Stars",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.facebook.com/schwizerstars/",
+	catids="-6-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCpJo5jH6tazCfXoSUaSO5_w" = {
+	name="jokeTV",			realname="Marcel Meier",
+	ytlink="",
+	thid="",
+	weblink="https://www.joketv.eu",
+	catids="-6-",
+	instaid="",
+	subcount={	2015=0,	2016=1354,		2017=1369,		2018=1435,		2019=1470},
+	viewscount={2015=0,	2016=2281120,	2017=231480,	2018=2380418,	2019=2406552}
 }
 
 
@@ -5323,7 +6080,6 @@ staticData = {
 
 };
 /*
-
 ,
 "xxxx" = {
 	name="xxx",			realname="",
@@ -5335,8 +6091,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
-
-
 */
 
 /*
@@ -5366,742 +6120,5 @@ catArr = [
 	["11",	"Mit Twitch Kanal",					""],
 	["15",	"Mit YouTube Livestreams",			""]
 ];
-
-/*
-
-	"UCgKdJa3jLABiNkexYHaTkzg"	= {
-		name="Trauffer",			realname="Marc A. Trauffer",
-		ytlink="https://www.youtube.com/TraufferVEVO",
-		thid="",
-		weblink="http://www.trauffermusic.ch",
-		catids="-8-",
-		instaid="trauffer_official",
-		subcount={	2015=0,	2016=1634,		2017=4102,		2018=9161,		2019=9130},
-		viewscount={2015=0,	2016=1226728,	2017=3014226,	2018=7734577,	2019=10425513}
-	},
-	"UCBPCOnqePPApURWAnCES7jg" = {
-		name="DopeMuzik",			realname="Dope Kid, TX, Young C",
-		ytlink="https://www.youtube.com/dopemuzik",
-		thid="",
-		weblink="",
-		catids="-8-",
-		instaid="",
-		subcount={	2015=0,	2016=0,	2017=330,	2018=419,	2019=454},
-		viewscount={2015=0,	2016=0,	2017=68499,	2018=84002,	2019=93230}
-	},
-	"UCOV0nK_1IiOaT2mykA1UDuw"	= {
-		name="missIMPULSIV",			realname="",
-		ytlink="https://www.youtube.com/missimpulsiv",
-		thid="",
-		weblink="",
-		catids="-1-2-6-14-",
-		instaid="onetwothreeiamfree",
-		subcount={	2015=7458,	2016=7931,	2017=7676,		2018=7465,		2019=7300},
-		viewscount={2015=217922,2016=341193,2017=402091,	2018=426881,	2019=442176}
-	},
-	"UCL9yOyuvgmnPGQcKwiaJKVQ"	= {
-		name="Maanuli",				realname="",
-		ytlink="https://www.youtube.com/maanuli",
-		thid="",
-		weblink="",
-		catids="-6-8-14-",
-		instaid="maanulii",
-		subcount={2015=0,	2016=83281,		2017=84670,		2018=83879,	2019=82600},
-		viewscount={2015=0,	2016=7107980,	2017=5598820,	2018=5912532,	2019=6065079}
-	},
-	"UCflurQw5iMA5DsZDk-f-CHg"	= {
-		name="Manillio",		realname="Manuel Liniger",
-		ytlink="https://www.youtube.com/ManillioVEVO",
-		thid="",
-		weblink="https://www.manillio.com",
-		catids="-8-",
-		instaid="manillio",
-		subcount={	2015=0,		2016=1398,		2017=2228,		2018=2748,		2019=2670},
-		viewscount={2015=0,		2016=748699,	2017=1357851,	2018=1723811,	2019=1967915}
-	},
-	"UCNuCQrKaET5OLzKO_64kOjg"	= {
-		name="Physical Shock",		realname="",
-		ytlink="https://www.youtube.com/physicalshock",
-		thid="",
-		weblink="https://www.physicalshock.com",
-		catids="-8-",
-		instaid="physicalshock",
-		subcount={	2015=4303,		2016=6625,		2017=12862,		2018=19080,		2019=21700},
-		viewscount={2015=1066795,	2016=1875955,	2017=3424371,	2018=7779337,	2019=11421271}
-	},
-	"UCsmAPkVv80zC_1aVkKkAtFA"	= {
-		name="Lagondo",			realname="",
-		ytlink="https://www.youtube.com/lagondo",
-		thid="",
-		weblink="",
-		catids="-6-",
-		instaid="lagondo1",
-		subcount={	2015=71,	2016=255,	2017=346,	2018=397,	2019=399},
-		viewscount={2015=1000,	2016=6073,	2017=16993,	2018=26761,	2019=23764}
-	},
-	"UCJ1UM2kHsiLPcl0NemPJYlw"	= {
-		name="Boys on Pills",			realname="Baze, Elwont aka Jonny Bunko, DJ Kermit, J-Steel",
-		ytlink="https://www.youtube.com/BoysOnPills",
-		thid="",
-		weblink="https://www.facebook.com/boysonpills/",
-		catids="-8-",
-		instaid="",
-		subcount={	2015=0,		2016=838,		2017=979,		2018=1079,		2019=1120},
-		viewscount={2015=0,		2016=979457,	2017=1167904,	2018=1301688,	2019=1370829}
-	},
-	"UCzTzNYCrXoiMg_CV1qDkFOg"	= {
-		name="Jonas TheSwissGames",			realname="Jonas Gredig",
-		ytlink="https://www.youtube.com/Theswissgames2000",
-		thid="",
-		weblink="https://jonasgredig.ch",
-		catids="-6-",
-		instaid="theswissgames",
-		subcount={	2015=0,	2016=3664,		2017=3498,	2018=3254,	2019=3120},
-		viewscount={2015=0,	2016=230278,	2017=751,	2018=1342,	2019=1587}
-	},
-
-	"UCh5JOjG-BsWHMr0E4L1BIqg"	= {
-		name="Rapgschwätz",			realname="",
-		ytlink="",
-		thid="",
-		weblink="",
-		catids="-8-",
-		instaid="rapgschwaetz",
-		subcount={	2015=956,	2016=1924,	2017=2113,	2018=2034,	2019=1980},
-		viewscount={2015=35014,	2016=83472,	2017=22374,	2018=33912,	2019=10847}
-	},
-	"UCRPBea57-0VCMhIYsMbp8gA"	= {
-		name="TelliRecords",		realname="",
-		ytlink="https://www.youtube.com/TelliRecords",
-		thid="",
-		thid="",
-		weblink="https://fratelli-b.ch",
-		catids="-8-",
-		instaid="fratellib",
-		subcount={	2015=1713,		2016=2073,		2017=2285,		2018=2771,		2019=2850},
-		viewscount={2015=922603,	2016=1244181,	2017=1486587,	2018=1846976,	2019=2041924}
-	},
-
-	"UC-jem5IA6sbZzjj6s0DZE0Q"	= {
-		name="Hirn Wind",			realname="",
-		ytlink="",
-		thid="",
-		weblink="https://www.mbuonaurio.com",
-		catids="-3-7-8-",
-		instaid="",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=6},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=669}
-	},
-	"UCSPpWYj1RX3QrxDgcCKOxyQ"	= {
-		name="Eddie Ramirez",			realname="",
-		ytlink="",
-		thid="",
-		weblink="https://www.rollingeddie.com",
-		catids="-6-",
-		instaid="",
-		subcount={	2015=0,	2016=0,2017=0,	2018=0,	2019=95},
-		viewscount={2015=0,	2016=0,2017=0,	2018=0,	2019=10452}
-	},
-	"UCGi2J_a6CZQBNsS6ur9H5zQ"	= {
-		name="Rhentex TV",		realname="Ramon Hegner",
-		ytlink="https://www.youtube.com/rhentextv",
-		thid="",
-		weblink="",
-		catids="-6-",
-		instaid="",
-		subcount={	2015=0,2016=0,	2017=79,	2018=187,	2019=205},
-		viewscount={2015=0,2016=0,	2017=1015,	2018=4465,	2019=5090}
-	},
-
-	"UCBNrZR2bdeH-f7nZcJw1JkQ"	= {
-		name="Urgamer",			realname="",
-		ytlink="https://www.youtube.com/urgamer",
-		thid="urgamertv",
-		weblink="",
-		catids="-4-11-",
-		instaid="urgamer",
-		subcount={	2015=67,2016=221,	2017=259,	2018=315,	2019=336},
-		viewscount={2015=0,	2016=14451,	2017=16630,	2018=24067,	2019=27177}
-	},
-
-	"UCy2dqSQYUXJ1qPA20ubyEVw"	= {
-		name="Baschi",		realname="Sebastian Bürgin",
-		ytlink="",
-		thid="",
-		weblink="https://www.baschi.com",
-		catids="-8-",
-		instaid="baschireal",
-		subcount={	2015=0,	2016=998,	2017=1091,	2018=1678,		2019=1660},
-		viewscount={2015=0,	2016=762769,2017=889967,2018=1300288,	2019=1743238}
-	},
-
-	"UCxzRx0QbatJIPwR8YR9w-zg"	= {
-		name="Dani's Abenteuer",	realname="Daniel Bürgin",
-		ytlink="",
-		thid="",
-		weblink="",
-		catids="-1-",
-		instaid="danisabenteuer",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=120},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=6974}
-	},
-
-	"UC4S9h8SZfMN0jm-rofuWb2Q"	= {
-		name="Nelaz",			realname="",
-		ytlink="",
-		thid="",
-		weblink="",
-		catids="-6-",
-		instaid="",
-		subcount={	2015=0,	2016=1137,	2017=2502,		2018=2846,		2019=2830},
-		viewscount={2015=0,	2016=38405,	2017=144356,	2018=187141,	2019=202715}
-	},
-
-
-	,
-	"UCtEQChQSV4mrCfGkqTomC8g"= {
-		name="Christian Pfister",			realname="",
-		ytlink="https://www.youtube.com/CPFILMPRODUCTIONS",
-		thid="",
-		weblink="",
-		catids="-8-",
-		instaid="",
-		subcount={	2015=0,	2016=0,	2017=343,	2018=0,		2019=0},
-		viewscount={2015=0,	2016=0,	2017=383697,2018=416412,2019=438883}
-	}
-	"UC8cAYunJLIewZ8YPtP5bvMw"	= {
-		name="Cineman Inside",			realname="",
-		ytlink="https://www.youtube.com/cinemaninside",
-		thid="",
-		weblink="https://www.cineman.ch",
-		catids="-6-9-",
-		instaid="",
-		subcount={	2015=0,	2016=0,	2017=94,	2018=97,		2019=100},
-		viewscount={2015=0,	2016=0,	2017=100595,2018=110783,	2019=114025}
-	},
-	"UC2IBc1nYLzB4-xISwZlOY2Q"	= {
-		name="TheSwissLetsPlayers",			realname="",
-		ytlink="https://www.youtube.com/theswissletsplayers",
-		thid="",
-		weblink="https://theswissletsplayers.jimdofree.com",
-		catids="-4-",
-		instaid="",
-		subcount={	2015=0,	2016=0,	2017=796,	2018=787,	2019=782},
-		viewscount={2015=0,	2016=0,	2017=155448,2018=160974,2019=163104}
-	},
-	"UCZwM1uoaRe_gY1eP1WGQi_Q"	= {
-		name="schweizerdeutsch-lernen.ch",			realname="",
-		ytlink="https://www.youtube.com/schweizerdeutschlernench",
-		thid="",
-		weblink="https://www.schweizerdeutsch-lernen.ch",
-		catids="-7-18-",
-		instaid="schweizerdeutsch",
-		subcount={	2015=0,	2016=0,	2017=637,	2018=1279,	2019=2100},
-		viewscount={2015=0,	2016=0,	2017=31614,	2018=56574,	2019=99636}
-	},
-	"UCJW8pv31L0w1e_JHAKzrNsg"	= {
-		name="Florin Fritschi",		realname="",
-		ytlink="",
-		thid="",
-		weblink="",
-		catids="-6-",
-		instaid="florin.fritschi",
-		subcount={	2015=0,2016=0,	2017=125,	2018=211,	2019=202},
-		viewscount={2015=0,2016=0,	2017=2228,	2018=8450,	2019=6377}
-	},
-	"UCC6GTpVGIM36lvB5-qCsFcg"	= {
-		name="JanikR.",	realname="",
-		ytlink="",
-		thid="",
-		weblink="",
-		catids="-3-",
-		instaid="_janikr._",
-		subcount={	2015=0,	2016=14,	2017=55,	2018=72,	2019=71},
-		viewscount={2015=0,	2016=165,	2017=816,	2018=1483,	2019=918}
-	},
-	"UCjInnqClWSD5V4TxUxi_Ibw"	= {
-		name="Schweizerdeutsch für Kinder",			realname="",
-		ytlink="",
-		thid="",
-		weblink="",
-		catids="-7-",
-		instaid="",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=3},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=236}
-	},
-	"UCSI7RaMeFJWaaUOPHpNnlIQ"	= {
-		name="Herr Fuchs",		realname="Reto Hüttenmoser",
-		ytlink="",
-		thid="",
-		weblink="http://herrfuchs.ch",
-		catids="-6-",
-		instaid="herrfuchszurich",
-		subcount={	2015=8134,		2016=21631,		2017=43815,		2018=52766,	2019=102000},
-		viewscount={2015=3912824,	2016=9213174,	2017=18786891,	2018=23454453,	2019=36227830}
-	},
-	"UCMegISR8lQWSRJDE1nWZS7g"	= {
-		name="Gabriel Gee-Jay Jenny",			realname="",
-		ytlink="",
-		thid="",
-		weblink="https://www.gee-jay.com",
-		catids="-5-",
-		instaid="gabriel_jenny",
-		subcount={	2015=0,	2016=0,	2017=113,	2018=134,		2019=153},
-		viewscount={2015=0,	2016=0,	2017=292682,2018=315324,	2019=333443}
-	},
-	"UCb6wYAOa5FyLH-DYEpyI1gg"	= {
-		name="Genosse RedCat",			realname="",
-		ytlink="",
-		thid="",
-		weblink="http://proletariat.ch",
-		catids="-10-",
-		instaid="GenosseRedcat",
-		subcount={	2015=0,	2016=0,	2017=15,	2018=56,	2019=132},
-		viewscount={2015=0,	2016=0,	2017=420,	2018=1074,	2019=2803}
-	},
-	"UC463BrnYqqrK_2yQdrWcvug"	= {
-		name="Iris Reeves",		realname="",
-		ytlink="https://www.youtube.com/irisreeves",
-		thid="",
-		weblink="",
-		catids="-6-14-",
-		instaid="iris_reeves",
-		subcount={	2015=9834,	2016=15416,	2017=17472,	2018=17909,		2019=17400},
-		viewscount={2015=376151,2016=787991,2017=988067,2018=1067226,	2019=1106026}
-	},
-	"UCYY-eeicga1FqGgi6PPZYAw"	= {
-		name="World Changing News",			realname="Stefan",
-		ytlink="",
-		thid="",
-		weblink="",
-		catids="-6-",
-		instaid="ste1701fan",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=14},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=2167}
-	},
-	"UCvuahW9sp03KGfjRUpiK4eQ"	= {
-		name="Andy Krainer",			realname="Andreas",
-		ytlink="",
-		thid="",
-		weblink="http://www.andy-krainer.ch",
-		catids="-8-",
-		instaid="andykrainer_official",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=59},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=19121}
-	},
-	"UCanzpqowTUbAoas6qGiLlrg"	= {
-		name="Beast Genetics Schweiz",			realname="",
-		ytlink="",
-		thid="",
-		weblink="",
-		catids="-2-",
-		instaid="beast_genetics1",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=1,	2019=30},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=36,	2019=2093}
-	},
-	"UC2PaxV-gE2iUCkY7XS7VmPw"	= {
-		name="crazyJAY",			realname="",
-		ytlink="",
-		thid="",
-		weblink="",
-		catids="-6-",
-		instaid="jay.garph",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=43,	2019=354},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=845,	2019=8798}
-	},
-	"UCJXliA_wsTcMgIcFBRcwAQA"	= {
-		name="Kuhnmann",	realname="",
-		ytlink="https://www.youtube.com/kuhnmann11",
-		thid="kuhnmann",
-		weblink="",
-		catids="-4-11-",
-		instaid="kuhnmannlp",
-		subcount={	2015=0,2016=0,	2017=127,	2018=188,	2019=219},
-		viewscount={2015=0,2016=0,	2017=12346,	2018=16037,	2019=13833}
-	},
-
-	"UCwAZ_nA7qn3vM7AOfeuGtBQ"	= {
-		name="Sibuna",			realname="Tina",
-		ytlink="",
-		thid="sibunasings",
-		weblink="",
-		catids="-6-8-11-",
-		instaid="sibunamusic",
-		subcount={	2015=0,	2016=67,	2017=710,	2018=791,	2019=1230},
-		viewscount={2015=0,	2016=675,	2017=10862,	2018=16289,	2019=20178}
-	},
-
-	"UC3IZucdv0lEZX7tRSMcfEOg"	= {
-		name="PhönixTV",			realname="Diogo De Sousa",
-		ytlink="",
-		thid="",
-		weblink="",
-		catids="-6-",
-		instaid="_phoenixtv_",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=278},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=6460}
-	},
-	"UConNtYYf5lQz3WUo_f2Vr6Q"	= {
-		name="Late Update",			realname="",
-		ytlink="",
-		thid="",
-		weblink="https://srf.ch",
-		catids="-6-9-",
-		instaid="srflateupdate",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=1220},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=245506}
-	},
-	"UCQNvR_M_HYiZr_To1X3Qz_A"	= {
-		name="True Talk",			realname="",
-		ytlink="",
-		thid="",
-		weblink="https://www.srf.ch/radio-srf-virus",
-		catids="-9-",
-		instaid="srfvirus",
-		subcount={	2015=0,	2016=0,	2017=1864,	2018=4851},
-		viewscount={2015=0,	2016=0,	2017=706278,2018=1784337}
-	},
-	"UCcws5-pBFSYPOm1cFlxQepA"	= {
-		name="derAltenpfleger",			realname="Sandro",
-		ytlink="",
-		thid="",
-		weblink="",
-		catids="-6-",
-		instaid="",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-	},
-	"UCm2ybKhvDZGfPzpvWGyKx2A"	= {
-		name="Future Lion",			realname="",
-		ytlink="",
-		thid="",
-		weblink="",
-		catids="-6-",
-		instaid="future_lion_yt_",
-		subcount={	2015=0,	2016=0,	2017=283,	2018=527},
-		viewscount={2015=0,	2016=0,	2017=60607,	2018=124962}
-	},
-	"UC50ixhWkpl-d03F6OqPUkAg"	= {
-		name="Tobi",			realname="",
-		ytlink="",
-		thid="",
-		weblink="",
-		catids="-6-",
-		instaid="tobias_e007",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-	},
-	"UCX3gxpibog7MVCwR8GeYJDg"	= {
-		name="Keevin",			realname="",
-		ytlink="",
-		thid="",
-		weblink="",
-		catids="-6-",
-		instaid="k_evinn1",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-	},
-	"UCuf2OaLxvTREbLwfq_w_AMg"	= {
-		name="LikeMag",			realname="",
-		ytlink="https://www.youtube.com/LikeMagNews",
-		thid="",
-		weblink="https://mediahouse.likemag.com",
-		catids="-6-",
-		instaid="likemagschweiz",
-		subcount={	2015=3565,		2016=3834,		2017=4021,		2018=3964},
-		viewscount={2015=1401830,	2016=1616819,	2017=2141916,	2018=1372}
-	},
-	"UCTvzeJnqN1KnEboh5slPD1w"	= {
-		name="Cyru",	realname="",
-		ytlink="https://www.youtube.com/cyruu",
-		thid="",
-		weblink="",
-		catids="-6-",
-		instaid="_cyru_",
-		subcount={	2015=0,2016=0,	2017=184,	2018=279},
-		viewscount={2015=0,2016=0,	2017=4040,	2018=8247}
-	},
-	"UChM4rPD2VFm4SVhPKBaOiPA"	= {
-		name="Lipa Alves",			realname="",
-		ytlink="https://www.youtube.com/flipschips",
-		weblink="",
-		catids="-2-6-",
-		instaid="lipa_alves1",
-		subcount={	2015=0,	2016=0,2017=0,	2018=0},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-	},
-	"UCYmVujBDBe8ZizG2ievmGcQ"	= {
-		name="Timo Klingebiel",		realname="",
-		ytlink="",
-		weblink="",
-		catids="-6-",
-		instaid="",
-		subcount={	2015=0,	2016=131,	2017=774,	2018=1042},
-		viewscount={2015=0,	2016=1466,	2017=45910,	2018=95111}
-	},
-	"UCuZXBqRVyV7A98SEZM4wNiw"	= {
-		name="Hundespiele",			realname="Martin Sailer",
-		ytlink="",
-		weblink="https://hundespiele.ch",
-		catids="-7-",
-		instaid="",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-	},
-	"UCx3MEe-0e8XHA050MBnQE-A"	= {
-		name="Hörbu.ch",			realname="",
-		ytlink="",
-		weblink="",
-		catids="-7-",
-		instaid="",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-	},
-	"UClxQCGXc3J-edkPfAQyBr2Q"	= {
-		name="Gabriele",		realname="",
-		ytlink="",
-		weblink="",
-		catids="-6-",
-		instaid="gabriele_tube_",
-		subcount={	2015=0,	2016=0,2017=0,	2018=0},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-	},
-	"UCnBxafY9nUINoccV4VTe9wg"	= {
-		name="Swiss Nick",			realname="Yannick",
-		ytlink="",
-		weblink="",
-		catids="-6-",
-		instaid="swiss.nick",
-		subcount={	2015=0,	2016=12,	2017=95,	2018=127},
-		viewscount={2015=0,	2016=116,	2017=1359,	2018=2592}
-	},
-	"UCbM_9KX2NGACuHvGP2LpZCg"	= {
-		name="MinKing",			realname="",
-		ytlink="",
-		weblink="https://minking.ch",
-		catids="-8-",
-		instaid="",
-		subcount={	2015=0,2016=0,2017=0,	2018=166},
-		viewscount={2015=0,2016=0,2017=0,	2018=145037}
-	},
-	"UCSOhL9jLW-iOAiEUUKl-DJQ"	= {
-		name="Ceyhan Bora",			realname="",
-		ytlink="",
-		weblink="",
-		catids="-6-",
-		instaid="mr.vapetastic",
-		subcount={	2015=0,	2016=0,	2017=71,	2018=71},
-		viewscount={2015=0,	2016=0,	2017=2332,	2018=2760}
-	},
-	"UC5Er936bK5-0b1dJF0n7Zrw"	= {
-		name="Noeliavidz",			realname="Noelia",
-		ytlink="",
-		weblink="",
-		catids="-6-",
-		instaid="noeliavid",
-		subcount={	2015=7519,	2016=18195,		2017=23342,		2018=23795},
-		viewscount={2015=328438,2016=1195853,	2017=1867829,	2018=2053873}
-	},
-	"UCetg03fzXGGlDGBRTJelkFQ"	= {
-		name="Youngbulanz",		realname="Schweizer Radio und Fernsehen",
-		ytlink="",
-		weblink="",
-		catids="-6-9-",
-		instaid="srfyoungbulanz",
-		subcount={	2015=0,2016=0,	2017=2497,		2018=4649,		2019=4708},
-		viewscount={2015=0,2016=0,	2017=397606,	2018=751510,	2019=802129}
-	},
-	"UCuBPFpQiBA3JIcf04EW-BDA"	= {
-		name="Tama Gotcha!",		realname="",
-		ytlink="",
-		weblink="",
-		catids="-6-",
-		instaid="tamavakeesan"
-	},
-	"UCXBDJcHUcmllf5KBnMgAYGw"	= {
-		name="Dr Loosli",			realname="Raphael Loosli",
-		ytlink="",
-		weblink="",
-		catids="-5-6-",
-		instaid="dr_loosli"
-	},
-	"UCM6EaZeB1-sEjW_pB5xkbxg"	= {
-		name="Florian Ast",		realname="",
-		ytlink="",
-		weblink="http://www.florianast.ch",
-		catids="-8-",
-		instaid="florianast_official",
-		subcount={	2015=0,	2016=0,2017=0,	2018=0},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-	},
-	"UC9js0zJqGt7a_GfmWI3y1Iw"	= {
-		name="Gorthron",			realname="Julien Portmann",
-		ytlink="https://www.youtube.com/JulePortLP",
-		weblink="",
-		catids="-4-",
-		instaid="",
-		subcount={	2015=487,	2016=482,	2017=479,	2018=477},
-		viewscount={2015=17721,	2016=1993,	2017=1543,	2018=475}
-	},
-	"UCd9_voTG2Aw13XEeh_o1zQw"	= {
-		name="HalloAbenteuer",	realname="Deborah Wanner",
-		ytlink="https://www.youtube.com/halloabenteuer",
-		weblink="https://www.halloabenteuer.com",
-		catids="-1-",
-		instaid="halloabenteuer",
-		subcount={	2015=0,2016=0,	2017=96,	2018=1947},
-		viewscount={2015=0,2016=0,	2017=3864,	2018=192588}
-	},
-	"UC_iOp4uaJ6U_h6NaKgaagtg"	= {
-		name="Samoht LP",			realname="",
-		ytlink="",
-		weblink="https://",
-		catids="-4-",
-		instaid="samoht.lp1985",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-	},
-	"UCTUg_EVdc9ilYwY-cAy_G2A"	= {
-		name="Kraftswerk",			realname="Elias Kraft",
-		ytlink="",
-		weblink="",
-		catids="-6-",
-		instaid="elias_kraft",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-	},
-	"UCJgbvl0BJ9nG-vTRKfdEh8A"	= {
-		name="Esischeasy",			realname="Lukas Pfaff",
-		ytlink="",
-		weblink="",
-		catids="-6-",
-		instaid="esischeasy",
-		subcount={	2015=450,	2016=604,	2017=694,	2018=704},
-		viewscount={2015=17626,	2016=31861,	2017=41165,	2018=44141}
-	},
-	"UCCRaD69AaGoytnOL_t0gy7A"	= {
-		name="Comewithus2",			realname="Steffi Rickenbacher & Lui Eigenmann",
-		ytlink="",
-		weblink="",
-		catids="-1-6-",
-		instaid="comewithus_2"
-	},
-	"UChKi3rGrcZglrRGB8iRYBoQ"	= {
-		name="Game TV",			realname="",
-		ytlink="",
-		weblink="https://gametv.ch",
-		catids="-4-9-",
-		instaid="gametv_suisse",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-		viewscount={2015=0,	2016=0,	2017=0, 2018=0}
-	},
-	"UCDfm8zsfKmc3sLevtY8x7OQ"	= {
-		name="MRTN",			realname="Martin",
-		ytlink="",
-		weblink="",
-		catids="-4-6-",
-		instaid="",
-		subcount={	2015=484,	2016=1532,	2017=1718,		2018=1659},
-		viewscount={2015=18440,	2016=113536,2017=143618,	2018=156051}
-	},
-	"UCTiKKjIxwkH-4o5ie8M-7NQ"	= {
-		name="Kaiser & Dimitri",			realname="",
-		ytlink="",
-		weblink="http://kaiser-dimitri.ch",
-		catids="-8-",
-		instaid="kaiserunddimitri",
-		subcount={	2015=0,2016=0,2017=0,	2018=1395},
-		viewscount={2015=0,2016=0,2017=0,	2018=662241}
-	},
-	"UC1PgEbqUweHJGWGDp1BFzZw"	= {
-		name="Super Swiss Bros.",	realname="Robb & TesAlbert",
-		ytlink="https://www.youtube.com/superswissbros",
-		weblink="",
-		catids="-4-",
-		instaid="super_swiss_bros",
-		subcount={	2015=0,	2016=459,	2017=788,	2018=1176},
-		viewscount={2015=0,	2016=28580,	2017=48917,	2018=84736}
-	},
-	"UCsZdsSjMrvhXSlBiuGK3r2w"	= {
-		name="AdnansTv",			realname="",
-		ytlink="",
-		weblink="",
-		catids="-6-",
-		instaid="",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=0},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=0}
-	},
-	"UCQEQZSXyQy28ZV3Y59_-2iw"	= {
-		name="Top Boys AFK",			realname="",
-		ytlink="",
-		thid="",
-		weblink="",
-		catids="-6-",
-		instaid="",
-		subcount={	2015=0,	2016=0,	2017=5084,	2018=4898},
-		viewscount={2015=0,	2016=0,	2017=161577,2018=34134}
-	},
-	"UC_2og_j4PvYfRPRH3x0miYg"	= {
-		name="Loris Zimmerli",			realname="",
-		ytlink="https://www.youtube.com/lozitv",
-		thid="",
-		weblink="",
-		catids="-6-",
-		instaid="lozitv",
-		subcount={	2015=0,2016=0,	2017=11176,		2018=28419,		2019=28800},
-		viewscount={2015=0,2016=0,	2017=382615,	2018=1531986,	2019=1829850}
-	},
-	"UCMW8XBBRkjrF_fweALWaZyw"	= {
-		name="Rafael Zeier",			realname="",
-		ytlink="https://www.youtube.com/rafaelzeier",
-		thid="",
-		weblink="https://www.zeipad.com",
-		catids="-3-",
-		instaid="",
-		subcount={	2015=0,	2016=0,	2017=0,	2018=34,	2019=52},
-		viewscount={2015=0,	2016=0,	2017=0,	2018=67870,	2019=90331}
-	},
-	"UCB1hgW6dm9c7EiGdNP3-BBg" = {
-		name="aoyuna",			realname="Dana Senn",
-		ytlink="",
-		thid="",
-		weblink="https://aoyuna.com",
-		catids="-7-",
-		instaid="aoyuna_",
-		subcount={	2015=0,	2016=0,	2017=66,	2018=124,	2019=126},
-		viewscount={2015=0,	2016=0,	2017=1310,	2018=2420,	2019=2084}
-	},
-	"UCdxatP5JDXR1y7PQjIbj_TQ"	= {
-		name="Swisstendo",			realname="Dominik",
-		ytlink="https://www.youtube.com/swisstendo",
-		thid="swisstendo",
-		weblink="",
-		catids="-4-11-",
-		instaid="swisstendoo",
-		subcount={	2015=0,2016=0,	2017=203,	2018=281,	2019=305},
-		viewscount={2015=0,2016=0,	2017=11076,	2018=3419,	2019=3058}
-	},
-	"UCzkwtDHF7MYlpeQ03rsVOIw"	= {
-		name="Walla Ray",		realname="",
-		ytlink="",
-		thid="walla_ray",
-		weblink="",
-		podlink="https://www.youtube.com/playlist?list=PLDxMNjMRyJjWPhvbN1XLzi6VncHuM_4zp",
-		catids="-4-6-11-12-15-",
-		instaid="walla_ray",
-		subcount={	2015=0,	2016=142,	2017=247,	2018=290,	2019=287},
-		viewscount={2015=0,	2016=5099,	2017=13680,	2018=15483,	2019=16816}
-	},
-	"UC_ChvDfK-hjS-sbEswNtugg"	= {
-		name="Prodax CH",			realname="",
-		ytlink="https://www.youtube.com/prodaxch",
-		thid="prodaxch",
-		weblink="",
-		catids="-4-11-15-",
-		instaid="prodaxch",
-		subcount={	2015=0,	2016=0,	2017=1979,	2018=3042,		2019=2990},
-		viewscount={2015=0,	2016=0,	2017=145739,2018=277107,	2019=323716}
-	}
-*/
 
 </cfscript>

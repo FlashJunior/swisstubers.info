@@ -1,7 +1,16 @@
 ﻿
 <cfscript>
 	/*
-
+	"UCnX_ZkOWmWlxG-CVX_ELmWQ" = {
+		name="Northside Company",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-8-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=272,	2018=388,	2019=413},
+		viewscount={2015=0,	2016=0,	2017=94969,	2018=121288,2019=136685}
+	},
 	"UCgKdJa3jLABiNkexYHaTkzg"	= {
 		name="Trauffer",			realname="Marc A. Trauffer",
 		ytlink="https://www.youtube.com/TraufferVEVO",
@@ -51,16 +60,6 @@
 		instaid="manillio",
 		subcount={	2015=0,		2016=1398,		2017=2228,		2018=2748,		2019=2670},
 		viewscount={2015=0,		2016=748699,	2017=1357851,	2018=1723811,	2019=1967915}
-	},
-	"UCNuCQrKaET5OLzKO_64kOjg"	= {
-		name="Physical Shock",		realname="",
-		ytlink="https://www.youtube.com/physicalshock",
-		thid="",
-		weblink="https://www.physicalshock.com",
-		catids="-8-",
-		instaid="physicalshock",
-		subcount={	2015=4303,		2016=6625,		2017=12862,		2018=19080,		2019=21700},
-		viewscount={2015=1066795,	2016=1875955,	2017=3424371,	2018=7779337,	2019=11421271}
 	},
 	"UCsmAPkVv80zC_1aVkKkAtFA"	= {
 		name="Lagondo",			realname="",
@@ -1046,13 +1045,13 @@ staticData = {
 },
 "UCv8c4VvKK2Lrm3eYL-rwutg"	= {
 	name="EquipeMusic",			realname="",
-	ytlink="https://www.youtube.com/equipemusic",
+	ytlink="",
 	thid="",
 	weblink="http://www.equipemusic.ch",
 	catids="-8-",
 	instaid="",
 	subcount={	2015=140,		2016=144,		2017=185,		2018=366,	2019=422},
-	viewscount={2015=363879,	2016=400691,	2017=441382,	2018=575534,	2019=623254}
+	viewscount={2015=363879,	2016=400691,	2017=441382,	2018=575534,2019=623254}
 },
 "UC1un-ntTO7GVbBGWdjWq1hg"	= {
 	name="Bligg",		realname="Marco Bliggensdorfer",
@@ -1165,6 +1164,17 @@ staticData = {
 	instaid="aditotoro",
 	subcount={	2015=0,	2016=838,	2017=4383,	2018=8030,		2019=14100},
 	viewscount={2015=0,	2016=39649,	2017=238362,2018=637919,	2019=1474111}
+},
+"UCYGgm5fCXp_J-gJ2x5Ve2BQ"	= {
+	name="Adilette",		realname="Adrian Vogt",
+	ytlink="https://www.youtube.com/adilette",
+	thid="",
+	weblink="",
+	podlink="https://open.spotify.com/show/4l4qN2RHTz7bKpkqjQTvDo",
+	catids="-6-12-",
+	instaid="aditotoro",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 },
 "UCr9kUCZOfjGlEU8k92_hjag"	= {
 	name="DivertiMento",		realname="Jonny Fischer & Manuel Burkart",
@@ -4294,7 +4304,7 @@ staticData = {
 },
 "UC8Z9L6ST04nn94tKd0ERQPg"	= {
 	name="Manu Outdoor",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/manuoutdoor",
 	thid="",
 	weblink="",
 	catids="-7-18-",
@@ -6010,16 +6020,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=722},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=444928}
 },
-"UCnX_ZkOWmWlxG-CVX_ELmWQ" = {
-	name="Northside Company",			realname="",
-	ytlink="",
-	thid="",
-	weblink="",
-	catids="-8-",
-	instaid="",
-	subcount={	2015=0,	2016=0,	2017=272,	2018=388,	2019=413},
-	viewscount={2015=0,	2016=0,	2017=94969,	2018=121288,2019=136685}
-},
 "UCGQqIuFLwQD3wRnd-qcPSOQ" = {
 	name="Shrof Shockt",			realname="",
 	ytlink="",
@@ -6069,10 +6069,117 @@ staticData = {
 	instaid="",
 	subcount={	2015=0,	2016=1354,		2017=1369,		2018=1435,		2019=1470},
 	viewscount={2015=0,	2016=2281120,	2017=231480,	2018=2380418,	2019=2406552}
+},
+"UC76hOiscFDo3LuFcNItl3fg" = {
+	name="Blue Carpet",			realname="Aaron Fricker, Damian Derungs, Sebastian Aeberhard, Rafael Hunziker, Yannick Biedermann",
+	ytlink="",
+	thid="",
+	weblink="https://www.bluecarpet.ch",
+	catids="-8-",
+	instaid="bluecarp3t",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCO_4trUt_UxXU2quYC4iJrg" = {
+	name="Wicht",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="wichtmusic",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=80,	2019=87},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=17767,	2019=19838}
+},
+"UCNuCQrKaET5OLzKO_64kOjg"	= {
+	name="Physical Shock",		realname="",
+	ytlink="https://www.youtube.com/physicalshock",
+	thid="",
+	weblink="https://www.physicalshock.com",
+	catids="-8-",
+	instaid="physicalshock",
+	subcount={	2015=4303,		2016=6625,		2017=12862,		2018=19080,		2019=21700},
+	viewscount={2015=1066795,	2016=1875955,	2017=3424371,	2018=7779337,	2019=11421271}
+},
+"UC4b0Zc5gTZqupfe0Twh-6RA" = {
+	name="StrickerTV",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-10-",
+	instaid="danielstricker",
+	subcount={	2015=0,	2016=0,	2017=177,	2018=205,	2019=206},
+	viewscount={2015=0,	2016=0,	2017=126425,2018=131114,2019=131757}
+},
+"UC96bDWrugN9MiGVEnRykkZw" = {
+	name="Lemon",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="lemonzhofficial",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCjkefV-6mroOwvBp0LOqTWw" = {
+	name="HiH Records",			realname="",
+	ytlink="https://www.youtube.com/HeavenInHellRecords",
+	thid="",
+	weblink="https://hih-rec.ch",
+	catids="-8-",
+	instaid="hih_records",
+	subcount={	2015=0,	2016=0,	2017=121,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=32754,	2018=47722,	2019=82597}
+},
+"UCJAyGq0t7-4EVv-h7Cq0YNg" = {
+	name="LEOam",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCvMu45zvzzl1RMExBu80gIg" = {
+	name="QL",			realname="",
+	ytlink="",
+	thid="",
+	weblink="http://funpunk.ch",
+	catids="-8-",
+	instaid="qlfunpunk",
+	subcount={	2015=0,	2016=482,	2017=629,	2018=757,	2019=870},
+	viewscount={2015=0,	2016=512731,2017=661688,2018=784695,	2019=925724}
+},
+"UCGLlzx_aK_tuqACod_zMeng" = {
+	name="Yung Glas",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=139,	2018=286,	2019=309},
+	viewscount={2015=0,	2016=0,	2017=4734,	2018=21675,	2019=26232}
+},
+"UC6_InzT36AF1Zpk7khi2jkQ" = {
+	name="Rhymes Visions",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.rhymes-visions.ch",
+	catids="-8-",
+	instaid="rhymes_visions",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCFBNJ296x04Xy_Q9kQp-BSA"= {
+	name="M-Kay",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="mkaymusicofficial",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=106},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=8336}
 }
-
-
-
 
 
 
@@ -6109,7 +6216,7 @@ catArr = [
 	["4",	"Gaming",							"50+"],
 	["18",	"Lernen / Know-How",				"40+"],
 	["2",	"Lifestyle / DIY / Kochen",			"10+"],
-	["8",	"Musik",							"170+"],
+	["8",	"Musik",							"180+"],
 	["10",	"Politik",							"10+"],
 	["9",	"Presse / Radio / TV / Kino",		"30+"],
 	["1",	"Reisen",							"20+"],

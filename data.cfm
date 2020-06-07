@@ -3440,7 +3440,7 @@ staticData = {
 	viewscount={2015=0,	2016=926530,	2017=1042878,	2018=1228511,	2019=1474708}
 },
 "UCuvAr3upxqcI0V2cOlgHOHg"	= {
-	name="Steffi Beauty",			realname="",
+	name="In aller Munde",			realname="",
 	ytlink="",
 	thid="",
 	weblink="",
@@ -6179,7 +6179,29 @@ staticData = {
 	instaid="mkaymusicofficial",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=106},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=8336}
+},
+"UC2M898yRYpwqWvA3PUCZGhA" = {
+	name="Sterneis",			realname="",
+	ytlink="https://www.youtube.com/sterneismusig",
+	thid="",
+	weblink="https://sterneismusig.bandcamp.com",
+	catids="-8-",
+	instaid="sylvesterstarone",
+	subcount={	2015=0,	2016=0,	2017=103,	2018=249,	2019=531},
+	viewscount={2015=0,	2016=0,	2017=22975,	2018=50093,	2019=129599}
+},
+"UC9fn0CqTGSH2mIXHNVMu4Ow" = {
+	name="Artcore Radio",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	podlink="https://www.mixcloud.com/artcoreradio/",
+	catids="-9-12-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=23,	2018=25,	2019=48},
+	viewscount={2015=0,	2016=0,	2017=24468,	2018=35760,	2019=48962}
 }
+
 
 
 

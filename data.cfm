@@ -4021,6 +4021,16 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=252093}
 },
+"UC0-VefRosMf6EveZ9Im1GhA" = {
+	name="Kantonspolizei Zürich",			realname="",
+	ytlink="https://www.youtube.com/PolizeiZuerich",
+	thid="",
+	weblink="https://www.kapo.zh.ch/internet/sicherheitsdirektion/kapo/",
+	catids="-7-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
 "UCOpBxBhLusKEaqICfnxRM_A"	= {
 	name="Perlmutt-Spangen Roger Wyss",			realname="",
 	ytlink="",
@@ -6197,11 +6207,60 @@ staticData = {
 	weblink="",
 	podlink="https://www.mixcloud.com/artcoreradio/",
 	catids="-9-12-",
-	instaid="",
+	instaid="artcoreradio",
 	subcount={	2015=0,	2016=0,	2017=23,	2018=25,	2019=48},
 	viewscount={2015=0,	2016=0,	2017=24468,	2018=35760,	2019=48962}
+},
+"UCIgud4utvFF0Cz6Cv6ZNuxA" = {
+	name="Shai",			realname="Shahin M. Afshari",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="shaimuzik",
+	subcount={	2015=0,	2016=0,	2017=105,	2018=108,	2019=118},
+	viewscount={2015=0,	2016=0,	2017=153079,2018=91480,	2019=153304}
+},
+"UCjmkxGUcyFnCDSaaexytB9w"= {
+	name="Jungsund",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="_jungsund",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=98,	2019=126},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=8079,	2019=11484}
+},
+"UC3UCreUCxgJxPnsYTeHU_ng" = {
+	name="NVS Mondial",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="nvsmondial",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=95},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=7374}
+},
+"UCghVVLU_hOTbCIYaKQk8hTw" = {
+	name="Datenschutzbeauftragte Kanton Zürich",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://dsb.zh.ch/internet/datenschutzbeauftragter/",
+	catids="-7-10-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=92},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=22623}
+},
+"UCOYY34nlIeDNr8MfM3ji3BA" = {
+	name="Alex Winzeler",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-5-",
+	instaid="Alex_Winzeler",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
-
 
 
 
@@ -6238,7 +6297,7 @@ catArr = [
 	["4",	"Gaming",							"50+"],
 	["18",	"Lernen / Know-How",				"40+"],
 	["2",	"Lifestyle / DIY / Kochen",			"10+"],
-	["8",	"Musik",							"180+"],
+	["8",	"Musik",							"190+"],
 	["10",	"Politik",							"10+"],
 	["9",	"Presse / Radio / TV / Kino",		"30+"],
 	["1",	"Reisen",							"20+"],

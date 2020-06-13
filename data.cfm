@@ -1066,7 +1066,7 @@ staticData = {
 },
 "UCAeBqiFr1jzcyFHWb33vw_A"	= {
 	name="Eldorado FM",		realname="",
-	ytlink="https://www.youtube.com/youngtomslick",
+	ytlink="https://www.youtube.com/eldoradofmofficial",
 	thid="",
 	weblink="https://eldoradokiosk.ch",
 	catids="-8-",
@@ -2789,7 +2789,7 @@ staticData = {
 },
 "UCpkYP_woRKj1ltLdoIPO8UQ"	= {
 	name="Studioeins",			realname="Roman Lehmann, Manfred Hager, Stefan Tüscher",
-	ytlink="",
+	ytlink="https://www.youtube.com/studioeins",
 	thid="",
 	weblink="https://www.studioeins.ch",
 	catids="-3-13-18-",
@@ -5398,7 +5398,7 @@ staticData = {
 },
 "UCQ6Nh7CdrvF_GHrseVRf_jQ" = {
 	name="Chlyklass",			realname="Wurzel5, Greis, Baze, Diens und PVP",
-	ytlink="",
+	ytlink="https://www.youtube.com/chlyklasstv",
 	thid="",
 	weblink="http://www.chlyklass.ch",
 	catids="-8-",
@@ -6042,7 +6042,7 @@ staticData = {
 },
 "UClSUNNh2eYk5ECLxuk_uOjg" = {
 	name="Zuger Shuger",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/zugershuger",
 	thid="",
 	weblink="http://www.zugershuger.ch",
 	catids="-8-",
@@ -6260,7 +6260,98 @@ staticData = {
 	instaid="Alex_Winzeler",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCfBeCtDle-DUSpi-dOPjE1A"= {
+	name="Bloody Mac",			realname="",
+	ytlink="https://www.youtube.com/bloodymac",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="bloody_mac54",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UC2qW6ixxZrONUQwsApTr9Mg" = {
+	name="OfficialSchwiizerletsplay",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-4-",
+	instaid="schwiizerletsplay",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCD2pkctWxQdoZVUgdEOTMiw" = {
+	name="HugiCrafter",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-4-6-",
+	instaid="hugicrafter",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCJXhE-Jj_X-3AISaGh2dqqA"= {
+	name="Weedemboyz",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="weedemboyzofficial",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=58,	2019=68},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=8632,	2019=12012}
+},
+"UCQAc15AZelPJxl0tCAkwWsA"= {
+	name="Swissrapbrandnew",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-8-",
+	instaid="swissrapbrandnew",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCD8QZXdODAXdfbGvq_MUF4g"= {
+	name="Mtizwa Productions",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="mtizwaproductions",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=502},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=136264}
+},
+"UCOOIsnVCiM8M7Q-465wxL3w"= {
+	name="Audiodelikt",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.audiodelikt.ch",
+	catids="-8-",
+	instaid="audiodelikt",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCxahBbir-9cu8GPB9NA8LFQ" = {
+	name="Jassin",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="j_belabu",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCeCeTchVuAKO_MUSH9snNQg"= {
+	name="Truwve",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="truwve",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=68},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=8985}
 }
+
 
 
 

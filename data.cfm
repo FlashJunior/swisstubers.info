@@ -1929,7 +1929,8 @@ staticData = {
 	ytlink="https://www.youtube.com/srfzweiammorge",
 	thid="",
 	weblink="",
-	catids="-6-9-",
+	podlink="https://www.srf.ch/play/radio/sendung/zwei-am-morge?id=ddd253f8-db02-42dc-bbef-0694610e7fb0",
+	catids="-6-9-12-",
 	instaid="zweiammorge",
 	subcount={	2015=0,2016=0,2017=0,	2018=15007,		2019=21000},
 	viewscount={2015=0,2016=0,2017=0,	2018=1766428,	2019=3441935}
@@ -5308,7 +5309,7 @@ staticData = {
 },
 "UCMo5DJ_gJDlm0h_2iEHuyJw" = {
 	name="New Aura Ent",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/newauraent",
 	thid="",
 	weblink="",
 	catids="-8-",
@@ -5548,7 +5549,7 @@ staticData = {
 },
 "UC2fCvRBbMjgSxBeiD5rpTFw" = {
 	name="Drive!n Official",			realname="Lars, Laurin, Manuel, Schöbi, Yanick",
-	ytlink="",
+	ytlink="https://www.youtube.com/driveinofficial",
 	thid="",
 	weblink="https://www.driveinband.com",
 	catids="-8-",
@@ -6022,7 +6023,7 @@ staticData = {
 },
 "UCOmoyylIeXOOMRCcK-erYkA" = {
 	name="Radio 3FACH",			realname="",
-	ytlink="https://www.youtube.com/Radio3FACH",
+	ytlink="https://www.youtube.com/radio3fachluzern",
 	thid="",
 	weblink="https://3fach.ch",
 	catids="-8-9-",
@@ -6112,7 +6113,7 @@ staticData = {
 },
 "UC4b0Zc5gTZqupfe0Twh-6RA" = {
 	name="StrickerTV",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/strickertv",
 	thid="",
 	weblink="",
 	catids="-10-",
@@ -6350,6 +6351,26 @@ staticData = {
 	instaid="truwve",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=68},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=8985}
+},
+"UCkBjd6iCZqvWrRP4Iz4Ptkw" = {
+	name="ClieniaTV",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.clienia.ch",
+	catids="-13-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=42,	2018=53,	2019=68},
+	viewscount={2015=0,	2016=0,	2017=39692,	2018=51868,	2019=62346}
+},
+"UCPZeLm-DeUhOlUFP65-IPlA" = {
+	name="XEN",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="xenofficial",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=6390}
 }
 
 
@@ -6388,7 +6409,7 @@ catArr = [
 	["4",	"Gaming",							"50+"],
 	["18",	"Lernen / Know-How",				"40+"],
 	["2",	"Lifestyle / DIY / Kochen",			"10+"],
-	["8",	"Musik",							"190+"],
+	["8",	"Musik",							"200+"],
 	["10",	"Politik",							"10+"],
 	["9",	"Presse / Radio / TV / Kino",		"30+"],
 	["1",	"Reisen",							"20+"],

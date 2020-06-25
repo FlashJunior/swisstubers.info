@@ -6371,8 +6371,67 @@ staticData = {
 	instaid="xenofficial",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=6390}
+},
+"UC4CAORGWUEm2v0m5WXma4Vw"= {
+	name="Okann",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="okann85",
+	subcount={	2015=0,	2016=0,	2017=333,	2018=375,		2019=386},
+	viewscount={2015=0,	2016=0,	2017=91744,	2018=103664,	2019=93756}
+},
+"UCCPWLVUCAiMYHl6T1bIXjig" = {
+	name="Besserheigo Records",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="besserheigorecords",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=174},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=6557}
+},
+"UCU8P9fm1w-7ZSS5g3ek-M3Q" = {
+	name="Seemannsgarn",			realname="",
+	ytlink="https://www.youtube.com/seemannsgarnband",
+	thid="",
+	weblink="http://www.seemannsgarn.ch",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCX_13xYHkyiIkMvs4mSsprA" = {
+	name="WSER - Radiovision",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.whatsoeverrecords.net",
+	catids="-5-9-",
+	instaid="WSERRadiovision",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCTJhLXevDKaKCOS-H2aXZ3Q" = {
+	name="Outdoor Publishing GmbH",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://outdoor-publishing.com",
+	catids="-1-9-13-",
+	instaid="outdoor_publishing",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UC0T0ozWur7Td2NfEPlQAuJA" = {
+	name="Nikin",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://nikin.ch",
+	catids="-13-",
+	instaid="nikinclothing",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=182},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=35388}
 }
-
 
 
 

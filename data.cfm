@@ -844,10 +844,10 @@ staticData = {
 "UCCjweo0CKJkDMtU86hiAIJQ"	= {
 	name="Maelo",			realname="Maelo Romani",
 	ytlink="https://www.youtube.com/MaeloRomani",
-	thid="",
+	thid="maeloromani",
 	weblink="",
 	podlink="https://open.spotify.com/show/1xIBDLWYV7C7fmkrx1krF8",
-	catids="-6-12-15-16-",
+	catids="-6-11-12-15-16-",
 	instaid="maeloromani",
 	subcount={	2015=3188,		2016=6619,		2017=6681,		2018=7944,		2019=9580},
 	viewscount={2015=149311,	2016=272838,	2017=356308,	2018=614701,	2019=746300}
@@ -1157,10 +1157,10 @@ staticData = {
 "UC1brmo4a2K1MCcl6BX-bUAA"	= {
 	name="Aditotoro",		realname="Adrian Vogt",
 	ytlink="https://www.youtube.com/aditotoro",
-	thid="",
+	thid="aditotoro",
 	weblink="",
 	podlink="https://open.spotify.com/show/4l4qN2RHTz7bKpkqjQTvDo",
-	catids="-6-12-",
+	catids="-6-11-12-",
 	instaid="aditotoro",
 	subcount={	2015=0,	2016=838,	2017=4383,	2018=8030,		2019=14100},
 	viewscount={2015=0,	2016=39649,	2017=238362,2018=637919,	2019=1474111}
@@ -4528,7 +4528,8 @@ staticData = {
 	ytlink="https://www.youtube.com/sirvlog",
 	thid="",
 	weblink="",
-	catids="-6-",
+	podlink="https://open.spotify.com/show/4WgrTXb8yg4AyIqIDUN0tP",
+	catids="-6-12-",
 	instaid="davidfornerod",
 	subcount={	2015=48,	2016=145,	2017=209,	2018=244,	2019=366},
 	viewscount={2015=225,	2016=5657,	2017=15301,	2018=24511,	2019=7507}
@@ -5760,10 +5761,10 @@ staticData = {
 "UCng3w4h7F1lLnWQTQxxGgKA"	= {
 	name="MisterElia",			realname="Elia Rohrbach",
 	ytlink="https://www.youtube.com/misterelia",
-	thid="",
+	thid="eyelia",
 	weblink="",
 	podlink="https://open.spotify.com/show/1xIBDLWYV7C7fmkrx1krF8",
-	catids="-6-12-",
+	catids="-6-11-12-",
 	instaid="mister_elia",
 	subcount={	2015=2554,	2016=3076,	2017=4015,	2018=5174,		2019=5910},
 	viewscount={2015=92583,	2016=123089,2017=163987,2018=192283,	2019=221606}
@@ -6431,6 +6432,76 @@ staticData = {
 	instaid="nikinclothing",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=182},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=35388}
+},
+"UCFMSoxLM2bE2bnfS24RQilQ" = {
+	name="Sing mit Nelly",			realname="",
+	ytlink="https://www.youtube.com/SingmitNelly",
+	thid="",
+	weblink="https://www.sing-mit-nelly.com",
+	catids="-8-18-",
+	instaid="singmitnelly",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=127},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=62759}
+},
+"UC-4iBCMmz3sJ2cNjIxh4p8g" = {
+	name="Likurso CH",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-12-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCFZ8ScqdJSBOIO3L-7AiTdg" = {
+	name="267 Musik",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="267musik",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=468},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=37438}
+},
+"UCw7lZryLz7kYylaXxehT7cg" = {
+	name="Beekwest",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="Beekwest",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCrsd_S0gN5IHtAPdeVR_ivg" = {
+	name="Florian Summer",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="florian_summer_music",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UC_D2yClelMiDfKBu-vu1ppw" = {
+	name="WGEB4503",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="mr.salini",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCIIPY878fZMCF72waEd3OGg" = {
+	name="Ademessi TV",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-",
+	instaid="ademessitv",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
 
 

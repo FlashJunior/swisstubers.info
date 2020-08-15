@@ -708,7 +708,7 @@
 		ytlink="https://www.youtube.com/swisstendo",
 		thid="swisstendo",
 		weblink="",
-		catids="-4-11-",
+		catids="-4-11-20-",
 		instaid="swisstendoo",
 		subcount={	2015=0,2016=0,	2017=203,	2018=281,	2019=305},
 		viewscount={2015=0,2016=0,	2017=11076,	2018=3419,	2019=3058}
@@ -821,11 +821,11 @@ staticData = {
 	viewscount={2015=9154927,	2016=11657676,	2017=18140193,	2018=28879672,	2019=36083112}
 },
 "UCsdYbDenEXVloUc6mYfDStw"	= {
-	name="Sara machts",			realname="",
+	name="Sara machts",			realname="Sara Bachmann",
 	ytlink="",
 	thid="",
-	weblink="http://www.saramachts.ch",
-	catids="-6-9-14-18-",
+	weblink="https://www.sarabachmann.ch",
+	catids="-6-9-14-18-29-",
 	instaid="saramachts",
 	subcount={	2015=3109,		2016=4556,		2017=5899,		2018=7146,		2019=7900},
 	viewscount={2015=2683008,	2016=3907409,	2017=5138042,	2018=6056305,	2019=6614904}
@@ -1099,7 +1099,7 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="",
-	catids="-6-14-",
+	catids="-6-14-25-",
 	instaid="",
 	subcount={	2015=2035,	2016=2234,	2017=2988,	2018=3486,	2019=3450},
 	viewscount={2015=21201,	2016=33900,	2017=63362,	2018=86009,	2019=56923}
@@ -1210,8 +1210,8 @@ staticData = {
 	name="Hecht",			realname="Stefan Buck, Chris Filter, Daniel Gisler, Philipp Morscher, Christoph Schröter",
 	ytlink="https://www.youtube.com/Hechtmusic",
 	thid="",
-	weblink="",
-	catids="-8-",
+	weblink="https://www.hechtimnetz.ch",
+	catids="-8-20-29-",
 	instaid="hecht_band",
 	subcount={	2015=0,	2016=2889,		2017=5201,		2018=10910,		2019=13900},
 	viewscount={2015=0,	2016=2774670,	2017=5543551,	2018=11131334,	2019=14785806}
@@ -1262,7 +1262,7 @@ staticData = {
 	ytlink="https://www.youtube.com/einfachsayan",
 	thid="",
 	weblink="https://open.spotify.com/artist/6v70lxNv4rdNHCUbBL6b62",
-	catids="-6-",
+	catids="-6-29-",
 	instaid="eifachsayan",
 	subcount={	2015=0,	2016=107,	2017=368,	2018=724,	2019=1000},
 	viewscount={2015=0,	2016=7949,	2017=16814,	2018=29473,	2019=39447}
@@ -1272,7 +1272,7 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="",
-	catids="-7-",
+	catids="-7-31-",
 	instaid="jahngraf",
 	subcount={	2015=0,	2016=62,	2017=109,	2018=353,	2019=574},
 	viewscount={2015=0,	2016=4886,	2017=7422,	2018=25873,	2019=47985}
@@ -1322,7 +1322,7 @@ staticData = {
 	ytlink="https://www.youtube.com/jayblastone",
 	thid="aemjay",
 	weblink="",
-	catids="-4-11-15-",
+	catids="-4-11-15-20-",
 	instaid="",
 	subcount={	2015=0,	2016=122,	2017=264,	2018=1556,	2019=1380},
 	viewscount={2015=0,	2016=19439,	2017=38719,	2018=46241,	2019=52003}
@@ -1332,7 +1332,7 @@ staticData = {
 	ytlink="",
 	thid="aemjay",
 	weblink="",
-	catids="-5-11-",
+	catids="-5-11-20-",
 	instaid="zackenamsle",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
@@ -1392,7 +1392,7 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="http://www.charles-nguela.com",
-	catids="-6-",
+	catids="-6-20-",
 	instaid="charles_nguela",
 	subcount={	2015=0,		2016=358,	2017=689,	2018=1402,		2019=2060},
 	viewscount={2015=0,		2016=28776,	2017=55061,	2018=160827,	2019=278024}
@@ -1636,7 +1636,7 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="https://www.cookinesi.com",
-	catids="-2-14-18-",
+	catids="-2-14-18-20-",
 	instaid="cookinesi_zoe_torinesi",
 	subcount={	2015=0,2016=0,	2017=1080,		2018=1422,		2019=1750},
 	viewscount={2015=0,2016=0,	2017=452033,	2018=666432,	2019=765059}
@@ -1798,7 +1798,7 @@ staticData = {
 	ytlink="https://www.youtube.com/gabirano",
 	thid="",
 	weblink="",
-	catids="-6-",
+	catids="-6-25-",
 	instaid="gabirano",
 	subcount={	2015=0,2016=0,	2017=28854,		2018=31657,	2019=32200},
 	viewscount={2015=0,2016=0,	2017=1022733,	2018=1354213,	2019=1546908}
@@ -1818,7 +1818,7 @@ staticData = {
 	ytlink="https://www.youtube.com/saturdayandsundayvlog",
 	thid="",
 	weblink="https://www.saturdayandsunday.ch",
-	catids="-1-",
+	catids="-1-28-",
 	instaid="saturday.and.sunday",
 	subcount={	2015=0,2016=0,	2017=1596,	2018=4367,		2019=9430},
 	viewscount={2015=0,2016=0,	2017=214527,2018=620488,	2019=1302921}
@@ -1878,7 +1878,7 @@ staticData = {
 	ytlink="https://www.youtube.com/marcokunzmusik",
 	thid="",
 	weblink="https://www.kunzmusik.ch",
-	catids="-8-",
+	catids="-8-29-",
 	instaid="kunzmusik",
 	subcount={	2015=0,2016=0,	2017=2894,		2018=3592,		2019=9490},
 	viewscount={2015=0,2016=0,	2017=1317286,	2018=1706616,	2019=2158363}
@@ -1980,7 +1980,7 @@ staticData = {
 	ytlink="https://www.youtube.com/michaelelsener",
 	thid="",
 	weblink="https://www.michaelelsener.ch",
-	catids="-6-",
+	catids="-6-31-",
 	instaid="michaelelsener",
 	subcount={	2015=0,2016=0,2017=0,	2018=2056,		2019=2350},
 	viewscount={2015=0,2016=0,2017=0,	2018=540314,	2019=628613}
@@ -2146,7 +2146,7 @@ staticData = {
 	viewscount={2015=0,	2016=682,	2017=7158,	2018=5070,	2019=10032}
 },
 "UCw3Z24Lx397XyWd88Hqu7lg"	= {
-	name="FlipTastisch",		realname="",
+	name="FlipTastisch",		realname="Filipe Machado",
 	ytlink="https://www.youtube.com/fliptastischoffiziell",
 	thid="",
 	weblink="http://fliptastisch.wixsite.com/fliptastisch",
@@ -2370,7 +2370,7 @@ staticData = {
 	ytlink="https://www.youtube.com/reneschudel",
 	thid="",
 	weblink="http://reneschudel.ch",
-	catids="-2-18-",
+	catids="-2-18-25-",
 	instaid="reneschudel",
 	subcount={	2015=0,	2016=0,2017=0,	2018=0,	2019=1220},
 	viewscount={2015=0,	2016=0,2017=0,	2018=0,	2019=297908}
@@ -2653,7 +2653,7 @@ staticData = {
 	thid="",
 	weblink="https://patrickembacher.com",
 	podlink="https://anchor.fm/embacherpatrick",
-	catids="-12-18-",
+	catids="-12-18-33-",
 	instaid="embacherpatrick",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=2540},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=174492}
@@ -2861,9 +2861,9 @@ staticData = {
 "UCzU9p-555b_LmjZ3Y1eeIKw"	= {
 	name="Snowly",			realname="",
 	ytlink="",
-	thid="",
+	thid="snowly2368",
 	weblink="",
-	catids="-6-20-",
+	catids="-6-11-20-",
 	instaid="snowly2368",
 	subcount={	2015=0,	2016=302,	2017=631,	2018=834,		2019=934},
 	viewscount={2015=0,	2016=134516,2017=310148,2018=460163,	2019=563854}
@@ -2979,12 +2979,12 @@ staticData = {
 	viewscount={2015=0,	2016=0,	2017=0,	2018=1099,	2019=3792}
 },
 "UCPpQKCMOCwoQ-rw1lqE9wMA"	= {
-	name="TopTenErich",			realname="",
-	ytlink="https://www.youtube.com/toptenerich",
+	name="Lino Cappuccino",			realname="Lino Haltinner",
+	ytlink="",
 	thid="toptenerich",
-	weblink="",
-	catids="-6-11-15-",
-	instaid="toptenerich",
+	weblink="https://www.linocappuccino.com",
+	catids="-6-11-15-28-",
+	instaid="linocappuccinox",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=317,	2019=605},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=20065,	2019=43930}
 },
@@ -3054,7 +3054,7 @@ staticData = {
 	ytlink="https://www.youtube.com/risurvival89",
 	thid="",
 	weblink="http://www.risurvival-training.ch",
-	catids="-7-18-",
+	catids="-7-18-21-",
 	instaid="remoiller",
 	subcount={	2015=0,	2016=16367,		2017=21307,		2018=25110,		2019=27400},
 	viewscount={2015=0,	2016=2671693,	2017=4067166,	2018=3874063,	2019=5819382}
@@ -3074,7 +3074,7 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="",
-	catids="-8-",
+	catids="-8-22-",
 	instaid="24dias_5k",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=164},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=19068}
@@ -3150,11 +3150,11 @@ staticData = {
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=1631762}
 },
 "UCCfpKXMBuL0hP83BADHbaDA"	= {
-	name="Hoschi",			realname="Fäbu",
+	name="Hoschi",			realname="Fabian Hostettler",
 	ytlink="",
 	thid="",
 	weblink="",
-	catids="-7-",
+	catids="-7-21-",
 	instaid="hoschi1997",
 	subcount={	2015=0,	2016=25,	2017=25,	2018=25,		2019=0},
 	viewscount={2015=0,	2016=32438,	2017=69798,	2018=130336,	2019=209921}
@@ -3184,7 +3184,7 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="",
-	catids="-5-",
+	catids="-5-33-",
 	instaid="sandrusmith",
 	subcount={	2015=0,	2016=893,	2017=1159,	2018=1539,	2019=1720},
 	viewscount={2015=0,	2016=192539,2017=298736,2018=345797,	2019=379874}
@@ -3365,7 +3365,7 @@ staticData = {
 	ytlink="https://www.youtube.com/bregypictures",
 	thid="",
 	weblink="https://bregypictures.com",
-	catids="-7-",
+	catids="-7-34-",
 	instaid="bregypictures",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=31180,	2019=58700},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=11000000,	2019=22823816}
@@ -3833,7 +3833,7 @@ staticData = {
 	viewscount={2015=0,	2016=50476,	2017=126546,	2018=269255,	2019=414358}
 },
 "UC9XWvADkT-cfYsZROM43ZQQ"	= {
-	name="danis888",			realname="",
+	name="danis888",			realname="Daniel Schnyder",
 	ytlink="",
 	thid="",
 	weblink="",
@@ -4087,7 +4087,7 @@ staticData = {
 	ytlink="https://www.youtube.com/HipsterGnogg",
 	thid="",
 	weblink="https://hipstergnogg.jimdo.com",
-	catids="-6-",
+	catids="-6-25-",
 	instaid="hipstergnogg",
 	subcount={	2015=1125,	2016=13705,		2017=21132,		2018=24299,		2019=24100},
 	viewscount={2015=40399,	2016=302953,	2017=571665,	2018=1017155,	2019=804275}
@@ -4168,8 +4168,8 @@ staticData = {
 	ytlink="https://www.youtube.com/alpinkanal",
 	thid="",
 	weblink="",
-	catids="-1-5-",
-	instaid="peter_herger",
+	catids="-1-5-23-",
+	instaid="alpinkanal",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=801},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=200178}
 },
@@ -4209,7 +4209,7 @@ staticData = {
 	thid="",
 	weblink="",
 	catids="-7-",
-	instaid="",
+	instaid="michelle_rueegg_official",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 },
@@ -4448,7 +4448,7 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="",
-	catids="-2-14-",
+	catids="-2-14-28-",
 	instaid="absurdistdrama",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
@@ -5141,7 +5141,7 @@ staticData = {
 },
 "UCzPjs7IBa27ZkPbejtqLyhA" = {
 	name="Landro",			realname="",
-	ytlink="https://www.youtube.com/LucaLandro",
+	ytlink="https://www.youtube.com/landroofficial",
 	thid="",
 	weblink="",
 	catids="-8-",
@@ -5333,7 +5333,7 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="",
-	catids="-8-",
+	catids="-8-20-",
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=285,	2018=433,	2019=973},
 	viewscount={2015=0,	2016=0,	2017=30761,	2018=55280,	2019=111164}
@@ -5393,7 +5393,7 @@ staticData = {
 	ytlink="https://www.youtube.com/LuukOfficial",
 	thid="",
 	weblink="",
-	catids="-8-",
+	catids="-8-20-",
 	instaid="luukofficial",
 	subcount={	2015=0,	2016=0,	2017=1097,	2018=1961,	2019=2750},
 	viewscount={2015=0,	2016=0,	2017=447853,2018=718367,2019=1015172}
@@ -5429,11 +5429,11 @@ staticData = {
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=92432}
 },
 "UCDFpQQJ7SDTsnjacCPb241g" = {
-	name="Visu",			realname="",
+	name="Visu",			realname="Vincenz Suter",
 	ytlink="https://www.visurap.ch",
 	thid="",
 	weblink="",
-	catids="-8-",
+	catids="-8-29-",
 	instaid="visu_vagabundo",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=3920},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=92432}
@@ -5759,7 +5759,7 @@ staticData = {
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 },
 "UCng3w4h7F1lLnWQTQxxGgKA"	= {
-	name="MisterElia",			realname="Elia Rohrbach",
+	name="Elia",			realname="Elia Rohrbach",
 	ytlink="https://www.youtube.com/misterelia",
 	thid="eyelia",
 	weblink="",
@@ -5865,7 +5865,7 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="https://www.sina.ch",
-	catids="-8-",
+	catids="-8-34-",
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=976,		2018=1162,		2019=1450},
 	viewscount={2015=0,	2016=0,	2017=1209041,	2018=1410676,	2019=1718102}
@@ -5875,7 +5875,7 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="https://www.ritschi.ch",
-	catids="-8-",
+	catids="-8-25-",
 	instaid="ritschivoice",
 	subcount={	2015=0,	2016=0,	2017=852,	2018=1151,	2019=1520},
 	viewscount={2015=0,	2016=0,	2017=581076,2018=758567,2019=937741}
@@ -5972,7 +5972,7 @@ staticData = {
 },
 "UCwlEhmHVDQkoCcKLBynkdwA" = {
 	name="Odyssee Stories",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/odysseestories",
 	thid="",
 	weblink="https://thisisodyssee.com",
 	catids="-8-",
@@ -6174,7 +6174,7 @@ staticData = {
 },
 "UC6_InzT36AF1Zpk7khi2jkQ" = {
 	name="Rhymes Visions",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/rhymesvisions",
 	thid="",
 	weblink="https://www.rhymes-visions.ch",
 	catids="-8-",
@@ -6438,7 +6438,7 @@ staticData = {
 	ytlink="https://www.youtube.com/SingmitNelly",
 	thid="",
 	weblink="https://www.sing-mit-nelly.com",
-	catids="-8-18-",
+	catids="-8-18-20-",
 	instaid="singmitnelly",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=127},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=62759}
@@ -6477,8 +6477,8 @@ staticData = {
 	name="Florian Summer",			realname="",
 	ytlink="",
 	thid="",
-	weblink="",
-	catids="-8-",
+	weblink="http://www.floriansummer.ch",
+	catids="-8-20-",
 	instaid="florian_summer_music",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
@@ -6525,7 +6525,7 @@ staticData = {
 },
 "UCkiBFqKSyNQzejqYBrJ9EkA" = {
 	name="Captain Had",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/captainhad",
 	thid="cpthad",
 	weblink="",
 	catids="-4-11-27-",
@@ -6543,11 +6543,379 @@ staticData = {
 	instaid="umweltentdecker",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCXrYM79t3sx_-RqpQYXqKkQ"	= {
+	name="Moser & Schelker",			realname="Simon Moser & Michel Schelker",
+	ytlink="",
+	thid="",
+	weblink="http://simon-moser.ch",
+	catids="-6-",
+	instaid="moser.simon",
+	subcount={	2015=0,	2016=0,	2017=1560,		2018=2489,		2019=4040},
+	viewscount={2015=0,	2016=0,	2017=366698,	2018=704341,	2019=1108589}
+},
+"UCJ0fPHRYc_wkYP-3Ury5vIg" = {
+	name="Thomas Matter",			realname="",
+	ytlink="https://www.youtube.com/thomasmatterch",
+	thid="",
+	weblink="https://www.thomasmatter.ch",
+	podlink="https://thomasmatter.buzzsprout.com",
+	catids="-10-12-20-",
+	instaid="thomas_matter",
+	subcount={	2015=0,	2016=0,	2017=126,	2018=1595,		2019=2840},
+	viewscount={2015=0,	2016=0,	2017=34222,	2018=972159,	2019=1616602}
+},
+"UCiyA9LCeX2OCaIBRLdUgS0Q" = {
+	name="Peter Reber",			realname="",
+	ytlink="https://www.youtube.com/peterreberofficial",
+	thid="",
+	weblink="https://peterreber.ch",
+	catids="-8-25-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=803,		2018=980,		2019=1660},
+	viewscount={2015=0,	2016=0,	2017=1470236,	2018=1694676,	2019=2057918}
+},
+"UCFG2pNN4h6CU29M8P8luOew" = {
+	name="FC Zürich",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.fcz.ch",
+	catids="-5-20-",
+	instaid="fcz_offiziell",
+	subcount={	2015=0,	2016=1804,		2017=2014,		2018=2314,		2019=2560},
+	viewscount={2015=0,	2016=1105404,	2017=1141070,	2018=1196257,	2019=1247814}
+},
+"UCTKjNfAGViRoOCgQ-J7leDg" = {
+	name="Stahlseil",			realname="Michael Meier",
+	ytlink="https://www.youtube.com/stahlseil",
+	thid="",
+	weblink="http://www.stahlseil.ch",
+	catids="-7-21-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=778,		2018=1162,		2019=1820},
+	viewscount={2015=0,	2016=0,	2017=1322098,	2018=1659738,	2019=2027446}
+},
+"UCzHTV6BGaHwFRIwTZk-waqA" = {
+	name="Yanis",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-25-",
+	instaid="yaniswindler",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCEK1_XUuwTALuIEX_4xFBqw" = {
+	name="Talk Mit",			realname="Andy Wolf, Karen Fleischmann, Severin Parnitzki",
+	ytlink="",
+	thid="",
+	weblink="https://www.talkmit.ch",
+	catids="-6-",
+	instaid="talkmit",
+	subcount={	2015=0,	2016=0,	2017=77,	2018=102,	2019=111},
+	viewscount={2015=0,	2016=0,	2017=43969,	2018=63175,	2019=78404}
+},
+"UCYXD4UoPDk0VV7r-hKCnGRg"= {
+	name="C.P. Prod.",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="codepurpleproduction56",
+	subcount={	2015=0,	2016=0,	2017=102,	2018=106,	2019=136},
+	viewscount={2015=0,	2016=0,	2017=17786,	2018=18870,	2019=21750}
+},
+"UCT4fRIJRyW9wYZsubdtRNXA"= {
+	name="Rammsie Hartman",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="r.hartman_",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=337,	2019=386},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=36462,	2019=50840}
+},
+"UCHh4CCPPSEaGViaRFDsmtzA" = {
+	name="Damous",			realname="Dave",
+	ytlink="https://www.youtube.com/damousrap",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="damous_rap",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=116},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=6950}
+},
+"UCSv2oFSqZgHAgQ2vUqBRrzA" = {
+	name="Der Kenner",			realname="",
+	ytlink="",
+	thid="derkenner",
+	weblink="",
+	catids="-6-8-11-",
+	instaid="derkenner5",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UC2P3YNzPhdcOTdQQTyMHTaw" = {
+	name="Pegu17",			realname="Fabio Wenger",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="pegu17",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=814},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=42754}
+},
+"UCh85Qj4yCOVjnc9CN7Hw1EA" = {
+	name="PW Records",			realname="",
+	ytlink="",
+	thid="",
+	weblink="http://www.pw-records.com",
+	catids="-8-21-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=2220},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=1122986}
+},
+"UCMuIx3CZpLF-BFNiBA-XyKA" = {
+	name="Lieni",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.lieni.org",
+	catids="-8-",
+	instaid="lieni24",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=51},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=23537}
+},
+"UCGTnn9b0PR8eAi_270vfWNw" = {
+	name="M plus",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	podlink="https://linktr.ee/podcastoase",
+	catids="-8-12-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCe-sPYziyjW46hazLnrZ92g" = {
+	name="BND RECORDZ",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-20-",
+	instaid="bndrecordz04",
+	subcount={	2015=0,	2016=0,	2017=90,	2018=134,	2019=147},
+	viewscount={2015=0,	2016=0,	2017=6168,	2018=11739,	2019=13945}
+},
+"UCqtaev3Q2muauNosvtbD0HA" = {
+	name="Sevthealman",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-",
+	instaid="sevthealman",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCIZsSH1lRyWhvboN8KHQb3A"= {
+	name="LIV",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.livmusic.ch",
+	catids="-8-33-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCpNH2AFiI0G4ZHQSRqJb7fw" = {
+	name="SAR - Neon & Santa",			realname="",
+	ytlink="https://www.youtube.com/sarrec",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=144,	2018=182,	2019=215},
+	viewscount={2015=0,	2016=0,	2017=28915,	2018=36745,	2019=26414}
+},
+"UCy8ye5C5JpgL5pMhrhyn-gg" = {
+	name="Emporia",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-25-",
+	instaid="emporia38",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCOss7V5TISfPeQBZOnXcDLw" = {
+	name="Palm",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-25-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=219,	2018=222,	2019=219},
+	viewscount={2015=0,	2016=0,	2017=56587,	2018=58962,	2019=60572}
+},
+"UCShb20-pXSAdElpEq9WgNjg" = {
+	name="Chäs TV",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-",
+	instaid="chaes_tv",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCTnzW57knzpbh99JwkB7LhA" = {
+	name="Real Engines",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-5-6-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCJ-s2Zby4rT6x0BG1Xg6KFQ" = {
+	name="Reallucaxx",			realname="Luca",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-",
+	instaid="reallucaxx",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=1190},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=34861}
+},
+"UC_mNor8OoBw1GQ9fg1Vxk9Q"= {
+	name="Carmen, Salome & Rahel",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCFJbMoonzj1xKsk5v8vM84w" = {
+	name="Dodo Music",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.dodomusic.ch",
+	catids="-8-",
+	instaid="dodo_music",
+	subcount={	2015=0,	2016=0,	2017=3344,		2018=3721,	2019=9280},
+	viewscount={2015=0,	2016=0,	2017=2763998,	2018=3138472,	2019=3369746}
+},
+"UCi0_mpK65PzEVmrj9-51w1A" = {
+	name="44TV",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=873},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=138319}
+},
+"UC85wxWPuBIRUKJbFZ8nuq-A" = {
+	name="HTC Records",			realname="",
+	ytlink="",
+	thid="",
+	weblink="http://www.htc-records.ch",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=453,		2018=572,		2019=678},
+	viewscount={2015=0,	2016=0,	2017=405442,	2018=496972,	2019=563662}
+},
+"UCrb6P-8c8vle7F3gxLMI44Q" = {
+	name="OS Musik",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=543},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=9252}
+},
+"UC8P5thECGnWvLMLuXtCesew"= {
+	name="Cem06 Official",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCDqBUetb52m_onjB1oOG-jw" = {
+	name="Young Rah",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="youngrah6",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=65},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=73820}
+},
+"UCULwtpJKIY7X3Mw-9Lb8Ong"= {
+	name="Rety Del Rey",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="retydelrey",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCinCTYnUD1iZS5neaf47Bew"= {
+	name="Real Eyezs",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=3851,		2018=4289,		2019=4860},
+	viewscount={2015=0,	2016=0,	2017=1072632,	2018=1273089,	2019=192654}
+},
+"UCDMT3SnK9nJ70u_x4bW-E_A" = {
+	name="Ol' Nero",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=116,	2018=192,	2019=274},
+	viewscount={2015=0,	2016=0,	2017=29922,	2018=2384,	2019=12331}
+},
+"UCcE0nmJPMDL4_59OKKArqPA" = {
+	name="Dukat",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-20-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=297},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=23068}
+},
+"UCFploxCyTY6C_lTnPXcEy4Q"= {
+	name="Boyband CHIC",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://boyband.ch",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCzqKocYHOtPr8WC1P8yTCAA" = {
+	name="Raul Eira",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://open.spotify.com/artist/6fI6KGZpPnzbapfLNFQtlc",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=1982,	2018=1951,	2019=1930},
+	viewscount={2015=0,	2016=0,	2017=23058,	2018=14574,	2019=15379}
 }
-
-
-
-
 
 
 
@@ -6565,6 +6933,7 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
+
 */
 
 /*
@@ -6576,14 +6945,14 @@ staticData = {
 catArr = [
 	["0",	"Alle Kategorien",					""],
 	["7",	"Allerlei",							"50+"],
-	["6",	"Entertainment / Comedy", 			"130+"],
+	["6",	"Entertainment / Comedy", 			"140+"],
 	["13",	"Firmen",							"20+"],
 	["3",	"Fotografie / Film / Technik",		"20+"],
 	["14",	"Frauen / YouTuberinnen",			"30+"],
-	["4",	"Gaming",							"50+"],
+	["4",	"Gaming",							"60+"],
 	["18",	"Lernen / Know-How",				"40+"],
 	["2",	"Lifestyle / DIY / Kochen",			"10+"],
-	["8",	"Musik",							"200+"],
+	["8",	"Musik",							"230+"],
 	["10",	"Politik",							"10+"],
 	["9",	"Presse / Radio / TV / Kino",		"30+"],
 	["1",	"Reisen",							"20+"],
@@ -6605,6 +6974,7 @@ catArr = [
 	["27",	"Aus Kanton SO",					""],
 	["23",	"Aus Kanton SZ",					""],
 	["32",	"Aus Kanton UR",					""],
+	["34",	"Aus Kanton VS",					""],
 	["31",	"Aus Kanton ZG",					""],
 	["20",	"Aus Kanton ZH",					""]
 ];

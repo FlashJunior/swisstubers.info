@@ -877,7 +877,8 @@ staticData = {
 	ytlink="",
 	thid="",
 	weblink="",
-	catids="-6-15-28-",
+	podlink="https://open.spotify.com/show/2rEu378iKCcxckCWCFssgD?si=09fbzeh8THOhgxhrErPy1Q",
+	catids="-6-12-15-28-",
 	instaid="leichtaufgewaermt",
 	subcount={	2015=139,	2016=511,	2017=962,	2018=1308,	2019=1370},
 	viewscount={2015=2502,	2016=30332,	2017=75997,	2018=97245,	2019=108055}
@@ -6908,13 +6909,53 @@ staticData = {
 },
 "UCzqKocYHOtPr8WC1P8yTCAA" = {
 	name="Raul Eira",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/rauleiramusic",
 	thid="",
 	weblink="https://open.spotify.com/artist/6fI6KGZpPnzbapfLNFQtlc",
 	catids="-8-",
 	instaid="",
 	subcount={	2015=0,	2016=0,	2017=1982,	2018=1951,	2019=1930},
 	viewscount={2015=0,	2016=0,	2017=23058,	2018=14574,	2019=15379}
+},
+"UCFdyjSWtCsyT_boJtr6OMUg"= {
+	name="cryptoFABU",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://twitter.com/urgamerYT",
+	catids="-7-18-",
+	instaid="urgamer",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCJF0pAawcNhH0j2jeGKi6qQ" = {
+	name="NAJAnja",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-",
+	instaid="najanja_",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCi7lrhtCbMTv_kD0NxZNO1Q" = {
+	name="ZH Sandro",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-",
+	instaid="sandruuu.zh",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UC9NGV_2qKkNwXLxO76RV-rQ" = {
+	name="Whosayla",			realname="Ayla",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-2-6-14-",
+	instaid="whosayla_",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
 
 

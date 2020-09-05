@@ -6956,8 +6956,117 @@ staticData = {
 	instaid="whosayla_",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCOSOsUgb4JNoLyGTv7R3nUQ" = {
+	name="Said",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=51},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=1141}
+},
+"UC8ALges_b4zvuhYVpoHvygA" = {
+	name="Adrian Stern",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="adriansternmusic",
+	subcount={	2015=0,	2016=0,	2017=275,		2018=286,	2019=373},
+	viewscount={2015=0,	2016=0,	2017=128034,	2018=140281,2019=160510}
+},
+"UCvAFc-fGk40JB-B0yMSvDsQ" = {
+	name="Carnoz Music",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="carn0z",
+	subcount={	2015=0,	2016=0,	2017=95,	2018=139,	2019=245},
+	viewscount={2015=0,	2016=0,	2017=59363,	2018=70409,	2019=44160}
+},
+"UCC2wnPC-PqfQKTMLxz0o_aw" = {
+	name="Milli54",			realname="",
+	ytlink="https://www.youtube.com/milli54",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=6752,		2018=7703,		2019=8190},
+	viewscount={2015=0,	2016=0,	2017=4358728,	2018=4714609,	2019=4986710}
+},
+"UCxqPGnbRq2TCnXxT4ZuhCLw" = {
+	name="Nico Luethi",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="luethi.music",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCLcbN5TRR017Y3zfP-8b1wA" = {
+	name="Forever Yung",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="yungjamps",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=183},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=12001}
+},
+"UCIJa9PMYNW3i-Jz8BXV9adQ" = {
+	name="R&T Multimedia GmbH official",			realname="",
+	ytlink="",
+	thid="",
+	weblink="http://rtmultimedia.ch",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCcZ64KSDN_03ubHB7qD7ISg" = {
+	name="Churchhill",			realname="",
+	ytlink="",
+	thid="",
+	weblink="http://www.churchhill.ch",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCoRFAp3w-1UdBv9Su0jLBeg" = {
+	name="Apropos Undicht",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCgUaI1NBgLxZ6R0a9R29FUA" = {
+	name="Wasem - KDG",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="wasem.bassem",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=66},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=3784}
+},
+"UC0maGP0NBnV3TH-KWLfZPLA" = {
+	name="Misandope",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
-
 
 
 
@@ -6993,7 +7102,7 @@ catArr = [
 	["4",	"Gaming",							"60+"],
 	["18",	"Lernen / Know-How",				"40+"],
 	["2",	"Lifestyle / DIY / Kochen",			"10+"],
-	["8",	"Musik",							"230+"],
+	["8",	"Musik",							"240+"],
 	["10",	"Politik",							"10+"],
 	["9",	"Presse / Radio / TV / Kino",		"30+"],
 	["1",	"Reisen",							"20+"],

@@ -7029,7 +7029,7 @@ staticData = {
 },
 "UCcZ64KSDN_03ubHB7qD7ISg" = {
 	name="Churchhill",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/churchhill",
 	thid="",
 	weblink="http://www.churchhill.ch",
 	catids="-8-",
@@ -7064,6 +7064,47 @@ staticData = {
 	weblink="",
 	catids="-8-",
 	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UC0o_VNVChHiHsAuttYLyRug" = {
+	name="Çay & Ziggis",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://cayundziggis.com",
+	podlink="https://open.spotify.com/show/08RVzgBonecqyzcTacnWLY?si=hLhGhPzxQ1GHnKoVhxeLTw",
+	catids="-8-12-",
+	instaid="cayundziggis",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCnj4x0rS44EnWi2jUyEsyMQ" = {
+	name="Noa Goldstein",			realname="",
+	ytlink="",
+	thid="",
+	weblink="https://www.noagoldstein.com",
+	catids="-3-18-",
+	instaid="noa.goldstein_photography",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCTWpgoAnUFMP05MkG8yJpOQ" = {
+	name="Anti Omnia",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="antiomnia8",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=497},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=123707}
+},
+"UCX892bYIvEh69obJk_PSicQ" = {
+	name="Tüli Unzo",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="tueli_unzo",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }

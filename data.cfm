@@ -7107,6 +7107,16 @@ staticData = {
 	instaid="tueli_unzo",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCFFb6xejUnA4hIG1CXHOSFg" = {
+	name="EliteBecker",			realname="Nico Becker",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-21-",
+	instaid="nicobecker__",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
 
 
@@ -7136,7 +7146,7 @@ staticData = {
 catArr = [
 	["0",	"Alle Kategorien",					""],
 	["7",	"Allerlei",							"50+"],
-	["6",	"Entertainment / Comedy", 			"140+"],
+	["6",	"Entertainment / Comedy", 			"150+"],
 	["13",	"Firmen",							"20+"],
 	["3",	"Fotografie / Film / Technik",		"20+"],
 	["14",	"Frauen / YouTuberinnen",			"30+"],
@@ -7146,7 +7156,7 @@ catArr = [
 	["8",	"Musik",							"240+"],
 	["10",	"Politik",							"10+"],
 	["9",	"Presse / Radio / TV / Kino",		"30+"],
-	["1",	"Reisen",							"20+"],
+	["1",	"Reisen",							"30+"],
 	["5",	"Sport",							"20+"],
 	["17",	"Tiere",							"&lt;10"],
 	["12",	"Mit Podcast",						""],

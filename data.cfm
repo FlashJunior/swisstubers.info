@@ -4486,7 +4486,7 @@ staticData = {
 },
 "UCfleEb6O_oBTpBuYO7JBp9A"	= {
 	name="Spiegelbild",			realname="Monika Wagner, Pascal Kunz, Olivier Kägi, Sam Steiner",
-	ytlink="",
+	ytlink="https://www.youtube.com/spiegelbild",
 	thid="",
 	weblink="https://spiegelbildband.ch",
 	catids="-8-20-",
@@ -7117,12 +7117,43 @@ staticData = {
 	instaid="nicobecker__",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCOr7NrdEpoYpHoIzZPpiFsQ" = {
+	name="Yevad Kis",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-",
+	instaid="yevadkis",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=23},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=687}
+},
+"UCPcrNwaLZwrmx8UHJH2fNtA" = {
+	name="Randnotiz",			realname="",
+	ytlink="",
+	thid="",
+	weblink="http://randnotiz.biz",
+	catids="-8-",
+	instaid="randnotiz_official",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=86},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=10315}
+},
+"UCcLncBsuXIatROQ9tVOn-dg" = {
+	name="Viertelmusik Records",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-8-20-",
+	instaid="viertelmusik",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 }
 
 
 
 };
 /*
+
 ,
 "xxxx" = {
 	name="xxx",			realname="",
@@ -7153,7 +7184,7 @@ catArr = [
 	["4",	"Gaming",							"60+"],
 	["18",	"Lernen / Know-How",				"40+"],
 	["2",	"Lifestyle / DIY / Kochen",			"10+"],
-	["8",	"Musik",							"240+"],
+	["8",	"Musik",							"250+"],
 	["10",	"Politik",							"10+"],
 	["9",	"Presse / Radio / TV / Kino",		"30+"],
 	["1",	"Reisen",							"30+"],

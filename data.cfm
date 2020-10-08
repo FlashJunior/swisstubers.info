@@ -734,6 +734,36 @@
 		subcount={	2015=0,	2016=0,	2017=1979,	2018=3042,		2019=2990},
 		viewscount={2015=0,	2016=0,	2017=145739,2018=277107,	2019=323716}
 	}
+	"UCJ-s2Zby4rT6x0BG1Xg6KFQ" = {
+		name="Reallucaxx",			realname="Luca",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="reallucaxx",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=1190},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=34861}
+	},
+	"UCtCYRzzQFvBWVrpyO62HkOw"	= {
+		name="Schwiizer Schnupfer",			realname="Pascal Wittwer",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-20-",
+		instaid="schwiizer_schnupfer",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=60},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=1473}
+	},
+	"UCTnzW57knzpbh99JwkB7LhA" = {
+		name="Real Engines",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-5-6-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+	},
 */
 
 staticData = {
@@ -3611,16 +3641,6 @@ staticData = {
 	subcount={	2015=0,	2016=43,	2017=67,	2018=76,	2019=86},
 	viewscount={2015=0,	2016=8744,	2017=11968,	2018=13974,	2019=17689}
 },
-"UCtCYRzzQFvBWVrpyO62HkOw"	= {
-	name="Schwiizer Schnupfer",			realname="Pascal Wittwer",
-	ytlink="",
-	thid="",
-	weblink="",
-	catids="-6-20-",
-	instaid="schwiizer_schnupfer",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=60},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=1473}
-},
 "UC6-wqyfq7zb-F22q__gB4Ag"	= {
 	name="Diego Brügger",			realname="",
 	ytlink="",
@@ -6426,7 +6446,7 @@ staticData = {
 },
 "UC0T0ozWur7Td2NfEPlQAuJA" = {
 	name="Nikin",			realname="",
-	ytlink="",
+	ytlink="https://www.youtube.com/nikinclothing",
 	thid="",
 	weblink="https://nikin.ch",
 	catids="-13-",
@@ -6766,26 +6786,6 @@ staticData = {
 	instaid="chaes_tv",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
-},
-"UCTnzW57knzpbh99JwkB7LhA" = {
-	name="Real Engines",			realname="",
-	ytlink="",
-	thid="",
-	weblink="",
-	catids="-5-6-",
-	instaid="",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
-},
-"UCJ-s2Zby4rT6x0BG1Xg6KFQ" = {
-	name="Reallucaxx",			realname="Luca",
-	ytlink="",
-	thid="",
-	weblink="",
-	catids="-6-",
-	instaid="reallucaxx",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=1190},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=34861}
 },
 "UC_mNor8OoBw1GQ9fg1Vxk9Q"= {
 	name="Carmen, Salome & Rahel",			realname="",
@@ -7147,6 +7147,36 @@ staticData = {
 	instaid="viertelmusik",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCoztCfVRrPWxEGru79t7WvA" = {
+	name="Driving Distilled",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-7-20-",
+	instaid="drivingdistilled",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCq_tXJgpCnGYSK_1WaOwy8A" = {
+	name="Gaggalaaris",			realname="",
+	ytlink="",
+	thid="",
+	weblink="",
+	catids="-6-",
+	instaid="",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+},
+"UCGXeukpkmatW212ghvDigCQ" = {
+	name="Dario",			realname="",
+	ytlink="https://www.youtube.com/dariography",
+	thid="dariographyy",
+	weblink="",
+	catids="-5-6-11-21-",
+	instaid="dariographyy",
+	subcount={	2015=0,	2016=0,	2017=0,	2018=158,	2019=178},
+	viewscount={2015=0,	2016=0,	2017=0,	2018=4545,	2019=6836}
 }
 
 

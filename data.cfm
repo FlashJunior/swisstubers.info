@@ -764,6 +764,88 @@
 		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 	},
+	"UCI7ITym0pSJjLU2lREe-3rA"	= {
+		name="Moe Ritch",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="m0ritsch.upload",
+		subcount={	2015=0,	2016=0,2017=0,	2018=0,	2019=69},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=618}
+	},
+	"UCePUe71YXj8RDQLhKJvwJYA"	= {
+		name="Red i mean Green",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=21},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=934}
+	},
+	"UCuvAr3upxqcI0V2cOlgHOHg"	= {
+		name="In aller Munde",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-2-14-",
+		instaid="",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=21},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=289}
+	},
+	"UCd1K2hsfpDPo8A3pD09bQMg"	= {
+		name="Michelle Rüegg",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-7-",
+		instaid="michelle_rueegg_official",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+	},
+	"UCvWxgEny-sJ5h5aOwlelmJg"	= {
+		name="Tschirillo",			realname="",
+		ytlink="https://www.youtube.com/tschirillo",
+		thid="",
+		weblink="",
+		catids="-8-",
+		instaid="tschirillo.zh",
+		subcount={	2015=0,	2016=0,	2017=136,	2018=209,	2019=237},
+		viewscount={2015=0,	2016=0,	2017=12500,	2018=22763,	2019=28249}
+	},
+	"UCLY-_k4u8045ueKL0vMjEKg"	= {
+		name="Fun Girl",			realname="",
+		ytlink="",
+		thid="",
+		weblink="",
+		catids="-6-14-",
+		instaid="learda.lu",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+	},
+	"UCFStZdL2iNBJ_G4S6S9LusA"	= {
+		name="Unverschämt Podcast",			realname="",
+		ytlink="",
+		thid="",
+		weblink="https://linktr.ee/unverschaemt",
+		podlink="https://open.spotify.com/show/4j5bIPhZBPbtJ376f15WtC?si=nmS5m6-7ToqKUQiH3Ag8hA",
+		catids="-6-12-",
+		instaid="unverschaemtpodcast",
+		subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
+		viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
+	},
+	"UC3npjO4iH6yKZHBqlT1-53w"	= {
+		name="SirVlog",			realname="David Fornerod",
+		ytlink="https://www.youtube.com/sirvlog",
+		thid="",
+		weblink="",
+		podlink="https://open.spotify.com/show/4WgrTXb8yg4AyIqIDUN0tP",
+		catids="-6-12-24-",
+		instaid="davidfornerod",
+		subcount={	2015=48,	2016=145,	2017=209,	2018=244,	2019=366},
+		viewscount={2015=225,	2016=5657,	2017=15301,	2018=24511,	2019=7507}
+	},
 */
 
 staticData = {
@@ -2477,16 +2559,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,2017=0,	2018=0,	2019=19},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=618}
 },
-"UCI7ITym0pSJjLU2lREe-3rA"	= {
-	name="Moe Ritch",			realname="",
-	ytlink="",
-	thid="",
-	weblink="",
-	catids="-6-",
-	instaid="m0ritsch.upload",
-	subcount={	2015=0,	2016=0,2017=0,	2018=0,	2019=69},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=618}
-},
 "UCr8W1gQ2N193AalW_B4xgLQ"	= {
 	name="Kochersee",			realname="",
 	ytlink="",
@@ -3471,16 +3543,6 @@ staticData = {
 	subcount={	2015=0,	2016=366,		2017=392,		2018=549,		2019=751},
 	viewscount={2015=0,	2016=926530,	2017=1042878,	2018=1228511,	2019=1474708}
 },
-"UCuvAr3upxqcI0V2cOlgHOHg"	= {
-	name="In aller Munde",			realname="",
-	ytlink="",
-	thid="",
-	weblink="",
-	catids="-2-14-",
-	instaid="",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=21},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=289}
-},
 "UCO8Spz1GVJRzcJ3zBcFl5SQ"	= {
 	name="SwissIceHockey",			realname="Swiss Ice Hockey Federation SIHF",
 	ytlink="https://www.youtube.com/swissicehockeyfederation",
@@ -3661,16 +3723,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=113},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=8322}
 },
-"UCvWxgEny-sJ5h5aOwlelmJg"	= {
-	name="Tschirillo",			realname="",
-	ytlink="https://www.youtube.com/tschirillo",
-	thid="",
-	weblink="",
-	catids="-8-",
-	instaid="tschirillo.zh",
-	subcount={	2015=0,	2016=0,	2017=136,	2018=209,	2019=237},
-	viewscount={2015=0,	2016=0,	2017=12500,	2018=22763,	2019=28249}
-},
 "UChw-yaM11BebkoHY3InbpAQ"	= {
 	name="gango luege",			realname="",
 	ytlink="https://www.youtube.com/gangoluege",
@@ -3772,16 +3824,6 @@ staticData = {
 	instaid="chuchichaest.li",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=55},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
-},
-"UCePUe71YXj8RDQLhKJvwJYA"	= {
-	name="Red i mean Green",			realname="",
-	ytlink="",
-	thid="",
-	weblink="",
-	catids="-6-",
-	instaid="",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=21},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=934}
 },
 "UC_zxivooFdvF4uuBosUnJxQ"	= {
 	name="SBB",			realname="",
@@ -4163,17 +4205,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 },
-"UCFStZdL2iNBJ_G4S6S9LusA"	= {
-	name="Unverschämt Podcast",			realname="",
-	ytlink="",
-	thid="",
-	weblink="https://linktr.ee/unverschaemt",
-	podlink="https://open.spotify.com/show/4j5bIPhZBPbtJ376f15WtC?si=nmS5m6-7ToqKUQiH3Ag8hA",
-	catids="-6-12-",
-	instaid="unverschaemtpodcast",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
-},
 "UChJa-I_3JCZ0iWrkJStCMbA"	= {
 	name="Dominik Widmer",			realname="",
 	ytlink="https://www.youtube.com/dominikwidmer",
@@ -4221,16 +4252,6 @@ staticData = {
 	weblink="",
 	catids="-7-",
 	instaid="",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
-},
-"UCd1K2hsfpDPo8A3pD09bQMg"	= {
-	name="Michelle Rüegg",			realname="",
-	ytlink="",
-	thid="",
-	weblink="",
-	catids="-7-",
-	instaid="michelle_rueegg_official",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 },
@@ -4544,17 +4565,6 @@ staticData = {
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=160},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=3534}
 },
-"UC3npjO4iH6yKZHBqlT1-53w"	= {
-	name="SirVlog",			realname="David Fornerod",
-	ytlink="https://www.youtube.com/sirvlog",
-	thid="",
-	weblink="",
-	podlink="https://open.spotify.com/show/4WgrTXb8yg4AyIqIDUN0tP",
-	catids="-6-12-24-",
-	instaid="davidfornerod",
-	subcount={	2015=48,	2016=145,	2017=209,	2018=244,	2019=366},
-	viewscount={2015=225,	2016=5657,	2017=15301,	2018=24511,	2019=7507}
-},
 "UCc9k0H4aWOCojn5DsmHj5IA"	= {
 	name="Noël Emanuel",			realname="Noel",
 	ytlink="",
@@ -4742,16 +4752,6 @@ staticData = {
 	weblink="",
 	catids="-6-",
 	instaid="moesi_official",
-	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
-	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
-},
-"UCLY-_k4u8045ueKL0vMjEKg"	= {
-	name="Fun Girl",			realname="",
-	ytlink="",
-	thid="",
-	weblink="",
-	catids="-6-14-",
-	instaid="learda.lu",
 	subcount={	2015=0,	2016=0,	2017=0,	2018=0,	2019=0},
 	viewscount={2015=0,	2016=0,	2017=0,	2018=0,	2019=0}
 },
@@ -7207,7 +7207,7 @@ staticData = {
 catArr = [
 	["0",	"Alle Kategorien",					""],
 	["7",	"Allerlei",							"50+"],
-	["6",	"Entertainment / Comedy", 			"150+"],
+	["6",	"Entertainment / Comedy", 			"140+"],
 	["13",	"Firmen",							"20+"],
 	["3",	"Fotografie / Film / Technik",		"20+"],
 	["14",	"Frauen / YouTuberinnen",			"30+"],

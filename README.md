@@ -7,3 +7,7 @@ Hier auf GitHub sind folgende Dateien öffentlich:
 channels.sql
 -------
 * SQL DUMP der DB
+
+data.json
+-------
+* Daten Export als json Datei

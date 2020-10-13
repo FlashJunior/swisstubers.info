@@ -4,11 +4,6 @@ Auf dieser Website gibt es eine Liste mit YouTube Kanäle die schweizerdeutschen
 
 Hier auf GitHub sind folgende Dateien öffentlich:
 
-data.cfm
+channels.sql
 -------
-* alle Kanal IDs, Instagram Links und weitere statische Infos
-* Kategorien
-
-data_cache.json
--------
-* generiertes json
+* SQL DUMP der DB

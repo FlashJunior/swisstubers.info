@@ -6,7 +6,7 @@ catArr = [
 	["7",	"Allerlei",							"50+"],
 	["6",	"Entertainment / Comedy", 			"140+"],
 	["13",	"Firmen",							"20+"],
-	["3",	"Fotografie / Film / Technik",		"20+"],
+	["3",	"Fotografie / Film / Technik",		"30+"],
 	["14",	"Frauen / YouTuberinnen",			"30+"],
 	["4",	"Gaming",							"60+"],
 	["18",	"Lernen / Know-How",				"40+"],

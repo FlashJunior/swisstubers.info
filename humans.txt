@@ -6,7 +6,6 @@
 
 
 /* SITE */
-	Last update: 2019
 	Standards: HTML5, CSS3
 	Components: jQuery, Tablesort JS, YouTupe API
-	Software: Coda, Sublime
+	Software: Navicat, Sketch, Sublime, GitHub Desktop

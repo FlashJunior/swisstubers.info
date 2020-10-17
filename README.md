@@ -4,7 +4,7 @@ Auf dieser Website gibt es eine Liste mit YouTube Kanäle die schweizerdeutschen
 
 Hier auf GitHub sind folgende Dateien öffentlich:
 
-channels.sql
+data.sql
 -------
 * SQL DUMP der DB
 

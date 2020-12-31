@@ -9,6 +9,7 @@ catArr = [
 	["3",	"Fotografie / Film / Technik"],
 	["14",	"Frauen / YouTuberinnen"],
 	["4",	"Gaming"],
+	["35",	"Kinder"],
 	["18",	"Lernen / Know-How"],
 	["2",	"Lifestyle / DIY / Kochen"],
 	["8",	"Musik"],
